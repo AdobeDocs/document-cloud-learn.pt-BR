@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '276'
 ht-degree: 14%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 14%
    + [Trabalhar com seus arquivos do SharePoint](integrate/acrobatandsp.md)
    + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
    + [Converter mensagens de email e anexos em PDF no Outlook](integrate/outlook.md)
+   + [Criar conteúdo em PDF ao navegar com o Microsoft Edge](integrate/edge.md)
 + Setor {#by-industry}
    + [Visão geral](industry/industry-overview.md)
    + Governo {#gov}

@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,13 @@ Saiba como todos em sua equipe podem trabalhar perfeitamente com arquivos PDF, d
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="edge.md">
+      <img alt="Criar conteúdo em PDF ao navegar com o [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+    </a>
     <div>
+    <a href="edge.md"><strong>Criar conteúdo em PDF ao navegar com o [!DNL Microsoft Edge]</strong></a>
+    </div>
+    <em>Saiba como arquivar páginas da Web em PDF imediatamente com a extensão Adobe Acrobat para [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
