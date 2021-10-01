@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="De onde vêm os PDFs?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Trabalhe em qualquer lugar com a Web da Acrobat" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDFs?</strong></a>
+    <a href="acrobatweb.md"><strong>Trabalhe em qualquer lugar com a Web da Acrobat</strong></a>
     </div>
-    <em>Entenda de onde vêm os PDFs e seus usos</em>
+    <em>Saiba como lidar com solicitações de documentos de negócios em qualquer lugar usando as ferramentas da Web da Acrobat no seu navegador</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <a href="fill-and-sign.md"><strong>Preencher e assinar um formulário PDF</strong></a>
     </div>
     <em>Preencha e assine rapidamente um formulário PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="De onde vêm os PDFs?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDFs?</strong></a>
+    </div>
+    <em>Entenda de onde vêm os PDFs e seus usos</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
