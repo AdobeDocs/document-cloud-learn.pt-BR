@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Saiba como todos em sua equipe podem trabalhar perfeitamente com arquivos PDF, d
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="Criar PDFs no [!DNL Office] para a Web" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>Criar PDFs no [!DNL Office] para a Web</strong></a>
+    </div>
+    <em>Saiba como criar arquivos PDF sem sair do [!DNL Microsoft Office] para aplicativos da Web</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Trabalhar com seus arquivos do [!DNL SharePoint]" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Saiba como todos em sua equipe podem trabalhar perfeitamente com arquivos PDF, d
     <em>Simplifique os fluxos de trabalho de documentos com o [!DNL SharePoint] e o Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="Colaboração de PDF em [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Saiba como todos em sua equipe podem trabalhar perfeitamente com arquivos PDF, d
     <em>Colabore e trabalhe com colegas exibindo, anotando e revisando PDFs sem sair de [Microsoft Teams DNL]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Converter mensagens de email e anexos em PDF no Outlook" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Saiba como todos em sua equipe podem trabalhar perfeitamente com arquivos PDF, d
     <a href="edge.md"><strong>Criar conteúdo em PDF ao navegar com o [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Saiba como arquivar páginas da Web em PDF imediatamente com a extensão Adobe Acrobat para [!DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
