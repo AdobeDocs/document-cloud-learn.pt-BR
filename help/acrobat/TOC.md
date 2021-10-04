@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 11%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 11%
 + Acrobat de 60 segundos {#60-second}
    + [Visão geral](60-second/60-second-overview.md)
    + [Combinar arquivos em um PDF](60-second/combine-to-one-pdf.md)
-   + [Editar PDF com o Acrobat Web](60-second/edit.md)
+   + [Editar PDF com a Acrobat na Web](60-second/edit.md)
    + [Pesquisar vários arquivos PDF de uma só vez](60-second/search.md)
    + [Criar um PDF de fotos em um instante](60-second/photo.md)
    + [Converta um arquivo PPT em PDF no telefone](60-second/phone.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
    + [Visão geral](integrate/integrate-overview.md)
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Criar PDFs em [!DNL Office] para a Web](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Colaboração em PDF em [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Trabalhar com seus arquivos do SharePoint](integrate/acrobatandsp.md)
    + [Converter mensagens de email e anexos em PDF no Outlook](integrate/outlook.md)
    + [Criar conteúdo em PDF ao navegar com o Microsoft Edge](integrate/edge.md)
