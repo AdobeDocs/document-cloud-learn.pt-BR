@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 11%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 11%
    + [Visão geral](getting-started/getting-started-overview.md)
    + [Conheça a interface do Acrobat DC](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Trabalhe em qualquer lugar com a Web da Acrobat](getting-started/acrobatweb.md)
+   + [Colaborar em tempo real](getting-started/collaborate.md)
    + [Combinar arquivos em PDF](getting-started/combine-to-pdf.md)
    + [Criar arquivos PDF](getting-started/create-pdf.md)
    + [Comentar em arquivos PDF no Acrobat DC](getting-started/comment-on-pdf-files.md)
