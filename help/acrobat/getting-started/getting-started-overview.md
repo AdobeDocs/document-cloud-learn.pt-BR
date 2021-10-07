@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '382'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Imagem de Introdução do Acrobat](../assets/Hero-GettingStarted.png)
 
-Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a passo breves (de 1 a 2 min). Da criação de um documento à proteção de arquivos PDF, esse conteúdo foi desenvolvido para facilitar os fluxos de trabalho de PDF.
+Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a passo breves (de 1 a 2 min). Da criação de um documento à proteção de seus arquivos de PDF, esse conteúdo foi desenvolvido para facilitar os fluxos de trabalho de PDF.
 
 ## Tutoriais da Acrobat
 
@@ -25,7 +25,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Conheça a interface do Acrobat DC" src="../assets/Interface.jpg" />
+      <img alt="Conheça a interface Acrobat DC" src="../assets/Interface.jpg" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conheça a interface do Acrobat DC</strong></a>
@@ -44,6 +44,18 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Trabalhar com o Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabalhar com o Microsoft 365</strong></a>
+    </div>
+    <em>Aumente a produtividade e os fluxos de trabalho de documentos comerciais com Acrobat e [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="Colaborar em tempo real" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,14 +65,12 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <em>Avance seus projetos coletando comentários, colaborando em respostas e acompanhando o progresso em seus documentos em tempo real, em qualquer lugar</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files para PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Combinar arquivos em PDFs</strong></a>
+     <a href="combine-to-pdf.md"><strong>Combinar arquivos em PDF</strong></a>
     </div>
     <em>Combinar vários tipos diferentes de arquivos em um único PDF</em>
     <br>
@@ -72,9 +82,11 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <div>
     <a href="create-pdf.md"><strong>Criar arquivos PDF</strong></a>
     </div>
-    <em>Criar PDFs de todos os tipos de documentos</em>
+    <em>Criar PDF de todos os diferentes tipos de documentos</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Comentar em arquivos PDF no Acrobat DC" src="../assets/Comment.jpg" />
@@ -82,11 +94,9 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <div>
     <a href="comment-on-pdf-files.md"><strong>Comentar em arquivos PDF no Acrobat DC</strong></a>
     </div>
-    <em>Adicionar comentários a um arquivo PDF e compartilhá-lo com outras pessoas</em>
+    <em>Adicione comentários a um arquivo de PDF e compartilhe-o com outras pessoas</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="Editar um PDF no Acrobat DC" src="../assets/Edit.jpg" />
@@ -94,19 +104,21 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <div>
     <a href="edit-pdf.md"><strong>Editar um PDF no Acrobat DC</strong></a>
     </div>
-    <em>Editar texto e imagens em arquivos PDF</em>
+    <em>Editar texto e imagens em arquivos de PDF</em>
     <br>
   </td>
    <td>
     <a href="export-pdf.md">
-      <img alt="Exportar um PDF para formatos editáveis" src="../assets/Export.jpg" />
+      <img alt="Exportar uma PDF para formatos editáveis" src="../assets/Export.jpg" />
     </a>
     <div>
-    <a href="export-pdf.md"><strong>Exportar um PDF para formatos editáveis</strong></a>
+    <a href="export-pdf.md"><strong>Exportar uma PDF para formatos editáveis</strong></a>
     </div>
-    <em>Saiba como exportar arquivos PDF para formatos editáveis</em>
+    <em>Saiba como exportar seus arquivos de PDF para formatos editáveis</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Criar formulários preenchíveis" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <em>Transformar um documento criado em outro aplicativo em um formulário PDF preenchível</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Digitalizar e OCR" src="../assets/Scan.jpg" />
@@ -126,7 +136,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <div>
     <a href="scan-and-ocr.md"><strong>Digitalizar e OCR</strong></a>
     </div>
-    <em>Reduza arquivos grandes e otimize seus PDFs sem comprometer a qualidade para compartilhamento, publicação ou arquivamento</em>
+    <em>Reduza arquivos grandes e otimize suas PDF sem comprometer a qualidade para compartilhamento, publicação ou arquivamento</em>
     <br>
   </td>
   <td>
@@ -139,41 +149,36 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <em>Adicionar, substituir, extrair, girar, excluir e mover páginas no PDF</em>
     <br>
   </td>
-  <td>
-    <a href="password-protect.md">
-      <img alt="Protect um arquivo PDF com uma senha" src="../assets/Protect.jpg" />
-    </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect um arquivo PDF com uma senha</strong></a>
-    </div>
-    <em>Adicione uma senha ao PDF para proteger outras pessoas de abrir ou editar o arquivo</em>
-    <br>
-  </td>
 </tr>
 <tr>
   <td>
-    <a href="fill-and-sign.md">
-      <img alt="Preencher e assinar um formulário PDF" src="../assets/FillSign.jpg" />
+    <a href="password-protect.md">
+      <img alt="Protect um arquivo PDF com senha" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Preencher e assinar um formulário PDF</strong></a>
+    <a href="password-protect.md"><strong>Protect um arquivo PDF com senha</strong></a>
     </div>
-    <em>Preencha e assine rapidamente um formulário PDF</em>
-    <br>
-  </td>
-   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="De onde vêm os PDFs?" src="../assets/WherePDFs.jpg" />
-    </a>
-    <div>
-    <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDFs?</strong></a>
-    </div>
-    <em>Entenda de onde vêm os PDFs e seus usos</em>
+    <em>Adicione uma senha ao seu PDF para proteger outras pessoas de abrir ou editar o arquivo</em>
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <a href="fill-and-sign.md">
+      <img alt="Preencher e assinar um formulário de PDF" src="../assets/FillSign.jpg" />
+    </a>
     <div>
+    <a href="fill-and-sign.md"><strong>Preencher e assinar um formulário de PDF</strong></a>
+    </div>
+    <em>Preencha e assine rapidamente um formulário de PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="De onde vêm os PDF?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDF?</strong></a>
+    </div>
+    <em>Entenda de onde vêm os PDF e seus usos</em>
     <br>
   </td>
 </tr>
