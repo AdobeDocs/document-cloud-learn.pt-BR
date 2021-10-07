@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-A Adobe Acrobat, uma solução Adobe Document Cloud, ajuda a manter os negócios em movimento, convertendo, editando, compartilhando e assinando PDFs. Aqui você encontrará uma grande variedade de experiências de aprendizado projetadas para colocar rapidamente os usuários iniciantes e avançados em dia no Adobe Acrobat.
+A Adobe Acrobat, uma solução Adobe Document Cloud, ajuda a manter os negócios em movimento, convertendo, editando, compartilhando e assinando PDF. Aqui você encontrará uma grande variedade de experiências de aprendizado projetadas para colocar rapidamente os usuários iniciantes e avançados em dia no Adobe Acrobat.
 
 ## Caminhos de aprendizado
 
@@ -30,7 +30,7 @@ A Adobe Acrobat, uma solução Adobe Document Cloud, ajuda a manter os negócios
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Introdução</strong></a>
     </div>
-    <em>Atualize-se sobre como criar, editar, converter, proteger e muito mais com arquivos PDF</em>
+    <em>Atualize-se sobre como criar, editar, converter, proteger e muito mais com arquivos de PDF</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ A Adobe Acrobat, uma solução Adobe Document Cloud, ajuda a manter os negócios
     <div>
     <a href="integrate/integrate-overview.md"><strong>Integrar</strong></a>
     </div>
-    <em>Adicione Acrobat aos sistemas, processos e aplicativos existentes</em>
+    <em>Adicione a Acrobat aos sistemas, processos e aplicativos empresariais existentes</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ A Adobe Acrobat, uma solução Adobe Document Cloud, ajuda a manter os negócios
     <div>
     <a href="mobile/mobile-overview.md"><strong>Dispositivos móveis</strong></a>
     </div>
-    <em>Criar, preencher e assinar PDFs no dispositivo móvel</em>
+    <em>Criar, preencher e assinar PDF em seu dispositivo móvel</em>
     <br>
   </td>  
   <td>
