@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 4%
+source-wordcount: '375'
+ht-degree: 6%
 
 ---
 
@@ -80,7 +80,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
       <img alt="Criar arquivos PDF" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Criar arquivos PDF</strong></a>
+    <a href="create-pdf.md"><strong>Criar um PDF</strong></a>
     </div>
     <em>Criar PDF de todos os diferentes tipos de documentos</em>
     <br>
@@ -92,7 +92,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
       <img alt="Comentar em arquivos PDF no Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Comentar em arquivos PDF no Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Comentar em um PDF</strong></a>
     </div>
     <em>Adicione comentários a um arquivo de PDF e compartilhe-o com outras pessoas</em>
     <br>
@@ -102,7 +102,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
       <img alt="Editar um PDF no Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Editar um PDF no Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Editar um PDF</strong></a>
     </div>
     <em>Editar texto e imagens em arquivos de PDF</em>
     <br>
@@ -166,7 +166,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
       <img alt="Preencher e assinar um formulário de PDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Preencher e assinar um formulário de PDF</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Preencha e assine rapidamente um formulário de PDF</em>
     <br>
