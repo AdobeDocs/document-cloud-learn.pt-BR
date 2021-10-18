@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 14%
    + [Trabalhe em qualquer lugar com a Web da Acrobat](getting-started/acrobatweb.md)
    + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Colaborar em tempo real](getting-started/collaborate.md)
-   + [Combinar arquivos em PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files para PDF](getting-started/combine-to-pdf.md)
    + [Criar um PDF](getting-started/create-pdf.md)
    + [Comentar em um PDF](getting-started/comment-on-pdf-files.md)
    + [Editar um PDF](getting-started/edit-pdf.md)
@@ -72,7 +72,7 @@ ht-degree: 14%
    + [Converter mensagens de email e anexos em PDF no Outlook](integrate/outlook.md)
    + [Criar conteúdo de PDF ao navegar com o Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
-+ Setor {#by-industry}
++ Indústria {#by-industry}
    + [Visão geral](industry/industry-overview.md)
    + Governo {#gov}
       + [Visão geral](industry/gov/gov-overview.md)
