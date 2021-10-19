@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 6%
 
 ---
@@ -25,10 +25,10 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Conheça a interface Acrobat DC" src="../assets/Interface.jpg" />
+      <img alt="Noções básicas sobre a área de trabalho" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conheça a interface do Acrobat DC</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas sobre a área de trabalho</strong></a>
     </div>
     <em>Veja como a interface do Adobe Acrobat DC facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis</em>
     <br>
@@ -50,7 +50,7 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabalhar com o Microsoft 365</strong></a>
     </div>
-    <em>Aumente a produtividade e os fluxos de trabalho de documentos comerciais com Acrobat e [!DNL Microsoft 365]</em>
+    <em>Aumente a produtividade e os fluxos de trabalho de documentos comerciais com a Acrobat e [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>

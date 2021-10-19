@@ -1,20 +1,20 @@
 ---
-title: Conheça a interface do Acrobat DC
-description: Saiba como o Acrobat DC facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis
+title: Noções básicas sobre a área de trabalho
+description: Saiba como a Acrobat DC facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis
 role: User
 product: adobe acrobat
 level: Beginner
-thumbnail: 23590.jpg
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
-# Conheça a interface do Acrobat DC
+# Noções básicas sobre a área de trabalho
 
-Veja como a interface do Adobe Acrobat DC facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis usando uma experiência consistente de exibição Início.
+Saiba como a interface Acrobat DC facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis com uma experiência consistente no espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
