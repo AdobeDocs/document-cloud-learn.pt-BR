@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Adobe Sign
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [Obter uma assinatura presencial](sign-beginner-tutorials/sign-in-person.md)
       + [O que é uma assinatura digital?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Assinatura com um carimbo](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Gerenciando {#getting-started-managing}
+   + Gerenciamento {#getting-started-managing}
       + [Gerenciamento e rastreamento de documentos](sign-beginner-tutorials/manage-and-track.md)
       + [Criação de um modelo de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Modificar um documento já enviado para assinatura](sign-beginner-tutorials/modify-in-flight.md)
@@ -45,7 +45,7 @@ ht-degree: 6%
       + [Coleta de assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configurar um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Marcação de texto da Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-   + Gerenciando {#advanced-tasks-managing}
+   + Gerenciamento {#advanced-tasks-managing}
       + [Gerenciamento de modelos de documento](sign-advanced-users/edit-a-template.md)
 + Administrar {#admin-set-up}
    + [Visão geral](admin/intro-admin-overview.md)
@@ -75,7 +75,7 @@ ht-degree: 6%
       + [Obtenha uma ID digital do Intesi Group (Advanced)](digitalid/intesi-advanced.md)
       + [Obtenha uma ID digital do Intesi Group (qualificado)](digitalid/intesi-qualified.md)
       + [Assinatura usando o Intesi Group](digitalid/intesi-sign.md)
-+ Integrar {#integrations}
++ Integrações {#integrations}
    + [Visão geral](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Preencher e assinar no Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
@@ -83,7 +83,7 @@ ht-degree: 6%
       + [Enviar para assinatura no SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Rastreamento no SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Enviar documentos para assinatura em [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Automação de documentos com Adobe Sign para Microsoft Power Platform](integrations/documentautomation.md)
+      + [Automação de documentos com o Adobe Sign para plataforma de energia Microsoft](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Criação de um modelo de documento](integrations/create-an-agreement-template.md)
       + [Configurar mapeamento de dados](integrations/set-up-data-mapping.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [Enviar lembretes usando o guia de configuração Adobe Sign para Salesforce e Marketo](integrations/marketo-salesforce-reminder.md)
       + [Enviar notificações usando o Adobe Sign para Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
       + [Enviar lembretes usando o Adobe Sign para Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
-+ Setor e departamento {#expand}
++ Indústrias e departamentos {#expand}
    + [Visão geral](sign-usecase/expand-inspire-overview.md)
    + Construtor de habilidades {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
