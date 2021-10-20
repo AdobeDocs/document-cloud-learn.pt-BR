@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [Visão geral](getting-started/getting-started-overview.md)
    + [Base do espaço de trabalho](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Trabalhe em qualquer lugar com a Web da Acrobat](getting-started/acrobatweb.md)
+   + [Produtividade em qualquer lugar](getting-started/productivity.md)
    + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Colaborar em tempo real](getting-started/collaborate.md)
    + [Combine Files para PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [Digitalizar e OCR](getting-started/scan-and-ocr.md)
    + [Organizar páginas](getting-started/organize.md)
    + [Protect um arquivo PDF com senha](getting-started/password-protect.md)
-   + [Preencher e assinar formulários PDF](getting-started/fill-and-sign.md)
+   + [PDF forms Fill &amp; Sign](getting-started/fill-and-sign.md)
    + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tarefas avançadas {#advanced-tasks}
    + [Visão geral](advanced-tasks/advanced-tasks-overview.md)
@@ -63,7 +64,7 @@ ht-degree: 10%
 + Construtores de habilidade {#skill-builders}
    + [Visão geral](skill-builder/skill-builder-overview.md)
    + [Webinars](skill-builder/skill-builder-webinars.md)
-+ Integrar {#integrations}
++ Integrações {#integrations}
    + [Visão geral](integrate/integrate-overview.md)
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Criar PDF em [!DNL Office] para a Web](integrate/createofficeweb.md)
@@ -72,7 +73,7 @@ ht-degree: 10%
    + [Converter mensagens de email e anexos em PDF no Outlook](integrate/outlook.md)
    + [Criar conteúdo de PDF ao navegar com o Microsoft Edge](integrate/edge.md)
    + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
-+ Indústria {#by-industry}
++ Indústrias e departamentos {#by-industry}
    + [Visão geral](industry/industry-overview.md)
    + Governo {#gov}
       + [Visão geral](industry/gov/gov-overview.md)
