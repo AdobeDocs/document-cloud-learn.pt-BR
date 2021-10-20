@@ -1,19 +1,19 @@
 ---
-title: Visão geral do setor
+title: Visão geral da indústria e do departamento
 description: Veja como você pode transformar experiências de clientes e funcionários explorando casos de uso do setor e ideias inspiradoras
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Visão geral do setor
+# Visão geral das indústrias e departamentos
 
 ![Acrobat Industry Image](../assets/Hero-Industry.png)
 
@@ -21,6 +21,6 @@ Saiba como transformar experiências de clientes e funcionários explorando caso
 
 ## Governo
 
-Explore nossos tutoriais do Acrobat DC especificamente projetados para os governos federal, estadual e local.
+Explore nossos tutoriais da Acrobat DC especificamente projetados para os governos federal, estadual e local.
 
 * [Visão geral dos Tutorials Acrobat para governo](gov/gov-overview.md)
