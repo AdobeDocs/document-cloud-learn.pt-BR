@@ -1,6 +1,6 @@
 ---
 title: Visão geral sobre dispositivos móveis
-description: Criar, preencher e assinar PDFs no dispositivo móvel
+description: Criar, preencher e assinar PDF em seu dispositivo móvel
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: d2660127d9cd854a46fa8429bd6d53c051f981c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 20%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,45 @@ ht-degree: 20%
 
 ![Imagem móvel Acrobat](../assets/Hero-Mobile.png)
 
-Crie, preencha e assine PDFs em seu dispositivo móvel.
+Crie, preencha e assine PDF em seu dispositivo móvel.
 
-Baixe [o aplicativo móvel do Adobe Acrobat Reader](https://acrobat.adobe.com/br/pt/mobile/acrobat-reader.html){target=&quot;_blank&quot;} o padrão global gratuito para exibir, anotar e assinar PDFs de forma confiável.
+## Tutoriais do aplicativo móvel Acrobat Reader
 
-[Guia](https://www.adobe.com/go/v_acrobatios_br) móvel Acrobat Reader para iOS{target=&quot;_blank&quot;} Guia
-[ móvel ](https://www.adobe.com/go/v_acrobatandroid_br)Acrobat Reader para Android{target=&quot;_blank&quot;}
+## Tutoriais da Acrobat
 
-Baixe o [aplicativo móvel Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html){target=&quot;_blank&quot;} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="../getting-started/productivity.md">
+      <img alt="Produtividade em qualquer lugar" src="../assets/Productivity_1280.png" />
+    </a>
+    <div>
+     <a href="../getting-started/productivity.md"><strong>Produtividade em qualquer lugar</strong></a>
+    </div>
+    <em>Faça mais diretamente do seu tablet ou celular com o aplicativo Acrobat Reader para dispositivos móveis</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
-[Guia](https://www.adobe.com/go/adobescanios_br) móvel Adobe Scan para iOS{target=&quot;_blank&quot;} Guia
-[ móvel ](https://www.adobe.com/go/adobescanandroid_br)Adobe Scan para Android{target=&quot;_blank&quot;}
+Download [Aplicativo móvel Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} o padrão global gratuito para exibir, anotar e assinar PDF com confiança.
 
-Baixe [aplicativo móvel Adobe Fill &amp; Sign](https://acrobat.adobe.com/br/pt/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando nada mais que o dedo ou uma caneta.
+[Guia móvel Acrobat Reader para iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
+[Guia móvel Acrobat Reader para Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+
+Download [Aplicativo móvel Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
+
+[Guia móvel Adobe Scan para iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
+[Guia móvel Adobe Scan para Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+
+Download [Aplicativo móvel Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando nada mais que o dedo ou uma caneta.

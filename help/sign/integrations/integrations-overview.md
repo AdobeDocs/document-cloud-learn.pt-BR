@@ -1,5 +1,5 @@
 ---
-title: Visão geral da integração
+title: Visão geral das integrações
 description: Saiba como adicionar Adobe Sign aos sistemas, processos e aplicativos existentes
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Visão geral da integração
+# Visão geral das integrações
 
 ![Integrar imagem do Sign](../assets/Hero-Integrate.png)
 
@@ -76,15 +76,15 @@ Você pode usar o Adobe Sign em outros aplicativos que sua organização já usa
     <div>
     <a href="adobe-sign-teams-mortgage.md"><strong>Enviar documentos para assinatura em [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Enviar documentos para assinatura diretamente em [!DNL Microsoft Teams]</em>
+    <em>Enviar documentos para assinatura diretamente [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Automação de documentos com Adobe Sign para Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Automação de documentos com o Adobe Sign para plataforma de energia Microsoft" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automação de documentos com Adobe Sign para Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Automação de documentos com o Adobe Sign para plataforma de energia Microsoft</strong></a>
     </div>
     <em>Saiba como ativar e usar os conectores Adobe Sign e Adobe PDF Tools para Microsoft Power Apps</em>
     <br>

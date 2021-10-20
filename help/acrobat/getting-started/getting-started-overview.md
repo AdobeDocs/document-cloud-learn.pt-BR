@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 4%
 
 ---
@@ -44,13 +44,13 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Trabalhar com o Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="Produtividade em qualquer lugar" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabalhar com o Microsoft 365</strong></a>
+     <a href="productivity.md"><strong>Produtividade em qualquer lugar</strong></a>
     </div>
-    <em>Aumente a produtividade e os fluxos de trabalho de documentos comerciais com a Acrobat e [!DNL Microsoft 365]</em>
+    <em>Faça mais diretamente do seu tablet ou celular com o aplicativo Acrobat Reader para dispositivos móveis</em>
     <br>
   </td>
 </tr>
