@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ A Acrobat de 60 segundos oferece tutoriais em tamanho pequeno para ajudá-lo a a
     <em>Saiba como converter um anexo de email do PowerPoint em PDF no telefone</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Assinar eletronicamente um documento em papel" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Assinar eletronicamente um documento em papel</strong></a>
+    </div>
+    <em>Aprenda a usar o Adobe Scan para assinar um formulário impresso</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="Carregar comentários de PDF no InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ A Acrobat de 60 segundos oferece tutoriais em tamanho pequeno para ajudá-lo a a
     </div>
     <em>Saiba como carregar comentários de PDF de volta ao InDesign após uma revisão compartilhada da Acrobat</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Editar uma foto no PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ A Acrobat de 60 segundos oferece tutoriais em tamanho pequeno para ajudá-lo a a
     </div>
     <em>Aprenda a fazer edições avançadas em um gráfico no seu PDF usando o Illustrator</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Organizar páginas em um instante" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ A Acrobat de 60 segundos oferece tutoriais em tamanho pequeno para ajudá-lo a a
     <a href="organize.md"><strong>Organizar páginas em um instante</strong></a>
     </div>
     <em>Aprenda a usar a ferramenta Organizar páginas para obter uma visão geral do pássaro sobre o PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>
