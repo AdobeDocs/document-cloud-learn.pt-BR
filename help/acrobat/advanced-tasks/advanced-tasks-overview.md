@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Imagem de Introdução do Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC. Saiba como criar uma ação para repetir tarefas comuns, remover informações confidenciais, reduzir e otimizar arquivos grandes, reunir rapidamente dados de formulário e criar arquivos PDF universalmente acessíveis.
+Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC. Saiba como criar uma ação para repetir tarefas comuns, remover informações confidenciais, reduzir e otimizar arquivos grandes, reunir rapidamente dados de formulário e criar arquivos de PDF universalmente acessíveis.
 
 ## Tutoriais da Acrobat
 
@@ -25,12 +25,12 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Detectar diferenças entre dois PDFs" src="../assets/Compare_1280.png" />
+      <img alt="Detectar diferenças entre dois PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Detectar diferenças entre dois PDFs</strong></a>
+    <a href="compare.md"><strong>Detectar diferenças entre dois PDF</strong></a>
     </div>
-    <em>Detecte com rapidez e precisão as diferenças entre dois arquivos PDF para melhorar os fluxos de trabalho de revisão de documentos</em>
+    <em>Detecte com rapidez e precisão as diferenças entre dois arquivos de PDF para melhorar os fluxos de trabalho de revisão de documentos</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Criar uma ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos</em>
+    <em>Economize tempo e pressionamentos de teclas usando uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
     <div>
     <a href="redact.md"><strong>Redact &amp; Sanitize</strong></a>
     </div>
-    <em>Remova permanentemente informações confidenciais ou privadas do PDF</em>
+    <em>Remova permanentemente as informações privadas ou confidenciais do seu PDF</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
     <div>
     <a href="reduce.md"><strong>Reduza o tamanho do arquivo e otimize</strong></a>
     </div>
-    <em>Reduza arquivos grandes e otimize seus PDFs sem comprometer a qualidade para compartilhamento, publicação ou arquivamento</em>
+    <em>Reduza arquivos grandes e otimize suas PDF sem comprometer a qualidade para compartilhamento, publicação ou arquivamento</em>
     <br>
   </td>
   <td>
@@ -80,9 +80,9 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
       <img alt="Preparando arquivos PDF acessíveis" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparação de arquivos PDF acessíveis</strong></a>
+    <a href="accessibility.md"><strong>Preparando arquivos de PDF acessíveis</strong></a>
     </div>
-    <em>Criar arquivos PDF acessíveis universalmente</em>
+    <em>Criar arquivos de PDF acessíveis universalmente</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
     <div>
     <a href="accessibility-series.md"><strong>Série Acrobat Accessibility</strong></a>
     </div>
-    <em>Nesta série de webinários sob demanda de seis partes, vá dos conceitos básicos de acessibilidade a um profundo mergulho de marcação de arquivos PDF</em>
+    <em>Nesta série de webinários sob demanda de seis partes, vá dos conceitos básicos de acessibilidade a um profundo mergulho de marcação de arquivos de PDF</em>
     <br>
   </td>
   <td>
