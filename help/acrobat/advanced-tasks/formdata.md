@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -15,26 +15,27 @@ ht-degree: 0%
 
 # Trabalho com dados de formulário
 
-Se você tiver um conjunto de formulários preenchidos e precisar compilar os dados, poderá usar o Acrobat DC para mesclar as respostas em uma única planilha.
+Se você tiver um conjunto de formulários preenchidos e precisar compilar os dados, poderá usar o Acrobat para mesclar as respostas em uma única planilha.
 
-1. Comece colocando todos os arquivos PDF em uma pasta no computador.
+1. Comece colocando todas as PDF forms concluídas em uma pasta no computador.
 
    ![Etapa 1 dos dados do formulário](../assets/FormData_1.png)
 
-1. Abra um para os arquivos de formulário no Acrobat DC e selecione **[!UICONTROL Prepare Form]** na Central de ferramentas ou no painel.
+1. Abra um dos arquivos de formulário preenchidos e selecione **[!UICONTROL Prepare Form]** na Central de ferramentas ou no painel direito.
 
    ![Etapa 2 dos dados do formulário](../assets/FormData_2.png)
 
-1. No painel direito, selecione **[!UICONTROL Mais, Mesclar arquivos de dados na planilha]**.
+1. Selecionar **[!UICONTROL Mais]** **>** **[!UICONTROL Mesclar arquivos de dados na planilha]** no painel à direita.
 
    ![Etapa 3 dos dados do formulário](../assets/FormData_3.png)
 
-1. Selecione a pasta criada com as respostas do formulário.
+1. Selecione a pasta criada com os formulários preenchidos.
+
+   A Acrobat extrai os dados de cada formulário e cria uma planilha de todos os dados.
 
    ![Etapa 4 dos dados do formulário](../assets/FormData_4.png)
 
-   A Acrobat extrai os dados de cada um e cria uma planilha de todos os dados.
 
-Clique para baixar um *PDF do tutorial Trabalhar com dados de formulário*.
+Selecione o ícone de PDF para baixar o *Trabalho com dados de formulário* tutorial.
 
-[![Download Trabalhar com o tutorial](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf) de dados de formulário.
+[![Download do tutorial Trabalho com dados de formulário](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).
