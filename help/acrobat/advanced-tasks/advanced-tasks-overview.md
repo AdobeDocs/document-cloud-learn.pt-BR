@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
+source-git-commit: cf207a5bda859635de879758aae307689b708678
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 2%
@@ -77,7 +77,7 @@ Vá além dos conceitos básicos com essas ferramentas avançadas no Acrobat DC.
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Verificar acessibilidade de PDF" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Verificar acessibilidade de PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
     <a href="accessibility.md"><strong>Verificar acessibilidade de PDF</strong></a>
