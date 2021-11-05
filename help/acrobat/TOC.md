@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 8%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 8%
    + [Protect um arquivo PDF com senha](getting-started/password-protect.md)
    + [PDF forms Fill &amp; Sign](getting-started/fill-and-sign.md)
    + [Obter assinaturas](getting-started/signatures.md)
+   + [Monitore seus documentos](getting-started/track.md)
    + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tarefas avançadas {#advanced-tasks}
    + [Visão geral](advanced-tasks/advanced-tasks-overview.md)

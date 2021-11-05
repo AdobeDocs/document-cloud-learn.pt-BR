@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -194,6 +194,16 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <br>
   </td>
   <td>
+    <a href="track.md">
+      <img alt="Monitore seus documentos" src="../assets/Track_1280.png" />
+    </a>
+    <div>
+    <a href="track.md"><strong>Monitore seus documentos</strong></a>
+    </div>
+    <em>Sempre saiba quais arquivos estão aguardando assinaturas e quais foram assinados</em>
+    <br>
+  </td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="De onde vêm os PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -201,11 +211,6 @@ Saiba como começar a usar o Adobe Acrobat através destes tutoriais passo a pas
     <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDF?</strong></a>
     </div>
     <em>Entenda de onde vêm os PDF e seus usos</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
