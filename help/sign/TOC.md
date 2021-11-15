@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Adobe Sign
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [O que é uma assinatura digital?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Assinatura com um carimbo](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Gerenciamento {#getting-started-managing}
-      + [Gerenciamento e rastreamento de documentos](sign-beginner-tutorials/manage-and-track.md)
+      + [Gerenciar e rastrear seus contratos](sign-beginner-tutorials/manage-and-track.md)
       + [Criação de um modelo de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Modificar um documento já enviado para assinatura](sign-beginner-tutorials/modify-in-flight.md)
 + Tarefas avançadas {#advanced-tasks}

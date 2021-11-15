@@ -1,25 +1,25 @@
 ---
-title: Gerenciamento e acompanhamento de documentos
-description: Saiba como gerenciar e rastrear contratos enviados para assinatura
+title: Gerenciar e rastrear seus contratos
+description: Saiba como gerenciar e rastrear contratos enviados para assinatura no Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Gerenciamento e rastreamento de documentos
+# Gerenciar e rastrear seus contratos
 
-Saiba como gerenciar e rastrear documentos enviados para assinatura no Adobe Sign.
+Saiba como gerenciar e rastrear documentos enviados para assinatura no Adobe Sign. Obtenha atualizações de status e notificações em tempo real em todos os documentos com os quais você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Introdução ao Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Introdução ao Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponível gratuitamente no Experience League!

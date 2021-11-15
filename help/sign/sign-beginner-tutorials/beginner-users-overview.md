@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gerenciamento e rastreamento de documentos" src="../assets/Managing.png" />
+      <img alt="Gerenciar e rastrear seus contratos" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gerenciamento e rastreamento de documentos</strong></a>
+    <a href="manage-and-track.md"><strong>Gerenciar e rastrear seus contratos</strong></a>
     </div>
-    <em>Gerenciar e rastrear contratos que você enviou para assinatura</em>
+    <em>Saiba como gerenciar e rastrear contratos enviados para assinatura</em>
     <br>
   </td>
   <td>
