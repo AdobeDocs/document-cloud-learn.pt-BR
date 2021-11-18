@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 Neste tutorial prático, saiba como transformar sua PDF adicionando aprimoramentos gráficos e numeração automática.
 
-<br> 
-
-## Do que você precisará
-
-[![Obter arquivos](../assets/Getfiles.png)](../assets/Enhance.zip)
-Amostras de arquivos para praticar (ZIP, 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![Obter arquivos](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Baixe esses arquivos de amostra para praticar (ZIP, 342 KB)
 
 ## Saiba como adicionar gráficos de fundo
 
@@ -39,7 +35,7 @@ Adicionar planos de fundo permite adicionar elementos visuais ao PDF sem voltar 
 1. Abrir *Manual do Funcionário da Tecnologia Altura.pdf* dos arquivos de amostra.
 1. Selecionar **Editar PDF** no painel à direita.
 1. Selecionar **Mais > Plano de fundo > Adicionar**.
-1. Selecionar **Opções de Intervalo de Páginas...** e escolha de 2 a 26 na **Páginas de:** e selecione **OK**.
+1. Selecionar **Opções de Intervalo de Páginas...** e escolha de 2 a 26 na **Páginas de** e selecione **OK**.
 1. Na opção Origem, escolha **Arquivo** e selecionar **Procurar** para adicionar *Background Graphic.pdf* arquivo de amostra.
 1. Selecionar **OK** para adicionar o gráfico de fundo.
 
