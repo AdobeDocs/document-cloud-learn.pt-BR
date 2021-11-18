@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
+source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 Saiba como transformar sua PDF adicionando entalhes gráficos e numeração automática.
 
-&amp;nbsp
+<br> 
 
 ## Do que você precisará
 
 [![Obter arquivos](../assets/Getfiles.png)](../assets/Enhance.zip)   Amostras de arquivos para praticar (ZIP, 342 KB)
 
-&amp;nbsp
+<br> 
 
 ## Saiba como adicionar gráficos de fundo
 
