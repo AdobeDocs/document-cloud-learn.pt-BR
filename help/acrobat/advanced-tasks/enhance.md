@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ Neste tutorial prático, saiba como transformar sua PDF adicionando aprimorament
 
 >[!TIP]
 >
->Baixe esses arquivos de amostra para praticar (ZIP, 342 KB)
+>[Baixar estes arquivos de amostra](../assets/Enhance.zip) para praticar (ZIP, 342 KB)
 
-[![Obter arquivos](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Obter arquivos](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Saiba como adicionar gráficos de fundo
 
@@ -61,5 +62,3 @@ A adição de novos cabeçalhos ou rodapés permite criar arquivos de PDF unifor
 1. Escolha 0,7 no menu **Inferior** da seção Margem.
 1. Selecionar **Salvar configurações**, digite Revisão 3.0 na caixa e selecione **OK**.
 1. Selecionar **OK** para aplicar o novo rodapé ao PDF.
-
-
