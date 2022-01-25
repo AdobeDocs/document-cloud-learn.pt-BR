@@ -1,15 +1,15 @@
 ---
-title: Visão geral dos administradores
-description: Aprenda os fundamentos da adição de usuários à sua conta, configuração de grupos, compartilhamento de acesso e configuração de fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados
+title: Visão geral para administradores
+description: Conheça os fundamentos de adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Imagem dos administradores do Sign](../assets/Hero-Admin.png)
 
-Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados. Esses tutoriais foram projetados para administradores que ultrapassaram a fase de instalação e estão prontos para começar a administrar o Adobe Sign. As Tarefas avançadas abrangem tópicos que se expandem além da parte de configuração do administrador e avançam para definir configurações globais, acesso e compartilhamento de conta e marcação de texto.
+Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados. Esses tutoriais foram criados para administradores que passaram da fase de instalação e estão prontos para começar a administrar o Adobe Sign. As tarefas avançadas abrangem tópicos que se expandem além da parte de configuração do administrador e avançam até a definição de configurações globais, acesso e compartilhamento de conta e marcação de texto.
 
 ## Introdução
 
@@ -26,54 +26,54 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Em execução para administradores" src="../assets/Up-Running.png" />
+      <img alt="Em funcionamento para administradores" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Em execução para administradores</strong></a>
+    <a href="up-and-running-admin.md"><strong>Em funcionamento para administradores</strong></a>
     </div>
-    <em>Visão geral de 7 áreas principais para administradores iniciarem e executarem rapidamente no Adobe Sign</em>
+    <em>Visão geral de 7 áreas principais para os administradores iniciarem e executarem rapidamente no Adobe Sign</em>
     <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configurar eventos e alertas compartilhados" src="../assets/SharedEvents.png" />
+      <img alt="Configuração de eventos e alertas compartilhados" src="../assets/SharedEvents.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configurar eventos e alertas compartilhados</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Configuração de eventos e alertas compartilhados</strong></a>
     </div>
-    <em>Definir configurações de evento e alerta para sua organização</em>
+    <em>Definir configurações de eventos e alertas para sua organização</em>
     <br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Adicionar usuários" src="../assets/Adding-Users.png" />
+      <img alt="Adicionando usuários" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Adicionar usuários</strong></a>
     </div>
-    <em>Adicionar usuários individualmente ou em lote à sua conta da Adobe Sign</em>
+    <em>Adicionar usuários individualmente ou em massa à sua conta da Adobe Sign</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Criação e gerenciamento de grupos" src="../assets/Creating-Groups.png" />
+      <img alt="Criando e gerenciando grupos" src="../assets/Creating-Groups.png" />
     </a>
     <div>
-    <a href="create-and-manage-groups.md"><strong>Criação e gerenciamento de grupos</strong></a>
+    <a href="create-and-manage-groups.md"><strong>Criar e gerenciar grupos</strong></a>
     </div>
     <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupo</em>
     <br>
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configuração de um arquivo externo" src="../assets/ExternalArchive.png" />
+      <img alt="Configurando um arquivo externo" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Configuração de um arquivo externo</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivo externo</strong></a>
     </div>
-    <em>Criar um arquivo externo para cópias de backup de contratos enviados</em>
+    <em>Criar um arquivo externo para cópias de backup de contratos que foram enviados</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Criação de um modelo de documento</strong></a>
     </div>
-    <em>Criar um modelo de documento reutilizável para garantir a velocidade e a consistência</em>
+    <em>Crie um modelo de documento reutilizável para agilizar e manter a consistência</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="create-a-report.md"><strong>Criação de um relatório</strong></a>
     </div>
-    <em>Crie e agende relatórios para obter visibilidade sobre o uso do Adobe Sign pela sua organização</em>
+    <em>Crie e programe relatórios para ter visibilidade sobre o uso do Adobe Sign por sua organização</em>
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Configurar um formulário da Web</strong></a>
     </div>
-    <em>Crie um documento que possa ser assinado eletronicamente diretamente no seu site</em>
+    <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
     <br>
   </td>
   <td>
@@ -113,21 +113,21 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
       <img alt="Coletar assinaturas em massa" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Coletar assinaturas em massa</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Colete assinaturas em massa</strong></a>
     </div>
-    <em>Coletar centenas de assinaturas de uma só vez para qualquer documento</em>
+    <em>Colete centenas de assinaturas de uma só vez para qualquer documento</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Configuração de um fluxo de trabalho" src="../assets/BuildingWorkflow.png" />
+      <img alt="Configurando um Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Configurar um fluxo de trabalho</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Configuração de um fluxo de trabalho</strong></a>
     </div>
-    <em>Automatize fluxos de trabalho de documentos para obter assinaturas e dados eletrônicos rapidamente</em>
+    <em>Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônicas e dados com rapidez</em>
     <br>
   </td>
   <td>
@@ -159,12 +159,12 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Compartilhamento de acesso à conta" src="../assets/SharingAccess.png" />
+      <img alt="Compartilhando acesso à conta" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Compartilhamento de acesso à conta</strong></a>
+    <a href="share-account-access.md"><strong>Compartilhando acesso à conta</strong></a>
     </div>
-    <em>Configurar acesso somente de exibição a transações na conta de outro usuário</em>
+    <em>Configurar o acesso somente exibição para transações na conta de outro usuário</em>
     <br>
   </td>
   <td>
@@ -174,29 +174,29 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="advanced-account-sharing.md"><strong>Compartilhamento de conta avançado</strong></a>
     </div>
-    <em>Configurar o compartilhamento de conta para permitir que administradores e usuários deleguem suas permissões de envio, modificação e exibição</em>
+    <em>Configurar o compartilhamento de conta para permitir que administradores e usuários deleguem permissões de envio, modificação e exibição</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Usar configurações de BioPharma" src="../assets/Bio_1280.png" />
+      <img alt="Usar configurações do BioPharma" src="../assets/Bio_1280.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Usar configurações de BioPharma</strong></a>
+    <a href="use-bio-pharma-settings.md"><strong>Usar configurações do BioPharma</strong></a>
     </div>
-    <em>Configure as configurações de Biopharma que permitem atender aos requisitos de FDA 21 CFR Parte 11</em>
+    <em>Defina configurações de BioPharma que permitam atender aos requisitos da parte 11 do título 21 do CFR da FDA</em>
     <br>
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Marcação de texto da Adobe Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Marcação de texto do Adobe Sign" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Marcação de texto da Adobe Sign</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Marcação de texto do Adobe Sign</strong></a>
     <div>
-    <em>Criar campos de formulário Adobe Sign marcando texto usando o Adobe Acrobat DC</em>
+    <em>Criar campos de formulário do Adobe Sign com marcação de texto usando o Adobe Acrobat</em>
     <br>
   </td>
   <td>
