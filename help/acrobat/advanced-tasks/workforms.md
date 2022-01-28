@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Use a ferramenta Prepare Form para adicionar automaticamente campos de formulár
 >[!TIP]
 >
 >Ative os aceleradores de tecla única em suas Preferências na categoria Geral.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ As propriedades de combinação são usadas para distribuir o texto uniformement
 
 ## Saiba como definir propriedades para vários campos de uma vez, ordenar por guias e proteger um formulário
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Para definir propriedades para vários campos de uma vez, ordene as guias e prot
 
 Definir a ordem de tabulação garante que o preenchimento do formulário possa mover-se facilmente de um campo para outro ao preencher um formulário.
 
-1. Digite Shift + N para revelar a ordem de tabulação.
+1. Tipo *Shift+N* para revelar a ordem de tabulação.
 1. Mova o *Localização da matriz* sob o *Número de funcionários* no painel direito.
 1. Mova o *Início do projeto* e *Término do Projeto* campos sob a *ENDEREÇO DE EMAIL* no painel direito.
 
 Proteger um formulário garante que os campos ou o conteúdo do documento não possam ser modificados.
 
-1. Digite Ctrl + D (Cmd + D no Mac) para exibir o **Propriedades do documento** diálogo.
+1. Tipo *Ctrl + D (Cmd + D no Mac)* para apresentar o **Propriedades do documento** diálogo.
 1. Selecione a guia **Segurança.**
 1. Selecionar **Segurança de senha** sob o **Método de segurança:** suspenso.
 1. Verificar **Restrinja a edição e a impressão do documento. Uma senha será necessária para alterar essas configurações de permissão.**
