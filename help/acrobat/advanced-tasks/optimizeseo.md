@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Otimize a experiência de interação com seu PDF, preparando-o para exibição 
 Essa etapa reduz o tamanho do arquivo e permite **Modo de Exibição Rápida da Web** no PDF. **Modo de Exibição Rápida da Web** permite que o arquivo seja aberto, visualizado e pesquisado imediatamente antes que todo o arquivo seja transmitido ou baixado, criando uma experiência ideal para o usuário final. Abrir **[!UICONTROL Propriedades do documento]** (*Ctrl+D* no Windows ou *Cmd+D* no Mac) para determinar se **Modo de Exibição Rápida da Web** está ativado.
 
 ![Captura de tela das Propriedades do documento](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Se você tiver o Acrobat Pro, execute Otimizar para Web e dispositivos móveis na ferramenta Action Wizard. Esta ação converte cores em sRGB e incorpora fontes para a exibição consistente de PDF em navegadores e dispositivos móveis.
 
 ## Criar um nome de arquivo de palavra-chave
 
