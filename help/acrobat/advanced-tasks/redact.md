@@ -1,74 +1,74 @@
 ---
-title: Redact & Sanitize
-description: Saiba como remover permanentemente informações confidenciais ou privadas do seu PDF
+title: Redigir e limpar
+description: Saiba como remover permanentemente informações confidenciais ou privadas de seu PDF
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
-# Redact &amp; Sanitize
+# Redigir e limpar
 
-Aprenda a usar a ferramenta Redigir para remover permanentemente as informações confidenciais ou privadas do seu PDF. Use a ferramenta Sanitizar para remover informações que não estão visíveis no arquivo, como comentários, metadados ou camadas ocultas.
+Saiba como usar a ferramenta Redigir para remover permanentemente informações confidenciais de sua PDF. Use a ferramenta Limpar para remover informações que não estão visíveis no arquivo, como comentários, metadados ou camadas ocultas.
 
 >[!NOTE]
 >
->Disponível somente no Acrobat Pro DC.
+>Disponível somente no Acrobat Pro.
 
-## Redação de texto e imagens
+## Redigir texto e imagens
 
-1. Selecionar **[!UICONTROL Redação]** do [!UICONTROL Ferramentas] painel central ou à direita.
+1. Selecionar **[!UICONTROL Redigir]** do [!UICONTROL Ferramentas] painel central ou à direita.
 
-   ![Etapa 1 de redação](../assets/Redact_1.png)
+   ![Redigir Etapa 1](../assets/Redact_1.png)
 
-1. Selecionar **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Propriedades]** para personalizar a aparência das suas redações, incluindo a cor das caixas de redação ou da sobreposição de texto.
+1. Selecionar **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Propriedades]** para personalizar a aparência de suas redações, incluindo a cor das caixas de redação ou a sobreposição do texto.
 
-   ![Etapa 2 de redação](../assets/Redact_2.png)
+   ![Redigir Etapa 2](../assets/Redact_2.png)
 
-   Para redigir informações, primeiro marque os itens para remoção e aplique as redações. Você pode editar páginas inteiras ou conteúdo selecionado.
+   Para redigir informações, primeiro marque os itens para remoção e, em seguida, aplique as redações. Você pode redigir páginas inteiras ou conteúdo selecionado.
 
-1. Selecionar **[!UICONTROL Redigir páginas]**, escolha a página ou o intervalo de páginas para editar e selecione **[!UICONTROL OK]**.
+1. Selecionar **[!UICONTROL Redigir páginas]**, escolha a página ou o intervalo de páginas a ser redigido e selecione **[!UICONTROL OK]**.
 
-   ![Etapa 4 de redação](../assets/Redact_3.png)
+   ![Etapa de Redação 4](../assets/Redact_3.png)
 
-   Ou use o cursor para selecionar o conteúdo a ser editado. Você pode ver uma visualização da redação passando o mouse sobre o conteúdo selecionado.
+   Ou use o cursor para selecionar o conteúdo a ser redigido. Você pode ver uma visualização da redação passando o mouse sobre o conteúdo selecionado.
 
-   ![Redação da etapa 5a](../assets/Redact_4.png)
+   ![Redação da Etapa 5a](../assets/Redact_4.png)
 
-1. Selecionar **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Localizar texto e redigir]** para localizar conteúdo específico para redação.
+1. Selecionar **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Localizar texto e redigir]** para encontrar conteúdo específico para redigir.
 
    Use a caixa de pesquisa para procurar uma palavra ou frase específica.
 
 1. Selecionar **[!UICONTROL Padrões]** para localizar determinados tipos de informações, marque as caixas e selecione **[!UICONTROL Pesquisar e remover texto]**.
 
-   ![Etapa 5b de redação](../assets/Redact_5.png)
+   ![Redação da Etapa 5b](../assets/Redact_5.png)
 
-1. Selecionar **[!UICONTROL Aplicar]** no [!UICONTROL Redação] menu superior para aplicar as redações marcadas e salvar o arquivo redigido.
+1. Selecionar **[!UICONTROL Aplicar]** no [!UICONTROL Redigir] menu superior para aplicar as redações marcadas e salvar o arquivo redigido.
 
-   ![Etapa 6 de redação](../assets/Redact_6.png)
+   ![Etapa de Redação 6](../assets/Redact_6.png)
 
-## Sanitizar documento
+## Limpar documento
 
-1. Selecionar **[!UICONTROL Sanitizar documento]** no [!UICONTROL Redação] menu superior.
+1. Selecionar **[!UICONTROL Limpar documento]** no [!UICONTROL Redigir] menu superior.
 
-1. Selecionar **[!UICONTROL OK]** para confirmar a remoção de informações ocultas. Ou, escolha **[!UICONTROL Clique aqui]** para remover seletivamente informações ocultas.
+1. Selecionar **[!UICONTROL OK]** para confirmar a remoção de informações ocultas. Ou escolha **[!UICONTROL Clique aqui]** para remover seletivamente as informações ocultas.
 
-   ![Sanitize a Etapa 2](../assets/Redact_7.png)
-
->[!TIP]
->
->Para acelerar o processo de redação, verifique o [Action Wizard](../advanced-tasks/action.md).
-
-Selecione o ícone de PDF para baixar o *Redact &amp; Sanitize* tutorial.
-
-[![Baixar o tutorial Redigir e Sanitizar](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
+   ![Limpar Etapa 2](../assets/Redact_7.png)
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponível gratuitamente no Experience League!
+>Para acelerar o processo de redação, confira o [Action Wizard](../advanced-tasks/action.md).
+
+Selecione o ícone PDF para baixar o *Redigir e limpar* tutorial.
+
+[![Baixe o tutorial Redigir e limpar](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
+
+>[!TIP]
+>
+>Este vídeo faz parte do curso [Trabalhe com mais inteligência com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
