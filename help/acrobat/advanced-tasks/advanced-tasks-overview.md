@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="Comandos e ferramentas personalizados" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>Comandos e ferramentas personalizados</strong></a>
+    </div>
+    <em>Melhore a produtividade do fluxo de trabalho de documentos usando comandos e conjuntos de ferramentas personalizados</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Campos de formulário avançados" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Otimizar uma PDF para melhor descoberta e classificação de mecanismos de pesquisa na Web</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="Trabalhar com campos de formulário" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Adicione vários tipos de campos de formulário, defina propriedades de campos de formulário e adicione segurança para criar formulários profissionais de alta qualidade</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Aprimore seu PDF" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     </div>
     <em>Detecte com rapidez e precisão as diferenças entre dois arquivos PDF</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     </div>
     <em>Poupe tempo e use uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="Redigir e limpar" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade do compartilhamento, publicação ou arquivamento</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Compilar dados de formulário em uma única planilha</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Verificar acessibilidade do PDF" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Verifique se sua PDF é universalmente acessível a pessoas com deficiência</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="Preparando Arquivos PDF Acessíveis" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <a href="accessibility-series.md"><strong>Série Acrobat Accessibility</strong></a>
     </div>
     <em>Nesta série de webinários por demanda de seis partes, vá das noções básicas de Acessibilidade a uma análise detalhada da marcação de seus arquivos PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
