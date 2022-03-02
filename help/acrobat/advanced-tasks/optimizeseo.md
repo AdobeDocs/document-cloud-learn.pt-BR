@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
 
 ## Crie conteúdo exclusivo
 
-Crie conteúdo PDF diferente das informações das páginas da Web. O conteúdo de PDF deve ser único e estruturado da seguinte forma:
+Crie conteúdo PDF diferente das informações das páginas da Web.
+
++++Exibir detalhes sobre como criar conteúdo exclusivo
+
+O conteúdo de PDF deve ser único e estruturado da seguinte forma:
 
 * Usar um único título/título principal começando com uma palavra-chave
 * Usar subtítulos de palavras-chave organizados em uma estrutura hierárquica
@@ -31,9 +35,17 @@ Crie conteúdo PDF diferente das informações das páginas da Web. O conteúdo 
 
    ![Captura de tela do Liquid Mode no aplicativo Acrobat Reader para dispositivos móveis](../assets/optimizeseo1.png)
 
++++
+
+<br> 
+
 ## Adicionar Propriedades do Documento
 
-Os arquivos PDF têm um título e uma descrição meta, assim como uma página da Web. Adicionar chave **[!UICONTROL Propriedades do documento]** do seguinte modo:
+Os arquivos PDF têm um título e uma descrição meta, assim como uma página da Web.
+
++++Exibir detalhes sobre como adicionar Propriedades do Documento
+
+Adicionar chave **[!UICONTROL Propriedades do documento]** do seguinte modo:
 
 1. Selecionar **[!UICONTROL Arquivo > Propriedades]** ou use o atalho de teclado *Ctrl+D* no Windows ou *Cmd+D* no Mac e selecione o **[!UICONTROL Descrição]** guia.
 1. Insira um título otimizado por palavra-chave no **[!UICONTROL Título:]** campo.
@@ -44,13 +56,21 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
    ![Captura de tela das Propriedades do documento](../assets/optimizeseo2.png)
 
++++
+
+<br> 
+
 ## Marcar sua PDF
 
 >[!NOTE]
 >
 >Disponível somente no Acrobat Pro.
 
-Marcar conteúdo no seu PDF não apenas cria o arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência, também melhora o SEO. Marque um PDF da seguinte maneira:
+Marcar conteúdo no seu PDF não apenas cria o arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência, também melhora o SEO.
+
++++Exibir detalhes sobre como marcar um PDF
+
+Marque um PDF da seguinte maneira:
 
 1. Selecionar **[!UICONTROL Acessibilidade]** no **[!UICONTROL Ferramentas]** central.
 1. Selecionar **[!UICONTROL Marcar Documento Automaticamente]** no painel direito.
@@ -60,9 +80,19 @@ Marcar conteúdo no seu PDF não apenas cria o arquivo [Acessível](https://expe
 
    ![Captura de tela da configuração Texto alternativo em PDF](../assets/optimizeseo3.png)
 
++++
+
+<br> 
+
 ## Preparar para a Web
 
-Otimize a experiência de interação com seu PDF, preparando-o para exibição na Web e reduzindo o tamanho do arquivo. Para preparar seu PDF para a Web, selecione **[!UICONTROL Arquivo > Salvar como outro > PDF de tamanho reduzido]**.
+Otimize a experiência de interação com seu PDF, preparando-o para exibição na Web e reduzindo o tamanho do arquivo.
+
++++Exibir detalhes sobre como preparar seu PDF para a Web
+
+Prepare seu PDF para a Web da seguinte maneira:
+
+Para preparar seu PDF para a Web, selecione **[!UICONTROL Arquivo > Salvar como outro > PDF de tamanho reduzido]**.
 
 ![Captura de tela das Propriedades do documento](../assets/optimizeseo4.png)
 
@@ -74,13 +104,29 @@ Essa etapa reduz o tamanho do arquivo e permite **Modo de Exibição Rápida da 
 >
 >Se você tiver o Acrobat Pro, execute Otimizar para Web e dispositivos móveis na ferramenta Action Wizard. Esta ação converte cores em sRGB e incorpora fontes para a exibição consistente de PDF em navegadores e dispositivos móveis.
 
++++
+
+<br> 
+
 ## Criar um nome de arquivo de palavra-chave
+
++++Exibir detalhes sobre como criar um nome de arquivo de palavra-chave
+
+Crie um nome de arquivo de palavra-chave da seguinte maneira:
 
 O nome do arquivo torna-se parte do URL quando um PDF é publicado na Web. Uma boa prática é combinar o título otimizado por palavra-chave com o nome do arquivo. Para ser fácil de pesquisar: use letras minúsculas, sem pontuação ou hashes e evite palavras de interrupção (a, an, the, and, it, for, or, but, in, my, your, our e their etc.). Se você usar palavras separadas, adicione hifens ou sublinhados entre as palavras.
 
++++
+
+<br> 
+
 ## Proteja seu PDF
 
-A última etapa é proteger sua PDF para impedir alterações não autorizadas. Proteja um PDF da seguinte maneira:
+A última etapa é proteger sua PDF para impedir alterações não autorizadas.
+
++++Exibir detalhes sobre como proteger seu PDF
+
+Proteja um PDF da seguinte maneira:
 
 1. Abrir **[!UICONTROL Propriedades do documento]** (*Ctrl+D* no Windows ou *Cmd+D* no Mac) e selecione o **[!UICONTROL Segurança]** guia.
 1. Verificar **[!UICONTROL Impressão, edição e impressão do documento. Uma senha será necessária para alterar essas configurações.]**
@@ -90,5 +136,7 @@ A última etapa é proteger sua PDF para impedir alterações não autorizadas. 
 1. Selecionar **[!UICONTROL OK]** e salve o arquivo.
 
    ![Captura de tela das Propriedades do documento](../assets/optimizeseo6.png)
+
++++
 
 Agora sua PDF está pronta para ser publicada na Web — com potencial de classificação de palavras-chave e interação do usuário final ideais.
