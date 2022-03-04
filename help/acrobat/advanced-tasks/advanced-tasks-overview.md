@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <div>
     <a href="bookmarks.md"><strong>Adicionar marcadores e hiperlinks</strong></a>
     </div>
-    <em>Saiba como aprimorar documentos digitalizados para obter uma melhor experiência de visualização e pesquisa de PDF</em>
+    <em>Saiba como adicionar marcadores e hiperlinks para melhorar a navegação e a interação</em>
     <br>
   </td>
   <td>
