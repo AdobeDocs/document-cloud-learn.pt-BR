@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Poupe tempo e teclas usando uma Ação para aplicar automaticamente um conjunto 
 
    ![Action Wizard Etapa 1](../assets/ActionWizard_1.png)
 
-   As ações predefinidas aparecem no **Lista de Ações**.
+   As ações predefinidas são exibidas no **Lista de Ações**.
 
 1. Selecionar **[!UICONTROL Nova ação]** no menu superior para criar uma ação personalizada.
 
@@ -40,10 +40,6 @@ Poupe tempo e teclas usando uma Ação para aplicar automaticamente um conjunto 
 1. Selecionar **[!UICONTROL Salvar]** e nomeie a ação para que ela apareça na caixa **[!UICONTROL Lista de Ações]**.
 
 Agora você pode executar a ação personalizada sempre que precisar executar essas séries específicas de etapas em um ou mais arquivos PDF.
-
-Selecione o ícone PDF para baixar o *Action Wizard* tutorial.
-
-[![Baixe o tutorial do Action Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >

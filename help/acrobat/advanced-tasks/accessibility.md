@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ Na janela de relatório de acessibilidade, clique com o botão direito do mouse 
 >[!NOTE]
 >
 >Alguns problemas não podem ser corrigidos automaticamente e precisam da sua intervenção manual para corrigi-los. Nesses casos, o >Acrobat apresenta uma caixa de diálogo informando o que corrigir.
-
-Selecione o ícone PDF para baixar o *Verificar acessibilidade do PDF* tutorial.
-
-[![Baixe o tutorial de acessibilidade](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
