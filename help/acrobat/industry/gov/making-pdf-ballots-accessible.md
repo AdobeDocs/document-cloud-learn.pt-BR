@@ -1,25 +1,25 @@
 ---
-title: Tornando os boletins de PDF mais acessíveis
-description: Saiba mais sobre as principais áreas de acessibilidade de PDF necessárias para permitir que os usuários de tecnologias de assistência, como leitores de tela, leiam e concluam seus boletins
+title: Tornando as cédulas de PDF mais acessíveis
+description: Conheça as principais áreas de acessibilidade PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam suas cédulas
 role: User
 product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Tornando os boletins PDF mais acessíveis
+# Tornando as cédulas de PDF mais acessíveis
 
-Os boletins PDF disponíveis eletronicamente precisam ser acessíveis e utilizáveis por todos os eleitores. Este Webinar abordará algumas áreas-chave de acessibilidade de PDF necessárias para permitir que os usuários de tecnologias de assistência, como leitores de tela, leiam e concluam seus boletins.
+Os boletins de PDF que estão disponíveis eletronicamente precisam ser acessíveis e utilizáveis por todos os eleitores. Este webinar abrange as principais áreas de acessibilidade do PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam suas cédulas.
 
-Esta sessão centrar-se-á na melhoria da acessibilidade dos balanços eletrônicos existentes - para tornar os balanços totalmente acessíveis e utilizáveis para todos os utilizadores poderá exigir um processo mais abrangente. Abordaremos as alterações de alta prioridade que podem ser feitas para que sua votação em PDF atual possa ser usada por mais usuários, incluindo usuários cegos ou com pouca visão e usuários que dependem de um teclado para visualizar e interagir com a votação.
+Esta sessão centrar-se-á na melhoria da acessibilidade das cédulas eletrônicas existentes - para tornar as cédulas totalmente acessíveis e utilizáveis para todos os utilizadores pode ser necessário um processo mais abrangente. Abordaremos as mudanças de alta prioridade que podem ser feitas para fazer com que sua cédula de PDF atual possa ser usada por mais usuários, incluindo usuários cegos ou com baixa visão e usuários que dependem de um teclado para visualizar e interagir com a cédula.
 
-[Assista à sessão Tornando os boletins de PDF mais acessíveis](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
+[Assista à sessão Tornando PDF mais acessível](https://event.on24.com/wcc/r/2620020/599427B9BC7DA6BB34A4D46EB0EB1F63)
 
-Data: 2020-09-10
+Data: 10-09-2020

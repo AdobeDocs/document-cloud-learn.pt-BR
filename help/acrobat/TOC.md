@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 8%
@@ -108,7 +108,7 @@ ht-degree: 8%
          + [#1 - Compreendendo a acessibilidade](industry/gov/understanding-accessibility.md)
          + [#2 - Criação no Word](industry/gov/authoring-in-word.md)
          + [#3 - Finalizando no Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Tornando o PDF Ballots mais acessível](industry/gov/making-pdf-ballots-accessible.md)
+         + [Tornando as cédulas de PDF mais acessíveis](industry/gov/making-pdf-ballots-accessible.md)
 + Desenvolver {#develop}
    + [Visão geral](develop/develop-overview.md)
 + Implantar {#deploy}
