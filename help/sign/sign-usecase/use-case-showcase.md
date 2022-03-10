@@ -1,6 +1,6 @@
 ---
-title: Uso de caixa alta/baixa
-description: A Exibição de casos de uso é uma sessão em livestream que apresenta novos casos de uso, tendências e como sua organização pode implementar e se beneficiar com eles
+title: Destaque de caso de uso
+description: Adobe Sign O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso, tendências e mostra como sua organização pode implementá-los e se beneficiar deles
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -8,67 +8,67 @@ level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
-# Uso do showcase
+# Destaque de caso de uso
 
-![usar banner de caso](../assets/UCSC_Rebrand.png)
+![banner do caso de uso](../assets/UCSC_Rebrand.png)
 
-A Exibição de casos de uso é uma sessão em livestream que apresenta novos casos de uso, tendências e como sua organização pode implementar e se beneficiar com eles. Todos os meses um novo tópico é destacado.
+Adobe Sign O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso, tendências e mostra como sua organização pode implementá-los e se beneficiar deles. A cada mês, um novo tópico é destacado.
 
-Abaixo estão gravações ou links de registro para as sessões mais recentes:
+Abaixo estão as gravações ou os links de inscrição para as sessões mais recentes:
 
-## Sessões 2021
+## Sessões de 2021
 
-* **[Caminho da AbbVie para transformação](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/) digital{target=&quot;_blank&quot;}**
-Data: A estratégia da AbbVie de 4 de agosto de 2021 é fornecer medicamentos inovadores e ter um impacto notável na vida das pessoas. Para aumentar a agilidade e liberar os funcionários para se concentrarem em trabalhos mais complexos, a empresa está a trabalhar para automatizar alguns dos seus processos empresariais. e a transição para longe da caneta e do papel é um primeiro passo crucial. Junte-se a nós para uma conversa com a AbbVie para ouvir sobre suas metas, estratégia e processos para alcançar o sucesso da transformação digital.
+* **[O caminho da AbbView para a transformação digital](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Data: 4 de agosto de 2021 A estratégia da AbbVie é oferecer medicamentos inovadores e causar um impacto notável na vida das pessoas. Para aumentar a agilidade e liberar os funcionários para que se concentrem em trabalhos mais complexos, a empresa está trabalhando para automatizar alguns de seus processos de negócios, e a transição do papel e da caneta é um primeiro passo crucial. Participe para uma conversa com a AbbView e conheça seus objetivos, sua estratégia e seus processos para alcançar o sucesso na transformação digital.
 
-* **[Apresentando Volvo Cars de gravação](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/) sob demanda{target=&quot;_blank&quot;}**
-Qual é a aparência do futuro das compras de carros? Para os automobilistas suecos Volvo Cars, eles estão fazendo mudanças em seu modelo de negócio que influenciarão as expectativas dos clientes para a próxima geração de compradores de carros. Para o seu processo, é fundamental a capacidade de fornecer uma experiência de alta qualidade ao cliente para corresponder às suas ofertas premium.
+* **[Com a gravação sob demanda da Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target=&quot;_blank&quot;}**
+Como será o futuro das compras de carros? Para a fabricante sueca de automóveis Volvo Cars, eles estão fazendo mudanças em seu modelo de negócios que influenciarão as expectativas dos clientes para a próxima geração de compradores de carros. No centro do processo, está a capacidade de fornecer uma experiência do cliente de alta qualidade que combine com as ofertas premium.
 
-Junte-se a nós para uma conversa nos bastidores com a Volvo Cars, discutindo como eles pegaram grandes ideias e as transformaram em realidades - e como outras empresas podem aprender de suas experiências de transformação.
+Junte-se a nós para uma conversa sobre os bastidores com a Volvo Cars, discutindo como ela pegou grandes ideias e as transformou em realidades - e como outras empresas podem aprender com suas experiências de transformação.
 
-* **[5 Maneiras de as agências governamentais transformarem em 2021 a gravação](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/) sob demanda{target=&quot;_blank&quot;}**
-Como a Adobe Sign pode ajudar as agências governamentais a atenderem melhor seus eleitores? Tanto os cidadãos como os empregados esperam agora mais experiências online envolventes. E para serem digitais, os processos governamentais devem atender a requisitos rigorosos de segurança, privacidade e conformidade. Quando a pandemia atingiu, as agências governamentais tiveram de intensificar os seus esforços de transformação digital para continuarem a satisfazer as necessidades dos seus constituintes e a manter a continuidade operacional.
+* **[Cinco maneiras como órgãos governamentais se transformarão em gravações sob demanda em 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
+Como a Adobe Sign pode ajudar órgãos governamentais a servir melhor seus eleitores? Cidadãos e funcionários agora esperam experiências online mais envolventes. E, para serem migrados ao digital, os processos governamentais precisam atender a requisitos rigorosos de segurança, privacidade e conformidade. Com a chegada da pandemia, órgãos governamentais precisaram aumentar seus esforços de transformação digital para continuar atendendo às necessidades dos eleitores e manter suas operações.
 
-Junte-se a nós para a Adobe Sign Use Case Showcase para ouvir especialistas do governo sobre os desafios enfrentados por agências federais, estaduais e locais e como elas continuam inovando para manter o governo funcionando.
+Participe do Destaque de caso de uso do Adobe Sign para assistir a uma discussão de especialistas do governo sobre os desafios que órgãos governamentais federais, estaduais e locais enfrentaram e como eles continuam inovando para manter o governo funcionando.
 
 ## Sessões de 2020 por setor
 
 * **[Governo](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target=&quot;_blank&quot;}**
-Foco: Nossos especialistas em painéis abordam as práticas recomendadas e uma variedade de casos de uso específicos do governo para mostrar como a Adobe Sign pode ajudar sua equipe a economizar tempo, dinheiro e recursos, além de manter-se em conformidade e segura.
+Foco: Nossos participantes especialistas abordam práticas recomendadas e uma variedade de casos de uso específicos do governo para mostrar como a Adobe Sign pode ajudar sua equipe a poupar tempo, dinheiro e recursos sem comprometer a conformidade e a segurança.
 
-* **[Legal](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
-Foco: Nossos painéis discutem como os departamentos jurídicos estão gerenciando a mudança para processos de documentos totalmente remotos. Quer você esteja apenas começando ou já tenha digitalizado alguns fluxos de trabalho, a Adobe Sign pode amplificar a produtividade de sua equipe em todas as fases da transformação digital.
+* **[Jurídico](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
+Foco: Nossos participantes discutirão como departamentos jurídicos estão gerenciando a mudança para processos de documentos totalmente remotos. Se você está começando ou já digitalizou alguns fluxos de trabalho, a Adobe Sign pode ampliar a produtividade da sua equipe em todas as fases da transformação digital.
 
 * **[Vendas](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target=&quot;_blank&quot;}**
-Foco: Os especialistas em Adobe destacam as melhores práticas para uma transformação digital bem-sucedida em contratos públicos, e a discussão abrange as tendências e os requisitos do setor para oferecer experiências excelentes ao usuário.
+Foco: Especialistas da Adobe destacam as práticas recomendadas para o sucesso da transformação digital em compras e a discussão abrange as tendências do setor e os requisitos para fornecer experiências de usuário excelentes.
 
 * **[Aquisição e logística](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
 Foco: Como a Adobe Sign trabalha em compras e logística.
 
-* **[Aplicativos](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D) de RH{target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign funciona em vários aplicativos de RH.
+* **[Aplicativos de RH](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
+Foco: Como o Adobe Sign funciona em vários aplicativos de RH.
 
-* **[Governo](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D) local e estadual{target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign funciona no governo estadual e local.
+* **[Governo estadual e local](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
+Foco: Como o Adobe Sign funciona no governo estadual e local.
 
 * **[Educação](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign trabalha para a educação.
+Foco: Como o Adobe Sign funciona para instituições de ensino.
 
-* **[Ciência](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6) da vida{target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign trabalha para Ciências da Vida.
+* **[Ciências biológicas](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
+Foco: Como a Adobe Sign trabalha para as ciências biológicas.
 
 * **[Saúde](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign trabalha para o sistema de saúde. Os tópicos incluem: uso crescente de telesaúde e transformação digital — infraestrutura e dimensionamento.
+Foco: Como o Adobe Sign funciona na área de saúde. Os tópicos incluem: uso crescente da telesaúde e da transformação digital — infraestrutura e dimensionamento.
 
-* **[Serviços](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992) financeiros{target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign trabalha para o setor bancário. Os tópicos incluem: tendências do setor em 2020 e mais, documentos e processos digitais como parte de uma transformação digital mais ampla, práticas recomendadas, casos de uso e os benefícios da Adobe Sign.
+* **[Serviços financeiros](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
+Foco: Como o Adobe Sign funciona para bancos. Os tópicos incluem: tendências do setor para 2020 e além, documentos e processos digitais como parte de uma transformação digital mais ampla, práticas recomendadas, casos de uso e os benefícios da Adobe Sign.
 
 * **[Seguros](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Foco: Como a Adobe Sign trabalha para serviços financeiros e seguros. Os tópicos incluem: tendências do setor, conformidade e requisitos regulatórios no setor financeiro e proporcionar uma excelente experiência ao usuário.
+Foco: Como a Adobe Sign trabalha para serviços financeiros e seguros. Os tópicos incluem: tendências do setor, conformidade e requisitos normativos no setor financeiro e fornecendo uma excelente experiência do usuário.
