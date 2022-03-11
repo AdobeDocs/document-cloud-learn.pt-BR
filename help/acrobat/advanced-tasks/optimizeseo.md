@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
 ## 3. Marque sua PDF
 
->[!NOTE]
->
->Disponível somente no Acrobat Pro.
-
 Marcar conteúdo no seu PDF não apenas cria o arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência, também melhora o SEO.
 
 +++Exibir detalhes sobre como marcar um PDF
@@ -81,6 +77,10 @@ Marque um PDF da seguinte maneira:
    ![Captura de tela da configuração Texto alternativo em PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Disponível somente no Acrobat Pro.
 
 <br> 
 
