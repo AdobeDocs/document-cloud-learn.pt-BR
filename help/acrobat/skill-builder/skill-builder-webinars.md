@@ -4,9 +4,9 @@ description: Os Skill Builder do Adobe Acrobat são sessões de 30 minutos desen
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Os Skill Builder do Adobe Acrobat são sessões de 30 minutos desenvolvidas para
 Data: 25 de agosto de 2022 Obtenha todas as informações necessárias para proteger seu conteúdo PDF. Esta sessão compartilhará técnicas para adicionar senhas para evitar a exibição, edição ou impressão de um PDF e mostrará como remover permanentemente informações confidenciais - mesmo de metadados não visíveis!
 
 * **[Automação simples com Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-Data: 28 de julho de 2022 Pare de repetir tarefas manuais simples! Esta sessão ensinará como usar o Action Wizard no Acrobat DC para processar arquivos PDF em lote e executar tarefas seriais repetitivas automaticamente.
+Data: 28 de julho de 2022 Pare de repetir tarefas manuais simples! Esta sessão ensinará como usar o Action Wizard no Acrobat para processar arquivos PDF em lote e executar tarefas seriais repetitivas automaticamente.
 
 * **[Legibilidade para todos: Criando PDF acessíveis](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 Data: 23 de junho de 2022 Adicionar recursos de acessibilidade às suas PDF ajuda todos os leitores a acessar o conteúdo. Participe desta sessão para saber como criar PDF compatíveis e acessíveis com o Acrobat.

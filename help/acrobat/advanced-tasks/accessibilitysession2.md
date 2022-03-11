@@ -1,25 +1,25 @@
 ---
-title: Como corrigir um PDF inacessível
-description: Nesta sessão sob demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas Acrobat Pro DC mostradas no webinário de introdução
+title: Remediando uma PDF inacessível
+description: Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro mostradas no webinar de introdução
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 kt: 8609
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Como corrigir um PDF inacessível
+# Corrigir uma PDF inacessível
 
-Nesta sessão sob demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas Acrobat Pro DC mostradas no webinário de introdução.
+Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro mostradas no webinar de introdução.
 
-Clique [aqui](../assets/accessibilitysession2.zip) para baixar uma pasta zip dos arquivos de sessão prática.
+Clique em [aqui](../assets/accessibilitysession2.zip) para baixar uma pasta zip dos arquivos de sessão prática.
 
 Selecione a imagem para exibir o vídeo em uma guia separada do navegador.
 
-[![Vídeo](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk) da sessão 2{target=&quot;_blank&quot;}
+[![Vídeo da sessão 2](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}
