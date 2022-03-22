@@ -1,23 +1,23 @@
 ---
-title: Visão geral de introdução
-description: Atualize-se com os tutoriais passo a passo sobre como enviar, assinar e rastrear documentos
+title: Visão geral de introdução do Acrobat Sign
+description: Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
 # Visão geral de introdução
 
-![Imagem de Introdução do Sign](../assets/Hero-GettingStarted.png)
+![Imagem de início do Sign](../assets/Hero-GettingStarted.png)
 
-Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais passo a passo. Faça um tour rápido pelo Adobe Sign e, em seguida, envie um documento para uma ou mais pessoas. Este conteúdo foi desenvolvido para facilitar os fluxos de trabalho de assinatura eletrônica.
+Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo. Faça um tour rápido pelo Adobe Sign e comece a enviar um documento para uma ou mais pessoas. Esse conteúdo foi desenvolvido para facilitar os fluxos de trabalho de assinatura eletrônica.
 
 ## Enviar
 
@@ -25,32 +25,32 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Tour rápido pelo Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Tour rápido do Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Tour rápido pelo Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Tour rápido do Adobe Sign</strong></a>
     </div>
-    <em>Faça um tour rápido pela interface do Adobe Sign para começar</em>
+    <em>Faça um tour rápido pela interface do Adobe Sign para começar a usar</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Enviando para um único destinatário" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Envio para um único destinatário" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviar para um único destinatário</strong></a>
     </div>
-    <em>Aprenda como é fácil enviar um documento para assinatura</em>
+    <em>Entre e saiba como é fácil enviar um documento para assinatura</em>
     <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Enviar para vários destinatários" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Envio para vários destinatários" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Enviar para vários destinatários</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
     </div>
-    <em>Envie um documento para assinatura eletrônica para mais de uma pessoa exatamente na ordem desejada</em>
+    <em>Envie um documento para assinatura eletrônica para mais de uma pessoa na ordem desejada</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
     <div>
     <a href="new-sender.md"><strong>Introdução ao Adobe Sign para novos remetentes</strong></a>
     </div>
-    <em>Este tutorial abrangente é um ótimo local para começar para novos remetentes no Adobe Sign</em>
+    <em>Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
     <div>
     <a href="electronically-sign-a-document.md"><strong>Assinatura eletrônica de um documento</strong></a>
     </div>
-    <em>Saiba como é fácil assinar um documento enviado para você com o Adobe Sign</em>
+    <em>Saiba como é fácil assinar um documento enviado a você com o Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
     <div>
     <a href="sign-in-person.md"><strong>Obter uma assinatura presencial</strong></a>
     </div>
-    <em>Obter a assinatura de outra pessoa usando o aplicativo para dispositivos móveis da Adobe Sign</em>
+    <em>Colete a assinatura de outra pessoa usando o aplicativo Adobe Sign para dispositivos móveis</em>
     <br>
   </td>
 </tr>
@@ -121,15 +121,15 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
     </div>
-    <em>Saiba mais sobre assinaturas digitais baseadas em certificado</em>
+    <em>Saiba mais sobre assinaturas digitais baseadas em certificados</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Assinatura usando um carimbo" src="../assets/Stamp.png" />
+      <img alt="Assinar usando um carimbo" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Assinatura usando um carimbo</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Assinar usando um carimbo</strong></a>
     </div>
     <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
      <br>
@@ -148,12 +148,12 @@ Atualize-se sobre como enviar, assinar e rastrear documentos com estes tutoriais
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gerenciar e rastrear seus contratos" src="../assets/Manage_1280.png" />
+      <img alt="Gerenciar e monitorar seus contratos" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gerenciar e rastrear seus contratos</strong></a>
+    <a href="manage-and-track.md"><strong>Gerenciar e monitorar seus contratos</strong></a>
     </div>
-    <em>Saiba como gerenciar e rastrear contratos enviados para assinatura</em>
+    <em>Saiba como gerenciar e monitorar contratos enviados para assinatura</em>
     <br>
   </td>
   <td>

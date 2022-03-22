@@ -1,14 +1,14 @@
 ---
-title: Visão Geral de Tarefas Avançadas
+title: Visão Geral das Tarefas Avançadas do Acrobat
 description: Vá além do básico usando estas ferramentas avançadas no Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---
