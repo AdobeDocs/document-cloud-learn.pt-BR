@@ -1,13 +1,13 @@
 ---
-title: Enviar para um único destinatário
-description: Aprenda como é fácil enviar um documento para assinatura
+title: Envio para um único destinatário
+description: Entre e saiba como é fácil enviar um documento para assinatura
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33659.jpg
+thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Enviar para um único destinatário
 
-O fluxo de trabalho mais comum no Adobe Sign — enviar um documento para assinatura. Neste tutorial em vídeo, saiba mais como fazer upload de um documento, adicionar campos de formulário e enviar a alguém para assinatura.
+O fluxo de trabalho mais comum no Adobe Sign — enviar um documento para assinatura. Neste tutorial em vídeo, aprenda a carregar um documento, adicionar campos de formulário e enviar para alguém assinar.
 
->[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
 >[!TIP]
 >
