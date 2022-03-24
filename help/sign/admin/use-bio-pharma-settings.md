@@ -1,21 +1,21 @@
 ---
-title: Uso das configurações de BioPharma
-description: Saiba mais sobre as configurações de Biopharma que permitem configurar o Adobe Sign para atender aos requisitos do FDA 21 CFR Parte 11
+title: Usar as configurações do BioPharma
+description: Saiba mais sobre as configurações de BioPharma que permitem configurar o Adobe Sign para atender aos requisitos da parte 11 do título 21 do CFR da FDA
 role: Admin
 product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Usar configurações de BioPharma
+# Usar configurações do BioPharma
 
-Neste tutorial em vídeo, saiba mais sobre as configurações de Biofarma que permitem configurar o Adobe Sign para atender aos requisitos do FDA 21 CFR Parte 11.
+Saiba mais sobre as configurações de BioPharma que permitem configurar o Adobe Sign para atender aos requisitos da parte 11 do título 21 do CFR da FDA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 

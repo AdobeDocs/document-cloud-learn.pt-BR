@@ -1,27 +1,27 @@
 ---
 title: Criação de um fluxo de trabalho personalizado
-description: Saiba como personalizar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas e coletar dados de formulário rapidamente
+description: Saiba como ajustar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas rapidamente e coletar dados de formulários
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Criação de um fluxo de trabalho personalizado
+# Criar um fluxo de trabalho personalizado
 
-Neste tutorial em vídeo, saiba mais como personalizar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas, coletar dados de formulários e confirmar a entrega de um documento importante para simplificar o gerenciamento do fluxo de trabalho.
+Saiba como ajustar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas, coletar dados de formulários e confirmar a entrega de um documento importante para simplificar o gerenciamento do fluxo de trabalho.
 
-Confira estes casos adicionais de uso do mundo real:
+Confira estes casos de uso reais adicionais:
 
-* [Caso de Contratos do Governo e ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) Formações de Requisição.
-* [Caso dos Contratos Comerciais e dos ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) Formulários de Requisição.
+* [Contratos governamentais e Forms de requisição](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) caso de uso.
+* [Forms para Contratos Comerciais e Requisição](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) caso de uso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
