@@ -3,12 +3,12 @@ title: Criar um botão personalizado no Adobe Sign para Salesforce
 description: Saiba como criar um botão personalizado que inicia o processo de envio e preenche automaticamente um contrato
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 17352.jpg
 exl-id: 08407097-b916-4532-a613-43eb1475fe2c
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 16%

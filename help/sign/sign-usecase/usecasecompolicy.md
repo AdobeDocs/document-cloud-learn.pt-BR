@@ -3,11 +3,11 @@ title: Acordos de política comercial
 description: Colete assinaturas de todos os funcionários com eficiência em contratos de política, atualizações e muito mais
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

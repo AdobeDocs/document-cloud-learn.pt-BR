@@ -1,22 +1,22 @@
 ---
-title: Go Digital com Adobe Scan
-description: Conheça alguns truques e dicas para usar o Adobe Document Cloud
-solution: Document Cloud
+title: Migre para o digital com o Adobe Scan
+description: Veja alguns truques e dicas para usar o Adobe Document Cloud
+solution: Acrobat Sign
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# Go Digital com Adobe Scan
+# Migre para o digital com o Adobe Scan
 
-Desaglomerar, organizar ou compartilhar! Não há necessidade de manter pilhas de papel em sua carteira ou recibos de material na carteira. O aplicativo Adobe Scan para dispositivos móveis digitaliza documentos em papel diretamente em PDFs e reconhece automaticamente o texto.
+Elimine a aglomeração, organize ou compartilhe. Não é necessário manter pilhas de papéis sobre a mesa ou recibos de coisas na carteira. O aplicativo Adobe Scan para dispositivos móveis digitaliza documentos impressos diretamente em PDF e reconhece texto automaticamente.
 
-Neste exercício, você faz upload de conteúdo de um cartão de visita diretamente em seus contatos. Digitalize e armazene um recibo.
+Neste exercício, você carrega o conteúdo de um cartão de visita diretamente nos seus contatos. Digitalize e armazene um recibo.
 
-Colete um cartão de visita, um recibo ou qualquer outro item em papel com o qual você gostaria de trabalhar.
+Colete um cartão de visita, recibo ou qualquer outro item de papel com o qual você gostaria de trabalhar.
 
 ## Digitalizar um cartão de visita
 
@@ -24,43 +24,43 @@ Colete um cartão de visita, um recibo ou qualquer outro item em papel com o qua
 
 **Etapa 2:** Abra o aplicativo Adobe Scan.
 
-**Etapa 3:** No aplicativo, tire uma foto do cartão de visita contendo as informações de contato que você gostaria de salvar no telefone.
+**Etapa 3:** No aplicativo, tire uma foto do cartão de visita com as informações de contato que você deseja salvar em seu telefone.
 
-![imagem do cartão](assets/scanbcard.png)
-
-
-**Passo 4:** Quando a digitalização estiver concluída, faça os ajustes para garantir que o cartão esteja dentro da caixa delimitadora.
-
-**Etapa 5:** toque em  **[!UICONTROL Salvar]** PDF no canto superior direito. Em seguida, toque em **[!UICONTROL Salvar Contato]**.
+![b imagem do cartão](assets/scanbcard.png)
 
 
-![salvar por imagem do cartão](assets/savecontact.jpg)
+**Etapa 4:** Quando a digitalização estiver concluída, faça os ajustes para garantir que a placa esteja dentro da caixa delimitadora.
 
-![imagem do cartão](assets/savecontact.png)
+**Etapa 5:** Toque em **[!UICONTROL Salvar PDF]** no canto superior direito. Em seguida, toque em **[!UICONTROL Salvar contato]**.
 
-**Etapa 6:** faça as edições ou adições desejadas às informações de contato antes de armazenar no telefone. Toque em &quot;Salvar&quot; mais uma vez para finalizar a gravação nos contatos.
+
+![salvar imagem do cartão b](assets/savecontact.jpg)
+
+![b imagem do cartão](assets/savecontact.png)
+
+**Etapa 6:** Faça as edições ou adições desejadas às informações de contato antes de armazenar em seu telefone. Toque mais uma vez em &quot;Salvar&quot; para finalizar o salvamento nos contatos.
 
 ## Digitalizar e armazenar um recibo
 
-O aplicativo Adobe Scan também pode ser útil para digitalizar e armazenar um recibo de que você precisará mais tarde (por exemplo, um relatório de despesas ou outro reembolso).
+O aplicativo da Adobe Scan também pode ser útil para digitalizar e armazenar um recibo que será necessário posteriormente (por exemplo, um relatório de despesas ou outro reembolso).
 
 **Etapa 1:** Com o aplicativo Adobe Scan aberto, tire uma foto do recibo que você gostaria de armazenar.
 
-![imagem do recibo de digitalização](assets/scanreceipt.png)
+![digitalizar imagem de recibo](assets/scanreceipt.png)
 
 
 **Etapa 2:** Observe como o aplicativo detecta automaticamente seu recibo e captura seu conteúdo.
 
-![imagem do cartão](assets/receiptoutput.jpg)
+![b imagem do cartão](assets/receiptoutput.jpg)
 
-**Etapa 3:** toque em  **[!UICONTROL Salvar]** PDFs no canto superior direito para armazenar o recibo no telefone.
+**Etapa 3:** Toque em **[!UICONTROL Salvar PDF]** no canto superior direito para armazenar o recibo em seu telefone.
 
 
-## Recapturar:
+## Recapitulação:
 
 * Digitalize documentos e formulários impressos em PDF.
 * Converta imagens JPG em PDF.
-* Edite diretamente no seu dispositivo.
-* Adicione as informações do cartão de visita diretamente aos Contatos.
+* Edite diretamente no dispositivo.
+* Adicione informações de cartão de visita diretamente aos Contatos.
 
-Põe o papel fora!
+Abaixe o papel!

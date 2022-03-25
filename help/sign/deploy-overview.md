@@ -1,13 +1,13 @@
 ---
 title: Visão geral da implantação
-description: Artigos de práticas recomendadas e informações importantes sobre a implantação do Adobe Sign
+description: Artigos de práticas recomendadas e insights valiosos sobre a implantação do Adobe Sign
 role: Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Imagem de implantação do Sign](assets/Hero-Deploy.png)
 
-Artigos de práticas recomendadas com informações importantes sobre a implantação do Adobe Sign em sua organização.
+Artigos de práticas recomendadas com insights valiosos sobre a implantação do Adobe Sign em sua organização.
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,9 +27,9 @@ Artigos de práticas recomendadas com informações importantes sobre a implanta
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento da Adobe Sign no Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Adobe Sign no Admin Console</strong></a>
     </div>
-    <em>Saiba mais sobre como gerenciar usuários e licenças da Adobe Sign na plataforma corporativa da Adobe, a Adobe Admin Console</em>
+    <em>Saiba como gerenciar usuários e licenças da Adobe Sign na plataforma corporativa da Adobe no Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -39,17 +39,17 @@ Artigos de práticas recomendadas com informações importantes sobre a implanta
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Práticas recomendadas</strong></a>
     </div>
-    <em>Revise informações valiosas e o conhecimento adquirido pelo trabalho do Gerente de sucesso do cliente com nossos clientes na implantação da Adobe Sign</em>
+    <em>Analise insights valiosos e o conhecimento adquirido pelo trabalho de nosso Gerente de sucesso do cliente com nossos clientes na implantação do Adobe Sign</em>
     <br>
   </td>  
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Centro de confiança de Adobe" src="assets/Deploy_Trust.png" />
+      <img alt="Central de confiança do Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro de confiança de Adobe</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Central de confiança do Adobe</strong></a>
     </div>
-    <em>Saiba mais sobre nossos esforços contínuos em segurança, legalidade e padrões para Adobe Sign</em>
+    <em>Saiba mais sobre nossos esforços contínuos em segurança, legalidade e padrões para o Adobe Sign</em>
     <br>
   </td>
 </tr>

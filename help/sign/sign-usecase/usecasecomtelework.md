@@ -3,10 +3,11 @@ title: Contrato comercial de teletrabalho
 description: Colete assinaturas de todos os seus funcionários em contratos de trabalho remoto com eficiência
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

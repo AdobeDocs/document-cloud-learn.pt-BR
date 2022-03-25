@@ -1,21 +1,22 @@
 ---
-title: Assinatura usando [!DNL Aadhaar]
-description: Saiba como usar seu [!DNL Aadhaar] ID digital para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura em nuvem) em um documento no Adobe Sign
+title: Assinar usando [!DNL Aadhaar]
+description: Saiba como usar sua [!DNL Aadhaar] ID digital para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura em nuvem) em um documento no Adobe Sign
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-9298.jpg
 kt: 9298
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+exl-id: f899c636-5041-4037-bc73-5fd272d2c24b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Assinatura usando [!DNL Aadhaar]
+# Assinar usando [!DNL Aadhaar]
 
-Saiba como usar seu [!DNL Aadhaar] ID digital para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura em nuvem) em um documento no Adobe Sign.
+Saiba como usar sua [!DNL Aadhaar] ID digital para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura em nuvem) em um documento no Adobe Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?hidetitle=true)
