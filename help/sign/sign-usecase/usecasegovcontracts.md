@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Contratos governamentais e formulários de requisição
 
-Substitua rapidamente o processamento em papel por fluxos de trabalho digitais em conformidade, complementados com relatórios de auditoria. Saiba como usar a ferramenta Workflow Designer da Adobe Sign para ajudar a simplificar todo o processo.
+Substitua rapidamente o processamento em papel por fluxos de trabalho digitais em conformidade, complementados com relatórios de auditoria. Saiba como usar a ferramenta Workflow Designer do Acrobat Sign para ajudar a simplificar todo o processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

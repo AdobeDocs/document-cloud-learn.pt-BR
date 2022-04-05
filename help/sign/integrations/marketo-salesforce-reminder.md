@@ -1,5 +1,5 @@
 ---
-title: Enviar lembretes usando o Adobe Sign para Salesforce e o Guia de configuração do Marketo
+title: Enviar lembretes usando o Acrobat Sign para Salesforce e o Guia de configuração do Marketo
 description: Saiba como enviar um lembrete por email do Marketo quando um contrato permanece não assinado após um período de tempo
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Enviar lembretes usando o Adobe Sign para Salesforce e o Guia de configuração do Marketo
+# Enviar lembretes usando o Acrobat Sign para Salesforce e o Guia de configuração do Marketo
 
-Saiba como enviar um lembrete por email do Marketo quando um contrato permanece não assinado após um período de tempo. Essa integração usa o Adobe Sign, o Adobe Sign para Salesforce, o Marketo e o Marketo e Salesforce Sync.
+Saiba como enviar um lembrete por email do Marketo quando um contrato permanece não assinado após um período de tempo. Essa integração usa o Acrobat Sign, o Acrobat Sign para Salesforce, o Marketo e o Marketo e Salesforce Sync.
 
 ## Pré-requisitos
 
@@ -25,13 +25,13 @@ Saiba como enviar um lembrete por email do Marketo quando um contrato permanece 
 
    Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instalar o Adobe Sign para Salesforce.
+1. Instale o Acrobat Sign para Salesforce.
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Salesforce Sync e do Adobe Sign para Salesforce estiverem concluídas, várias novas opções serão exibidas no Marketo Admin Terminal.
+Quando as configurações do Marketo Salesforce Sync e do Acrobat Sign para Salesforce estiverem concluídas, várias novas opções serão exibidas no Marketo Admin Terminal.
 
 ![Admin.](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Como o filtro de campanha **Dias sem assinatura** foi usado, você pode usar uma
 
 >[!TIP]
 >
->Este tutorial faz parte do curso [Agilize os ciclos de vendas com o Adobe Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!
+>Este tutorial faz parte do curso [Agilizar os ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!

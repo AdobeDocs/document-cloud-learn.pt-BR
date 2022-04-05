@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <div>
     <a href="usecasegovpaycheck.md"><strong>Proteção de Pagamento</strong></a>
     </div>
-    <em>Veja como usar o Adobe Sign para converter o formulário do Programa de Proteção de Pagamento em um formulário interativo online</em>
+    <em>Veja como usar o Acrobat Sign para converter o formulário do Programa de Proteção de Pagamento em um formulário interativo online</em>
     <br>
   </td>
   <td>

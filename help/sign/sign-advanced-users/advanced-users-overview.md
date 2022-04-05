@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Imagem avançada do Sign](../assets/Hero-Advanced.png)
 
-Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para todos que já estão familiarizados com os conceitos básicos para envio e solicitação de assinaturas e querem saber mais sobre como o Adobe Sign pode trabalhar para eles.
+Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para todos que já estão familiarizados com os conceitos básicos de envio e solicitação de assinaturas e querem saber mais sobre como o Acrobat Sign pode trabalhar para eles.
 
 ## Enviar
 
@@ -78,12 +78,12 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Marcação de texto do Adobe Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Adobe Sign</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     </div>
-    <em>Criar campos de formulário do Adobe Sign com marcação de texto usando o Adobe Acrobat</em>
+    <em>Criar campos de formulário do Acrobat Sign marcando texto usando o Adobe Acrobat</em>
     <br>
   </td> 
 </table>

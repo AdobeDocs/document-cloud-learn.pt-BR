@@ -1,5 +1,5 @@
 ---
-title: Enviar lembretes usando o Adobe Sign para Microsoft Dynamics 365 e Marketo
+title: Enviar lembretes usando o Acrobat Sign para Microsoft Dynamics 365 e Marketo
 description: Saiba como enviar um lembrete por email quando um contrato permanece não assinado após um período
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
 
 ---
 
-# Enviar lembretes usando o Adobe Sign para Microsoft Dynamics 365 e Marketo
+# Enviar lembretes usando o Acrobat Sign para Microsoft Dynamics 365 e Marketo
 
-Saiba como enviar um lembrete por email quando um contrato permanece não assinado após um período de tempo. Essa integração usa o Adobe Sign, o Adobe Sign para Microsoft Dynamics, o Marketo e o Marketo Microsoft Dynamics Sync.
+Saiba como enviar um lembrete por email quando um contrato permanece não assinado após um período de tempo. Essa integração usa o Acrobat Sign, o Acrobat Sign para Microsoft Dynamics, o Marketo e o Marketo Microsoft Dynamics Sync.
 
 ## Pré-requisitos
 
@@ -25,13 +25,13 @@ Saiba como enviar um lembrete por email quando um contrato permanece não assina
 
    Informações e o plug-in mais recente do Microsoft Dynamics Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Instalar [Adobe Sign para Microsoft Dynamics](https://appsource.microsoft.com/pt-br/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Instalar [Acrobat Sign para Microsoft Dynamics](https://appsource.microsoft.com/pt-br/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Microsoft Dynamics Sync e do Adobe Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
+Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign para Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
 
 ![Admin.](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Como o filtro de campanha **Dias até o vencimento** foi usado, você pode usar 
 
 >[!TIP]
 >
->Este tutorial faz parte do curso [Agilizar os ciclos de vendas com o Adobe Sign para Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!
+>Este tutorial faz parte do curso [Agilizar os ciclos de vendas com o Acrobat Sign para Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!

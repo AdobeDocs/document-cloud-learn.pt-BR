@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials Adobe Sign
+user-guide-title: Tutorials do Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials Adobe Sign
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Tutorials do Acrobat Sign
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Tutorials Adobe Sign {#sign-learning-hub}
+# Tutorials do Acrobat Sign {#sign-learning-hub}
 
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
    + [Visão geral](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviando {#getting-started-sending}
-      + [Tour rápido do Adobe Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Tour rápido do Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [Enviar para um único destinatário](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Envio para vários destinatários](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Introdução ao Adobe Sign para novos remetentes](sign-beginner-tutorials/new-sender.md)
+      + [Introdução ao Acrobat Sign para novos remetentes](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [Assinatura eletrônica de um documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [Adicionando um Aprovador](sign-advanced-users/add-an-approver.md)
       + [Coletar assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configuração de um formulário web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Marcação de texto do Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gerenciamento {#advanced-tasks-managing}
       + [Gerenciar modelos de documento](sign-advanced-users/edit-a-template.md)
 + Administrar {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [Compartilhando acesso à conta](admin/share-account-access.md)
       + [Compartilhamento de conta avançado](admin/advanced-account-sharing.md)
       + [Usar configurações do BioPharma](admin/use-bio-pharma-settings.md)
-      + [Marcação de texto do Adobe Sign](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Marcação de texto do Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digital {#digital-id}
    + [Visão geral](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [Enviar para assinatura no SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Rastreamento no SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Enviar documentos para assinatura em [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Automação de documentos com o Adobe Sign para Microsoft Power Platform](integrations/documentautomation.md)
+      + [Automação de documentos com o Acrobat Sign para Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Criação de um modelo de documento](integrations/create-an-agreement-template.md)
       + [Configurando mapeamento de dados](integrations/set-up-data-mapping.md)
       + [Configurando mapeamento de mesclagem](integrations/set-up-merging-map.md)
       + [Criação de um botão personalizado](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Configuração do Adobe Sign com o Workday](integrations/workday.md)
+      + [Configuração do Acrobat Sign com o Workday](integrations/workday.md)
    + Marketo {#marketo}
-      + [Enviar notificações usando o Adobe Sign para Salesforce e Marketo](integrations/marketo-salesforce-sms.md)
-      + [Tutorial em vídeo para enviar lembretes usando o Adobe Sign para Salesforce e Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Enviar lembretes usando o Adobe Sign para Salesforce e o guia de configuração do Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Enviar notificações usando o Adobe Sign para Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
-      + [Enviar lembretes usando o Adobe Sign para Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Enviar notificações usando o Acrobat Sign para Salesforce e Marketo](integrations/marketo-salesforce-sms.md)
+      + [Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Enviar lembretes usando o Acrobat Sign para Salesforce e o guia de configuração do Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Enviar notificações usando o Acrobat Sign para Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
+      + [Enviar lembretes usando o Acrobat Sign para Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
 + Setores e departamentos {#expand}
    + [Visão geral](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
    + Tutoriais do Mobile {#mobile-tutorials}
-      + [Liquid Mode no Adobe Sign](mobile/liquidmode.md)
+      + [Liquid Mode no Acrobat Sign](mobile/liquidmode.md)
