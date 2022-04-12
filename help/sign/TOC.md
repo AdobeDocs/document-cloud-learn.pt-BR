@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials do Acrobat Sign
+user-guide-title: Tutorials Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials do Acrobat Sign
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+breadcrumb-title: Tutorials Acrobat Sign
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 ---
 
 
-# Tutorials do Acrobat Sign {#sign-learning-hub}
+# Tutorials Acrobat Sign {#sign-learning-hub}
 
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
@@ -39,7 +39,7 @@ ht-degree: 6%
 + Tarefas avançadas {#advanced-tasks}
    + [Visão geral](sign-advanced-users/advanced-users-overview.md)
    + Enviando {#advanced-tasks-sending}
-      + [Configurando a ordem de roteamento](sign-advanced-users/setting-up-routing.md)
+      + [Configurando a ordem de assinatura](sign-advanced-users/setting-up-routing.md)
       + [Delegando a outra pessoa](sign-advanced-users/delegate-signature.md)
       + [Adicionando um Aprovador](sign-advanced-users/add-an-approver.md)
       + [Coletar assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
