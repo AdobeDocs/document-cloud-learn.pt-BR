@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -65,10 +65,15 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modificar um documento após o envio" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modificar um documento após o envio</strong></a>
+    </div>
     <br>
+    <em>Modificar um documento que já está em andamento</em>
   </td>
   <td>
     <img alt="Espaçador" src="../assets/Grayspacer.png" />
@@ -109,7 +114,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <div>
     <a href="sign-in-person.md"><strong>Obter uma assinatura presencial</strong></a>
     </div>
-    <em>Obter a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
+    <em>Colete a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
   </td>
 </tr>
@@ -167,14 +172,9 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modificar um documento já enviado para assinatura" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modificar um documento já enviado para assinatura</strong></a>
-    </div>
     <br>
-    <em>Modificar o fluxo de trabalho de um documento que já está em andamento</em>
   </td>
 </tr>
 </table>

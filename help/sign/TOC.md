@@ -7,16 +7,16 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+breadcrumb-title: Tutorials do Acrobat Sign
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
 
 
-# Tutorials Acrobat Sign {#sign-learning-hub}
+# Tutorials do Acrobat Sign {#sign-learning-hub}
 
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [Enviar para um único destinatário](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Envio para vários destinatários](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Introdução ao Acrobat Sign para novos remetentes](sign-beginner-tutorials/new-sender.md)
+      + [Modificar um documento após o envio](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [Assinatura eletrônica de um documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + Gerenciamento {#getting-started-managing}
       + [Gerenciar e monitorar seus contratos](sign-beginner-tutorials/manage-and-track.md)
       + [Criação de um modelo de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Modificar um documento já enviado para assinatura](sign-beginner-tutorials/modify-in-flight.md)
 + Tarefas avançadas {#advanced-tasks}
    + [Visão geral](sign-advanced-users/advanced-users-overview.md)
    + Enviando {#advanced-tasks-sending}
@@ -95,7 +95,7 @@ ht-degree: 6%
       + [Configuração do Acrobat Sign com o Workday](integrations/workday.md)
    + Marketo {#marketo}
       + [Enviar notificações usando o Acrobat Sign para Salesforce e Marketo](integrations/marketo-salesforce-sms.md)
-      + [Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Enviar lembretes usando o Acrobat Sign para Salesforce e o guia de configuração do Marketo](integrations/marketo-salesforce-reminder.md)
       + [Enviar notificações usando o Acrobat Sign para Microsoft Dynamics e Marketo](integrations/marketo-dynamics-sms.md)
       + [Enviar lembretes usando o Acrobat Sign para Microsoft Dynamics 365 e Marketo](integrations/marketo-dynamics-reminder.md)
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [Visão geral](deploy-overview.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + Tutoriais do Mobile {#mobile-tutorials}
+   + Tutoriais em dispositivos móveis {#mobile-tutorials}
       + [Liquid Mode no Acrobat Sign](mobile/liquidmode.md)

@@ -6,9 +6,9 @@ product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Criação de um relatório
 
 Saiba como executar, salvar e agendar relatórios no Acrobat Sign.
+
+>[!NOTE]
+>
+>Os relatórios só estão disponíveis para planos empresariais e corporativos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
