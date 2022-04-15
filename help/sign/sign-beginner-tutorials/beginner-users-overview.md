@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -75,10 +75,15 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <br>
     <em>Modificar um documento que já está em andamento</em>
   </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Substituir um signatário" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Substituir um signatário</strong></a>
+    </div>
     <br>
+    <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
   </td>
 </tr>
 </table>

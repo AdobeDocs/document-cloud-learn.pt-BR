@@ -7,16 +7,16 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials do Acrobat Sign
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+breadcrumb-title: Tutorials Acrobat Sign
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '421'
 ht-degree: 6%
 
 ---
 
 
-# Tutorials do Acrobat Sign {#sign-learning-hub}
+# Tutorials Acrobat Sign {#sign-learning-hub}
 
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
@@ -27,6 +27,7 @@ ht-degree: 6%
       + [Envio para vários destinatários](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Introdução ao Acrobat Sign para novos remetentes](sign-beginner-tutorials/new-sender.md)
       + [Modificar um documento após o envio](sign-beginner-tutorials/modify-in-flight.md)
+      + [Substituir um signatário](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
       + [Assinatura eletrônica de um documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -127,5 +128,5 @@ ht-degree: 6%
    + [Visão geral](deploy-overview.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + Tutoriais em dispositivos móveis {#mobile-tutorials}
+   + Tutoriais do Mobile {#mobile-tutorials}
       + [Liquid Mode no Acrobat Sign](mobile/liquidmode.md)
