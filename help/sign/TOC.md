@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + Introdução {#getting-started}
    + [Visão geral](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviando {#getting-started-sending}
-      + [Tour rápido do Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Noções básicas sobre a área de trabalho](sign-beginner-tutorials/quick-tour.md)
       + [Enviar para um único destinatário](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Envio para vários destinatários](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Introdução ao Acrobat Sign para novos remetentes](sign-beginner-tutorials/new-sender.md)

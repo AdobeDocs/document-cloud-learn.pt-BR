@@ -1,20 +1,20 @@
 ---
-title: Tour rápido do Acrobat Sign
-description: Faça um tour rápido pelo Acrobat Sign para começar a usar
+title: Noções básicas sobre a área de trabalho
+description: Faça um tour rápido pela área de trabalho do Acrobat Sign para começar a trabalhar
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: 41205.jpg
 exl-id: a914d230-da29-4278-9189-77e3a2486ae8
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
-# Tour rápido do Acrobat Sign
+# Noções básicas sobre a área de trabalho
 
 Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a usá-lo.
 

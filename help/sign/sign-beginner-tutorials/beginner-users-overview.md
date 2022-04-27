@@ -1,15 +1,15 @@
 ---
-title: Visão geral de introdução do Acrobat Sign
+title: Visão geral do Acrobat Sign Getting Started
 description: Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Tour rápido do Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Noções básicas sobre a área de trabalho" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Tour rápido do Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Noções básicas sobre a área de trabalho</strong></a>
     </div>
-    <em>Faça um tour rápido pela interface do Acrobat Sign para começar a usar</em>
+    <em>Faça um tour rápido pela área de trabalho do Acrobat Sign para começar a trabalhar</em>
     <br>
   </td>
   <td>
@@ -119,7 +119,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <div>
     <a href="sign-in-person.md"><strong>Obter uma assinatura presencial</strong></a>
     </div>
-    <em>Colete a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
+    <em>Obter a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
   </td>
 </tr>
