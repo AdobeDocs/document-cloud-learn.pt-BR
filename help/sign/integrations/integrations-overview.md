@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Imagem de integração do Sign](../assets/Hero-Integrate.png)
 
-Você pode usar o Acrobat Sign em outros aplicativos que sua organização já usa, como o Microsoft, o Salesforce, o Workday e o Marketo, entre outros. Saiba como simplificar seus fluxos de trabalho de assinatura eletrônica nestes guias e tutoriais de integração.
+Você pode usar o Acrobat Sign em outros aplicativos que sua organização já usa, como o Microsoft, o Salesforce, o Workday e o Marketo, para citar alguns. Saiba como simplificar seus fluxos de trabalho de assinatura eletrônica nestes guias e tutoriais de integração.
 
 >[!NOTE]
 > Se você tiver problemas para acessar qualquer um desses recursos, consulte o administrador da sua organização para garantir que a integração esteja ativada.
@@ -194,10 +194,10 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Tutorial em vídeo para enviar lembretes usando o Adobe Sign para Salesforce e Marketo</strong></a>
     </div>
     <em>Saiba como enviar um lembrete por email do Marketo quando um contrato permanece não assinado após um período de tempo</em>
     <br>
