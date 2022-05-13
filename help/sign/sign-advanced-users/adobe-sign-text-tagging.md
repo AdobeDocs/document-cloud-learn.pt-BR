@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 33b3df757a38207d36bf804b957e6ba291a5d3d0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Neste webinar gravado (sem necessidade de registro), saiba como criar campos de 
 
 >[!TIP]
 >
->Este vídeo faz parte do [Tarefas Avançadas para Usuários](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Tarefas avançadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) cursos que estão disponíveis gratuitamente no Experience League!que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do [Tarefas Avançadas para Usuários](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Tarefas avançadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) cursos disponíveis gratuitamente no Experience League!
