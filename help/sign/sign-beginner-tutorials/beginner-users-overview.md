@@ -1,12 +1,12 @@
 ---
-title: Visão geral do Acrobat Sign Getting Started
+title: Visão geral de introdução do Acrobat Sign
 description: Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -72,8 +72,8 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <div>
     <a href="modify-in-flight.md"><strong>Modificar um documento após o envio</strong></a>
     </div>
-    <br>
     <em>Modificar um documento que já está em andamento</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <div>
     <a href="replace-signer.md"><strong>Substituir um signatário</strong></a>
     </div>
-    <br>
     <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
+     <br>
   </td>
 </tr>
 </table>
@@ -119,7 +119,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <div>
     <a href="sign-in-person.md"><strong>Obter uma assinatura presencial</strong></a>
     </div>
-    <em>Obter a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
+    <em>Colete a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
   </td>
 </tr>

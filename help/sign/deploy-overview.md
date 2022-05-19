@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -29,17 +29,17 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
     <div>
     <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Acrobat Sign no Admin Console</strong></a>
     </div>
-    <em>Saiba como gerenciar usuários e licenças do Acrobat Sign na plataforma corporativa da Adobe no Adobe Admin Console</em>
+    <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma corporativa da Adobe no Adobe Admin Console</em>
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/br/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Práticas recomendadas" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Práticas recomendadas</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Práticas recomendadas</strong></a>
     </div>
-    <em>Examine insights valiosos e o conhecimento adquirido pelo trabalho do nosso Gerente de sucesso do cliente com nossos clientes na implantação do Acrobat Sign</em>
+    <em>Analise insights valiosos e o conhecimento adquirido pelo trabalho de nosso Gerente de sucesso do cliente com nossos clientes na implantação do Acrobat Sign</em>
     <br>
   </td>  
   <td>
@@ -61,7 +61,7 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Guia de estudos dos princípios essenciais do Acrobat Sign</strong></a>
     </div>
-    <em>Guia de estudo do Acrobat Sign para a avaliação do Acrobat Sign Essentials (AD3-D104)</em>
+    <em>Guia de estudo da Acrobat Sign para a avaliação do Acrobat Sign Essentials (AD3-D104)</em>
     <br>
   </td>
   <td>
