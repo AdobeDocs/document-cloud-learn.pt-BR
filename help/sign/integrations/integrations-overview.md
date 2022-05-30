@@ -98,10 +98,10 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Criar um modelo de documento no Acrobat Sign para Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Criação de um modelo de documento no Acrobat Sign para Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Criar um modelo de documento no Acrobat Sign para Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Criação de um modelo de documento no Acrobat Sign para Salesforce</strong></a>
     </div>
     <em>Crie um modelo de documento reutilizável para fornecer velocidade e consistência</em>
     <br>

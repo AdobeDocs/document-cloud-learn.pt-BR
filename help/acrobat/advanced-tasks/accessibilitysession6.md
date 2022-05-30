@@ -1,6 +1,6 @@
 ---
 title: Adição de campos de formulário a um PDF não marcado
-description: Esta sessão sob demanda aprofunda a criação de campos de formulário manuais e propriedades adicionais de campos de formulário
+description: Esta sessão por demanda aprofunda-se na criação de campos de formulário manuais e propriedades adicionais de campos de formulário
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Adição de campos de formulário a um PDF não marcado
 
-Essa sessão sob demanda aprofunda a criação de campos de formulário manuais e propriedades adicionais de campos de formulário.
+Esta sessão por demanda aprofunda-se na criação de campos de formulário manuais e propriedades adicionais de campos de formulário.
 
-Clique [aqui](../assets/accessibilitysession6.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
+Clique em [aqui](../assets/accessibilitysession6.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
 
 Selecione a imagem para exibir o vídeo em uma guia separada do navegador.
 
-[![Vídeo](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw) da sessão 6{target=&quot;_blank&quot;}
+[![Vídeo da sessão 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

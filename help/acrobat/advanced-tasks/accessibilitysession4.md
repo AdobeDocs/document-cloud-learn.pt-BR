@@ -1,6 +1,6 @@
 ---
 title: Documentos digitalizados e listas complexas
-description: Esta sessão sob demanda aborda os problemas mais complexos que as pessoas frequentemente enfrentam, como documentos digitalizados e listas complexas
+description: Esta sessão por demanda aborda os problemas mais complexos que as pessoas frequentemente enfrentam, como documentos digitalizados e listas complexas
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Documentos digitalizados e listas complexas
 
-Esta sessão sob demanda aborda os problemas mais complexos que as pessoas frequentemente enfrentam, como documentos digitalizados e listas complexas.
+Esta sessão por demanda aborda os problemas mais complexos que as pessoas frequentemente enfrentam, como documentos digitalizados e listas complexas.
 
-Clique [aqui](../assets/accessibilitysession4.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
+Clique em [aqui](../assets/accessibilitysession4.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
 
 Selecione a imagem para exibir o vídeo em uma guia separada do navegador.
 
-[![Vídeo](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc) da sessão 4{target=&quot;_blank&quot;}
+[![Vídeo da sessão 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

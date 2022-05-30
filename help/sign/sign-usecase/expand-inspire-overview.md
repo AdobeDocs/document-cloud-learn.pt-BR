@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Visão geral dos setores e departamentos
 
-![Imagem do setor do Acrobat Sign](../assets/Hero-Industry.png)
+![Acrobat Sign Industry Image](../assets/Hero-Industry.png)
 
 Saiba como transformar as experiências de assinatura eletrônica da sua organização, explorando casos de uso reais do setor e de departamentos, receitas e webinários.
 
@@ -49,7 +49,7 @@ Saiba como transformar as experiências de assinatura eletrônica da sua organiz
     <div>
     <a href="use-case-showcase.md"><strong>Destaque de caso de uso</strong></a>
     </div>
-    <em>Assista a sessões ao vivo ou gravadas apresentando novos casos de uso e tendências do Acrobat Sign</em>
+    <em>Assista a sessões ao vivo ou gravadas para conhecer novos casos de uso e tendências do Acrobat Sign</em>
     <br>
   </td>
 </tr>

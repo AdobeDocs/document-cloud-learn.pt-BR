@@ -1,6 +1,6 @@
 ---
 title: Criar arquivos PDF de [!DNL Microsoft Word]
-description: Arquivos de PDF avançados e robustos com sumário hipervinculado e referências cruzadas, marcadores e até mesmo anexos são fáceis de criar usando o Acrobat Add-on para [!DNL Microsoft Word]
+description: Arquivos PDF avançados e robustos com sumário e referências cruzadas com hiperlinks, marcadores e até mesmo anexos são fáceis de criar usando o complemento do Acrobat para [!DNL Microsoft Word]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Criar arquivos PDF de [!DNL Microsoft Word]
 
-Saiba como criar arquivos de PDF ricos e robustos com sumário e referências cruzadas com hiperlinks, marcadores e até mesmo anexos usando o complemento Acrobat para [!DNL Microsoft Word].
+Saiba como criar arquivos PDF avançados e robustos com sumários e referências cruzadas com hiperlinks, marcadores e até mesmo anexos usando o complemento do Acrobat para [!DNL Microsoft Word].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe com mais inteligência com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!

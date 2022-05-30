@@ -1,5 +1,5 @@
 ---
-title: Visão geral do Mobile
+title: Visão geral móvel
 description: Envie documentos para assinatura, monitore o progresso das assinaturas eletrônicas e receba atualizações em tempo real diretamente no dispositivo móvel
 role: User
 product: adobe sign
@@ -14,7 +14,7 @@ ht-degree: 29%
 
 ---
 
-# Visão geral do Mobile
+# Visão geral móvel
 
 ![Imagem do Sign Mobile](../assets/Hero-Mobile.png)
 
@@ -37,7 +37,7 @@ Envie documentos para assinatura, monitore o progresso das assinaturas eletrôni
       <img alt="Baixar para iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Baixar o aplicativo Mobile do Acrobat Sign para iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Envie documentos para assinatura, monitore o progresso das assinaturas eletrôni
       <img alt="Baixar para Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Baixar o aplicativo Mobile do Acrobat Sign para Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para Android</strong></a>
     <br>
   </td>
 </tr>

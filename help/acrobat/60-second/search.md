@@ -1,6 +1,6 @@
 ---
-title: Pesquisar vários arquivos PDF de uma só vez
-description: Iniciar uma pesquisa em um arquivo PDF e, em seguida, abrir a Pesquisa avançada e pesquisar uma pasta inteira de arquivos PDF
+title: Pesquisar vários arquivos PDF de uma vez
+description: Inicie uma pesquisa em um arquivo PDF, abra a Pesquisa avançada e pesquise uma pasta inteira de arquivos PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Pesquisar vários arquivos PDF de uma só vez
+# Pesquisar vários arquivos PDF de uma vez
 
-Neste tutorial em vídeo de 60 segundos, saiba mais como iniciar uma pesquisa em um arquivo PDF, em seguida, abra a Pesquisa avançada e pesquise uma pasta inteira de arquivos PDF.
+Neste tutorial em vídeo de 60 segundos, saiba como iniciar uma pesquisa em um arquivo PDF, abrir a Pesquisa avançada e pesquisar uma pasta inteira de arquivos PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

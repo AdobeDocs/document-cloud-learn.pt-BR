@@ -31,7 +31,7 @@ Saiba como enviar uma mensagem de texto, email ou notificação por push para pe
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign para Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
+Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
 
 ![Admin.](assets/adminTerminal.png)
 

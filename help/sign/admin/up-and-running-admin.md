@@ -1,6 +1,6 @@
 ---
 title: Em funcionamento para administradores do Acrobat Sign
-description: Visão geral de sete áreas principais para os administradores entrarem em funcionamento rapidamente no Acrobat Sign
+description: Visão geral de sete áreas principais para que os administradores comecem a trabalhar rapidamente no Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Em funcionamento para administradores do Acrobat Sign
 
-Conheça as sete áreas principais nas quais os administradores devem se concentrar para começar a trabalhar rapidamente no Acrobat Sign.
+Conheça as sete principais áreas em que os administradores devem se concentrar para começar a trabalhar rapidamente no Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

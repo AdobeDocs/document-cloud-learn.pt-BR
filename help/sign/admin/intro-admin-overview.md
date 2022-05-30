@@ -31,7 +31,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="up-and-running-admin.md"><strong>Em execução para administradores</strong></a>
     </div>
-    <em>Visão geral de 7 áreas principais para os administradores entrarem em funcionamento rapidamente no Acrobat Sign</em>
+    <em>Visão geral de 7 áreas principais para os administradores iniciarem e executarem rapidamente no Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="add-users-to-your-account.md"><strong>Adicionar usuários</strong></a>
     </div>
-    <em>Adicionar usuários individualmente ou em massa à sua conta do Acrobat Sign</em>
+    <em>Adicionar usuários individualmente ou em massa à sua conta da Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="create-a-report.md"><strong>Criação de um relatório</strong></a>
     </div>
-    <em>Crie e agende relatórios para ter visibilidade do uso do Acrobat Sign pela sua organização</em>
+    <em>Crie e programe relatórios para ter visibilidade sobre o uso do Acrobat Sign por sua organização</em>
     <br>
   </td>
   <td>
@@ -196,7 +196,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     <div>
-    <em>Criar campos de formulário do Acrobat Sign marcando texto usando o Adobe Acrobat</em>
+    <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
     <br>
   </td>
   <td>

@@ -1,6 +1,6 @@
 ---
 title: Tabelas Complexas
-description: Esta sessão sob demanda trata de um dos problemas mais comuns e desafiadores na correção de um PDF para acessibilidade — tabelas complexas
+description: Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de uma PDF para acessibilidade — tabelas complexas
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Tabelas complexas
 
-Esta sessão sob demanda trata de um dos problemas mais comuns e desafiadores na correção de um PDF para acessibilidade — tabelas complexas.
+Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de uma PDF para acessibilidade — tabelas complexas.
 
-Clique [aqui](../assets/accessibilitysession3.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
+Clique em [aqui](../assets/accessibilitysession3.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
 
 Selecione a imagem para exibir o vídeo em uma guia separada do navegador.
 
-[![Vídeo](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y) da sessão 3{target=&quot;_blank&quot;}
+[![Vídeo da sessão 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

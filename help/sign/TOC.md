@@ -128,5 +128,5 @@ ht-degree: 7%
    + [Visão geral](deploy-overview.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + Tutoriais do Mobile {#mobile-tutorials}
+   + Tutoriais em dispositivos móveis {#mobile-tutorials}
       + [Liquid Mode no Acrobat Sign](mobile/liquidmode.md)

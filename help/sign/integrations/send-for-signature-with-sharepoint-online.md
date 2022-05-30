@@ -22,4 +22,4 @@ Saiba como simplificar os fluxos de trabalho de documentos enviando um documento
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Uso do Acrobat Sign nos aplicativos da Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Uso do Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) que está disponível gratuitamente no Experience League!

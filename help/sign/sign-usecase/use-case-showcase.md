@@ -1,6 +1,6 @@
 ---
 title: Destaque de caso de uso
-description: Acrobat O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso, tendências e mostra como sua organização pode implementá-los e se beneficiar deles
+description: Acrobat Sign O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso, tendências e mostra como sua organização pode implementá-los e se beneficiar deles
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![banner do caso de uso](../assets/UCSC_Rebrand.png)
 
-O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso e tendências do Acrobat Sign e mostra como sua organização pode implementá-los e se beneficiar deles. A cada mês, um novo tópico é destacado.
+Acrobat Sign O Destaque de caso de uso é uma sessão transmitida ao vivo que apresenta novos casos de uso, tendências e mostra como sua organização pode implementá-los e se beneficiar deles. A cada mês, um novo tópico é destacado.
 
 Abaixo estão as gravações ou os links de inscrição para as sessões mais recentes:
 
@@ -34,23 +34,23 @@ Como será o futuro das compras de carros? Para a fabricante sueca de automóvei
 Junte-se a nós para uma conversa sobre os bastidores com a Volvo Cars, discutindo como ela pegou grandes ideias e as transformou em realidades - e como outras empresas podem aprender com suas experiências de transformação.
 
 * **[Cinco maneiras como órgãos governamentais se transformarão em gravações sob demanda em 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
-Como o Acrobat Sign pode ajudar órgãos governamentais a servir melhor a população? Cidadãos e funcionários agora esperam experiências online mais envolventes. E, para serem migrados ao digital, os processos governamentais precisam atender a requisitos rigorosos de segurança, privacidade e conformidade. Com a chegada da pandemia, órgãos governamentais precisaram aumentar seus esforços de transformação digital para continuar atendendo às necessidades dos eleitores e manter suas operações.
+Como a Acrobat Sign pode ajudar órgãos governamentais a servir melhor seus eleitores? Cidadãos e funcionários agora esperam experiências online mais envolventes. E, para serem migrados ao digital, os processos governamentais precisam atender a requisitos rigorosos de segurança, privacidade e conformidade. Com a chegada da pandemia, órgãos governamentais precisaram aumentar seus esforços de transformação digital para continuar atendendo às necessidades dos eleitores e manter suas operações.
 
 Participe do Destaque de caso de uso do Acrobat Sign para assistir a uma discussão de especialistas do governo sobre os desafios que órgãos governamentais federais, estaduais e locais enfrentaram e como eles continuam inovando para manter o governo funcionando.
 
 ## Sessões de 2020 por setor
 
 * **[Governo](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target=&quot;_blank&quot;}**
-Foco: Nossos participantes especialistas abordam práticas recomendadas e uma variedade de casos de uso específicos do governo para mostrar como o Acrobat Sign pode ajudar sua equipe a poupar tempo, dinheiro e recursos sem comprometer a conformidade e a segurança.
+Foco: Nossos participantes especialistas abordam práticas recomendadas e uma variedade de casos de uso específicos do governo para mostrar como a Acrobat Sign pode ajudar sua equipe a poupar tempo, dinheiro e recursos sem comprometer a conformidade e a segurança.
 
 * **[Jurídico](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
-Foco: Nossos participantes discutirão como departamentos jurídicos estão gerenciando a mudança para processos de documentos totalmente remotos. Se você está começando ou já digitalizou alguns fluxos de trabalho, o Acrobat Sign pode ampliar a produtividade da sua equipe em todas as fases da transformação digital.
+Foco: Nossos participantes discutirão como departamentos jurídicos estão gerenciando a mudança para processos de documentos totalmente remotos. Se você está começando ou já digitalizou alguns fluxos de trabalho, a Acrobat Sign pode ampliar a produtividade da sua equipe em todas as fases da transformação digital.
 
 * **[Vendas](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target=&quot;_blank&quot;}**
 Foco: Especialistas da Adobe destacam as práticas recomendadas para o sucesso da transformação digital em compras e a discussão abrange as tendências do setor e os requisitos para fornecer experiências de usuário excelentes.
 
 * **[Aquisição e logística](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
-Foco: Como o Acrobat Sign funciona em compras e logística.
+Foco: Como a Acrobat Sign trabalha em compras e logística.
 
 * **[Aplicativos de RH](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
 Foco: Como o Acrobat Sign funciona em vários aplicativos de RH.
@@ -62,13 +62,13 @@ Foco: Como o Acrobat Sign funciona no governo estadual e local.
 Foco: Como o Acrobat Sign funciona para instituições de ensino.
 
 * **[Ciências biológicas](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
-Foco: Como o Acrobat Sign funciona para as ciências biológicas.
+Foco: Como a Acrobat Sign trabalha para as ciências biológicas.
 
 * **[Saúde](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
 Foco: Como o Acrobat Sign funciona na área de saúde. Os tópicos incluem: uso crescente da telesaúde e da transformação digital — infraestrutura e dimensionamento.
 
 * **[Serviços financeiros](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
-Foco: Como o Acrobat Sign funciona para bancos. Os tópicos incluem: tendências do setor para 2020 e além, documentos e processos digitais como parte de uma transformação digital mais ampla, práticas recomendadas, casos de uso e os benefícios do Acrobat Sign.
+Foco: Como o Acrobat Sign funciona para bancos. Os tópicos incluem: tendências do setor para 2020 e além, documentos e processos digitais como parte de uma transformação digital mais ampla, práticas recomendadas, casos de uso e os benefícios da Acrobat Sign.
 
 * **[Seguros](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Foco: Como o Acrobat Sign funciona para serviços financeiros e seguros. Os tópicos incluem: tendências do setor, conformidade e requisitos normativos no setor financeiro e fornecendo uma excelente experiência do usuário.
+Foco: Como a Acrobat Sign trabalha para serviços financeiros e seguros. Os tópicos incluem: tendências do setor, conformidade e requisitos normativos no setor financeiro e fornecendo uma excelente experiência do usuário.

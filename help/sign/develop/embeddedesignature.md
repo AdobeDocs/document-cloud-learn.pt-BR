@@ -1,6 +1,6 @@
 ---
 title: Crie assinaturas eletrônicas incorporadas e experiências em documentos
-description: Saiba como usar as APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo
+description: Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Crie assinaturas eletrônicas incorporadas e experiências em documentos
 
-Saiba como usar as APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo. Há quatro partes deste tutorial prático descritas nos links abaixo:
+Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo. Há quatro partes deste tutorial prático descritas nos links abaixo:
 
 <table style="table-layout:fixed">
 <tr>
@@ -98,7 +98,7 @@ Primeiro, você precisará estabelecer o acesso. Com o Acrobat Sign, há duas ma
 
 Agora que você tem acesso e pode interagir com a API, veja o que pode fazer com a API.
 
-1. Navegue até o [Métodos da API REST Versão 6 do Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
+1. Navegue até o [Métodos da Acrobat Sign REST API Versão 6](http://adobesign.com/public/docs/restapi/v6).
 
    ![Captura de tela dos métodos de navegação da API REST Versão 6 do Acrobat Sign](assets/embeddedesignature/embed_5.png)
 

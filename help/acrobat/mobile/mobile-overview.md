@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Visão geral do Mobile
+# Visão geral móvel
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
