@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -36,12 +36,12 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuração de eventos e alertas compartilhados" src="../assets/SharedEvents.png" />
+      <img alt="Configuração de eventos e alertas compartilhados" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configuração de eventos e alertas compartilhados</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
     </div>
-    <em>Definir configurações de eventos e alertas para sua organização</em>
+    <em>Configurar notificações de eventos e alertas para sua conta</em>
     <br>
   </td>
   <td>
