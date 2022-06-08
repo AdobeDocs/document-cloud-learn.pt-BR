@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
       <img alt="Delegando a outra pessoa" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Delegando a outra pessoa</strong></a>
+    <a href="delegate-signature.md"><strong>Uso da função de delegador</strong></a>
     </div>
     <em>Use a função de delegador para enviar um documento a um intermediário que pode encaminhar o documento para assinatura</em>
     <br>
@@ -83,7 +83,7 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     </div>
-    <em>Criar campos de formulário do Acrobat Sign marcando texto usando o Adobe Acrobat</em>
+    <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
     <br>
   </td> 
 </table>
