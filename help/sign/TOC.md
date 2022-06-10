@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [Configurando a ordem de assinatura](sign-advanced-users/setting-up-routing.md)
       + [Uso da função de delegador](sign-advanced-users/delegate-signature.md)
       + [Adicionando um Aprovador](sign-advanced-users/add-an-approver.md)
-      + [Coletar assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Envie e colete assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configuração de um formulário web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gerenciamento {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [Criação de um modelo](sign-advanced-users/create-a-template.md)
       + [Criação de um relatório](admin/create-a-report.md)
       + [Configuração de um formulário web](sign-advanced-users/webform.md)
-      + [Coletar assinaturas em massa](sign-advanced-users/megasign.md)
+      + [Envie e colete assinaturas em massa](sign-advanced-users/megasign.md)
       + [Criar um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
    + Tarefas avançadas {#advanced-tasks-admins}
       + [Configurações globais](admin/learn-about-global-settings.md)

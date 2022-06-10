@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="Coletar assinaturas em massa" src="../assets/Megasign.png" />
+      <img alt="Envie e colete assinaturas em massa" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>Coletar assinaturas em massa</strong></a>
+    <a href="megasign.md"><strong>Envie e colete assinaturas em massa</strong></a>
     </div>
     <em>Colete centenas de assinaturas de uma só vez para qualquer documento em poucas etapas</em>
     <br>
