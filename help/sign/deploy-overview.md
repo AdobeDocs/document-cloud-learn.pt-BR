@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 10%
 
 ---
 
@@ -33,16 +33,6 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
-      <img alt="Práticas recomendadas" src="assets/Deploy_BP.png" />
-    </a>
-    <div>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Práticas recomendadas</strong></a>
-    </div>
-    <em>Analise insights valiosos e o conhecimento adquirido pelo trabalho de nosso Gerente de sucesso do cliente com nossos clientes na implantação do Acrobat Sign</em>
-    <br>
-  </td>  
-  <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
       <img alt="Central de confiança do Adobe" src="assets/Deploy_Trust.png" />
     </a>
@@ -52,26 +42,14 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
     <em>Saiba mais sobre nossos esforços contínuos em segurança, legalidade e padrões para o Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Guia de estudos dos princípios essenciais do Acrobat Sign" src="assets/SignStudyGuide.png" />
+      <img alt="Guia de estudo do Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Guia de estudos dos princípios essenciais do Acrobat Sign</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Guia de estudo do Acrobat Sign Essentials</strong></a>
     </div>
     <em>Guia de estudo da Acrobat Sign para a avaliação do Acrobat Sign Essentials (AD3-D104)</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
