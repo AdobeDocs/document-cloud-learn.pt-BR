@@ -1,14 +1,14 @@
 ---
-title: Visão geral de introdução do Acrobat Sign
+title: Visão geral do Acrobat Sign Getting Started
 description: Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -125,6 +125,16 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Delegar assinatura a outra pessoa" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Delegar assinatura a outra pessoa</strong></a>
+    </div>
+    <em>Saiba como delegar a assinatura de um documento a outra pessoa</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="O que é uma assinatura digital" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
      <br>
   </td> 
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
