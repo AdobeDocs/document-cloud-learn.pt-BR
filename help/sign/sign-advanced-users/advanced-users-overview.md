@@ -1,5 +1,5 @@
 ---
-title: Visão geral das tarefas avançadas do Sign
+title: Visão Geral de Tarefas Avançadas
 description: Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
