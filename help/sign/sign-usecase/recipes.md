@@ -9,14 +9,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Receitas de caso de uso
+
+![Banner do caso de uso](../assets/Hero-Recipe.png)
 
 Acelere os fluxos de trabalho digitais da sua organização com estes exemplos de assinaturas eletrônicas para órgãos governamentais e comerciais. Clique para exibir um PDF com recursos e detalhes sobre como configurar esses casos específicos de uso de assinaturas eletrônicas.
 
