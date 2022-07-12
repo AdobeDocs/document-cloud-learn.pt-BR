@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Na parte 1, saiba como começar com tudo o que você precisa para as partes 2 a 
    * Windows — Chocolatey
    * Todos — https://www.python.org/downloads/
 
++++
+
 ## Parte 2: Baixo/sem código — o poder dos formulários web
 
 Na parte 2, explore a opção de baixo/sem código do uso de formulários web. É sempre uma boa ideia ver se você pode evitar escrever código no início.
@@ -54,6 +56,8 @@ Na parte 2, explore a opção de baixo/sem código do uso de formulários web. �
 1. Experimente adicionar parâmetros de consulta dinamicamente.
 
    ![Captura de tela da adição de parâmetros de consulta](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Parte 3: Enviar contrato com um formulário e mesclar dados
 
@@ -110,6 +114,8 @@ O código é bastante simples; ele usa um documento da biblioteca (modelo) para 
 
 ![Captura de tela do código para adicionar assinaturas dinamicamente](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Parte 4: Incorpore experiência de assinatura, redirecionamentos e muito mais
 
 Em muitos casos, você pode permitir que o participante acionador assine imediatamente um contrato. Isso é útil para aplicativos e quiosques voltados para o cliente.
@@ -135,6 +141,8 @@ Depois de atualizar o processo de criação do contrato, a etapa final é gerar 
 ![Captura de tela dizendo que é prática recomendada estabelecer um loop de repetição](assets/embeddedesignature/embed_15.png)
 
 Quando tudo é montado, a solução é bastante simples. Você está criando um contrato e gerando um URL de assinatura para o signatário clicar e começar o ritual de assinatura.
+
++++
 
 ## Tópicos adicionais
 
