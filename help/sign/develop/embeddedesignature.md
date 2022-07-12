@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # Crie assinaturas eletrônicas incorporadas e experiências em documentos
 
-Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo. Há quatro partes deste tutorial prático descritas nos links abaixo:
+Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo. Há quatro partes neste tutorial prático.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="O que você vai precisar" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Parte 1: O que você vai precisar</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Parte 2: Baixo/sem código — o poder dos formulários web" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Parte 2: Baixo/sem código — o poder dos formulários web</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Parte 3: Enviar contrato com um formulário, mesclar dados" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Parte 3: Enviar contrato com um formulário e mesclar dados</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Parte 4: Incorpore experiência de assinatura, redirecionamentos e muito mais" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Parte 4: Incorpore experiência de assinatura, redirecionamentos e muito mais</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## Parte 1: O que você precisa
 
-## Parte 1: O que você vai precisar {#part1}
+Na parte 1, saiba como começar com tudo o que você precisa para as partes 2 a 4. Vamos começar obtendo credenciais de API.
 
-Na parte 1, você aprenderá a começar com tudo o que precisa para as partes 2 a 4. Vamos começar obtendo credenciais de API.
++++Exibir detalhes sobre como obter credenciais de API
 
 * [Conta de desenvolvedor do Acrobat Sign](https://acrobat.adobe.com/br/pt/sign/developer-form.html)
 * [Código Inicial](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ Na parte 1, você aprenderá a começar com tudo o que precisa para as partes 2 
    * Windows — Chocolatey
    * Todos — https://www.python.org/downloads/
 
-## Parte 2: Baixo/sem código — o poder dos formulários web {#part2}
+## Parte 2: Baixo/sem código — o poder dos formulários web
 
-Na parte 2, você explorará a opção de código baixo/sem código ao usar formulários da Web. É sempre uma boa ideia ver se você pode evitar escrever código no início.
+Na parte 2, explore a opção de baixo/sem código do uso de formulários web. É sempre uma boa ideia ver se você pode evitar escrever código no início.
+
++++Exibir detalhes sobre como criar um formulário da Web
 
 1. Acesse o Acrobat Sign com sua conta de desenvolvedor.
-1. Clique em **Publicar um formulário da Web** na página inicial.
+
+1. Selecionar **Publicar um formulário da Web** na página inicial.
 
    ![Captura de tela da página inicial do Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ Na parte 2, você explorará a opção de código baixo/sem código ao usar form
    ![Captura de tela de como criar um formulário da Web](assets/embeddedesignature/embed_2.png)
 
 1. Incorpore seu contrato em uma página HTML simples.
+
 1. Experimente adicionar parâmetros de consulta dinamicamente.
 
    ![Captura de tela da adição de parâmetros de consulta](assets/embeddedesignature/embed_3.png)
 
-## Parte 3: Enviar contrato com um formulário e mesclar dados {#part3}
+## Parte 3: Enviar contrato com um formulário e mesclar dados
 
-Na parte 3, você criará contratos dinamicamente.
+Na parte 3, crie contratos de maneira dinâmica.
 
-Primeiro, você precisará estabelecer o acesso. Com o Acrobat Sign, há duas maneiras de se conectar por meio da API. Tokens OAuth e chaves de integração. A menos que você tenha um motivo muito específico para usar o OAuth com seu aplicativo, convém explorar as Chaves de integração primeiro.
++++Exibir detalhes sobre como criar contratos dinamicamente
+
+Primeiro, você precisa estabelecer o acesso. Com o Acrobat Sign, há duas maneiras de se conectar por meio da API. Tokens OAuth e chaves de integração. A menos que você tenha um motivo muito específico para usar o OAuth com seu aplicativo, você deve explorar as Chaves de integração primeiro.
 
 1. Selecionar **Chave de integração** no **Informações da API** menu abaixo do **Conta** no Acrobat Sign.
 
@@ -139,9 +110,11 @@ O código é bastante simples; ele usa um documento da biblioteca (modelo) para 
 
 ![Captura de tela do código para adicionar assinaturas dinamicamente](assets/embeddedesignature/embed_11.png)
 
-## Parte 4: Incorpore experiência de assinatura, redirecionamentos e muito mais {#part4}
+## Parte 4: Incorpore experiência de assinatura, redirecionamentos e muito mais
 
 Em muitos casos, você pode permitir que o participante acionador assine imediatamente um contrato. Isso é útil para aplicativos e quiosques voltados para o cliente.
+
++++Veja detalhes sobre como incorporar a experiência de assinatura
 
 Se você não deseja que o primeiro email de envio seja acionado, uma maneira fácil é gerenciar o comportamento é com uma modificação na chamada de API.
 
@@ -163,7 +136,7 @@ Depois de atualizar o processo de criação do contrato, a etapa final é gerar 
 
 Quando tudo é montado, a solução é bastante simples. Você está criando um contrato e gerando um URL de assinatura para o signatário clicar e começar o ritual de assinatura.
 
-### Tópicos adicionais
+## Tópicos adicionais
 
 * [Eventos JS](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Eventos do Webhook
@@ -179,14 +152,3 @@ Quando tudo é montado, a solução é bastante simples. Você está criando um 
       ![Captura de tela de navegação para o Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Ou adicione um [em voo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Recursos adicionais
-
-http://bit.ly/Summit21-T126
-
-Inclui:
-* Conta de desenvolvedor do Acrobat Sign
-* Documentos de API do Acrobat Sign
-* Código de exemplo
-* Código do Visual Studio
-* Python
