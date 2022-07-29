@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="Configurar pagamentos online" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>Configurar pagamentos online</strong></a>
+    </div>
+    <em>Saiba como configurar e aceitar pagamentos online em seus documentos</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="Envie e colete assinaturas em massa" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     </div>
     <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     </div>
     <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Gerenciamento
