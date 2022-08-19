@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
+source-git-commit: 74c1d80d2a165240218b9538aee90662634ba35a
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 # Enviar para assinatura em [!DNL Microsoft Teams]
 
-Saiba como enviar contratos para assinatura, verificar o status dos contratos e enviar lembretes, tudo isso de dentro do [!DNL Microsoft Teams].
-Este exemplo percorre um corretor de hipoteca enviando uma solicitação de empréstimo para assinatura diretamente no Teams. Essa estreita integração acelera o processo de empréstimo hipotecário, mesmo ao trabalhar com candidatos a hipoteca em um ambiente de trabalho remoto.
+Saiba como enviar contratos para assinatura, verificar o status dos contratos e enviar lembretes, tudo isso de dentro do [!DNL Microsoft Teams]. Este exemplo percorre um corretor de hipoteca enviando uma solicitação de empréstimo para assinatura diretamente no Teams. Essa estreita integração acelera o processo de empréstimo hipotecário, mesmo ao trabalhar com candidatos a hipoteca em um ambiente de trabalho remoto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
