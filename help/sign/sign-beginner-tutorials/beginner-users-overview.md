@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,16 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <a href="quick-tour.md"><strong>Noções básicas sobre a área de trabalho</strong></a>
     </div>
     <em>Faça um tour rápido pela área de trabalho do Acrobat Sign para começar a trabalhar</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Introdução ao Acrobat Sign para novos remetentes" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Introdução ao Acrobat Sign para novos remetentes</strong></a>
+    </div>
+    <em>Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -56,13 +66,13 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Introdução ao Acrobat Sign para novos remetentes" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Adicionar campos aos documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Introdução ao Acrobat Sign para novos remetentes</strong></a>
+    <a href="adding-fields.md"><strong>Adicionar campos aos documentos</strong></a>
     </div>
-    <em>Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Acrobat Sign</em>
+    <em>Saiba como adicionar diferentes tipos de campos aos documentos</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     </div>
     <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
      <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Colete a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Delegar assinatura a outra pessoa" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Saiba como delegar a assinatura de um documento a outra pessoa</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="O que é uma assinatura digital" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Assinar usando um carimbo" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Assinar usando um carimbo</strong></a>
+    </div>
+    <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <a href="../sign-advanced-users/create-a-template.md"><strong>Criação de um modelo de documento</strong></a>
     </div>
     <em>Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
