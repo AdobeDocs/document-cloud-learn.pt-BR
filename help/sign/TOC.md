@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '441'
 ht-degree: 8%
 
 ---
@@ -52,6 +52,7 @@ ht-degree: 8%
       + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gerenciamento {#advanced-tasks-managing}
       + [Gerenciar modelos de documento](sign-advanced-users/edit-a-template.md)
+      + [Modificar um formulário web existente](sign-advanced-users/modify-webform.md)
 + Administrar {#admin-set-up}
    + [Visão geral](admin/intro-admin-overview.md)
    + Introdução {#getting-started-admin}

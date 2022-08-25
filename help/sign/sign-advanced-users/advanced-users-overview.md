@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <em>Adicionar uma função de aprovador ao processo de aprovação do contrato</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Configurar pagamentos online" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <em>Saiba como configurar e aceitar pagamentos online em seus documentos</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Envie e colete assinaturas em massa" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     </div>
     <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <a href="edit-a-template.md"><strong>Gerenciar modelos de documento</strong></a>
     </div>
     <em>Editar ou excluir um modelo da sua biblioteca</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Modificar um formulário web existente" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Modificar um formulário web existente</strong></a>
+    </div>
+    <em>Saiba como desativar, editar e reativar um formulário web existente</em>
     <br>
   </td>  
   <td>
