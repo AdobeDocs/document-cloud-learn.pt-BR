@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -66,6 +66,16 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Configurar opções de envio" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Configurar opções de envio</strong></a>
+    </div>
+    <em>Saiba como configurar várias opções ao enviar um documento para assinatura</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Adicionar campos aos documentos" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Saiba como adicionar diferentes tipos de campos aos documentos</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Modificar um documento após o envio" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Modificar um documento que já está em andamento</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Substituir um signatário" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     </div>
     <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
      <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
