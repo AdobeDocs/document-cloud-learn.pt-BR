@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
+source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '454'
 ht-degree: 8%
 
 ---
@@ -64,6 +64,7 @@ ht-degree: 8%
       + [Criação de um modelo](sign-advanced-users/create-a-template.md)
       + [Criação de um relatório](admin/create-a-report.md)
       + [Criar um formulário da Web](sign-advanced-users/webform.md)
+      + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Envie e colete assinaturas em massa](sign-advanced-users/megasign.md)
       + [Criar um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
    + Tarefas avançadas {#advanced-tasks-admins}

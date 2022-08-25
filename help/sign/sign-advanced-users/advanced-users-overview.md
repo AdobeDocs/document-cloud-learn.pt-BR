@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
+source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 4%
 
 ---
@@ -94,6 +94,11 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     </div>
     <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
