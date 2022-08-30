@@ -1,27 +1,26 @@
 ---
-title: Criando um Relatório
-description: Saiba como executar, salvar e agendar relatórios no Acrobat Sign
+title: Criando um Gráfico de Relatório
+description: Saiba como criar, salvar e gerenciar seus próprios relatórios e exportações de dados personalizados
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Criação de um relatório
+# Criando um gráfico de relatório
 
-Saiba como executar, salvar e agendar relatórios no Acrobat Sign.
+Saiba como criar, salvar e gerenciar seus próprios relatórios e exportações de dados personalizados em uma exibição personalizada com a nova experiência de geração de relatórios. A disponibilidade de gráficos de relatório depende do nível de autoridade dos usuários no sistema do Acrobat Sign.
 
 >[!NOTE]
 >
 >Os relatórios só estão disponíveis para planos empresariais e corporativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >
