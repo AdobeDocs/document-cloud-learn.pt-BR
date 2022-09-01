@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [Produtividade em trânsito](getting-started/productivity.md)
    + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Colabore em tempo real](getting-started/collaborate.md)
-   + [Combine Files para PDF](getting-started/combine-to-pdf.md)
+   + [De onde vêm as PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Criar um PDF](getting-started/create-pdf.md)
-   + [Comentário sobre um PDF](getting-started/comment-on-pdf-files.md)
-   + [Editar um PDF](getting-started/edit-pdf.md)
-   + [Exportar um PDF para formatos editáveis](getting-started/export-pdf.md)
-   + [Criar formulários preenchíveis](getting-started/create-fillable-forms.md)
-   + [Digitalização e OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files para PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
-   + [Protect um arquivo PDF com uma senha](getting-started/password-protect.md)
+   + [Editar um PDF](getting-started/edit-pdf.md)
+   + [Ajustar layout automaticamente](getting-started/auto-adjust-layout.md)
+   + [Exportar um PDF para formatos editáveis](getting-started/export-pdf.md)
+   + [Colabore em tempo real](getting-started/collaborate.md)
+   + [Comentário sobre um PDF](getting-started/comment-on-pdf-files.md)
+   + [Criar formulários preenchíveis](getting-started/create-fillable-forms.md)
    + [PDF forms Fill &amp; Sign](getting-started/fill-and-sign.md)
+   + [Digitalização e OCR](getting-started/scan-and-ocr.md)
+   + [Protect um arquivo PDF com uma senha](getting-started/password-protect.md)
    + [Obter assinaturas](getting-started/signatures.md)
    + [Monitorar seus documentos](getting-started/track.md)
-   + [De onde vêm as PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tarefas avançadas {#advanced-tasks}
    + [Visão geral](advanced-tasks/advanced-tasks-overview.md)
    + [Adicionar marcadores e hiperlinks](advanced-tasks/bookmarks.md)
