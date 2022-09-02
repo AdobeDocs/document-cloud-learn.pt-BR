@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Converta arquivos e formulários do Word em PDF e crie campos de formulário automaticamente</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Deixe o Acrobat ajudá-lo a tornar PDF acessíveis" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Verifique se um PDF está acessível</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF para Word no telefone" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Converter um PDF digitalizado para que você possa procurar texto no PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Combinar arquivos em um PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Faça edições simples em texto e imagens sem baixar o PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Pesquisar vários arquivos PDF de uma vez" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Inicie uma pesquisa em um arquivo PDF, abra a Pesquisa avançada e pesquise uma pasta inteira de arquivos PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="Crie uma PDF de fotos em um instante" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     </div>
     <em>Aprenda a usar o Adobe Scan para assinar um formulário impresso</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     </div>
     <em>Saiba como fazer edições avançadas em um gráfico no seu PDF usando o Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Organize páginas em um piscar de olhos" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ O Acrobat de 60 segundos oferece tutoriais detalhados para ajudar você a aprend
     <em>Aprenda a usar a ferramenta Organizar páginas para ter uma visão panorâmica da sua PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como criar uma Ação para repetir tarefas comuns, remover informações confidenciais, reduzir e otimizar arquivos grandes, coletar dados de formulários rapidamente e criar arquivos PDF acessíveis universalmente.
 
-## Tutoriais do Acrobat
+## Tutoriais de tarefas avançadas
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Melhore a produtividade do fluxo de trabalho de documentos usando ferramentas e comandos personalizados</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Campos de formulário avançados" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Aprenda técnicas avançadas para construir PDF forms profissionais</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF para SEO (Otimização do Mecanismo de Pesquisa)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Adicione vários tipos de campos de formulário, defina propriedades de campos de formulário e adicione segurança para criar formulários profissionais de alta qualidade</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Aprimore seu PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Detecte com rapidez e precisão as diferenças entre dois arquivos PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <em>Poupe tempo e use uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Redigir e limpar" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
