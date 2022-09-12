@@ -1,42 +1,20 @@
 ---
 title: Organizar páginas
-description: Adicionar, substituir, extrair, girar, excluir e mover páginas no PDF
+description: Adicione, substitua, extraia, gire, exclua e reorganize páginas em seu PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '53'
+ht-degree: 7%
 
 ---
 
 # Organizar páginas
 
-Uso **[!UICONTROL Organizar páginas]** no Acrobat para adicionar, substituir, extrair, girar, excluir e mover páginas no PDF.
+Saiba como reordenar páginas exatamente como quiser, em questão de segundos. Insira, substitua, divida, reorganize, gire e até extraia páginas descontínuas para criar um PDF de aparência profissional. Este tutorial em vídeo usa o [nova experiência na área de trabalho](new-workspace.md).
 
-1. Selecionar **[!UICONTROL Organizar páginas]** do [!UICONTROL Ferramentas] painel central ou à direita.
-
-   ![Organize a Etapa 1](../assets/Organize_1.png)
-
-1. Passe o mouse sobre uma página para girá-la no sentido horário ou anti-horário ou excluir a página.
-
-   Para mover uma página, selecione e arraste a página para o novo local.
-
-   ![Organize a Etapa 2](../assets/Organize_2.png)
-
-1. Selecionar **[!UICONTROL Extract]** na barra de ferramentas, para criar um PDF de uma ou mais páginas.
-
-1. Selecione a página ou páginas e, em seguida, selecione **[!UICONTROL Extract]**.
-
-   Você também pode **[!UICONTROL Inserir]** ou **[!UICONTROL Substituir]** páginas e veja outras opções selecionando **[!UICONTROL Mais]**.
-
-   ![Organize a Etapa 4](../assets/Organize_3.png)
-
-1. Selecionar **[!UICONTROL Dividir]** para separar uma ou mais PDF em várias PDF menores.
-
-   Ao dividir um PDF, você pode separar pelo número de páginas, tamanho do arquivo ou marcadores de nível superior.
-
-   ![Etapa de Verificação 5](../assets/Organize_4.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 5%
@@ -124,12 +124,12 @@ Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a pa
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organizar páginas" src="../assets/Organize.jpg" />
+        <img alt="Organizar páginas" src="../assets/Organize.png" />
       </a>
       <div>
       <a href="organize.md"><strong>Organizar páginas</strong></a>
       </div>
-      <em>Adicionar, substituir, extrair, girar, excluir e mover páginas no PDF</em>
+      <em>Adicione, substitua, extraia, gire, exclua e reorganize páginas em seu PDF</em>
       <br>
     </td>
     <td>
