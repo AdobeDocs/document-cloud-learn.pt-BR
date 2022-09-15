@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ Crie, preencha e assine PDF em seu dispositivo móvel.
      <a href="../getting-started/productivity.md"><strong>Produtividade em trânsito</strong></a>
     </div>
     <em>Faça mais diretamente no tablet ou no telefone celular com o aplicativo Acrobat Reader para dispositivos móveis</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Tutoriais do aplicativo Adobe Scan para dispositivos móveis
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="Digitalize qualquer coisa para PDF" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>Digitalize qualquer coisa para PDF</strong></a>
+    </div>
+    <em>Saiba como transformar documentos impressos em PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis</em>
     <br>
   </td>
   <td>
