@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -174,15 +174,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
     <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="Assinar usando um carimbo" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Assinar usando um carimbo</strong></a>
-    </div>
-    <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="Espaçador" src="../assets/Grayspacer.png" />
