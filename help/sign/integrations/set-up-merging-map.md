@@ -1,21 +1,21 @@
 ---
-title: Configurando Mapeamento de mesclagem
-description: Saiba como mesclar dados do Salesforce diretamente em um contrato
+title: Configurar o mapeamento de mesclagem no Salesforce
+description: Saiba como mesclar dados do Salesforce diretamente em um documento do Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17350.jpg
+thumbnail: KT-10600.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 # Configurar o mapeamento de mesclagem no Salesforce
 
-Saiba como configurar o mapeamento de mesclagem para o Acrobat Sign no Salesforce. O Mapeamento de mesclagem permite mesclar dados do Salesforce diretamente em um contrato.
+Saiba como mesclar dados do Salesforce diretamente em um documento do Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409412?hidetitle=true)

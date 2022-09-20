@@ -2,10 +2,10 @@
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 7%
+source-wordcount: '408'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 7%
    + [Comentário sobre um PDF](getting-started/comment-on-pdf-files.md)
    + [Criar formulários preenchíveis](getting-started/create-fillable-forms.md)
    + [PDF forms Fill &amp; Sign](getting-started/fill-and-sign.md)
-   + [Digitalização e OCR](getting-started/scan-and-ocr.md)
+   + [Digitalizar e OCR](getting-started/scan-and-ocr.md)
    + [Protect um arquivo PDF com uma senha](getting-started/password-protect.md)
    + [Obter assinaturas](getting-started/signatures.md)
    + [Monitorar seus documentos](getting-started/track.md)
@@ -85,10 +85,11 @@ ht-degree: 7%
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Criar PDF em [!DNL Office] para a Web](integrate/createofficeweb.md)
    + [colaboração PDF em [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Trabalhe com seus arquivos do SharePoint](integrate/acrobatandsp.md)
-   + [Converta mensagens de e-mail e anexos em PDF no Outlook](integrate/outlook.md)
-   + [Crie conteúdo PDF ao navegar no Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
+   + [Trabalhe com seu [!DNL SharePoint] arquivos](integrate/acrobatandsp.md)
+   + [Converter mensagens de email e anexos em PDF em [!DNL Outlook]](integrate/outlook.md)
+   + [Criar conteúdo PDF ao navegar com [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat para [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Trabalhar com arquivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Setores e departamentos {#by-industry}
    + [Visão geral](industry/industry-overview.md)
    + Governo {#gov}
