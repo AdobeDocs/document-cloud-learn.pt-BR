@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 8%
@@ -96,7 +96,7 @@ ht-degree: 8%
       + [Arquivar automaticamente em [!DNL SharePoint] com [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automação de documentos com o Acrobat Sign para Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
-      + [Criação de um modelo de documento](integrations/create-an-agreement-template.md)
+      + [Document Builder for Salesforce](integrations/create-an-agreement-template.md)
       + [Configurando mapeamento de dados](integrations/set-up-data-mapping.md)
       + [Configurando mapeamento de mesclagem](integrations/set-up-merging-map.md)
       + [Criação de um botão personalizado](integrations/create-a-custom-button.md)
