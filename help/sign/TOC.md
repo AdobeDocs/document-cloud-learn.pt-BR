@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '466'
 ht-degree: 8%
 
 ---
@@ -50,6 +50,7 @@ ht-degree: 8%
       + [Criar um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Configurar pagamentos online](sign-advanced-users/set-up-online-payments.md)
       + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Usando a marcação de texto no [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gerenciamento {#advanced-tasks-managing}
       + [Gerenciar modelos de documento](sign-advanced-users/edit-a-template.md)
       + [Modificar um formulário web existente](sign-advanced-users/modify-webform.md)
