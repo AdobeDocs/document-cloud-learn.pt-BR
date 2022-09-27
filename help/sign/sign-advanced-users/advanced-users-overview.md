@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,6 +113,16 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Criação de um relatório" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Criação de um relatório</strong></a>
+    </div>
+    <em>Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura do documento</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Gerenciar modelos de documento" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Criação de um relatório" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Gerenciamento de dados de formulários web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Criação de um relatório</strong></a>
+    <a href="manage-webform-data.md"><strong>Gerenciamento de dados de formulários web</strong></a>
     </div>
-    <em>Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura do documento</em>
+    <em>Saiba como rastrear, gerenciar e exportar dados de um formulário web</em>
     <br>
   </td>  
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
