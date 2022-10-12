@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Introdução para novos administradores" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Introdução para novos administradores</strong></a>
+    </div>
+    <em>Neste guia abrangente em vídeo, conheça todas as ferramentas necessárias para começar a usar sua organização com o Acrobat Sign</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Em execução para administradores" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <em>Adicionar usuários individualmente ou em massa à sua conta da Acrobat Sign</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Criando e gerenciando grupos" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupo</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configurando um arquivo externo" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <em>Saiba como criar, salvar e gerenciar seus próprios relatórios e exportações de dados personalizados</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Criar um formulário da Web" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificar um formulário web existente" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <em>Colete centenas de assinaturas de uma só vez para qualquer documento</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configurando um Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <a href="building-a-custom-workflow.md"><strong>Configuração de um fluxo de trabalho</strong></a>
     </div>
     <em>Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônicas e dados com rapidez</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
