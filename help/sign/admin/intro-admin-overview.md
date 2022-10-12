@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
     <div>
     <a href="get-started-admin.md"><strong>Introdução para novos administradores</strong></a>
     </div>
-    <em>Neste guia abrangente em vídeo, conheça todas as ferramentas necessárias para começar a usar sua organização com o Acrobat Sign</em>
+    <em>Neste guia em vídeo abrangente, conheça todas as ferramentas necessárias para colocar sua organização em funcionamento com o Acrobat Sign</em>
     <br>
   </td>
   <td>
