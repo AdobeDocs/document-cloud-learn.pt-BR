@@ -1,15 +1,15 @@
 ---
 title: Visão geral da ID digital
-description: Saiba como usar IDs digitais do mundo todo com o Acrobat Sign
+description: Saiba como usar IDs digitais de todo o mundo com o Acrobat Sign
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Imagem de ID digital do Sign](../assets/Hero-DigitalID.png)
 
-Semelhante a um passaporte em formato eletrônico, uma identidade digital (ID digital) permite que você prove com segurança que é quem diz ser. Além disso, ao assinar eletronicamente no Acrobat Sign, usar uma ID digital oferece uma garantia maior de que você autorizou sua assinatura eletrônica nesse documento específico. Os tutoriais a seguir mostram como usar IDs digitais do mundo todo com o Acrobat Sign.
+Semelhante a um passaporte em formato eletrônico, uma identidade digital (ID digital) permite que você prove com segurança que é quem diz ser. Além disso, ao assinar eletronicamente no Acrobat Sign, o uso de uma ID digital oferece uma garantia maior de que você autorizou sua assinatura eletrônica nesse documento específico. Os tutoriais a seguir mostram como usar IDs digitais de todo o mundo com o Acrobat Sign.
 
 >[!NOTE]
 >
@@ -82,6 +82,23 @@ Semelhante a um passaporte em formato eletrônico, uma identidade digital (ID di
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="Registrar e assinar usando o D-Trust" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>Registrar e assinar usando o D-Trust</strong></a>
+    </div>
+    <em>Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
