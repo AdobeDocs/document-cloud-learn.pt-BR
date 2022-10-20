@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Imagem de início do Sign](../assets/Hero-GettingStarted.png)
 
 Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo. Faça um tour rápido pelo Acrobat Sign e comece a enviar um documento para uma ou mais pessoas. Esse conteúdo foi desenvolvido para facilitar os fluxos de trabalho de assinatura eletrônica.
+
+## Novidades
+
+* [Assinar com um carimbo](sign-with-a-stamp.md)
+Saiba como usar carimbos para marcar um documento como aprovado ou concluído
+* [Substituir um signatário](replace-signer.md)
+Saiba como alterar o signatário de um documento que já está em andamento
 
 ## Enviar
 

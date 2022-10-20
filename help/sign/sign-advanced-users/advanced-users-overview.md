@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![Imagem avançada do Sign](../assets/Hero-Advanced.png)
 
 Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para todos que já estão familiarizados com os conceitos básicos para envio e solicitação de assinaturas e querem saber mais sobre como o Acrobat Sign pode trabalhar para eles.
+
+## Novidades
+
+* [Configurar pagamentos online](set-up-online-payments.md)
+Saiba como configurar e aceitar pagamentos online em seus documentos
+* [Criação de um relatório](creating-a-report.md)
+Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura do documento
 
 ## Enviar
 

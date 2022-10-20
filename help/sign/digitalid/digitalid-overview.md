@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ Semelhante a um passaporte em formato eletrônico, uma identidade digital (ID di
 >[!NOTE]
 >
 >Antes de usar uma ID digital com uma assinatura em nuvem, consulte o administrador da sua organização para confirmar se a solução do provedor está habilitada no Acrobat Sign.
+
+## Novidades
+
+* [Registrar e assinar usando o D-Trust](d-trust.md)
+Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign
 
 ## [!DNL Aadhaar]
 
