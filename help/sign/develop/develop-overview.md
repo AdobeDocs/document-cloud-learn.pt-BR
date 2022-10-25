@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 12%
+source-wordcount: '168'
+ht-degree: 13%
 
 ---
 
@@ -52,26 +52,14 @@ ht-degree: 12%
     <em>Envie, colete e monitore documentos para assinatura para milhares de pessoas ao mesmo tempo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Crie assinaturas eletrônicas incorporadas e experiências em documentos" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md"><strong>Crie assinaturas eletrônicas incorporadas e experiências em documentos</strong></a>
     </div>
-    <em>Saiba como usar as APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
+    <em>Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo</em>
     <br>
   </td>
 </tr>

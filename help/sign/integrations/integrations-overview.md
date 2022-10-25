@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Enviar um documento para assinatura diretamente no SharePoint Online</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Rastreamento no SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Monitorar o progresso de um contrato diretamente no Microsoft Sharepoint</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Enviar documentos para assinatura em [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Saiba como arquivar automaticamente documentos assinados em um [!DNL SharePoint] biblioteca usando [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Automação de documentos com [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <a href="documentautomation.md"><strong>Automação de documentos com [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Saiba como ativar e usar o [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] apps</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Saiba como mesclar dados do Salesforce diretamente em um documento do Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Criação de um botão personalizado" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <a href="create-a-custom-button.md"><strong>Criação de um botão personalizado</strong></a>
     </div>
     <em>Criar um botão personalizado que inicia o processo de envio e preenche automaticamente um contrato dentro do Salesforce</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <a href="workday.md"><strong>Configuração do Acrobat Sign com o Workday</strong></a>
     </div>
     <em>Saiba como configurar o Acrobat Sign para trabalhar diretamente no Workday e gerenciar perfeitamente toda a sua papelada de RH</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Leia como enviar um lembrete por email da Marketo quando um contrato permanecer não assinado após um período de tempo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Enviar lembretes usando o Acrobat Sign para Microsoft Dynamics e Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <em>Saiba como enviar um lembrete por email quando um contrato permanece não assinado após um período</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Enviar notificações usando o Acrobat Sign para Microsoft Dynamics e Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <a href="marketo-dynamics-sms.md"><strong>Enviar notificações usando o Acrobat Sign para Microsoft Dynamics e Marketo</strong></a>
     </div>
     <em>Saiba como enviar uma mensagem de texto, email ou notificação por push para permitir que o signatário saiba que um contrato está a caminho</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

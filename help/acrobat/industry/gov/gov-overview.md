@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     </div>
     <em>Crie fluxos de trabalho simples para colaborar em documentos</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Dica: 3 Protect documentos digitais" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     <em>Adicione uma senha ao PDF para evitar cópia, edição ou impressão</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Dica 4: Trabalhar com formulários e assinaturas" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     <a href="scan-and-edit-on-mobile.md"><strong>Dica 5: Digitalize e edite em dispositivos móveis</strong></a>
     </div>
     <em>Saiba como trabalhar com aplicativos para dispositivos móveis da Adobe Scan e da Acrobat Reader para trabalhar em qualquer lugar</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     </div>
     <em>Conheça as práticas recomendadas para criar arquivos PDF criados no [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Tornando PDF acessíveis: Finalizando no Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     <em>Saiba como terminar de tornar seu arquivo PDF acessível usando as ferramentas no Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Tornando as cédulas de PDF mais acessíveis" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
     <em>Este webinar abrange as principais áreas de acessibilidade do PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam suas cédulas</em>
     <br>
   </td>  
+  <td>
+   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Espaçador" src="../../assets/Grayspacer.png" />
     <div>

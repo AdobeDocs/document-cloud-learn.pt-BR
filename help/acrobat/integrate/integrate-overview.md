@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     </div>
     <em>Saiba como criar arquivos PDF sem precisar sair do [!DNL Microsoft Office] para aplicativos Web</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Trabalhe com seu [!DNL SharePoint] arquivos" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     </div>
     <em>Simplifique fluxos de trabalho de documentos com [!DNL SharePoint] e Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     <em>Saiba como arquivar páginas da Web em PDF na mesma hora com a extensão Adobe Acrobat para [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Saiba como aumentar a produtividade com as ferramentas essenciais de PDF e assin
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Saiba como é fácil acessar e trabalhar com arquivos armazenados no [!DNL Dropb
     <a href="acrobat-dropbox.md"><strong>Trabalhar com arquivos de [!DNL Dropbox]</strong></a>
     </div>
     <em>Saiba como abrir, criar, editar, assinar e salvar alterações em suas [!DNL Dropbox] arquivos de dentro do Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

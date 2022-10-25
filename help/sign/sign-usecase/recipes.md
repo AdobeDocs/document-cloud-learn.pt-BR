@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <em>Substitua rapidamente o processamento em papel por fluxos de trabalho digitais em conformidade, complementados com relatórios de auditoria</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Assistência ao reemprego" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <em>Ajude os cidadãos a obter a ajuda de que precisam sem estar alinhados com formulários de candidatura totalmente digitais que podem entrar em operação em dias</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Proteção de Pagamento" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <a href="usecasegovremote.md"><strong>Solicitação de garantia remota</strong></a>
     </div>
     <em>Use assinaturas eletrônicas e webconferências juntas para reduzir o tempo necessário para solicitar e proteger garantias de juízes</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <a href="usecasecomtelework.md"><strong>Contrato de trabalho remoto</strong></a>
     </div>
     <em>Colete assinaturas de todos os seus funcionários em contratos de trabalho remoto com eficiência</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

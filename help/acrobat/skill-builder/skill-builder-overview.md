@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Preparar para assinatura</strong></a>
     </div>
     <em>Criar PDF com campos de assinatura eletrônica</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <em>Adicione texto, imagens, links e marcas d'água ao seu PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Assine seu trabalho" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <em>Assine documentos diretamente no Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Converta suas PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <em>Preencher, assinar e enviar formulários eletronicamente em qualquer dispositivo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Otimize seus PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Otimize seus PDF</strong></a>
     </div>
     <em>Preparar PDF para distribuição</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ Tenha atualizações rápidas sobre o Acrobat com esses criadores de habilidades
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Proteja seus PDF</strong></a>
     </div>
     <em>Redija e proteja informações confidenciais em suas PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
