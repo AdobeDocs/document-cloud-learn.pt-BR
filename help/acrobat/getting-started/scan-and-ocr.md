@@ -1,21 +1,21 @@
 ---
-title: Digitalização e OCR
+title: Digitalizar e OCR
 description: Converta digitalizações ou imagens de documentos em arquivos PDF pesquisáveis e editáveis e ajuste a qualidade do arquivo resultante
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
-# Digitalização e OCR
+# Digitalizar e OCR
 
-Converta digitalizações ou imagens de documentos em arquivos PDF pesquisáveis e editáveis e ajuste a qualidade do arquivo resultante.
+Mantenha o trabalho em andamento convertendo digitalizações ou imagens de documentos em arquivos PDF pesquisáveis e editáveis.
 
 >[!TIP]
 >

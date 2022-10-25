@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '80'
+ht-degree: 5%
 
 ---
 
 # Organizar páginas
 
-Saiba como reordenar páginas exatamente como quiser, em questão de segundos. Insira, substitua, divida, reorganize, gire e até extraia páginas descontínuas para criar um PDF de aparência profissional. Este tutorial em vídeo usa o [nova experiência na área de trabalho](new-workspace.md).
+Oferecer as melhores experiências do cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como reordenar páginas exatamente como quiser, em questão de segundos. Insira, substitua, divida, reorganize, gire e até extraia páginas descontínuas para criar um PDF de aparência profissional. Este tutorial em vídeo usa o [nova experiência na área de trabalho](new-workspace.md).
 
 >[!TIP]
 >

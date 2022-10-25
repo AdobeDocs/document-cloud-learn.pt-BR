@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Trabalhe em qualquer lugar com o Acrobat Web
 
-Saiba como lidar com solicitações de documentos comerciais de qualquer lugar usando as ferramentas da Web do Acrobat em seu navegador.
+Com o trabalho remoto em qualquer lugar, fornecer conteúdo em velocidade e escala é essencial. Saiba como lidar com solicitações de documentos comerciais de qualquer lugar usando as ferramentas da Web do Acrobat em seu navegador.
 
 >[!TIP]
 >
