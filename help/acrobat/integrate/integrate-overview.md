@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -56,8 +56,6 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     <em>Simplifique fluxos de trabalho de documentos com [!DNL SharePoint] e Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="colaboração PDF em [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     <em>Colabore e trabalhe com colegas visualizando, anotando e revisando PDF sem precisar sair [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="Converta mensagens de e-mail e anexos em PDF no Outlook" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     <a href="edge.md"><strong>Criar conteúdo PDF ao navegar com [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Saiba como arquivar páginas da Web em PDF na mesma hora com a extensão Adobe Acrobat para [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
