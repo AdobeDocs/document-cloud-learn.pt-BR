@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 ## Novidades
 
+* [Defina prazos e lembretes](set-deadlines-reminders.md)
+Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos
 * [Assinar com um carimbo](sign-with-a-stamp.md)
 Saiba como usar carimbos para marcar um documento como aprovado ou concluído
-* [Substituir um signatário](replace-signer.md)
-Saiba como alterar o signatário de um documento que já está em andamento
 
 ## Enviar
 
@@ -112,6 +112,33 @@ Saiba como alterar o signatário de um documento que já está em andamento
     <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Defina os prazos e lembretes" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Defina os prazos e lembretes</strong></a>
+      </div>
+      <em>Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 

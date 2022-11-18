@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 8%
+source-wordcount: '486'
+ht-degree: 9%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 8%
       + [Configurar opções de envio](sign-beginner-tutorials/sending-options.md)
       + [Modificar um documento após o envio](sign-beginner-tutorials/modify-in-flight.md)
       + [Substituir um signatário](sign-beginner-tutorials/replace-signer.md)
+      + [Defina os prazos e lembretes](sign-beginner-tutorials/set-deadlines-reminders.md)
    + Signing {#getting-started-signing}
       + [Assinatura eletrônica de um documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
