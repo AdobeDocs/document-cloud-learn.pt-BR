@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 5%
+source-wordcount: '493'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 5%
 
 ![Imagem de Introdução ao Acrobat](../assets/Hero-GettingStarted.png)
 
-Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a passo. Desde a criação de um documento até a proteção de arquivos PDF, esse conteúdo foi projetado para facilitar os fluxos de trabalho do PDF.
+Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a passo. Da criação de um documento à proteção ou [editando seus arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html
+){target=&quot;_blank&quot;}, este conteúdo foi projetado para facilitar os fluxos de trabalho do PDF.
 
 ## Tutoriais de introdução
 
@@ -250,10 +251,10 @@ Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a pa
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Digitalização e OCR" src="../assets/Scan.jpg" />
+      <img alt="Digitalizar e OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Digitalização e OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Digitalizar e OCR</strong></a>
     </div>
     <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade do compartilhamento, publicação ou arquivamento</em>
     <br>

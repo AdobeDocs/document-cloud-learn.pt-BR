@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,13 +27,14 @@ Data: Em 15 de dezembro de 2022, o Acrobat está totalmente integrado aos aplica
 Data: 17 de novembro de 2022 Este Skill Builder tem tudo a ver com colaboração de documentos digitais. Venha conhecer a maneira mais fácil de revisar documentos com sua equipe e faça um tour pelas ferramentas de comentários disponíveis. Também falaremos sobre como revisar PDF com outras pessoas em Microsoft Teams e como dar feedback em qualquer lugar usando o aplicativo móvel Acrobat e o Acrobat Web.
 
 * **[Reutilize o conteúdo do PDF: Editar e exportar](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-Data: 27 de outubro de 2022 Saiba como modificar suas PDF existentes: edite texto e imagens, adicione hiperlinks e marcadores, converta em arquivos do Microsoft Word, do PowerPoint e do Excel e muito mais.
+Data: 27 de outubro de 2022 Saiba como [modificar seus PDF existentes](https://www.adobe.com/br/acrobat/online/pdf-editor.html
+){target=&quot;_blank&quot;}: edite texto e imagens, adicione hiperlinks e marcadores, converta em arquivos do Microsoft Word, do PowerPoint e do Excel e muito mais.
 
 * **[Introdução ao Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-Data: 22 de setembro de 2022 Comece a usar o Adobe Acrobat e o PDF. Vamos apresentar a interface do Acrobat e mostrar como: * Crie PDF a partir de arquivos de imagem e documentos, incluindo Word, Excel e PowerPoint. * Combine vários arquivos (PDF, Word, imagens e muito mais) em um PDF editável. * Trabalhe em qualquer lugar e a qualquer momento com o Acrobat Web e dispositivos móveis.
+Data: 22 de setembro de 2022 Comece a usar o Adobe Acrobat e o PDF. Vamos apresentar a interface do Acrobat e mostrar como: * [Criar PDF a partir de arquivos de imagem](https://www.adobe.com/br/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} e documentos, incluindo Word, Excel e PowerPoint. * [Combinar vários arquivos](https://www.adobe.com/br/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} — PDF, Word, images e muito mais — em um PDF editável. * Trabalhe em qualquer lugar e a qualquer momento com o Acrobat Web e dispositivos móveis.
 
 * **[Segurança PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-Data: 25 de agosto de 2022 Obtenha todas as informações necessárias para proteger seu conteúdo PDF. Esta sessão compartilhará técnicas para adicionar senhas para evitar a exibição, edição ou impressão de um PDF e mostrará como remover permanentemente informações confidenciais - mesmo de metadados não visíveis!
+Data: 25 de agosto de 2022 Obtenha todas as informações de que precisa em [protegendo seu PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} conteúdo. Esta sessão compartilhará técnicas para adicionar senhas para evitar a exibição, edição ou impressão de um PDF e mostrará como remover permanentemente informações confidenciais - mesmo de metadados não visíveis!
 
 * **[Automação simples com Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
 Data: 28 de julho de 2022 Pare de repetir tarefas manuais simples! Esta sessão ensinará como usar o Action Wizard no Acrobat para processar arquivos PDF em lote e executar tarefas seriais repetitivas automaticamente.
