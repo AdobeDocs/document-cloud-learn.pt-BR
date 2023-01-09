@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 8%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 8%
    + [Trabalhe com seu [!DNL SharePoint] arquivos](integrate/acrobatandsp.md)
    + [Converter mensagens de email e anexos em PDF em [!DNL Outlook]](integrate/outlook.md)
    + [Criar conteúdo PDF ao navegar com [!DNL Microsoft Edge]](integrate/edge.md)
+   + [PDF Protect usando [!DNL Microsoft Purview Information] rótulos de sensibilidade](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat para [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Trabalhar com arquivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Setores e departamentos {#by-industry}

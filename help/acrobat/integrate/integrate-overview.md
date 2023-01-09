@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -89,8 +89,13 @@ Saiba como todos na equipe podem trabalhar perfeitamente com arquivos PDF, diret
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="microsoftsensitivitylabels.md">
+      <img alt="Criar conteúdo PDF ao navegar com [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+    </a>
     <div>
+    <a href="microsoftsensitivitylabels.md"><strong>PDF Protect usando [!DNL Microsoft Purview Information] rótulos de sensibilidade</strong></a>
+    </div>
+    <em>Saiba como proteger PDF adicionando, editando, personalizando e excluindo [!DNL Microsoft Purview] Rótulos de sensibilidade diretamente no Acrobat</em>
     <br>
   </td>
   <td>
