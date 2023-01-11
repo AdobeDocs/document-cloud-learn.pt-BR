@@ -1,25 +1,25 @@
 ---
 title: Exportar um PDF para formatos do Microsoft Office
-description: Saiba como exportar seus arquivos de PDF para formatos editáveis, como Microsoft Word, Excel ou PowerPoint
+description: Saiba como exportar arquivos PDF para formatos editáveis, como Microsoft Word, Excel ou PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
 # Exportar um PDF para formatos do Microsoft Office
 
-Saiba como exportar seus arquivos de PDF para formatos editáveis, como Microsoft Word, PowerPoint e Excel. A exportação para outro formato de arquivo permite fazer revisões e atualizações significativas nos documentos.
+Saiba como exportar arquivos PDF para formatos editáveis, como [Microsoft Word](https://www.adobe.com/br/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/br/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/br/acrobat/online/pdf-to-excel.html). Exportar para outro formato de arquivo permite fazer revisões e atualizações significativas em seus documentos.
 
 >[!TIP]
 >
->Para exportar vários arquivos de PDF para outro formato, tente usar o [Action Wizard](../advanced-tasks/action.md).
+>Para exportar vários arquivos PDF para outro formato, tente usar o [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -31,4 +31,4 @@ Saiba como exportar seus arquivos de PDF para formatos editáveis, como Microsof
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com Acrobat DC e Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe com mais inteligência com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
