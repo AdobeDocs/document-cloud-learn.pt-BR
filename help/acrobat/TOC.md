@@ -5,7 +5,7 @@ breadcrumb-title: Tutorials Acrobat
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 8%
    + [Comentário sobre um PDF](getting-started/comment-on-pdf-files.md)
    + [Criar formulários preenchíveis](getting-started/create-fillable-forms.md)
    + [PDF forms Fill &amp; Sign](getting-started/fill-and-sign.md)
-   + [Digitalizar e OCR](getting-started/scan-and-ocr.md)
+   + [Digitalização e OCR](getting-started/scan-and-ocr.md)
    + [Protect um arquivo PDF com uma senha](getting-started/password-protect.md)
    + [Obter assinaturas](getting-started/signatures.md)
    + [Monitorar seus documentos](getting-started/track.md)
@@ -78,7 +78,7 @@ ht-degree: 8%
    + [Editar um gráfico no PDF](60-second/editgraphic.md)
    + [Organize páginas em um piscar de olhos](60-second/organize.md)
 + Skill Builder {#skill-builders}
-   + [Webinários](skill-builder/skill-builder-webinars.md)
+   + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrações {#integrations}
    + [Visão geral](integrate/integrate-overview.md)
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
@@ -101,7 +101,7 @@ ht-degree: 8%
          + [Dica #3: documentos digitais da Protect](industry/gov/protect-digital-documents.md)
          + [Dica #4 - Trabalhe com formulários e assinaturas](industry/gov/work-with-forms-and-signatures.md)
          + [Dica #5 - Digitalize e edite em dispositivos móveis](industry/gov/scan-and-edit-on-mobile.md)
-      + Accessibilidade {#pdfs}
+      + Acessibilidade {#pdfs}
          + [Tornando PDF acessíveis](industry/gov/making-pdfs-accessible.md)
          + [#1 - Compreendendo a acessibilidade](industry/gov/understanding-accessibility.md)
          + [#2 - Criação no Word](industry/gov/authoring-in-word.md)
