@@ -11,7 +11,7 @@ breadcrumb-title: Tutorials Acrobat Sign
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 0%
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
    + [Visão geral](sign-beginner-tutorials/beginner-users-overview.md)
-   + Enviar {#getting-started-sending}
-      + [Noções básicas sobre a área de trabalho](sign-beginner-tutorials/quick-tour.md)
+   + Enviando {#getting-started-sending}
+      + [Noções básicas do Workspace](sign-beginner-tutorials/quick-tour.md)
       + [Introdução ao Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Enviar para um único destinatário](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Envio para vários destinatários](sign-beginner-tutorials/send-to-multiple-recipients.md)
@@ -87,7 +87,7 @@ ht-degree: 0%
       + [Assinatura usando Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrar e assinar usando [!DNL D-Trust]](digitalid/d-trust.md)
-   + Grupo Intesi {#intesi}
+   + Intesi Group {#intesi}
       + [Obter uma ID digital do Intesi Group (Avançado)](digitalid/intesi-advanced.md)
       + [Obter uma ID digital do Intesi Group (Qualificado)](digitalid/intesi-qualified.md)
       + [Assinando usando o Intesi Group](digitalid/intesi-sign.md)
