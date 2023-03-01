@@ -5,7 +5,8 @@ role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
+source-git-commit: b6108850e14e73eb2ad49cfede4f2f477c87f684
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -25,5 +26,3 @@ A Adobe Acrobat Sign fez uma parceria com a Notarize, Inc. para fornecer serviç
 >[!TIP]
 >
 >Quando a notarização está ativada para uma conta da Acrobat Sign, o remetente pode selecionar **Requer notarização** selecionando as reticências no lado direito do registro do destinatário. A opção de notarização está disponível apenas para destinatários com uma função de signatário.
-
-
