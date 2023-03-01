@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 9%
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
    + [Visão geral](sign-beginner-tutorials/beginner-users-overview.md)
-   + Enviando {#getting-started-sending}
+   + Enviar {#getting-started-sending}
       + [Noções básicas sobre a área de trabalho](sign-beginner-tutorials/quick-tour.md)
       + [Introdução ao Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Enviar para um único destinatário](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Modificar um documento após o envio](sign-beginner-tutorials/modify-in-flight.md)
       + [Substituir um signatário](sign-beginner-tutorials/replace-signer.md)
       + [Defina os prazos e lembretes](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Assinaturas {#getting-started-signing}
       + [Assinatura eletrônica de um documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
       + [Obter uma assinatura presencial](sign-beginner-tutorials/sign-in-person.md)
@@ -87,7 +87,7 @@ ht-degree: 9%
       + [Assinatura usando Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrar e assinar usando [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Grupo Intesi {#intesi}
       + [Obter uma ID digital do Intesi Group (Avançado)](digitalid/intesi-advanced.md)
       + [Obter uma ID digital do Intesi Group (Qualificado)](digitalid/intesi-qualified.md)
       + [Assinando usando o Intesi Group](digitalid/intesi-sign.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Enviar para assinatura em [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Arquivar automaticamente em [!DNL SharePoint] com [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automação de documentos com o Acrobat Sign para Microsoft Power Platform](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [Enviar documentos para notarização](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder for Salesforce](integrations/create-an-agreement-template.md)
       + [Configurando mapeamento de dados](integrations/set-up-data-mapping.md)
@@ -117,7 +119,7 @@ ht-degree: 9%
 + Setores e departamentos {#expand}
    + [Visão geral](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
-      + [Webinários](sign-usecase/innovation-series.md)
+      + [Webinars](sign-usecase/innovation-series.md)
    + Receitas de caso de uso {#recipes}
       + [Visão geral](sign-usecase/recipes.md)
       + Governo {#gov}
