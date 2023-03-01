@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 
 ## Novidades
 
+* [Enviar documentos para notarização](send-document-notarize.md)
+Neste tutorial de três partes, saiba como enviar um documento para notarização, visualizar a experiência do signatário e receber os resultados
 * [Arquive automaticamente arquivos no SharePoint com o Power Automate](auto-archive-sharepoint-power-automate.md)
 Saiba como arquivar automaticamente documentos assinados em uma biblioteca do SharePoint usando o Power Automate
-* [Document Builder for Salesforce](create-an-agreement-template.md)
-Saiba como criar um modelo de documento reutilizável usando o Document Builder para Salesforce
 
 ## Tutoriais de integrações do Microsoft
 
@@ -104,6 +104,38 @@ Saiba como criar um modelo de documento reutilizável usando o Document Builder 
     <a href="documentautomation.md"><strong>Automação de documentos com [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Saiba como ativar e usar o [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] apps</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] tutoriais de integração
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="Enviar documentos para notarização" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>Enviar documentos para notarização</strong></a>
+    </div>
+    <em>Saiba como enviar um documento para notarização</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
