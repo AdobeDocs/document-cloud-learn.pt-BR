@@ -5,7 +5,7 @@ breadcrumb-title: Tutorials Acrobat
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 + [Visão geral](overview.md)
 + Introdução {#getting-started}
    + [Visão geral](getting-started/getting-started-overview.md)
-   + [Noções básicas sobre a área de trabalho](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nova experiência na área de trabalho](getting-started/new-workspace.md)
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [Produtividade em trânsito](getting-started/productivity.md)
