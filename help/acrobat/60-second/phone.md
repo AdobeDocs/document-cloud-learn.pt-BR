@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8576.jpg
 KT: 8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
 # Converta um arquivo PPT em PDF no telefone
 
-Neste tutorial em vídeo de 60 segundos, saiba como converter um email [Anexo do PowerPoint ao PDF](https://www.adobe.com/br/acrobat/online/ppt-to-pdf.html){target=&quot;_blank&quot;} no telefone. Quando o arquivo retornar, exiba-o e toque em Compartilhar para enviá-lo à sua equipe, tudo sem ter o PowerPoint no telefone.
+Neste tutorial em vídeo de 60 segundos, saiba como converter um email [Anexo do PowerPoint ao PDF](https://www.adobe.com/br/acrobat/online/ppt-to-pdf.html){target="_blank"} no seu telefone. Quando o arquivo retornar, exiba-o e toque em Compartilhar para enviá-lo à sua equipe, tudo sem ter o PowerPoint no telefone.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

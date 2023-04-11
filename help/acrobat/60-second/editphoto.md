@@ -1,20 +1,21 @@
 ---
-title: Editar uma foto no PDF
-description: Aprenda a fazer edições avançadas em uma foto no seu PDF usando o Photoshop
+title: Editar uma foto em seu PDF
+description: Saiba mais sobre como fazer edições avançadas em uma foto em seu PDF usando o Photoshop
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9276.jpg
 KT: 9276
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Editar uma foto no PDF
+# Editar uma foto na PDF
 
-Neste tutorial em vídeo de 60 segundos, saiba mais sobre como fazer edições avançadas em uma foto na sua PDF usando o Photoshop! Da ferramenta Editar PDF para o Photoshop e, em seguida, novamente, o processo é contínuo e permite que você faça seu trabalho de forma rápida e fácil.
+Neste tutorial em vídeo de 60 segundos, aprenda a fazer edições avançadas em uma foto em seu PDF usando o Photoshop! Da ferramenta Editar PDF ao Photoshop e, em seguida, novamente, o processo é simples e permite concluir seu trabalho com rapidez e facilidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)

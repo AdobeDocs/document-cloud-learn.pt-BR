@@ -7,26 +7,26 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '264'
 ht-degree: 5%
 
 ---
 
 # Reunir documentos de grande volume usando o GigaSign
 
-O Gigasign permite enviar, coletar e monitorar documentos para assinatura para milhares de pessoas ao mesmo tempo. Ele foi projetado para comunicações de alto volume com seus funcionários e clientes, oferecendo suporte a até 2.500 destinatários a cada envio em massa. O GigaSign usa a API do Acrobat Sign para fornecer a mesma funcionalidade do MegaSign e inclui suporte para vários signatários, grupos de destinatários, funções de destinatário, nomes de contrato, cópia carbono e muito mais.
+O Gigasign permite enviar, coletar e monitorar documentos para assinatura para milhares de pessoas ao mesmo tempo. Ele foi projetado para comunicações de alto volume com seus funcionários e clientes, oferecendo suporte a até 2.500 destinatários a cada envio em massa. O GigaSign usa a API do Acrobat Sign para fornecer a mesma funcionalidade do MegaSign e inclui suporte para vários signatários, grupos de destinatários, funções de destinatários, nomes de contratos, cópia do carbono e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Baixe e instale o aplicativo GigaSign
 
 [Baixe o arquivo zip do GigaSign](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[Endereços IP para lista branca (somente se necessário)](https://helpx.adobe.com/br/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[Endereços IP para lista branca (somente se necessário)](https://helpx.adobe.com/br/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Instruções básicas de configuração
 

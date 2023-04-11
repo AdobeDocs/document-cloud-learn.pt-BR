@@ -7,22 +7,22 @@ level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 7%
 
 ---
 
 # Obter assinaturas
 
-Mantenha o trabalho em andamento coletando documentos com validade legal [assinaturas eletrônicas](https://www.adobe.com/br/acrobat/online/request-signature.html){target=&quot;_blank&quot;} de outras pessoas — de qualquer lugar.
+Mantenha o trabalho em andamento coletando documentos com validade legal [assinaturas eletrônicas](https://www.adobe.com/br/acrobat/online/request-signature.html){target="_blank"} de outras pessoas, em qualquer lugar.
 
 >[!IMPORTANT]
 >
 >Você deve ter um direito do Acrobat Sign Enterprise além de sua assinatura do Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Saiba como configurar a ordem de assinatura para vários signatários. Envie um 
 >
 >O roteamento híbrido está disponível apenas para planos de nível empresarial. O administrador do Acrobat Sign pode precisar ativar esses recursos na seção Configurações de envio das Configurações da conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)

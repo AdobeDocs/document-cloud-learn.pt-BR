@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como gerenciar e monitorar documentos enviados para assinatura no Acrobat Sign. Receba atualizações de status e notificações em tempo real de cada documento que você assinar ou enviar para assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

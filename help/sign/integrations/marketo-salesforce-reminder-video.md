@@ -1,5 +1,5 @@
 ---
-title: Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo
+title: Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e Marketo
 description: Neste tutorial em vídeo, você aprenderá a enviar um lembrete por email do Marketo quando um contrato permanecer não assinado após um período de tempo
 role: Admin
 product: adobe sign
@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e o Marketo
+# Tutorial em vídeo para enviar lembretes usando o Acrobat Sign para Salesforce e Marketo
 
 Saiba como enviar um lembrete por email da Marketo para contratos não assinados. Essa integração usa o Acrobat Sign, o Acrobat Sign para Salesforce, o Marketo e o Marketo Salesforce Sync.
 
@@ -29,9 +29,9 @@ Saiba como enviar um lembrete por email da Marketo para contratos não assinados
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Agilizar os ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Agilize os ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!
 

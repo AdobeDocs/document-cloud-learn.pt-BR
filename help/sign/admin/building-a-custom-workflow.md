@@ -6,7 +6,7 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Confira estes casos de uso reais adicionais:
 >
 >Os administradores de grupo podem atribuir fluxos de trabalho a qualquer grupo que administram (não apenas ao grupo principal). Os administradores de grupo também podem editar qualquer fluxo de trabalho atribuído a qualquer grupo que administram.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

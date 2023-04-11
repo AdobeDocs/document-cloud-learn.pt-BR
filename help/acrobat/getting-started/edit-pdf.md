@@ -6,17 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Editar um PDF
 
-Saiba como [editar texto e imagens em arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html
-){target=&quot;_blank&quot;}. Clique ou toque para adicionar um parágrafo ou corrigir um erro de digitação. Você pode até mesmo adicionar imagens [ou cortar uma foto](https://www.adobe.com/br/acrobat/online/crop-pdf.html).
+Saiba como [editar texto e imagens em arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}. Clique ou toque para adicionar um parágrafo ou corrigir um erro de digitação. Você pode até mesmo adicionar imagens [ou cortar uma foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >
@@ -24,7 +23,7 @@ Saiba como [editar texto e imagens em arquivos PDF](https://www.adobe.com/br/acr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Saiba como modificar um documento que já foi enviado para assinatura, como quan
 >
 >Modificar um documento após o envio só está disponível para planos corporativos. O administrador do Acrobat Sign precisa ativar **Modificar contratos** no **Configurações de envio** seção do **Configurações da conta** para usar esse recurso.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Conheça as sete principais áreas em que os administradores devem se concentrar
 >
 >Os relatórios só estão disponíveis para planos empresariais e corporativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

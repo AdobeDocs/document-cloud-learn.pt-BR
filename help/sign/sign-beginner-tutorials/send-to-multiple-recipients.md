@@ -1,5 +1,5 @@
 ---
-title: Envio para vários recipients
+title: Envio para vários destinatários
 description: Saiba como enviar um documento para assinatura eletrônica para mais de uma pessoa na ordem exata desejada
 role: User
 product: adobe sign
@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: e49ff9bb170878665c4aeeceab244bd482636be0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 Você tem mais de uma pessoa que deve interagir com seu documento? Saiba como enviar um documento para assinatura eletrônica para mais de uma pessoa na ordem exata desejada.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

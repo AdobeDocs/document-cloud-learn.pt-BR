@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Ajude os cidadãos a obter a ajuda de que precisam sem precisar ficar em sintonia com formulários de candidatura totalmente digitais que podem entrar em operação em poucos dias. Saiba como criar um formulário web online que pode ser preenchido **e** assinado sem imprimir nem enviar nada.
 
->[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
 Clique para fazer o download da receita passo a passo do PDF para assistência ao reemprego.
 
-[![Baixar PDF Receita](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![Baixar a Receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
