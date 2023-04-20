@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 6b117eba16ed6738708db30ebe3fc41c14685f35
+source-git-commit: 3bf6b2382dfa22d8883be275fff5c9438a1ea2d9
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 6%
 
 ---
@@ -38,13 +38,13 @@ O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negóc
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
-</tr>
-<tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="Integrações" src="assets/acrobat_title_integrate.png" />
     </a>
   </td>
+</tr>
+<tr>
   <td>
     <a href="industry/industry-overview.md">
       <img alt="Setores e departamentos" src="assets/acrobat_title_industry.png" />
@@ -55,10 +55,7 @@ O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negóc
       <img alt="Desenvolver" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="deploy/deploy-overview.md">
+  <a href="deploy/deploy-overview.md">
       <img alt="Implantar" src="assets/acrobat_title_deploy.png" />
     </a>
   </td>
@@ -66,11 +63,6 @@ O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negóc
     <a href="mobile/mobile-overview.md">
       <img alt="Dispositivos móveis" src="assets/acrobat_title_mobile.png" />
     </a>
-  </td>  
-  <td>
-   <img alt="Espaçador" src="assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
