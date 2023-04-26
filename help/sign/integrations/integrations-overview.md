@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
+source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -197,14 +197,19 @@ Saiba como arquivar automaticamente documentos assinados em uma biblioteca do Sh
       <img alt="Configuração do Acrobat Sign com o Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Configuração do Acrobat Sign com o Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Configuração do Acrobat Sign com o Workday</strong></a>
     </div>
     <em>Saiba como configurar o Acrobat Sign para trabalhar diretamente no Workday e gerenciar perfeitamente toda a sua papelada de RH</em>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <a href="acrobat-sign-workday-onboarding.md">
+      <img alt="Acrobat Sign + Workday - integração de novas contratações" src="../assets/workday.png" />
+    </a>
     <div>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday - integração de novas contratações</strong></a>
+    </div>
+    <em>Saiba como simplificar fluxos de trabalho de integração com o Acrobat Sign + Workday</em>
     <br>
   </td>
   <td>
