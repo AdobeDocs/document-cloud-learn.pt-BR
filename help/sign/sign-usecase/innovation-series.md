@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%
@@ -22,17 +22,17 @@ Os Skill Builder do Acrobat Sign são sessões de 30 minutos criadas para coloca
 
 ## Sessões mensais
 
-**[Trabalhe com assinaturas eletrônicas nos aplicativos da Microsoft](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Trabalhe com assinaturas eletrônicas nos aplicativos da Microsoft](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 Data: 19 de outubro de 2023 Expanda a maneira como você usa seus aplicativos da Microsoft, como Word, Outlook e Sharepoint, adicionando o Adobe Acrobat Sign aos fluxos de trabalho existentes. Esta sessão ensinará como começar a simplificar processos de documentos em aplicativos comuns da Microsoft para que você não precise alternar o contexto apenas para obter uma assinatura ou verificar o status.
 
-**[Gerenciar contratos: Obtenha visibilidade em tempo real do status do contrato](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[Gerenciar contratos: Obtenha visibilidade em tempo real do status do contrato](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 Data: 21 de setembro de 2023 Conheça os detalhes das ferramentas de gerenciamento de contratos e as práticas recomendadas para saber o status de seus contratos a qualquer momento. Esta sessão abordará:
 
 * Quais ações você pode executar em documentos na guia Gerenciar
 * Como processar e usar dados de formulários da Web e envios em massa
 * Como pesquisar e filtrar para encontrar os documentos necessários
 
-**[Dicas avançadas para enviar documentos para assinatura](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[Dicas avançadas para enviar documentos para assinatura](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 Data: 17 de agosto de 2023 Junte-se a nós enquanto analisamos mais detalhadamente todas as opções disponíveis ao enviar contratos para assinatura. Nesta sessão, você vai saber mais sobre:
 
 * Envio para vários destinatários
@@ -40,7 +40,7 @@ Data: 17 de agosto de 2023 Junte-se a nós enquanto analisamos mais detalhadamen
 * Adicionar um campo CC
 * Proteção por senha e muito mais
 
-**[Integrações com o Acrobat Sign: Salesforce e Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Integrações com o Acrobat Sign: Salesforce e Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 Data: 20 de julho de 2023 Participe enquanto revisamos algumas das integrações mais comuns e poderosas do Acrobat Sign com o Salesforce e o Workday. Esta sessão explorará como acelerar as transações comerciais eliminando tarefas manuais e ineficientes e criando fluxos de trabalho 100% digitais e processos de assinatura eletrônica diretamente nas ferramentas que você já usa.
 
 **[Advanced Reporting for Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
