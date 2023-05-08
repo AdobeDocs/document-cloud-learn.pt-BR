@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 7%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,8 +17,7 @@ ht-degree: 7%
 
 ![Imagem de Introdução ao Acrobat](../assets/Hero-GettingStarted.png)
 
-Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a passo. Da criação de um documento à proteção ou [editando seus arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html
-){target=&quot;_blank&quot;}, este conteúdo foi projetado para facilitar os fluxos de trabalho do PDF.
+Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a passo. Da criação de um documento à proteção ou [editando seus arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, esse conteúdo foi projetado para facilitar os fluxos de trabalho do PDF.
 
 ## Tutoriais de introdução
 
@@ -26,10 +25,10 @@ Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a pa
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Noções básicas sobre a área de trabalho" src="../assets/Workspace_1280.png" />
+      <img alt="Noções básicas do Workspace" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas sobre a área de trabalho</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas do Workspace</strong></a>
     </div>
     <em>Veja como a área de trabalho do Acrobat facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis</em>
     <br>
@@ -251,10 +250,10 @@ Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a pa
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Digitalizar e OCR" src="../assets/Scan.jpg" />
+      <img alt="Digitalização e OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Digitalizar e OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Digitalização e OCR</strong></a>
     </div>
     <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade do compartilhamento, publicação ou arquivamento</em>
     <br>
@@ -292,12 +291,12 @@ Saiba como começar a usar o Adobe Acrobat com estes breves tutoriais passo a pa
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
+   <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
