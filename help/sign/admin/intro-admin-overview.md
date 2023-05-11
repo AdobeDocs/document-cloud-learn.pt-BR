@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônica
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Adicionando usuários" src="../assets/Adding-Users.png" />
+      <img alt="Adicionar usuários" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Adicionar usuários</strong></a>
@@ -116,6 +116,16 @@ Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônica
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Opções de relatório para usuários" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Opções de relatório para usuários</strong></a>
+    </div>
+    <em>Saiba como configurar opções de relatório para usuários</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Criar um formulário da Web" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônica
     <em>Colete centenas de assinaturas de uma só vez para qualquer documento</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configurando um Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônica
     <em>Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônicas e dados com rapidez</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Tarefas avançadas
