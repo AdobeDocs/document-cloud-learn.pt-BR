@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
 
 ## Novidades
 
+* [Opções de relatório](report-options.md)
+Saiba como configurar opções de relatório para usuários
 * [Introdução para novos administradores](get-started-admin.md)
 Neste guia em vídeo abrangente, conheça todas as ferramentas necessárias para colocar sua organização em funcionamento com o Acrobat Sign
-* [Configuração de um fluxo de trabalho](building-a-custom-workflow.md)
-Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônicas e dados com rapidez
 
 ## Introdução
 
