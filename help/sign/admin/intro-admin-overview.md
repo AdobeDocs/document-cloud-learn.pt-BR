@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compa
 
 * [Opções de relatório](report-options.md)
 Saiba como configurar opções de relatório para usuários
-* [Introdução para novos administradores](get-started-admin.md)
-Neste guia em vídeo abrangente, conheça todas as ferramentas necessárias para colocar sua organização em funcionamento com o Acrobat Sign
+* [Adicionar usuários](add-users-to-your-account.md)
+Saiba como adicionar e gerenciar usuários para o Acrobat Sign
 
 ## Introdução
 
