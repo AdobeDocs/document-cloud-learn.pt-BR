@@ -2,7 +2,7 @@
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 7%
@@ -61,22 +61,22 @@ ht-degree: 7%
       + [Adição de campos de formulário a um PDF não marcado](advanced-tasks/accessibilitysession6.md)
 + Acrobat de 60 segundos {#60-second}
    + [Visão geral](60-second/60-second-overview.md)
-   + [Crie arquivos PDF mais eficientes em um piscar de olhos](60-second/optimize.md)
-   + [Protect seus arquivos PDF com uma senha](60-second/protect.md)
-   + [Converter Word em PDF incluindo campos de formulário](60-second/wordform.md)
-   + [Deixe o Acrobat ajudá-lo a tornar PDF acessíveis](60-second/accessible.md)
-   + [Export PDF para Word no telefone](60-second/exportwordphone.md)
+   + [Editar PDF com o Acrobat Web](60-second/edit.md)
    + [Reconhecer texto em um arquivo PDF digitalizado](60-second/textrecognition.md)
    + [Combinar arquivos em um PDF](60-second/combine-to-one-pdf.md)
-   + [Editar PDF com o Acrobat Web](60-second/edit.md)
-   + [Pesquisar vários arquivos PDF de uma vez](60-second/search.md)
-   + [Crie uma PDF de fotos em um instante](60-second/photo.md)
-   + [Converta um arquivo PPT em PDF no telefone](60-second/phone.md)
-   + [Assinar eletronicamente um documento em papel](60-second/sign.md)
-   + [Carregar comentários de PDF no InDesign](60-second/indesign.md)
+   + [Organize páginas em um piscar de olhos](60-second/organize.md)
    + [Editar uma foto na PDF](60-second/editphoto.md)
    + [Editar um gráfico no PDF](60-second/editgraphic.md)
-   + [Organize páginas em um piscar de olhos](60-second/organize.md)
+   + [Export PDF para Word no telefone](60-second/exportwordphone.md)
+   + [Converter Word em PDF incluindo campos de formulário](60-second/wordform.md)
+   + [Crie uma PDF de fotos em um instante](60-second/photo.md)
+   + [Converta um arquivo PPT em PDF no telefone](60-second/phone.md)
+   + [Crie arquivos PDF mais eficientes em um piscar de olhos](60-second/optimize.md)
+   + [Assinar eletronicamente um documento em papel](60-second/sign.md)
+   + [Protect seus arquivos PDF com uma senha](60-second/protect.md)
+   + [Deixe o Acrobat ajudá-lo a tornar PDF acessíveis](60-second/accessible.md)
+   + [Pesquisar vários arquivos PDF de uma vez](60-second/search.md)
+   + [Carregar comentários de PDF no InDesign](60-second/indesign.md)
 + Skill Builder {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrações {#integrations}
