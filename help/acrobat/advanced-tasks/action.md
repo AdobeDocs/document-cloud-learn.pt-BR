@@ -9,7 +9,7 @@ exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
 source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Oferecer as melhores experiências do cliente requer que o conteúdo seja criado
 
    ![Action Wizard Etapa 1](../assets/ActionWizard_1.png)
 
-   As ações predefinidas aparecem no **Lista de Ações**.
+   As ações predefinidas são exibidas no **Lista de Ações**.
 
 1. Selecionar **[!UICONTROL Nova ação]** no menu superior para criar uma ação personalizada.
 

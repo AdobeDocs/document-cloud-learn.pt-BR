@@ -10,7 +10,7 @@ exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -37,7 +37,7 @@ Envie documentos para assinatura, monitore o progresso das assinaturas eletrôni
       <img alt="Baixar para iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para iOS</strong></a>
+    <a href="https://itunes.apple.com/br/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Envie documentos para assinatura, monitore o progresso das assinaturas eletrôni
       <img alt="Baixar para Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=pt_BR" target="_blank"><strong>Baixar o aplicativo Acrobat Sign Mobile para Android</strong></a>
     <br>
   </td>
   <td>

@@ -1,6 +1,6 @@
 ---
 title: Definir prazos e lembretes
-description: Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos
+description: Saiba como enviar lembretes e prazos regulares por email para ajudar a agilizar a assinatura de seus documentos
 role: User
 product: adobe sign
 solution: Acrobat Sign

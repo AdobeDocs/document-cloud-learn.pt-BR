@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ Para enviar seu primeiro contrato, é melhor entender como usar a API.
 
 ![Captura de tela da criação de um Documento temporário](assets/embeddedesignature/embed_7.png)
 
-Depois de enviar um contrato pela primeira vez, você estará pronto para adicionar a lógica. É sempre uma boa ideia estabelecer alguns auxiliares para minimizar a repetição. Estes são alguns exemplos:
+Depois de enviar um contrato pela primeira vez, você estará pronto para adicionar a lógica. É sempre uma boa ideia estabelecer alguns auxiliares para minimizar a repetição. Veja alguns exemplos:
 
 **Validação**
 

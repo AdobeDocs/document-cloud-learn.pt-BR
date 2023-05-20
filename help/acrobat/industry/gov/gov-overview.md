@@ -96,7 +96,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para governos 
 </tr>
 </table>
 
-## Accessibilidade
+## Acessibilidade
 
 <table>
 <tr>

@@ -27,7 +27,7 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Acrobat Sign no Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Acrobat Sign no Admin Console</strong></a>
     </div>
     <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma corporativa da Adobe no Adobe Admin Console</em>
     <br>

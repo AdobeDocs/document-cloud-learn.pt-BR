@@ -1,5 +1,5 @@
 ---
-title: Digitalizar e OCR
+title: Digitalização e OCR
 description: Converta digitalizações ou imagens de documentos em arquivos PDF pesquisáveis e editáveis e ajuste a qualidade do arquivo resultante
 role: User
 product: adobe acrobat
@@ -8,15 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
-# Digitalizar e OCR
+# Digitalização e OCR
 
-Mantenha o trabalho em andamento convertendo digitalizações ou imagens de documentos em documentos pesquisáveis, [arquivos PDF editáveis](https://www.adobe.com/br/acrobat/online/pdf-editor.html
-){target=&quot;_blank&quot;}.
+Mantenha o trabalho em andamento convertendo digitalizações ou imagens de documentos em documentos pesquisáveis, [arquivos PDF editáveis](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
@@ -26,7 +25,7 @@ Mantenha o trabalho em andamento convertendo digitalizações ou imagens de docu
 
    ![Etapa 1 da varredura](../assets/Scan_1.png)
 
-1. Selecionar um arquivo.
+1. Selecione um arquivo.
 
    Esse arquivo pode ser uma foto de um documento ou um arquivo já digitalizado criado usando um scanner ou o aplicativo Adobe Scan para dispositivos móveis. Ou digitalize um documento para criar um novo arquivo usando um scanner conectado.
 

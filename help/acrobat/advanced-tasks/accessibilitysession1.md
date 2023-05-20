@@ -9,7 +9,7 @@ kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
 source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Clique em [aqui](../assets/accessibilitysession1.zip) para baixar uma pasta zip 
 
 Selecione a imagem para exibir o vídeo em uma guia separada do navegador.
 
-[![Vídeo da sessão 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}
+[![Vídeo da sessão 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target="_blank"}

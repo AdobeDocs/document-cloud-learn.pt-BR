@@ -266,7 +266,7 @@ Essas pastas agora são referenciadas como parte do seu fluxo do Power Automate.
 
    ![Captura de tela do botão Introdução](assets/documentautomation/automation_28.png)
 
-1. Fazer logon com sua Adobe ID.
+1. Efetue login com seu Adobe ID.
 
    ![Captura de tela da tela Fazer logon](assets/documentautomation/automation_29.png)
 

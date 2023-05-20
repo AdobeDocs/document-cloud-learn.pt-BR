@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade do compar
 
 1. Selecionar **[!UICONTROL Padrão]** do **[!UICONTROL Configurações]** para usar as configurações padrão.
 
-   Se qualquer configuração for alterada na caixa de diálogo **[!UICONTROL Otimizador de PDF]**, o menu **Configurações** mudará automaticamente para **Personalizar**.
+   Se você alterar qualquer configuração no **[!UICONTROL Otimizador de PDF]** caixa de diálogo, a **Configurações** muda automaticamente para **Personalizado**.
 
 1. Selecionar **[!UICONTROL Manter Existente]** do **[!UICONTROL Tornar compatível com]** para manter a versão atual do PDF ou escolher uma versão específica do Acrobat.
 

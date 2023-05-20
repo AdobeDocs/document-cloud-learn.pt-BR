@@ -25,7 +25,7 @@ Saiba como enviar um lembrete por email do Marketo quando um contrato permanece 
 
    Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instale o Acrobat Sign para Salesforce.
+1. Instalar o Acrobat Sign para Salesforce.
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,7 +33,7 @@ Saiba como enviar um lembrete por email do Marketo quando um contrato permanece 
 
 Quando as configurações do Marketo Salesforce Sync e do Acrobat Sign para Salesforce estiverem concluídas, várias novas opções serão exibidas no Marketo Admin Terminal.
 
-![Admin.](assets/adminTab.png)
+![Admin](assets/adminTab.png)
 
 ![Sincronização de Objetos](assets/salesforceAdmin.png)
 
@@ -155,7 +155,7 @@ Exemplos de personalização: o nome do signatário, o nome do contrato, um link
 
 1. Visualize usando um perfil que tenha um contrato atribuído a ele. Você deve ver um link para o URL com o Nome do contrato como rótulo.
 
-   ![Enviar email com link](assets/emailLink.png)
+   ![Link de Email](assets/emailLink.png)
 
 ## Configurar o Filtro da Campanha Inteligente
 

@@ -8,7 +8,7 @@ thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 source-git-commit: 193bed355e602b569d475e7c1604fd0ccd5582fb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

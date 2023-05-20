@@ -8,7 +8,7 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,7 @@ Marque um PDF da seguinte maneira:
 
 ## 4. Prepare-se para a Web
 
-Otimize a experiência de interação com seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
+Otimize a experiência de interação com seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Exibir detalhes sobre como preparar seu PDF para a Web
 
@@ -122,7 +122,7 @@ O nome do arquivo torna-se parte do URL quando um PDF é publicado na Web. Uma b
 
 ## 6. Proteja seu PDF
 
-O último passo é [proteja sua PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} para impedir alterações não autorizadas.
+O último passo é [proteja sua PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target="_blank"} para impedir alterações não autorizadas.
 
 +++Exibir detalhes sobre como proteger seu PDF
 

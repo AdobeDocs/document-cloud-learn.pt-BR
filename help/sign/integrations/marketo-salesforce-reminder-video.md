@@ -11,7 +11,7 @@ exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ Saiba como enviar um lembrete por email da Marketo para contratos não assinados
 
    Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instale o Acrobat Sign para Salesforce.
+1. Instalar o Acrobat Sign para Salesforce.
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

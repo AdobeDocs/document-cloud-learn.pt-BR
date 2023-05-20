@@ -5,14 +5,14 @@ solution: Acrobat
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
 # Exercícios para liberar experiências digitais com o Adobe Document Cloud
 
-[![image](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![ações de redimensionamento de imagem](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 Este folheto contém mais exercícios e uma revisão dos fluxos de trabalho abordados. Abaixo estão os arquivos de demonstração que usamos nos exercícios a seguir. Cada exercício também lista este conteúdo:
 

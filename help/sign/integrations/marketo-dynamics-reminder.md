@@ -11,7 +11,7 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -31,9 +31,9 @@ Saiba como enviar um lembrete por email quando um contrato permanece não assina
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign para Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
+Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
 
-![Admin.](assets/adminTerminal.png)
+![Admin](assets/adminTerminal.png)
 
 1. Clique em **[!UICONTROL Sincronização de Entidades do Dynamics]**.
 
@@ -153,7 +153,7 @@ Exemplos de personalização: o nome do signatário, o nome do contrato, um link
 
    Você deve ver um link para o URL com o Nome do contrato como rótulo.
 
-   ![Enviar email com link](assets/emailLink.png)
+   ![Link de Email](assets/emailLink.png)
 
 ## Configurar o Filtro da Campanha Inteligente
 

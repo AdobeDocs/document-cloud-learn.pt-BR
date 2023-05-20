@@ -26,16 +26,16 @@ Você está familiarizado com o uso do Acrobat Sign? Este tutorial é um ótimo 
 * [Defina prazos e lembretes](set-deadlines-reminders.md)
 Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos
 
-## Enviar
+## Enviando
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Noções básicas sobre a área de trabalho" src="../assets/workspace_1280.png" />
+      <img alt="Noções básicas do Workspace" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Noções básicas sobre a área de trabalho</strong></a>
+    <a href="quick-tour.md"><strong>Noções básicas do Workspace</strong></a>
     </div>
     <em>Faça um tour rápido pela área de trabalho do Acrobat Sign para começar a trabalhar</em>
     <br>
@@ -142,7 +142,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
 </tr>
 </table>
 
-## Signing
+## Assinaturas
 
 <table style="table-layout:fixed">
 <tr>
