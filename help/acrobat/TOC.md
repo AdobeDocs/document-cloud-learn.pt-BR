@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [Crie arquivos PDF mais eficientes em um piscar de olhos](60-second/optimize.md)
    + [Assinar eletronicamente um documento em papel](60-second/sign.md)
    + [Protect seus arquivos PDF com uma senha](60-second/protect.md)
+   + [Redação: O caminho certo](60-second/redaction.md)
+   + [Compartilhar para comentários](60-second/share-comment.md)
+   + [Compartilhar e comentar em arquivos PDF no Teams](60-second/share-comment-teams.md)
+   + [Comentários de PDF conflitantes com Resumir](60-second/summarize-comments.md)
    + [Deixe o Acrobat ajudá-lo a tornar PDF acessíveis](60-second/accessible.md)
    + [Conformar um PDF a um formato padrão](60-second/conform.md)
    + [Pesquisar vários arquivos PDF de uma vez](60-second/search.md)
