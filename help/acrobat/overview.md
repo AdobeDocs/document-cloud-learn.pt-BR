@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
+source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 
@@ -18,8 +18,6 @@ ht-degree: 9%
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
 O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negócios em andamento convertendo, editando, compartilhando e assinando PDF. Aqui você encontrará uma ampla variedade de experiências de aprendizado criadas para atualizar rapidamente iniciantes e usuários avançados no Adobe Acrobat.
-
-## Cursos recomendados
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
