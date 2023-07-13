@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ Neste tutorial de três partes, saiba como enviar um documento para notarizaçã
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Enviar documentos para assinatura em [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Integrar um formulário da Web com [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para assinatura em [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrar um formulário da Web com [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Envie documentos para assinatura diretamente do [!DNL Microsoft Teams]</em>
+    <em>Saiba como mapear dados coletados de um formulário web em um [!DNL SharePoint] lista</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ Neste tutorial de três partes, saiba como enviar um documento para notarizaçã
     <em>Saiba como ativar e usar o [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] apps</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Enviar documentos para assinatura em [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para assinatura em [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Envie documentos para assinatura diretamente do [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
