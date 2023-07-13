@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 
 ## Novidades
 
+* [Integrar um formulário da Web com [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
+Saiba como mapear dados coletados de um formulário web em um [!DNL SharePoint] lista
 * [Acrobat Sign + Workday - integração de novas contratações](acrobat-sign-workday-onboarding.md)
 Saiba como simplificar fluxos de trabalho de integração com o Acrobat Sign + Workday
-* [Enviar documentos para notarização](send-document-notarize.md)
-Neste tutorial de três partes, saiba como enviar um documento para notarização, visualizar a experiência do signatário e receber os resultados
 
 ## Tutoriais de integrações do Microsoft
 
