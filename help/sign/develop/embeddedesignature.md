@@ -4,10 +4,11 @@ description: Saiba como usar APIs do Acrobat Sign para incorporar assinaturas el
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -155,6 +156,6 @@ Quando tudo é montado, a solução é bastante simples. Você está criando um 
 * Lembretes personalizados
    * Com a criação inicial
 
-      ![Captura de tela de navegação para o Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Captura de tela de navegação para o Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Ou adicione um [em voo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

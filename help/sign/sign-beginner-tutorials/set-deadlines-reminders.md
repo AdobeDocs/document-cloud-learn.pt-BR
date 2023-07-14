@@ -1,13 +1,14 @@
 ---
 title: Definir prazos e lembretes
-description: Saiba como enviar lembretes e prazos regulares por email para ajudar a agilizar a assinatura de seus documentos
+description: Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
+jira: KT-10605
 thumbnail: KT-10605.jpg
 exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
-source-git-commit: f607a2c64afdc609dbdf381cb94ad6ec7a169aa7
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%
