@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ Saiba como consolidar dados de formulário de seus documentos
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Criar um formulário da Web" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Criar um formulário da Web com vários signatários desconhecidos" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Criar um formulário da Web</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Criar um formulário da Web com vários signatários desconhecidos</strong></a>
     </div>
-    <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
+    <em>Saiba como criar um formulário web complexo com vários participantes desconhecidos</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
+      </div>
+      <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ Saiba como consolidar dados de formulário de seus documentos
     <a href="text-tagging-word.md"><strong>Usando a marcação de texto no [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign no [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>

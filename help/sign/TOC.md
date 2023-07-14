@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 10%
 
 ---
@@ -52,6 +52,7 @@ ht-degree: 10%
       + [Configurar pagamentos online](sign-advanced-users/set-up-online-payments.md)
       + [Envie e colete assinaturas em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Criar um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Criar um formulário da Web com vários signatários desconhecidos](sign-advanced-users/webform-multiple-signers.md)
       + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Usando a marcação de texto no [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gerenciamento {#advanced-tasks-managing}
