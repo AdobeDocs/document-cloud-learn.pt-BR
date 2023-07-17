@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ O conteúdo de PDF deve ser único e estruturado da seguinte forma:
 * Executar [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) em todos os documentos digitalizados
 * Crie PDF que sejam compatíveis com dispositivos móveis Para verificar a experiência de exibição móvel do seu PDF, abra o arquivo no [aplicativo Acrobat Reader para dispositivos móveis](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subposições adicionais se necessário para melhorar a navegação.
 
-   ![Captura de tela do Liquid Mode no aplicativo Acrobat Reader para dispositivos móveis](../assets/optimizeseo1.png)
+  ![Captura de tela do Liquid Mode no aplicativo Acrobat Reader para dispositivos móveis](../assets/optimizeseo1.png)
 
 +++
 
