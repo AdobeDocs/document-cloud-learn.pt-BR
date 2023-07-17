@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Criar um formulário da Web com vários signatários desconhecidos
+# Solicitação de empréstimo governamental com vários signatários desconhecidos
 
 Saiba como [formulário web](../sign-advanced-users/webform.md) é usado para um fluxo de trabalho complexo de solicitação de empréstimo governamental que envolve vários participantes desconhecidos. Esses formulários podem ser incorporados em um site ou enviados como um link em um email. Eles também podem ser preenchidos em qualquer dispositivo e local, acelerando processos e prestação de serviços.
 
