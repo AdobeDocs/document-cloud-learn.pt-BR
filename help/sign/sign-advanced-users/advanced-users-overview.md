@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Saiba como enviar um documento para assinatura para centenas de destinatários a
 
 ## Novidades
 
-* [Criar um formulário da Web com vários signatários desconhecidos](webform-multiple-signers.md)
-Saiba como criar um formulário web complexo com vários participantes desconhecidos
 * [Métodos de autenticação no Acrobat Sign](authentication-methods.md)
 Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para autenticar a identidade de alguém que assina um documento
+* [Configurar pagamentos online](set-up-online-payments.md)
+Saiba como configurar e aceitar pagamentos online em seus documentos
 
 ## Enviando
 
@@ -104,19 +104,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <em>Colete centenas de assinaturas de uma só vez para qualquer documento em poucas etapas</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Criar um formulário da Web com vários signatários desconhecidos" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Criar um formulário da Web com vários signatários desconhecidos</strong></a>
-    </div>
-    <em>Saiba como criar um formulário web complexo com vários participantes desconhecidos</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       </div>
       <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Marcação de texto do Acrobat Sign" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
     <a href="text-tagging-word.md"><strong>Usando a marcação de texto no [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign no [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

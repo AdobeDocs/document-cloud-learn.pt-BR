@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Acelere os fluxos de trabalho digitais da sua organização com estes exemplos de assinaturas eletrônicas para órgãos governamentais e comerciais. Clique para exibir um PDF com recursos e detalhes sobre como configurar esses casos específicos de uso de assinaturas eletrônicas.
 
+* [Solicitação de empréstimo governamental com vários signatários desconhecidos](webform-multiple-signers.md)
+Saiba como um formulário web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos
+
 ## Casos de uso do governo
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Solicitação de empréstimo governamental com vários signatários desconhecidos" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Solicitação de empréstimo governamental com vários signatários desconhecidos</strong></a>
+    </div>
+    <em>Saiba como um formulário web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Subvenções às empresas e empréstimos" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <em>Substitua rapidamente o processamento em papel por fluxos de trabalho digitais em conformidade, complementados com relatórios de auditoria</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Assistência ao reemprego" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <em>Ajude os cidadãos a obter a ajuda de que precisam sem estar alinhados com formulários de candidatura totalmente digitais que podem entrar em operação em dias</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Proteção de Pagamento" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
     <a href="usecasegovremote.md"><strong>Solicitação de garantia remota</strong></a>
     </div>
     <em>Use assinaturas eletrônicas e webconferências juntas para reduzir o tempo necessário para solicitar e proteger garantias de juízes</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
