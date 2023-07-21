@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
 
 ## Novidades
 
+* [Aplicativo de estágio do formulário web para instituições de ensino](usecase-edu-intern.md)
+Saiba como os formulários Web são usados para melhorar o acesso dos alunos aos formulários necessários
 * [Solicitação de empréstimo governamental com vários signatários desconhecidos](webform-multiple-signers.md)
 Saiba como um formulário web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos
 
@@ -152,3 +154,36 @@ Saiba como um formulário web é usado para um fluxo de trabalho complexo de apl
   </td>
 </tr>
 </table>
+
+## Casos de uso para instituições de ensino
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="Aplicativo de estágio do formulário web para instituições de ensino" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>Aplicativo de estágio do formulário web para instituições de ensino</strong></a>
+    </div>
+    <em>Saiba como os formulários Web são usados para melhorar o acesso dos alunos aos formulários necessários</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
