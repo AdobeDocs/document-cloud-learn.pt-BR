@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Acelere os fluxos de trabalho digitais da sua organização com estes exemplos d
 
 * [Aplicativo de estágio do formulário web para instituições de ensino](usecase-edu-intern.md)
 Saiba como os formulários Web são usados para melhorar o acesso dos alunos aos formulários necessários
+* [Criar um formulário web para instituições de ensino e uma candidatura de estágio](usecase-edu-intern-create.md)
+Saiba como criar um formulário web de estágio
 * [Solicitação de empréstimo governamental com vários signatários desconhecidos](webform-multiple-signers.md)
 Saiba como um formulário web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos
 
@@ -170,10 +172,15 @@ Saiba como um formulário web é usado para um fluxo de trabalho complexo de apl
     <br>
   </td> 
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Criar um formulário web para instituições de ensino e uma candidatura de estágio" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Criar um formulário web para instituições de ensino e uma candidatura de estágio</strong></a>
+    </div>
+    <em>Saiba como criar um formulário web de estágio</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Espaçador" src="../assets/Whitespacer.png" />
     <div>
