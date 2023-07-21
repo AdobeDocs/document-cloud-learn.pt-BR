@@ -2,13 +2,12 @@
 title: Visão geral para administradores
 description: Conheça os fundamentos de adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados
 role: Admin
-product: adobe sign
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

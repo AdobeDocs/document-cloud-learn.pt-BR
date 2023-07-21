@@ -2,12 +2,11 @@
 title: Atualizações importantes do produto Acrobat DC para clientes ETLA
 description: Saiba mais sobre alterações importantes nos direitos do Acrobat DC incluídos nas ofertas do ETLA (Enterprise Term License Agreement) de agosto de 2020 a 20 de novembro de 2020
 role: Admin
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%

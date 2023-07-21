@@ -2,13 +2,12 @@
 title: Configurações globais
 description: Saiba como editar configurações globalmente para toda a organização ou para grupos específicos
 role: Admin
-product: adobe sign
 level: Intermediate, Experienced
 jira: KT-5503
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 31%

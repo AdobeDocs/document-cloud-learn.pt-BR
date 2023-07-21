@@ -2,13 +2,12 @@
 title: Compartilhamento avançado de conta
 description: O compartilhamento avançado de contas permite que administradores e usuários deleguem permissões de envio, modificação e exibição
 role: User, Admin
-product: adobe sign
 level: Intermediate
 jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

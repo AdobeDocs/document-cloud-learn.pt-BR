@@ -1,11 +1,10 @@
 ---
 title: Aplicativo de empréstimo governamental com vários signatários desconhecidos
 description: Saiba como um formulário web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

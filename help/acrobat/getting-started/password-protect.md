@@ -2,12 +2,11 @@
 title: Protect um arquivo PDF com uma senha
 description: Saiba como adicionar uma senha ao seu PDF para proteger outras pessoas contra a abertura ou edição do arquivo
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

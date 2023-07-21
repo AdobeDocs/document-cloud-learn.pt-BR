@@ -2,14 +2,12 @@
 title: Registre-se e assine usando [!DNL Digidentity]
 description: Saiba como registrar e usar seu [!DNL Digidentity] ID digital com o Acrobat Sign
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8670
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

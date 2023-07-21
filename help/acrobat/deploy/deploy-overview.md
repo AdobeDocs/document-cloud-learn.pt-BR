@@ -2,12 +2,11 @@
 title: Visão geral da implantação do Acrobat
 description: Artigos sobre implantação e práticas recomendadas com insights e conhecimentos valiosos obtidos ao trabalhar com nossos clientes
 role: Admin
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
 jira: KT-6862
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 4%

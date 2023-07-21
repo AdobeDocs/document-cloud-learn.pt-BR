@@ -2,14 +2,12 @@
 title: Obter uma ID digital de [!DNL Intesi Group] (Avançado)
 description: Saiba como obter um certificado de assinatura digital avançada da [!DNL Intesi Group]
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
 kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%

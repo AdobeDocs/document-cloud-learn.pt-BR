@@ -2,11 +2,10 @@
 title: Cinco dicas para trabalhar em qualquer lugar com o Acrobat — Tenha suas ferramentas
 description: Saiba como colocar suas ferramentas da Acrobat e aplicativos complementares para dispositivos móveis em funcionamento em qualquer lugar
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

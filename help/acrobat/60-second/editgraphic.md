@@ -2,12 +2,11 @@
 title: Editar um gráfico no PDF
 description: Saiba como fazer edições avançadas em um gráfico no seu PDF usando o Illustrator
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9277.jpg
 jira: KT-9277
 exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

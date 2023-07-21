@@ -2,12 +2,11 @@
 title: Adição de campos de formulário a um PDF não marcado
 description: Esta sessão por demanda aprofunda-se na criação de campos de formulário manuais e propriedades adicionais de campos de formulário
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8613.jpg
 jira: KT-8613
 exl-id: 73e0e348-126b-440b-a90e-061911781b76
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

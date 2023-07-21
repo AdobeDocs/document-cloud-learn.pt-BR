@@ -2,13 +2,11 @@
 title: Contratos governamentais e Forms de requisição
 description: Substitua rapidamente o processamento em papel por fluxos de trabalho digitais em conformidade, complementados com relatórios de auditoria
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-5302
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

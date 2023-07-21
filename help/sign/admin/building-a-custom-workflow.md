@@ -2,12 +2,11 @@
 title: Criação de um fluxo de trabalho personalizado
 description: Saiba como ajustar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas rapidamente e coletar dados de formulários
 role: User, Admin
-product: adobe sign
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

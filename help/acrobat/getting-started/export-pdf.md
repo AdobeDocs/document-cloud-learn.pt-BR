@@ -2,12 +2,11 @@
 title: Exportar um PDF para formatos do Microsoft Office
 description: Saiba como exportar arquivos PDF para formatos editáveis, como Microsoft Word, Excel ou PowerPoint
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 jira: KT-5529
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%

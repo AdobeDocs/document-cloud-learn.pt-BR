@@ -1,14 +1,13 @@
 ---
 title: Coletar documentos de alto volume usando o GigaSign
 description: Gigasign permite enviar, coletar e monitorar documentos para assinatura para milhares de pessoas ao mesmo tempo
-role: User, Admin
-product: adobe sign
+role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 5%

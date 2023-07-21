@@ -2,11 +2,10 @@
 title: Converter um PDF em Word
 description: Converter um arquivo PDF em um documento do Microsoft Word totalmente editável
 role: User
-product: adobe acrobat
 level: Beginner
 jira: KT-13291
 exl-id: a4c8dc0e-920b-431c-bd74-eb27e2c4418b
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 11%

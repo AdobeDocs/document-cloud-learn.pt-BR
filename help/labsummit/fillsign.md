@@ -1,9 +1,11 @@
 ---
 title: Preencha e assine qualquer formulário no desktop ou em dispositivos móveis
 description: Preencha, assine e envie formulários rapidamente usando o aplicativo para desktop, navegadores ou dispositivos móveis
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
