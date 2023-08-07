@@ -1,12 +1,13 @@
 ---
 title: Visão Geral das Tarefas Avançadas do Acrobat
-description: Vá além do básico usando estas ferramentas avançadas no Acrobat
+description: Vá além do básico usando essas ferramentas avançadas no Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -21,8 +22,8 @@ Vá além do básico com essas ferramentas avançadas no Acrobat. Saiba como cri
 
 ## Novidades
 
-* [Optimize PDF para SEO (Otimização do Mecanismo de Pesquisa)](optimizeseo.md)
-Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos mecanismos de pesquisa na Web
+* [Optimize PDF para SEO (Search Engine Otimization)](optimizeseo.md)
+Saiba como otimizar um PDF para melhorar a capacidade de descoberta e a classificação do mecanismo de pesquisa na Web
 
 ## Tutoriais de tarefas avançadas
 
@@ -30,12 +31,12 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
 <tr>
   <td>
     <a href="bookmarks.md">
-      <img alt="Adicionar marcadores e hiperlinks" src="../assets/Bookmarks_1280.png" />
+      <img alt="Adição de marcadores e hiperlinks" src="../assets/Bookmarks_1280.png" />
     </a>
     <div>
-    <a href="bookmarks.md"><strong>Adicionar marcadores e hiperlinks</strong></a>
+    <a href="bookmarks.md"><strong>Adição de marcadores e hiperlinks</strong></a>
     </div>
-    <em>Saiba como adicionar marcadores e hiperlinks para melhorar a navegação e a interação</em>
+    <em>Saiba como adicionar marcadores e hiperlinks para melhor navegação e interação</em>
     <br>
   </td>
   <td>
@@ -55,7 +56,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="custom.md"><strong>Comandos e ferramentas personalizados</strong></a>
     </div>
-    <em>Melhore a produtividade do fluxo de trabalho de documentos usando ferramentas e comandos personalizados</em>
+    <em>Melhorar a produtividade do fluxo de trabalho de documentos usando ferramentas e comandos personalizados</em>
     <br>
   </td>
   <td>
@@ -65,19 +66,19 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="advancedforms.md"><strong>Campos de formulário avançados</strong></a>
     </div>
-    <em>Aprenda técnicas avançadas para construir PDF forms profissionais</em>
+    <em>Aprenda técnicas avançadas para criar PDF forms profissionais</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF para SEO (Otimização do Mecanismo de Pesquisa)" src="../assets/seo_1280.png" />
+      <img alt="Optimize PDF para SEO (Search Engine Otimization)" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>Optimize PDF para SEO (Otimização do Mecanismo de Pesquisa)</strong></a>
+    <a href="optimizeseo.md"><strong>Optimize PDF para SEO (Search Engine Otimization)</strong></a>
     </div>
-    <em>Otimizar uma PDF para melhor descoberta e classificação de mecanismos de pesquisa na Web</em>
+    <em>Otimizar um PDF para melhorar a capacidade de descoberta e a classificação do mecanismo de pesquisa na Web</em>
     <br>
   </td>
   <td>
@@ -87,7 +88,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="workforms.md"><strong>Trabalhar com campos de formulário</strong></a>
     </div>
-    <em>Adicione vários tipos de campos de formulário, defina propriedades de campos de formulário e adicione segurança para criar formulários profissionais de alta qualidade</em>
+    <em>Adicione vários tipos de campos de formulário, defina as propriedades dos campos de formulário e adicione segurança para criar formulários profissionais de alta qualidade</em>
     <br>
   </td>
   <td>
@@ -102,12 +103,12 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
   </td>
  <td>
     <a href="compare.md">
-      <img alt="Detectar diferenças entre duas PDF" src="../assets/Compare_1280.png" />
+      <img alt="Detectar diferenças entre dois PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
     <a href="compare.md"><strong>Detectar diferenças entre dois PDF</strong></a>
     </div>
-    <em>Detecte com rapidez e precisão as diferenças entre dois arquivos PDF</em>
+    <em>Detecte com rapidez e precisão as diferenças entre dois arquivos de PDF</em>
     <br>
   </td>
 </tr>
@@ -119,7 +120,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Poupe tempo e use uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos</em>
+    <em>Economize tempo e teclas ao usar uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos</em>
     <br>
   </td>
   <td>
@@ -129,7 +130,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="redact.md"><strong>Redigir e limpar</strong></a>
     </div>
-    <em>Remova permanentemente informações confidenciais ou privadas de seu PDF</em>
+    <em>Remova permanentemente informações confidenciais de seu PDF</em>
     <br>
   </td>
  <td>
@@ -139,7 +140,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="reduce.md"><strong>Reduza o tamanho do arquivo e otimize</strong></a>
     </div>
-    <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade do compartilhamento, publicação ou arquivamento</em>
+    <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade de compartilhamento, publicação ou arquivamento</em>
     <br>
   </td>
   <td>
@@ -147,7 +148,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Trabalho com dados de formulário</strong></a>
+    <a href="formdata.md"><strong>Trabalhar com dados de formulário</strong></a>
     </div>
     <em>Compilar dados de formulário em uma única planilha</em>
     <br>
@@ -161,7 +162,7 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
     <div>
     <a href="accessibility.md"><strong>Verificar acessibilidade do PDF</strong></a>
     </div>
-    <em>Verifique se sua PDF é universalmente acessível a pessoas com deficiência</em>
+    <em>Verifique se o seu PDF é universalmente acessível a pessoas com deficiências</em>
     <br>
   </td>
  <td>
@@ -169,9 +170,9 @@ Saiba como otimizar uma PDF para melhorar a descoberta e a classificação dos m
       <img alt="Preparando Arquivos PDF Acessíveis" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Série Acrobat Accessibility</strong></a>
+    <a href="accessibility-series.md"><strong>Série Acessibilidade do Acrobat</strong></a>
     </div>
-    <em>Nesta série de webinários por demanda de seis partes, vá das noções básicas de Acessibilidade a uma análise detalhada da marcação de seus arquivos PDF</em>
+    <em>Nesta série de webinários sob demanda em seis partes, vá das noções básicas de acessibilidade a uma análise detalhada da marcação de seus arquivos de PDF</em>
     <br>
   </td>
   <td>

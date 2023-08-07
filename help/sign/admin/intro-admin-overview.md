@@ -1,13 +1,14 @@
 ---
-title: Visão geral para administradores
-description: Conheça os fundamentos de adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados
+title: Visão geral dos administradores
+description: Conheça os conceitos básicos para adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -18,13 +19,13 @@ ht-degree: 1%
 
 ![Imagem dos administradores do Sign](../assets/Hero-Admin.png)
 
-Saiba mais sobre como adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados. Esses tutoriais foram criados para administradores que passaram da fase de instalação e estão prontos para começar a administrar o Acrobat Sign. As tarefas avançadas abrangem tópicos que se expandem após a configuração do administrador e avançam para a definição de configurações globais, acesso e compartilhamento de conta e marcação de texto.
+Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar acesso e configurar um fluxo de trabalho, arquivamento externo e eventos e alertas compartilhados. Estes tutoriais foram desenvolvidos para administradores que passaram da fase de instalação e estão prontos para começar a administrar o Acrobat Sign. As Tarefas avançadas abrangem tópicos que se expandem além da configuração do administrador e passam a definir configurações globais, acesso e compartilhamento de conta e marcação de texto.
 
 ## Novidades
 
 * [Opções de relatório](report-options.md)
 Saiba como configurar opções de relatório para usuários
-* [Adicionar usuários](add-users-to-your-account.md)
+* [Adicionando usuários](add-users-to-your-account.md)
 Saiba como adicionar e gerenciar usuários para o Acrobat Sign
 
 ## Introdução
@@ -38,27 +39,27 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="get-started-admin.md"><strong>Introdução para novos administradores</strong></a>
     </div>
-    <em>Neste guia em vídeo abrangente, conheça todas as ferramentas necessárias para colocar sua organização em funcionamento com o Acrobat Sign</em>
+    <em>Neste guia em vídeo abrangente, saiba mais sobre todas as ferramentas necessárias para colocar sua organização em funcionamento com o Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Em execução para administradores" src="../assets/Up-Running.png" />
+      <img alt="Em &amp; execução para administradores" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Em execução para administradores</strong></a>
+    <a href="up-and-running-admin.md"><strong>Em &amp; execução para administradores</strong></a>
     </div>
-    <em>Visão geral de 7 áreas principais para os administradores iniciarem e executarem rapidamente no Acrobat Sign</em>
+    <em>Visão geral das 7 áreas principais para que os administradores comecem a trabalhar rapidamente no Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuração de eventos e alertas compartilhados" src="../assets/Notifications_1280.png" />
+      <img alt="Configuração de alertas e eventos compartilhados" src="../assets/Notifications_1280.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
     </div>
-    <em>Configurar notificações de eventos e alertas para sua conta</em>
+    <em>Configurar notificações para eventos e alertas da sua conta</em>
     <br>
   </td>
   <td>
@@ -75,22 +76,22 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
 <tr>
  <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Criando e gerenciando grupos" src="../assets/Creating-Groups.png" />
+      <img alt="Criando e Gerenciando Grupos" src="../assets/Creating-Groups.png" />
     </a>
     <div>
-    <a href="create-and-manage-groups.md"><strong>Criar e gerenciar grupos</strong></a>
+    <a href="create-and-manage-groups.md"><strong>Criação e gerenciamento de grupos</strong></a>
     </div>
     <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupo</em>
     <br>
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configurando um arquivo externo" src="../assets/ExternalArchive.png" />
+      <img alt="Configurando um arquivamento externo" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivo externo</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivamento externo</strong></a>
     </div>
-    <em>Criar um arquivo externo para cópias de backup de contratos que foram assinados</em>
+    <em>Criar um arquivamento externo para cópias de backup de contratos que foram assinados</em>
     <br>
   </td>
   <td>
@@ -100,17 +101,17 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Criação de um modelo de documento</strong></a>
     </div>
-    <em>Crie um modelo de documento reutilizável para agilizar e manter a consistência</em>
+    <em>Criar um modelo de documento reutilizável para velocidade e consistência</em>
     <br>
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Criando um gráfico de relatório" src="../assets/Reportchart.png" />
+      <img alt="Criação de um gráfico de relatório" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Criando um gráfico de relatório</strong></a>
+    <a href="create-a-report.md"><strong>Criação de um gráfico de relatório</strong></a>
     </div>
-    <em>Saiba como criar, salvar e gerenciar seus próprios relatórios e exportações de dados personalizados</em>
+    <em>Saiba como criar, salvar e gerenciar seus próprios relatórios personalizados e exportações de dados</em>
     <br>
   </td>
 </tr>
@@ -132,7 +133,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>Criar um formulário da Web</strong></a>
     </div>
-    <em>Crie um documento que possa ser assinado eletronicamente diretamente em seu site</em>
+    <em>Crie um documento que possa ser assinado eletronicamente diretamente no seu site</em>
     <br>
   </td>
   <td>
@@ -147,10 +148,10 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Envie e colete assinaturas em massa" src="../assets/Megasign.png" />
+      <img alt="Enviar e coletar assinaturas em massa" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Envie e colete assinaturas em massa</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Enviar e coletar assinaturas em massa</strong></a>
     </div>
     <em>Colete centenas de assinaturas de uma só vez para qualquer documento</em>
     <br>
@@ -162,9 +163,9 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Configurando um Workflow" src="../assets/BuildingWorkflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Configuração de um fluxo de trabalho</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Configurando um fluxo de trabalho</strong></a>
     </div>
-    <em>Automatize fluxos de trabalho de documentos para coletar assinaturas eletrônicas e dados com rapidez</em>
+    <em>Automatizar fluxos de trabalho de documentos para obter rapidamente assinaturas eletrônicas e dados</em>
     <br>
   </td>
   <td>
@@ -200,22 +201,22 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Compartilhando acesso à conta" src="../assets/SharingAccess.png" />
+      <img alt="Acesso à conta de compartilhamento" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Compartilhando acesso à conta</strong></a>
+    <a href="share-account-access.md"><strong>Acesso à conta de compartilhamento</strong></a>
     </div>
-    <em>Configurar o acesso somente exibição para transações na conta de outro usuário</em>
+    <em>Configurar acesso somente exibição para transações na conta de outro usuário</em>
     <br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Compartilhamento de conta avançado" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Compartilhamento avançado de conta" src="../assets/AdvancedSharing_1280.png" />
     </a>
     <div>
-    <a href="advanced-account-sharing.md"><strong>Compartilhamento de conta avançado</strong></a>
+    <a href="advanced-account-sharing.md"><strong>Compartilhamento avançado de conta</strong></a>
     </div>
-    <em>Configurar o compartilhamento de conta para permitir que administradores e usuários deleguem permissões de envio, modificação e exibição</em>
+    <em>Configure o compartilhamento de conta para permitir que administradores e usuários deleguem suas permissões de envio, modificação e exibição</em>
     <br>
   </td>
   <td>
@@ -225,7 +226,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Usar configurações do BioPharma</strong></a>
     </div>
-    <em>Defina configurações de BioPharma que permitam atender aos requisitos da parte 11 do título 21 do CFR da FDA</em>
+    <em>Definir configurações do BioPharma que permitem que você atenda aos requisitos da FDA 21 CFR Parte 11</em>
     <br>
   </td> 
 </tr>

@@ -1,32 +1,33 @@
 ---
 title: Visão geral do Acrobat Develop
-description: Desenvolva um software que se integra ao Acrobat e ao Adobe Reader usando JavaScript, Plug-ins ou IAC
+description: Desenvolva um software que se integre com o Acrobat e o Adobe Reader usando JavaScript, plug-ins ou IAC
+feature: Integrations
 role: Developer
 level: Intermediate
-thumbnail: KT-6861.jpg
 jira: KT-6861
+thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Visão geral de desenvolvimento
+# Desenvolver visão geral
 
 ![Imagem de revelação do Acrobat](../assets/Hero-Develop.png)
 
-Desenvolva um software que se integra ao Acrobat e ao Adobe Reader usando JavaScript, Plug-ins ou IAC.
+Desenvolva um software que se integre com o Acrobat e o Adobe Reader usando JavaScript, plug-ins ou IAC.
 
-## Acrobat SDK
+## ACROBAT SDK
 
-O [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} é um conjunto de ferramentas que o ajudam a desenvolver software que interage com a tecnologia Acrobat.
+O [ACROBAT SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} O é um conjunto de ferramentas que ajudam a desenvolver software que interage com a tecnologia Acrobat.
 
-## APIs de serviços da Adobe Acrobat
+## APIs de Serviços do Adobe Acrobat
 
-[API de serviços da Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
+[API de Serviços do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
 [API do Adobe PDF Extract](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [API de geração de documento Adobe](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [API incorporada do Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Tutoriais dos serviços da Adobe Acrobat](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Tutoriais de serviços do Adobe Acrobat](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}

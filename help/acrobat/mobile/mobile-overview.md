@@ -1,24 +1,25 @@
 ---
 title: Visão geral do Acrobat Mobile
-description: Crie, preencha e assine PDF em dispositivos móveis
+description: Crie, preencha e assine PDF em seu dispositivo móvel
+feature: Mobile, Sign, Create PDF
 role: User
 level: Beginner, Intermediate
 topic-revisit: mobile
-thumbnail: KT-6863.jpg
 jira: KT-6863
+thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
 
 ---
 
-# Visão geral móvel
+# Visão geral do celular
 
-![Acrobat Mobile Image](../assets/Hero-Mobile.png)
+![Imagem do Acrobat Mobile](../assets/Hero-Mobile.png)
 
-Criar, preencher e [assinar PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.html){target="_blank"}  no dispositivo móvel.
+Criar, preencher e [assinar PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.html){target="_blank"}  no seu dispositivo móvel.
 
 ## Tutoriais do aplicativo Acrobat Reader para dispositivos móveis
 
@@ -26,12 +27,12 @@ Criar, preencher e [assinar PDF](https://www.adobe.com/br/acrobat/online/sign-pd
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="Produtividade em trânsito" src="../assets/Productivity_1280.png" />
+      <img alt="Produtividade em qualquer lugar" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../getting-started/productivity.md"><strong>Produtividade em trânsito</strong></a>
+     <a href="../getting-started/productivity.md"><strong>Produtividade em qualquer lugar</strong></a>
     </div>
-    <em>Faça mais diretamente no tablet ou no telefone celular com o aplicativo Acrobat Reader para dispositivos móveis</em>
+    <em>Faça mais com seu tablet ou celular usando o aplicativo Acrobat Reader para dispositivos móveis</em>
     <br>
   </td>
   <td>
@@ -58,12 +59,12 @@ Criar, preencher e [assinar PDF](https://www.adobe.com/br/acrobat/online/sign-pd
 <tr>
   <td>
     <a href="scan-mobile-app.md">
-      <img alt="Digitalize qualquer coisa para PDF" src="../assets/Scanmobile.png" />
+      <img alt="Digitalize qualquer coisa para o PDF" src="../assets/Scanmobile.png" />
     </a>
     <div>
-     <a href="scan-mobile-app.md"><strong>Digitalize qualquer coisa para PDF</strong></a>
+     <a href="scan-mobile-app.md"><strong>Digitalize qualquer coisa para o PDF</strong></a>
     </div>
-    <em>Saiba como transformar documentos impressos em PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis</em>
+    <em>Saiba como transformar qualquer documento impresso em um PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis</em>
     <br>
   </td>
   <td>
@@ -84,14 +85,14 @@ Criar, preencher e [assinar PDF](https://www.adobe.com/br/acrobat/online/sign-pd
 </tr>
 </table>
 
-Baixar [aplicativo Adobe Acrobat Reader para dispositivos móveis](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} o padrão global gratuito para exibir, anotar e assinar PDF com confiança.
+Baixar [Aplicativo Adobe Acrobat Reader para dispositivos móveis](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} o padrão global gratuito para visualizar, anotar e assinar PDF com segurança.
 
-[Guia do Acrobat Reader para iOS para dispositivos móveis](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
-[Guia do Acrobat Reader para dispositivos móveis Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
+[Guia do Acrobat Reader para iOS mobile](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guia móvel do Acrobat Reader para Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Baixar [aplicativo Adobe Scan para dispositivos móveis](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto pesquisável.
+Baixar [Aplicativo Adobe Scan para dispositivos móveis](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
 
-[Guia do Adobe Scan para iOS para dispositivos móveis](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Guia do Adobe Scan para dispositivos móveis Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[Guia do Adobe Scan para iOS mobile](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guia móvel do Adobe Scan para Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Baixar [aplicativo Adobe Fill &amp; Sign para dispositivos móveis](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para preencher, assinar e enviar formulários de qualquer lugar e dispositivo usando apenas os dedos ou uma caneta.
+Baixar [Aplicativo Adobe Fill &amp; Sign para dispositivos móveis](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando nada mais do que o dedo ou uma caneta.

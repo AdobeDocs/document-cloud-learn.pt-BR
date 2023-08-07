@@ -1,24 +1,25 @@
 ---
-title: Tornando PDF acessíveis—Criação em [!DNL Microsoft Word]
+title: Tornando PDF acessível - Criação em [!DNL Microsoft Word]
 description: Criação de documentos acessíveis no [!DNL Microsoft Word]
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Tornando PDF acessíveis: Criação em [!DNL Microsoft Word]
+# Tornar PDF acessíveis: criação em [!DNL Microsoft Word]
 
-No segundo tutorial em vídeo da Série Tornando PDF acessíveis , conheça as práticas recomendadas para criar arquivos PDF criados em [!DNL Microsoft Word].
+No segundo tutorial em vídeo da série Tornando PDF acessíveis, saiba as práticas recomendadas para criar arquivos PDF que são criados no [!DNL Microsoft Word].
 
 ## Parte 2 - Criação em [!DNL Microsoft Word] (2:51)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34513?quality=12&learn=on&hidetitle=true)
 
-[Vá para a parte 3: acabamento no Acrobat](finishing-in-acrobat.md)
+[Ir para a Parte 3 - Finalizar no Acrobat](finishing-in-acrobat.md)

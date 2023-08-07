@@ -1,20 +1,21 @@
 ---
 title: Visão geral do desenvolvimento
 description: Saiba como usar as APIs do Acrobat Sign para criar aplicativos personalizados para suas equipes, parceiros e clientes
+feature: Workflow, Integrations
 role: Developer
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%
 
 ---
 
-# Visão geral de desenvolvimento
+# Desenvolver visão geral
 
 ![Imagem de revelação do Sign](../assets/Hero-Develop.png)
 
@@ -44,22 +45,22 @@ ht-degree: 13%
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="Reunir documentos de grande volume usando o GigaSign" src="../assets/gigasign.jpg" />
+      <img alt="Reúna documentos de grande volume usando o GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Reunir documentos de grande volume usando o GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Reúna documentos de grande volume usando o GigaSign</strong></a>
     </div>
-    <em>Envie, colete e monitore documentos para assinatura para milhares de pessoas ao mesmo tempo</em>
+    <em>Envie, colete e rastreie documentos para assinatura a milhares de pessoas ao mesmo tempo</em>
     <br>
   </td>
    <td>
     <a href="embeddedesignature.md">
-      <img alt="Crie assinaturas eletrônicas incorporadas e experiências em documentos" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+      <img alt="Criar assinatura eletrônica incorporada e experiências de documento" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>Crie assinaturas eletrônicas incorporadas e experiências em documentos</strong></a>
+    <a href="embeddedesignature.md"><strong>Criar assinatura eletrônica incorporada e experiências de documento</strong></a>
     </div>
-    <em>Saiba como usar APIs do Acrobat Sign para incorporar assinaturas eletrônicas e experiências de documentos às suas plataformas da Web e sistemas de gerenciamento de documentos e conteúdo</em>
+    <em>Saiba como usar as APIs do Acrobat Sign para incorporar experiências de assinatura eletrônica e de documento em suas plataformas Web e sistemas de gerenciamento de conteúdo e documentos</em>
     <br>
   </td>
 </tr>

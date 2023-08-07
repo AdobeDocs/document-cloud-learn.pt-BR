@@ -1,50 +1,51 @@
 ---
-title: Digitalização e OCR
-description: Converta digitalizações ou imagens de documentos em arquivos PDF pesquisáveis e editáveis e ajuste a qualidade do arquivo resultante
+title: Digitalizar e OCR
+description: Converta digitalizações ou imagens de documentos em arquivos de PDF editáveis e pesquisáveis e ajuste a qualidade do arquivo resultante
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6830.jpg
 jira: KT-6830
+thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 4%
 
 ---
 
-# Digitalização e OCR
+# Digitalizar e OCR
 
-Mantenha o trabalho em andamento convertendo digitalizações ou imagens de documentos em documentos pesquisáveis, [arquivos PDF editáveis](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}.
+Mantenha os negócios em frente, convertendo digitalizações ou imagens de documentos em pesquisáveis, [arquivos PDF editáveis](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
->Para fazer OCR em vários arquivos PDF, tente usar o [Action Wizard](../advanced-tasks/action.md).
+>Para fazer o OCR de vários arquivos de PDF, tente usar o comando [Action Wizard](../advanced-tasks/action.md).
 
-1. Selecionar **[!UICONTROL Digitalização e OCR]** do [!UICONTROL Ferramentas] painel central ou à direita.
+1. Selecionar **[!UICONTROL Digitalizar e OCR]** na guia [!UICONTROL Ferramentas] painel central ou à direita.
 
-   ![Etapa 1 da varredura](../assets/Scan_1.png)
+   ![Etapa 1 da verificação](../assets/Scan_1.png)
 
 1. Selecione um arquivo.
 
-   Esse arquivo pode ser uma foto de um documento ou um arquivo já digitalizado criado usando um scanner ou o aplicativo Adobe Scan para dispositivos móveis. Ou digitalize um documento para criar um novo arquivo usando um scanner conectado.
+   Este arquivo pode ser uma foto de um documento ou um arquivo já digitalizado criado usando um scanner ou o aplicativo Adobe Scan para dispositivos móveis. Ou você pode digitalizar um documento para criar um novo arquivo usando um scanner conectado.
 
-   ![Etapa de Verificação 2](../assets/Scan_2.png)
+   ![Etapa 2 da verificação](../assets/Scan_2.png)
 
-1. Escolha **[!UICONTROL Documento digitalizado]** ou **[!UICONTROL Imagem da câmera]** para aprimorar o documento.
+1. Escolher **[!UICONTROL Documento digitalizado]** ou **[!UICONTROL Imagem da câmera]** para aprimorar o documento.
 
 1. Selecionar **[!UICONTROL Aprimorar]** para limpar a imagem.
 
-   ![Etapa de Verificação 3](../assets/Scan_3.png)
+   ![Etapa 3 da verificação](../assets/Scan_3.png)
 
    O Acrobat reconhece automaticamente o texto de documentos digitalizados.
 
 1. Selecionar **[!UICONTROL Reconhecer texto]** para reconhecer manualmente texto em arquivos de imagem.
 
-   ![Etapa de Verificação 4](../assets/Scan_4.png)
+   ![Etapa 4 da verificação](../assets/Scan_4.png)
 
-O arquivo agora é um arquivo PDF pesquisável e editável.
+O arquivo agora é um arquivo de PDF editável e pesquisável.
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe com mais inteligência com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe de modo mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!

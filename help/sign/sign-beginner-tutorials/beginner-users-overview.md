@@ -1,12 +1,13 @@
 ---
-title: Visão geral do Guia de Introdução
+title: Visão geral dos primeiros passos
 description: Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
@@ -15,16 +16,16 @@ ht-degree: 5%
 
 # Visão geral de introdução
 
-![Imagem de início do Sign](../assets/Hero-GettingStarted.png)
+![Imagem de Introdução do Sign](../assets/Hero-GettingStarted.png)
 
 Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais passo a passo. Faça um tour rápido pelo Acrobat Sign e comece a enviar um documento para uma ou mais pessoas. Esse conteúdo foi desenvolvido para facilitar os fluxos de trabalho de assinatura eletrônica.
 
 ## Novidades
 
 * [Introdução ao Acrobat Sign](new-sender.md)
-Você está familiarizado com o uso do Acrobat Sign? Este tutorial é um ótimo ponto de partida.
+É novo no uso do Acrobat Sign? Este tutorial é um ótimo lugar para começar.
 * [Defina prazos e lembretes](set-deadlines-reminders.md)
-Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos
+Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente
 
 ## Enviando
 
@@ -37,7 +38,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
     <div>
     <a href="quick-tour.md"><strong>Noções básicas do Workspace</strong></a>
     </div>
-    <em>Faça um tour rápido pela área de trabalho do Acrobat Sign para começar a trabalhar</em>
+    <em>Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a usar o produto</em>
     <br>
   </td>
   <td>
@@ -55,7 +56,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
       <img alt="Envio para um único destinatário" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Enviar para um único destinatário</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Envio para um único destinatário</strong></a>
     </div>
     <em>Entre e saiba como é fácil enviar um documento para assinatura</em>
     <br>
@@ -67,7 +68,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
     </div>
-    <em>Envie um documento para assinatura eletrônica para mais de uma pessoa na ordem desejada</em>
+    <em>Envie um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada</em>
     <br>
   </td>
 </tr>
@@ -84,20 +85,20 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Adicionar campos aos documentos" src="../assets/AddingFields.png" />
+      <img alt="Adição de campos aos documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>Adicionar campos aos documentos</strong></a>
+    <a href="adding-fields.md"><strong>Adição de campos aos documentos</strong></a>
     </div>
     <em>Saiba como adicionar diferentes tipos de campos aos documentos</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modificar um documento após o envio" src="../assets/Modifying-sending.png" />
+      <img alt="Modificar um documento após enviar" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modificar um documento após o envio</strong></a>
+    <a href="modify-in-flight.md"><strong>Modificar um documento após enviar</strong></a>
     </div>
     <em>Modificar um documento que já está em andamento</em>
     <br>
@@ -121,7 +122,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
       <div>
       <a href="set-deadlines-reminders.md"><strong>Defina os prazos e lembretes</strong></a>
       </div>
-      <em>Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar rapidamente seus documentos</em>
+      <em>Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente</em>
       <br>
     </td> 
   <td>
@@ -148,10 +149,10 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Assinatura eletrônica de um documento" src="../assets/Electronically-sign.png" />
+      <img alt="Assinar um documento eletronicamente" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>Assinatura eletrônica de um documento</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>Assinar um documento eletronicamente</strong></a>
     </div>
     <em>Saiba como é fácil assinar um documento enviado para você com o Acrobat Sign</em>
     <br>
@@ -168,12 +169,12 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Obter uma assinatura presencial" src="../assets/In-person.png" />
+      <img alt="Obter uma assinatura presencialmente" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Obter uma assinatura presencial</strong></a>
+    <a href="sign-in-person.md"><strong>Obter uma assinatura presencialmente</strong></a>
     </div>
-    <em>Colete a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
+    <em>Obtenha a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
   </td>
   <td>
@@ -195,15 +196,15 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
     </div>
-    <em>Saiba mais sobre assinaturas digitais baseadas em certificados</em>
+    <em>Saiba mais sobre assinaturas digitais com base em certificado</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Assinar usando um carimbo" src="../assets/Stamp.png" />
+      <img alt="Assinatura usando um carimbo" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Assinar usando um carimbo</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Assinatura usando um carimbo</strong></a>
     </div>
     <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
      <br>
@@ -232,7 +233,7 @@ Saiba como enviar lembretes e prazos regulares de email para ajudar a assinar ra
     <div>
     <a href="manage-and-track.md"><strong>Gerenciar e monitorar seus contratos</strong></a>
     </div>
-    <em>Saiba como gerenciar e monitorar contratos enviados para assinatura</em>
+    <em>Saiba como gerenciar e rastrear contratos enviados para assinatura</em>
     <br>
   </td>
   <td>

@@ -1,13 +1,13 @@
 ---
 title: Visão geral da ID digital
-description: Saiba como usar IDs digitais de todo o mundo com o Acrobat Sign
+description: Saiba como usar IDs digitais do mundo todo com o Acrobat Sign
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
-kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -18,18 +18,18 @@ ht-degree: 0%
 
 ![Imagem de ID digital do Sign](../assets/Hero-DigitalID.png)
 
-Semelhante a um passaporte em formato eletrônico, uma identidade digital (ID digital) permite que você prove com segurança que é quem diz ser. Além disso, ao assinar eletronicamente no Acrobat Sign, o uso de uma ID digital oferece uma garantia maior de que você autorizou sua assinatura eletrônica nesse documento específico. Os tutoriais a seguir mostram como usar IDs digitais de todo o mundo com o Acrobat Sign.
+Semelhante a um passaporte eletrônico, uma identidade digital (ID digital) permite comprovar com segurança a identidade do signatário. Além disso, ao assinar eletronicamente no Acrobat Sign, o uso da ID digital oferece uma garantia maior de que você autorizou sua assinatura eletrônica nesse documento específico. Os tutoriais a seguir mostram como usar IDs digitais do mundo todo com o Acrobat Sign.
 
 >[!NOTE]
 >
->Antes de usar uma ID digital com uma assinatura em nuvem, consulte o administrador da sua organização para confirmar se a solução do provedor está habilitada no Acrobat Sign.
+>Antes de usar uma ID digital com uma assinatura em nuvem, verifique com o administrador da sua organização se a solução do provedor está habilitada no Acrobat Sign.
 
 ## Novidades
 
-* [Registre-se e assine usando a Digidentity](digidentity-sign.md)
-Saiba como registrar e usar seu [!DNL Digidentity] ID digital com o Acrobat Sign
+* [Registrar e assinar usando a Digidentity](digidentity-sign.md)
+Saiba como registrar e usar seu [!DNL Digidentity] ID digital com Acrobat Sign
 * [Registrar e assinar usando o D-Trust](d-trust.md)
-Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign
+Saiba como registrar sua identidade no [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign
 
 ## [!DNL Aadhaar]
 
@@ -42,7 +42,7 @@ Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] ass
     <div>
     <a href="aadhaar-sign.md"><strong>Assinar usando [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Saiba como usar sua [!DNL Aadhaar] ID digital com o Acrobat Sign</em>
+    <em>Saiba como usar seu [!DNL Aadhaar] ID digital com Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,9 +72,9 @@ Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] ass
       <img alt="Registre-se e assine usando um [!DNL Digidentity] ID digital" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Registre-se e assine usando [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Registre e assine usando [!DNL Digidentity]</strong></a>
     </div>
-    <em>Saiba como registrar e usar seu [!DNL Digidentity] ID digital com o Acrobat Sign</em>
+    <em>Saiba como registrar e usar seu [!DNL Digidentity] ID digital com Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] ass
     <div>
     <a href="d-trust.md"><strong>Registrar e assinar usando o D-Trust</strong></a>
     </div>
-    <em>Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign</em>
+    <em>Saiba como registrar sua identidade no [!DNL D-Trust]e use o [!DNL D-Trust] assinatura digital em um documento no Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -138,7 +138,7 @@ Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] ass
     <div>
     <a href="intesi-advanced.md"><strong>Obter uma ID digital de [!DNL Intesi Group] (Avançado)</strong></a>
     </div>
-    <em>Saiba como obter um certificado de assinatura digital avançada da [!DNL Intesi Group]</em>
+    <em>Saiba como obter um certificado de assinatura digital avançada no [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -158,7 +158,7 @@ Saiba como registrar sua identidade com [!DNL D-Trust]e use o [!DNL D-Trust] ass
     <div>
     <a href="intesi-sign.md"><strong>Assinar usando [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Saiba como usar sua [!DNL Intesi Group] ID digital com o Acrobat Sign</em>
+    <em>Saiba como usar seu [!DNL Intesi Group] ID digital com Acrobat Sign</em>
     <br>
   </td>
   <td>

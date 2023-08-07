@@ -1,19 +1,20 @@
 ---
 title: Combine Files em um PDF
 description: Crie rapidamente um documento combinando vários tipos diferentes de arquivos em um único PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-8571.jpg
 jira: KT-8571
+thumbnail: KT-8571.jpg
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%
 
 ---
 
-# Combinar arquivos em um PDF
+# Combine arquivos em um PDF
 
 Neste tutorial em vídeo de 60 segundos, saiba como criar rapidamente um documento [combinação de vários tipos diferentes de arquivos em um único PDF](https://www.adobe.com/br/acrobat/online/merge-pdf.html){target="_blank"}.
 

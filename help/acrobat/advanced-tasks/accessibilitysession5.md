@@ -1,12 +1,13 @@
 ---
 title: Adição de campos de formulário a um PDF marcado
-description: Esta sessão por demanda se concentra em adicionar campos de formulário a uma PDF marcada anteriormente
+description: Esta sessão por demanda se concentra em adicionar campos de formulário a um PDF marcado anteriormente
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8612.jpg
 jira: KT-8612
+thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
@@ -15,7 +16,7 @@ ht-degree: 6%
 
 # Adição de campos de formulário a um PDF marcado
 
-Esta sessão por demanda se concentra em adicionar campos de formulário a uma PDF marcada anteriormente.
+Esta sessão por demanda se concentra em adicionar campos de formulário a um PDF marcado anteriormente.
 
 Clique em [aqui](../assets/accessibilitysession5.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
 

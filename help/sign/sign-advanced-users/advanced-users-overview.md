@@ -1,12 +1,13 @@
 ---
-title: Visão Geral de Tarefas Avançadas
-description: Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento
+title: Visão geral de tarefas avançadas
+description: Saiba como enviar um documento para assinatura a centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
@@ -17,7 +18,7 @@ ht-degree: 3%
 
 ![Imagem avançada do Sign](../assets/Hero-Advanced.png)
 
-Saiba como enviar um documento para assinatura para centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para todos que já estão familiarizados com os conceitos básicos para envio e solicitação de assinaturas e querem saber mais sobre como o Acrobat Sign pode trabalhar para eles.
+Saiba como enviar um documento para assinatura a centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para qualquer pessoa que já esteja familiarizada com os conceitos básicos de envio e solicitação de assinaturas e queira aprender mais maneiras do Acrobat Sign trabalhar para elas.
 
 ## Novidades
 
@@ -42,22 +43,22 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegando a outra pessoa" src="../assets/Delegating.png" />
+      <img alt="Delegando para outra pessoa" src="../assets/Delegating.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Uso da função de delegador</strong></a>
     </div>
-    <em>Use a função de delegador para enviar um documento a um intermediário que pode encaminhar o documento para assinatura</em>
+    <em>Use a função de delegador para enviar um documento para um intermediário que pode encaminhar o documento para assinatura</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Usando a função do aprovador" src="../assets/Approver.png" />
+      <img alt="Usando a função de aprovador" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Usando a função do aprovador</strong></a>
+    <a href="add-an-approver.md"><strong>Usando a função de aprovador</strong></a>
     </div>
-    <em>Adicionar uma função de aprovador ao processo de aprovação do contrato</em>
+    <em>Adicionar uma função de aprovador ao seu processo de aprovação de contrato</em>
     <br>
   </td>
   <td>
@@ -67,7 +68,7 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
     <div>
     <a href="authentication-methods.md"><strong>Métodos de autenticação no Acrobat Sign</strong></a>
     </div>
-    <em>Saiba mais sobre a variedade de métodos de autenticação de identidade disponíveis no Acrobat Sign</em>
+    <em>Conheça a variedade de métodos de autenticação de identidade disponíveis no Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -94,10 +95,10 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Envie e colete assinaturas em massa" src="../assets/Megasign.png" />
+        <img alt="Enviar e coletar assinaturas em massa" src="../assets/Megasign.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Envie e colete assinaturas em massa</strong></a>
+      <a href="megasign.md"><strong>Enviar e coletar assinaturas em massa</strong></a>
       </div>
       <em>Colete centenas de assinaturas de uma só vez para qualquer documento em poucas etapas</em>
       <br>
@@ -126,12 +127,12 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Usando a marcação de texto no [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Usar tags de texto no [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>Usando a marcação de texto no [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>Usar tags de texto no [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign no [!DNL Microsoft Word]</em>
+    <em>Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign em [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -158,7 +159,7 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
     <div>
     <a href="creating-a-report.md"><strong>Criação de um relatório</strong></a>
     </div>
-    <em>Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura do documento</em>
+    <em>Saiba como criar seus próprios relatórios para ter visibilidade sobre o processo de assinatura do documento</em>
     <br>
   </td>
   <td>
@@ -183,12 +184,12 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Gerenciamento de dados de formulários web" src="../assets/Managewebform.png" />
+      <img alt="Gerenciamento de dados de formulários da Web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>Gerenciamento de dados de formulários web</strong></a>
+    <a href="manage-webform-data.md"><strong>Gerenciamento de dados de formulários da Web</strong></a>
     </div>
-    <em>Saiba como rastrear, gerenciar e exportar dados de um formulário web</em>
+    <em>Saiba como rastrear, gerenciar e exportar dados de um formulário da Web</em>
     <br>
   </td>  
 </tr>

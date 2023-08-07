@@ -1,12 +1,13 @@
 ---
 title: Visão geral da implantação
 description: Artigos de práticas recomendadas e insights valiosos sobre a implantação do Acrobat Sign
+feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 10%
@@ -17,7 +18,7 @@ ht-degree: 10%
 
 ![Imagem de implantação do Sign](assets/Hero-Deploy.png)
 
-Artigos de práticas recomendadas com insights valiosos sobre a implantação do Acrobat Sign em sua organização.
+Artigos de práticas recomendadas com informações valiosas sobre a implantação do Acrobat Sign em sua organização.
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,15 +29,15 @@ Artigos de práticas recomendadas com insights valiosos sobre a implantação do
     <div>
     <a href="https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Acrobat Sign no Admin Console</strong></a>
     </div>
-    <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma corporativa da Adobe no Adobe Admin Console</em>
+    <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma corporativa Adobe Adobe Admin Console</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Central de confiança do Adobe" src="assets/Deploy_Trust.png" />
+      <img alt="Central de Confiabilidade do Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Central de confiança do Adobe</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Central de Confiabilidade do Adobe</strong></a>
     </div>
     <em>Saiba mais sobre nossos esforços contínuos em segurança, legalidade e padrões para o Acrobat Sign</em>
     <br>

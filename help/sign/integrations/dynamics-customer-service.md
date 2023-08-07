@@ -1,11 +1,12 @@
 ---
 title: Microsoft Dynamics 365 para Atendimento ao Cliente
 description: Saiba como a Acrobat Sign e a [!DNL Microsoft Dynamics 365] para o Atendimento ao cliente são usados para melhorar a satisfação do cliente em um portal da Web de autoatendimento do cliente
+feature: Integrations
 role: Admin, User
 level: Intermediate
 topic: Integrations
 jira: KT-13232
-source-git-commit: 297ac0045997a1caa2e16b2b06bff98298133e14
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%

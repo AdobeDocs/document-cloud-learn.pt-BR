@@ -1,12 +1,13 @@
 ---
-title: Tabelas Complexas
-description: Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de uma PDF para acessibilidade — tabelas complexas
+title: Tabelas complexas
+description: Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de um PDF de acessibilidade — tabelas complexas
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8610.jpg
 jira: KT-8610
+thumbnail: KT-8610.jpg
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Tabelas complexas
 
-Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de uma PDF para acessibilidade — tabelas complexas.
+Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de um PDF de acessibilidade — tabelas complexas.
 
 Clique em [aqui](../assets/accessibilitysession3.zip) para baixar um arquivo zip dos arquivos práticos desta sessão.
 

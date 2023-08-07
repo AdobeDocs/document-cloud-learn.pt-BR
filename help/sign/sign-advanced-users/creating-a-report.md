@@ -1,12 +1,13 @@
 ---
-title: Criando um Relatório
-description: Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura do documento
+title: Criação de um relatório
+description: Saiba como criar seus próprios relatórios para ter visibilidade sobre o processo de assinatura do documento
+feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -15,10 +16,10 @@ ht-degree: 0%
 
 # Criação de um relatório
 
-Saiba como criar seus próprios relatórios para ter visibilidade do processo de assinatura de documentos ou ver o que cada grupo ou usuário está fazendo.
+Saiba como criar seus próprios relatórios para ter visibilidade sobre seu processo de assinatura de documentos ou ver como grupos ou usuários individuais estão indo.
 
 >[!NOTE]
 >
->Os relatórios só estão disponíveis para planos empresariais e corporativos.
+>A emissão de relatórios só está disponível para planos de nível empresarial e corporativo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)

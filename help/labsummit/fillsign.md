@@ -1,11 +1,12 @@
 ---
 title: Preencha e assine qualquer formulário no desktop ou em dispositivos móveis
-description: Preencha, assine e envie formulários rapidamente usando o aplicativo para desktop, navegadores ou dispositivos móveis
+description: Preencha, assine e envie formulários rapidamente pelo desktop, navegador ou aplicativo móvel
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -14,27 +15,27 @@ ht-degree: 0%
 
 # Preencha e assine qualquer formulário no desktop ou em dispositivos móveis
 
-Preencha, assine e envie formulários rapidamente usando o aplicativo para desktop, navegadores ou dispositivos móveis. O Adobe Sensei reconhece e salva dados usados com frequência para uso em um formulário PDF. Crie uma assinatura desenhando, importando uma digitalização ou digitando seu nome e aplique-a com segurança a um documento.
+Preencha, assine e envie formulários rapidamente pelo desktop, navegador ou aplicativo móvel. O Adobe Sensei reconhece e salva os dados usados com frequência para uso em formato de PDF. Crie uma assinatura desenhando, importando uma digitalização ou digitando seu nome e, em seguida, aplique-o com segurança a um documento.
 
 Neste exercício, você importará, preencherá, assinará e enviará um formulário usando seu dispositivo móvel.
 
 Aqui estão os [arquivos de demonstração](assets/03_FillSignScan.zip) para este exercício.
 
-**Etapa 1:** Baixe o [!DNL Adobe Fill & Sign] aplicativo da [!DNL Apple App] armazenar ou [!DNL Google Play].
+**Etapa 1:** Baixe o [!DNL Adobe Fill & Sign] aplicativo no [!DNL Apple App] armazenar ou [!DNL Google Play].
 
-**Etapa 2:** Abra o aplicativo e toque em **[!UICONTROL Selecione um formulário para preencher]**.
+**Etapa 2:** Abra o aplicativo, toque em **[!UICONTROL Selecione um formulário para preencher]**.
 
 ![Fazer upload da imagem do doc](assets/mobilescan.jpg)
 
-**Etapa 3:** Escolha uma das opções de importação. Para este exercício, vamos &quot;Tirar uma Foto&quot;.
+**Etapa 3:** Escolha uma das opções de importação. Para este exercício, vamos “Tirar uma Foto”.
 
-![Imagem da etapa 2F](assets/Step2F.jpg)
+![Imagem do passo 2F](assets/Step2F.jpg)
 
 **Etapa 4:** Use o botão branco para tirar uma foto e toque em **[!UICONTROL Usar foto]**. Toque em **[!UICONTROL Concluído]** no canto superior direito.
 
-**Etapa 5:** Na parte inferior do aplicativo, toque no ícone **[!UICONTROL Cortar]** e use as guias para [cortar a imagem](https://www.adobe.com/acrobat/online/crop-pdf.html). Toque em **[!UICONTROL Concluído]** quando terminar.
+**Etapa 5:** Na parte inferior do aplicativo, toque no botão **[!UICONTROL Cortar]** e use as guias para [cortar a imagem](https://www.adobe.com/acrobat/online/crop-pdf.html). Toque em **[!UICONTROL Concluído]** quando terminar.
 
-![imagem de documento local](assets/localdoc.jpg)
+![imagem de doc local](assets/localdoc.jpg)
 
 **Etapa 6:** Use a ferramenta Varinha mágica para limpar a imagem, se necessário. Toque em **[!UICONTROL Concluído]** quando terminar.
 
@@ -51,18 +52,18 @@ Aqui estão os [arquivos de demonstração](assets/03_FillSignScan.zip) para est
 
 ![Imagem da assinatura](assets/sign.jpg)
 
-**Etapa 10:** Toque no ícone **[!UICONTROL Perfil]** na parte inferior do aplicativo para obter valores pré-preenchidos, como seu nome e data. Você só precisa preencher essas informações uma vez e usá-las em todos os formulários futuros que preencher com o aplicativo da Fill &amp; Sign.
+**Etapa 10:** Toque no ícone **[!UICONTROL Perfil]** na parte inferior do aplicativo para obter valores pré-preenchidos, como seu nome e data. Você só precisa preencher essas informações uma vez para poder usá-las em todos os formulários que preencher no aplicativo Fill &amp; Sign.
 
 ![preenchido](assets/filled.jpg)
 
-![pré-pop](assets/prepop.jpg)
+![pré-lançamento](assets/prepop.jpg)
 
-**Etapa 11:** Quando o formulário estiver preenchido, toque no botão Compartilhar no canto inferior direito para enviar o email.
+**Etapa 11:** Quando o formulário estiver completo, toque no botão Compartilhar no canto inferior direito para enviar um email.
 
 ## Recapitulação:
 
-* Abra um arquivo de um email ou tire uma foto de um formulário impresso com a câmera do dispositivo.
+* Abra um arquivo a partir de um email ou tire uma foto de um formulário de papel com a câmera do seu dispositivo.
 
-* Toque para inserir texto ou marcas de seleção nos campos de formulário. E, para velocidade, use entradas de preenchimento automático personalizadas.
+* Toque para inserir texto ou marcas de seleção nos campos de formulário. E para velocidade, use entradas personalizadas de preenchimento automático.
 
-* Crie sua assinatura usando os dedos ou uma caneta. Depois, aplique-a ao formulário ou insira uma rubrica sempre que necessário.
+* Crie sua assinatura usando seu dedo ou caneta. Em seguida, aplique-o ao formulário ou adicione suas iniciais onde for necessário.

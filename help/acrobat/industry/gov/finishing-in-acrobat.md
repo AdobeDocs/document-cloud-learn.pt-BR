@@ -1,21 +1,22 @@
 ---
-title: Tornando PDF acessíveis — finalizando no Acrobat
-description: Concluir a criação de documentos acessíveis no Acrobat
+title: Tornar PDF acessível — Finalização no Acrobat
+description: Conclua a criação de documentos acessíveis no Acrobat
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Tornando PDF acessíveis: Finalizando no Acrobat
+# Tornar PDF acessível: finalização no Acrobat
 
-No terceiro tutorial em vídeo da série Tornando PDF acessíveis , saiba como terminar de tornar seu arquivo PDF acessível usando as ferramentas no Acrobat Pro.
+No terceiro tutorial em vídeo da série Tornando PDF acessíveis, saiba como concluir o acesso ao seu arquivo PDF usando as ferramentas no Acrobat Pro.
 
 >[!NOTE]
 >

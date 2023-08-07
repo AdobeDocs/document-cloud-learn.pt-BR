@@ -1,25 +1,26 @@
 ---
-title: Ajustar layout automaticamente
-description: Saiba mais sobre o novo modo de edição que ajusta automaticamente o conteúdo
+title: Ajuste automático de layout
+description: Saiba mais sobre o novo modo de edição que ajusta conteúdo automaticamente
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-10835.jpg
 jira: KT-10835
+thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Ajustar layout automaticamente
+# Ajuste automático de layout
 
-Saiba mais sobre o novo modo de edição que reflui o conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa o [nova experiência na área de trabalho](new-workspace.md).
+Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa o [nova experiência de espaço de trabalho](new-workspace.md).
 
 >[!NOTE]
 >
->O layout de ajuste automático ainda não oferece suporte a todos os tipos de conteúdo ou idiomas do PDF.
+>O Layout de ajuste automático ainda não é compatível com todos os tipos de conteúdo ou idiomas PDF.
 
 <br> 
 

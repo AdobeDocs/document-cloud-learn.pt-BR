@@ -1,12 +1,13 @@
 ---
 title: Tutorials Acrobat
-description: Uma coleção de tutoriais, webinários e casos de uso para o Adobe Acrobat
+description: Uma coleção de tutoriais, webinars e casos de uso para o Adobe Acrobat
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
@@ -15,9 +16,9 @@ ht-degree: 6%
 
 # Tutoriais do Acrobat
 
-![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
+![Imagem principal do Acrobat](assets/Hero_Acrobat.jpg)
 
-O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negócios em andamento convertendo, editando, compartilhando e assinando PDF. Aqui você encontrará uma ampla variedade de experiências de aprendizado criadas para atualizar rapidamente iniciantes e usuários avançados no Adobe Acrobat.
+O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negócios em movimento convertendo, editando, compartilhando e assinando PDF. Aqui você encontrará uma ampla variedade de experiências de aprendizado projetadas para atualizar rapidamente iniciantes e usuários avançados no Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

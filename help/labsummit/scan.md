@@ -1,28 +1,29 @@
 ---
-title: Migre para o digital com o Adobe Scan
-description: Veja alguns truques e dicas para usar o Adobe Document Cloud
+title: Seja digital com o Adobe Scan
+description: Conheça alguns truques e dicas para usar o Adobe Document Cloud
+feature: Create PDF
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# Migre para o digital com o Adobe Scan
+# Seja digital com o Adobe Scan
 
-Elimine a aglomeração, organize ou compartilhe. Não há necessidade de manter pilhas de papéis sobre a mesa ou recibos de coisas na carteira. O aplicativo Adobe Scan para dispositivos móveis digitaliza documentos impressos diretamente em PDF e reconhece texto automaticamente.
+Elimine a desorganização, organize ou compartilhe! Não há necessidade de manter pilhas de papel na sua mesa ou recibos de coisas na sua carteira. O aplicativo móvel Adobe Scan digitaliza documentos impressos diretamente em PDF e reconhece automaticamente o texto.
 
-Neste exercício, você carrega o conteúdo de um cartão de visita diretamente nos seus contatos. Digitalize e armazene um recibo.
+Neste exercício, você faz upload do conteúdo de um cartão de visita diretamente para seus contatos. Digitalize e armazene um recibo.
 
 Colete um cartão de visita, recibo ou qualquer outro item de papel com o qual você gostaria de trabalhar.
 
 ## Digitalizar um cartão de visita
 
-**Etapa 1:** Baixe o aplicativo da Adobe Scan na Apple App Store ou no Google Play.
+**Etapa 1:** Baixe o aplicativo Adobe Scan na Apple App Store ou no Google Play.
 
 **Etapa 2:** Abra o aplicativo Adobe Scan.
 
@@ -31,27 +32,27 @@ Colete um cartão de visita, recibo ou qualquer outro item de papel com o qual v
 ![b imagem do cartão](assets/scanbcard.png)
 
 
-**Etapa 4:** Quando a digitalização estiver concluída, faça os ajustes para garantir que a placa esteja dentro da caixa delimitadora.
+**Etapa 4:** Quando a digitalização estiver concluída, faça os ajustes para garantir que o cartão esteja dentro da caixa delimitadora.
 
-**Etapa 5:** Toque em **[!UICONTROL Salvar PDF]** no canto superior direito. Em seguida, toque em **[!UICONTROL Salvar contato]**.
+**Etapa 5:** Toque em **[!UICONTROL Salvar PDF]** no canto superior direito. Em seguida, toque em **[!UICONTROL Salvar Contato]**.
 
 
-![salvar imagem do cartão b](assets/savecontact.jpg)
+![salvar por imagem do cartão](assets/savecontact.jpg)
 
 ![b imagem do cartão](assets/savecontact.png)
 
-**Etapa 6:** Faça as edições ou adições desejadas às informações de contato antes de armazenar em seu telefone. Toque mais uma vez em &quot;Salvar&quot; para finalizar o salvamento nos contatos.
+**Etapa 6:** Faça quaisquer edições ou adições desejadas às informações de contato antes de armazenar em seu telefone. Toque em “Salvar” mais uma vez para finalizar o salvamento nos contatos.
 
 ## Digitalizar e armazenar um recibo
 
-O aplicativo da Adobe Scan também pode ser útil para digitalizar e armazenar um recibo que será necessário posteriormente (por exemplo, um relatório de despesas ou outro reembolso).
+O aplicativo Adobe Scan também pode ser útil para digitalizar e armazenar um recibo de que você precisará posteriormente (por exemplo, um relatório de despesas ou outro reembolso).
 
 **Etapa 1:** Com o aplicativo Adobe Scan aberto, tire uma foto do recibo que você gostaria de armazenar.
 
 ![digitalizar imagem de recibo](assets/scanreceipt.png)
 
 
-**Etapa 2:** Observe como o aplicativo detecta automaticamente seu recibo e captura seu conteúdo.
+**Etapa 2:** Observe que o aplicativo detecta automaticamente seu recibo e captura seu conteúdo.
 
 ![b imagem do cartão](assets/receiptoutput.jpg)
 
@@ -60,9 +61,9 @@ O aplicativo da Adobe Scan também pode ser útil para digitalizar e armazenar u
 
 ## Recapitulação:
 
-* Digitalize documentos e formulários impressos em PDF.
-* Converta imagens JPG em PDF.
-* Edite diretamente no dispositivo.
+* Digitalize documentos impressos e formulários para o PDF.
+* Converta imagens de JPG em PDF.
+* Edite diretamente no seu dispositivo.
 * Adicione informações de cartão de visita diretamente aos Contatos.
 
-Abaixe o papel!
+Corte o papel!

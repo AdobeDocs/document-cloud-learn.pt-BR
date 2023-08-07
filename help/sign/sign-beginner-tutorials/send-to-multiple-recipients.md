@@ -1,12 +1,13 @@
 ---
 title: Envio para vários destinatários
-description: Saiba como enviar um documento para assinatura eletrônica para mais de uma pessoa na ordem exata desejada
+description: Saiba como enviar um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-4966
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 9%
@@ -15,7 +16,7 @@ ht-degree: 9%
 
 # Envio para vários destinatários
 
-Você tem mais de uma pessoa que deve interagir com seu documento? Saiba como enviar um documento para assinatura eletrônica para mais de uma pessoa na ordem exata desejada.
+Você tem mais de uma pessoa que deve interagir com seu documento? Saiba como enviar um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
 

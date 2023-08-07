@@ -1,24 +1,25 @@
 ---
-title: Visão geral móvel
-description: Envie documentos para assinatura, monitore o progresso das assinaturas eletrônicas e receba atualizações em tempo real diretamente no dispositivo móvel
+title: Visão geral do celular
+description: Envie documentos para assinatura, acompanhe o progresso da assinatura eletrônica e obtenha atualizações em tempo real em seu dispositivo móvel
+feature: Mobile
 role: User
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%
 
 ---
 
-# Visão geral móvel
+# Visão geral do celular
 
-![Imagem do Sign Mobile](../assets/Hero-Mobile.png)
+![Imagem do Sign para dispositivos móveis](../assets/Hero-Mobile.png)
 
-Envie documentos para assinatura, monitore o progresso das assinaturas eletrônicas e receba atualizações em tempo real diretamente no dispositivo móvel.
+Envie documentos para assinatura, acompanhe o progresso da assinatura eletrônica e obtenha atualizações em tempo real no dispositivo móvel.
 
 <table style="table-layout:fixed">
 <tr>
