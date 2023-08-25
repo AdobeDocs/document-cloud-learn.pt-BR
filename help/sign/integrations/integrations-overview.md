@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 
 ## Novidades
 
+* [Microsoft Dynamics 365 para Vendas](dynamics-sales.md)
+Saiba como a Acrobat Sign e a [!DNL Microsoft Dynamics 365] para Vendas são usados para automatizar o processo de assinatura de cotação de venda
 * [Microsoft Dynamics 365 para Field Service](dynamics-field-service.md)
 Saiba como a Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] para o Field Service são usados para simplificar os contratos no local do cliente
 * [Microsoft Dynamics 365 para Atendimento ao Cliente](dynamics-customer-service.md)
@@ -144,8 +146,13 @@ Saiba como mapear dados coletados de um formulário da Web para um [!DNL SharePo
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 para Vendas" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 para Vendas</strong></a>
+    </div>
+    <em>Saiba como a Acrobat Sign e a [!DNL Microsoft Dynamics 365] para Vendas são usados para automatizar o processo de assinatura de cotação de venda</em>
     <br>
   </td>
   <td>
