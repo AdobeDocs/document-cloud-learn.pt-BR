@@ -7,16 +7,14 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
 
 # Visão geral de tarefas avançadas
-
-![Imagem avançada do Sign](../assets/Hero-Advanced.png)
 
 Saiba como enviar um documento para assinatura a centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para qualquer pessoa que já esteja familiarizada com os conceitos básicos de envio e solicitação de assinaturas e queira aprender mais maneiras do Acrobat Sign trabalhar para elas.
 

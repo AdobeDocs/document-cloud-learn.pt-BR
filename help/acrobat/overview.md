@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Tutoriais do Acrobat
-
-![Imagem principal do Acrobat](assets/Hero_Acrobat.jpg)
 
 O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negócios em movimento convertendo, editando, compartilhando e assinando PDF. Aqui você encontrará uma ampla variedade de experiências de aprendizado projetadas para atualizar rapidamente iniciantes e usuários avançados no Adobe Acrobat.
 

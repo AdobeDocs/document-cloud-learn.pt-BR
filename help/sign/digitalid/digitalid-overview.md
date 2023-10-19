@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Visão geral da ID digital
-
-![Imagem de ID digital do Sign](../assets/Hero-DigitalID.png)
 
 Semelhante a um passaporte eletrônico, uma identidade digital (ID digital) permite comprovar com segurança a identidade do signatário. Além disso, ao assinar eletronicamente no Acrobat Sign, o uso da ID digital oferece uma garantia maior de que você autorizou sua assinatura eletrônica nesse documento específico. Os tutoriais a seguir mostram como usar IDs digitais do mundo todo com o Acrobat Sign.
 
