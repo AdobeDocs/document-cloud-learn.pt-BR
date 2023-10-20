@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
@@ -20,10 +20,10 @@ Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais pass
 
 ## Novidades
 
+* [Estilizar esta PDF](stylize-this-PDF.md)
+Saiba como criar PDF de aparência profissional com as ferramentas de design integradas e fáceis de usar no Adobe Express
 * [Trabalhe em qualquer lugar com o Acrobat Web](acrobatweb.md)
 Saiba como lidar com solicitações de documentos comerciais de qualquer lugar usando as ferramentas da Web do Acrobat no navegador
-* [Colaborar em tempo real](collaborate.md)
-Avance seus projetos coletando comentários, colaborando em respostas e acompanhando o progresso em seus documentos, tudo em tempo real e de qualquer lugar
 
 ## Tutoriais de introdução
 
@@ -166,6 +166,16 @@ Avance seus projetos coletando comentários, colaborando em respostas e acompanh
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Estilizar esta PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Estilizar esta PDF</strong></a>
+      </div>
+      <em>Saiba mais sobre o novo modo de edição que ajusta conteúdo automaticamente</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Ajuste automático de layout" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Avance seus projetos coletando comentários, colaborando em respostas e acompanh
       <a href="export-pdf.md"><strong>Exportar um PDF para formatos editáveis</strong></a>
       </div>
       <em>Saiba como exportar arquivos PDF para formatos editáveis</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
