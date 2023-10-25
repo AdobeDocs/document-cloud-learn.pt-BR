@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 Saiba como personalizar e automatizar fluxos de trabalho de documentos para obter assinaturas eletrônicas, coletar dados de formulário e confirmar a entrega de um documento importante para simplificar o gerenciamento do fluxo de trabalho.
 
-Confira estes casos de uso reais adicionais:
+[!BADGE Casos de uso]
 
-* [Forms de Contratos e Requisições Governamentais](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) caso de uso.
-* [Forms de Contratos Comerciais e Requisição](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) caso de uso.
+* [Fluxo de trabalho personalizado para processo IEP de educação](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)
+* [Forms de Contratos e Requisições Governamentais](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Forms de Contratos Comerciais e Requisição](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
