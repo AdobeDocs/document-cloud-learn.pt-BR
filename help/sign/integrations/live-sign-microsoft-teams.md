@@ -1,5 +1,5 @@
 ---
-title: Live Sign no Adobe Acrobat Sign para NL Microsoft Teams]
+title: Live Sign no Adobe Acrobat Sign para [!DNL Microsoft Teams]
 description: Saiba como criar uma experiência de assinatura online que se assemelha à assinatura presencial durante uma [!DNL Microsoft Teams] reunião
 feature: Integrations
 role: User
@@ -7,9 +7,10 @@ topic: Integrations
 level: Intermediate
 jira: KT-14239
 topic-revisit: Integrations
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+exl-id: 82241266-bcf8-49bd-96e8-aa788607f079
+source-git-commit: 638c4cc000455d74dd815248d917a188830a5bfd
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
