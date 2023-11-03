@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 
 ## Novidades
 
-* [Integração da guia Documentos em [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Integração da guia Documentos para [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Saiba como enviar documentos para assinatura diretamente na guia Documentos em [!DNL Microsoft Teams]
 * [Live Sign no Adobe Acrobat Sign para [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Saiba como criar uma experiência de assinatura online que se assemelha à assinatura presencial durante uma [!DNL Microsoft Teams] reunião
@@ -133,10 +133,10 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Crie um fluxo de trabalho simples com o Power Automate" src="../assets/Documents-tab.png" />
+      <img alt="Integração da guia Documentos para [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integração da guia Documentos em [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integração da guia Documentos para [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Saiba como enviar documentos para assinatura diretamente na guia Documentos em [!DNL Microsoft Teams]</em>
     <br>
