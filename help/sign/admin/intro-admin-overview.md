@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 ## Novidades
 
+* [Envio em massa](../sign-advanced-users/megasign.md)
+Saiba como coletar milhares de assinaturas de uma só vez para qualquer documento em poucas etapas
 * [Opções de relatório](report-options.md)
 Saiba como configurar opções de relatório para usuários
 * [Adicionando usuários](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Enviar e coletar assinaturas em massa" src="../assets/Megasign.png" />
+      <img alt="Envio em massa" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Enviar e coletar assinaturas em massa</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Envio em massa</strong></a>
     </div>
-    <em>Colete centenas de assinaturas de uma só vez para qualquer documento</em>
+    <em>Colete milhares de assinaturas de uma só vez para qualquer documento</em>
     <br>
   </td>
 </tr>

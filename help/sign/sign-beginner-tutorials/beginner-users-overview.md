@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 5%
@@ -25,7 +25,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 * [Defina prazos e lembretes](set-deadlines-reminders.md)
 Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente
 
-## Enviando
+## Enviar
 
 <table style="table-layout:fixed">
 <tr>
@@ -141,7 +141,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
 </tr>
 </table>
 
-## Assinaturas
+## Assinar
 
 <table style="table-layout:fixed">
 <tr>
@@ -220,7 +220,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
 </tr>  
 </table>
 
-## Gerenciamento
+## Gerenciar
 
 <table style="table-layout:fixed">
 <tr>

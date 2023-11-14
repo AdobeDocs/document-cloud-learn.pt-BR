@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Saiba como enviar um documento para assinatura a centenas de destinatários ao m
 
 ## Novidades
 
+* [Envio em massa](megasign.md)
+Saiba como coletar milhares de assinaturas de uma só vez para qualquer documento em poucas etapas
 * [Métodos de autenticação no Acrobat Sign](authentication-methods.md)
 Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para autenticar a identidade de alguém que assina um documento
-* [Configurar pagamentos online](set-up-online-payments.md)
-Saiba como configurar e aceitar pagamentos online em seus documentos
 
-## Enviando
+## Enviar
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Enviar e coletar assinaturas em massa" src="../assets/Megasign.png" />
+        <img alt="Envio em massa" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Enviar e coletar assinaturas em massa</strong></a>
+      <a href="megasign.md"><strong>Envio em massa</strong></a>
       </div>
-      <em>Colete centenas de assinaturas de uma só vez para qualquer documento em poucas etapas</em>
+      <em>Colete milhares de assinaturas de uma só vez para qualquer documento em poucas etapas</em>
       <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Saiba como configurar e aceitar pagamentos online em seus documentos
 </tr>
 </table>
 
-## Gerenciamento
+## Gerenciar
 
 <table style="table-layout:fixed">
 <tr>
