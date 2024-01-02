@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
+source-git-commit: 25aa2a1255431787b5db306781eba22707129111
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 ## Baixar e instalar o aplicativo GigaSign
 
-[Baixar arquivo zip do GigaSign](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
+[Baixar arquivo zip do GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
 
 [Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
