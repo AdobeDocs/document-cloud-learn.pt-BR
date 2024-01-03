@@ -1,5 +1,5 @@
 ---
-title: Receitas de caso de uso
+title: Casos de uso
 description: Acelere os fluxos de trabalho digitais da sua organização com estes exemplos de assinatura eletrônica governamentais e comerciais
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Receitas de caso de uso
+# Casos de uso
 
-Acelere os fluxos de trabalho digitais de sua organização com estes exemplos de assinatura eletrônica governamentais e comerciais. Clique para exibir um PDF com recursos e detalhes sobre como configurar esses casos de uso específicos de assinatura eletrônica.
+Explore como várias organizações estão usando o Acrobat Sign para transformar os fluxos de trabalho digitais da organização com esses casos de uso reais.
 
 ## Novidades
 

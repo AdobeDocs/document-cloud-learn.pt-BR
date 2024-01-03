@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Saiba como transformar as experiências de assinatura eletrônica da sua organiz
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Receitas de caso de uso" src="../assets/Expand_RecipeR.png" />
+      <img alt="Casos de uso" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Receitas de caso de uso</strong></a>
+    <a href="recipes.md"><strong>Casos de uso</strong></a>
     </div>
-    <em>Baixe os recursos necessários para implantar rapidamente vários fluxos de trabalho de departamentos de assinatura eletrônica por conta própria</em>
+    <em>Explore como várias organizações estão usando o Acrobat Sign com esses casos de uso reais</em>
     <br>
   </td>
   <td>
