@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 # Tutorials Acrobat Sign {#sign-learning-hub}
 
 + [Visão geral](overview.md)
-+ Introdução {#getting-started}
++ Começar {#getting-started}
    + [Visão geral](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviar {#getting-started-sending}
       + [Noções básicas do Workspace](sign-beginner-tutorials/quick-tour.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
       + [Gerenciamento de dados de formulários da Web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
    + [Visão geral](admin/intro-admin-overview.md)
-   + Introdução {#getting-started-admin}
+   + Começar {#getting-started-admin}
       + [Introdução para novos administradores](admin/get-started-admin.md)
       + [Ativado e em execução para administradores](admin/up-and-running-admin.md)
       + [Configurar notificações para eventos e alertas](admin/set-up-shared-events-and-alert.md)
@@ -135,7 +135,7 @@ ht-degree: 11%
    + [Visão geral](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Webinars](sign-usecase/innovation-series.md)
-   + Receitas de caso de uso {#recipes}
+   + Casos de uso {#recipes}
       + [Visão geral](sign-usecase/recipes.md)
       + Governo {#gov}
          + [Aplicativo de empréstimo governamental com vários signatários desconhecidos](sign-usecase/webform-multiple-signers.md)
@@ -149,7 +149,7 @@ ht-degree: 11%
          + [Contratos e formulários de requisição](sign-usecase/usecasecomcontracts.md)
          + [Contratos de política](sign-usecase/usecasecompolicy.md)
          + [Contrato de teletrabalho](sign-usecase/usecasecomtelework.md)
-      + Educação {#edu}
+      + Instituições de ensino {#edu}
          + [Aplicativo de estágio de formulário web para instituições de ensino](sign-usecase/usecase-edu-intern.md)
          + [Criar um formulário da Web para educação em um aplicativo de estágio](sign-usecase/usecase-edu-intern-create.md)
          + [Fluxo de trabalho personalizado para processo IEP de educação](sign-usecase/usecase-edu-iep.md)
@@ -162,7 +162,7 @@ ht-degree: 11%
       + [Criar assinatura eletrônica incorporada e experiências de documento](develop/embeddedesignature.md)
 + Implantar {#deploy}
    + [Visão geral](deploy-overview.md)
-+ Dispositivos móveis {#mobile}
++ Celular {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
    + Tutoriais para dispositivos móveis {#mobile-tutorials}
       + [Assinar documentos em qualquer lugar](mobile/sign-mobile.md)
