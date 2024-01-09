@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: f07f19cd96b9615a4f5fdf8ddf4d7eec51ed5fe0
+source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,26 @@ ht-degree: 0%
 Os Adobe Acrobat Skill Builder são sessões de 30 minutos projetadas para levar os fluxos de trabalho de PDF a um novo patamar. A cada mês, um novo tópico é destacado.
 
 ## Sessões mensais
+
+**[Descubra 6 ferramentas essenciais do Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
+Data: 24 de janeiro de 2024 Saiba o que os relatórios do setor dizem sobre as principais tendências do mundo do trabalho digital e como a Acrobat consolida facilmente os fluxos de trabalho de documentos para economizar o tempo precioso de cada equipe.
+Mostraremos como:
+
+* Navegar suavemente pelo Acrobat em várias superfícies
+* Combine e edite documentos facilmente
+* Colabore sem esforço, mesmo em Microsoft Teams
+* Documentos do Protect com segurança de alto nível
+* Envie e assine documentos rapidamente
+
+**[Introdução Ao Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
+Data: 18 de janeiro de 2024 Saiba como a Adobe Acrobat realiza a pesada tarefa de documentação diária para oferecer suporte a negócios rápidos e seguros.
+Você aprenderá como:
+
+* Navegar suavemente pelo Acrobat em várias superfícies
+* Combine e edite documentos rapidamente
+* Colabore com facilidade, mesmo em Microsoft Teams
+* Informações valiosas da Protect em algumas etapas simples
+* Crie fluxos de trabalho de assinatura eletrônica sem dificuldade com o Adobe Acrobat Sign
 
 **[Automação simples com Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 Data: 16 de novembro de 2023 Pare de repetir tarefas manuais simples. Esta sessão ensinará como usar o Action Wizard no Acrobat Pro para processar arquivos de PDF em lote e executar tarefas repetitivas em série automaticamente, como tornar documentos acessíveis, proteger documentos, otimizar arquivos, arquivar e muito mais. Você aprenderá:
