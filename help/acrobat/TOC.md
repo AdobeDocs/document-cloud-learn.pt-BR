@@ -5,10 +5,11 @@ breadcrumb-title: Tutorials Acrobat
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +17,7 @@ ht-degree: 6%
 # Tutorials Acrobat {#acrobat-learning}
 
 + [Visão geral](overview.md)
-+ Introdução {#getting-started}
++ Começar {#getting-started}
    + [Visão geral](getting-started/getting-started-overview.md)
    + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nova experiência de espaço de trabalho](getting-started/new-workspace.md)
@@ -127,7 +128,7 @@ ht-degree: 6%
 + Implantar {#deploy}
    + [Visão geral](deploy/deploy-overview.md)
    + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
-+ Dispositivos móveis {#mobile}
++ Celular {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
    + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)
