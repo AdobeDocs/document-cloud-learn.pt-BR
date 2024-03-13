@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
+source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 >[!IMPORTANT]
 >
->O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na seção [Envio em massa](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) funcionalidade. Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
+>O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na seção [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) funcionalidade. Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
