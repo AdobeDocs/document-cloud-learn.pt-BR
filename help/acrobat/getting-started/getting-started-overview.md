@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais pass
 
 ## Novidades
 
+* [Criar um PDF](create-pdf.md)
+Saiba como criar PDF a partir de todos os tipos diferentes de documentos
+
 * [Estilizar esta PDF](stylize-this-PDF.md)
 Saiba como criar PDF de aparência profissional com as ferramentas de design integradas e fáceis de usar no Adobe Express
-* [Trabalhe em qualquer lugar com o Acrobat Web](acrobatweb.md)
-Saiba como lidar com solicitações de documentos comerciais de qualquer lugar usando as ferramentas da Web do Acrobat no navegador
 
 ## Tutoriais de introdução
 
