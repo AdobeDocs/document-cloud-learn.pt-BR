@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 4%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Saiba como lidar com solicitações de documentos comerciais de qualquer lugar u
       <img alt="Noções básicas do Workspace" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas do Workspace</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas da área de trabalho</strong></a>
     </div>
     <em>Veja como a área de trabalho do Acrobat facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis</em>
     <br>
@@ -110,7 +110,7 @@ Saiba como lidar com solicitações de documentos comerciais de qualquer lugar u
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Criar arquivos PDF" src="../assets/Create.jpg" />
+        <img alt="Criar arquivos PDF" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Criar um PDF</strong></a>
