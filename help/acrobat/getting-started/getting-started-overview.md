@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 64302c2088c88610c4a855d3599bce3f9420a247
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '539'
 ht-degree: 1%
 
 ---
@@ -161,9 +161,9 @@ Saiba como criar PDF a partir de todos os tipos diferentes de documentos
         <img alt="Editar texto em um PDF" src="../assets/edit-text.png" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Editar um PDF</strong></a>
+      <a href="edit-pdf.md"><strong>Editar texto em um PDF</strong></a>
       </div>
-      <em>Editar texto e imagens em arquivos PDF</em>
+      <em>Saiba como editar texto em um PDF</em>
       <br>
     </td>
     <td>
