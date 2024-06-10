@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 64302c2088c88610c4a855d3599bce3f9420a247
+source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
 workflow-type: tm+mt
 source-wordcount: '539'
 ht-degree: 1%
@@ -32,7 +32,7 @@ Saiba como criar PDF a partir de todos os tipos diferentes de documentos
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Noções básicas do Workspace" src="../assets/Workspace_1280.png" />
+      <img alt="Noções básicas do Workspace" src="../assets/workspace_acrobat.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas da área de trabalho</strong></a>
