@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais pass
 
 ## Novidades
 
+* [Editar texto em um PDF](edit-pdf.md)
+Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
+
 * [Criar um PDF](create-pdf.md)
 Saiba como criar PDF a partir de todos os tipos diferentes de documentos
-
-* [Estilizar esta PDF](stylize-this-PDF.md)
-Saiba como criar PDF de aparência profissional com as ferramentas de design integradas e fáceis de usar no Adobe Express
 
 ## Tutoriais de introdução
 
@@ -158,7 +158,7 @@ Saiba como criar PDF de aparência profissional com as ferramentas de design int
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Editar um PDF" src="../assets/Edit.jpg" />
+        <img alt="Editar texto em um PDF" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Editar um PDF</strong></a>
