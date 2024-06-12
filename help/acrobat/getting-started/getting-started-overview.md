@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais passo a passo. Desde criar um documento até proteger ou [editar seus arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, esse conteúdo foi projetado para facilitar seus fluxos de trabalho do PDF.
 
 ## Novidades
+
+* [Converter PDF em diferentes formatos de arquivo](export-pdf.md)
+Saiba como converter arquivos PDF em diferentes formatos, como Microsoft Word, Excel ou PowerPoint
 
 * [Editar texto em um PDF](edit-pdf.md)
 Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
@@ -188,12 +191,12 @@ Saiba como criar PDF a partir de todos os tipos diferentes de documentos
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Exportar um PDF para formatos editáveis" src="../assets/Export.jpg" />
+        <img alt="Converter PDF em diferentes formatos de arquivo" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Exportar um PDF para formatos editáveis</strong></a>
+      <a href="export-pdf.md"><strong>Converter PDF em diferentes formatos de arquivo</strong></a>
       </div>
-      <em>Saiba como exportar arquivos PDF para formatos editáveis</em>
+      <em>Saiba como converter arquivos PDF em diferentes formatos, como Microsoft Word, Excel ou PowerPoint</em>
       <br>
     </td>
   </tr>
