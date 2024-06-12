@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '147'
 ht-degree: 2%
 
 ---
 
 # Converter PDF em diferentes formatos de arquivo
 
-Saiba como converter seus arquivos PDF para diferentes formatos de arquivo, como [Microsoft Word](https://www.adobe.com/br/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/br/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/br/acrobat/online/pdf-to-excel.html). Convertendo sua PDF em [Adobe Express](https://express.adobe.com) a adição de elementos de design de marca também é abordada. Ao converter seu PDF para outro formato de arquivo, como o Microsoft Word, isso melhora a eficiência do fluxo de trabalho do documento e economiza um tempo significativo ao fazer grandes alterações em documentos longos.
+Saiba como converter seus arquivos PDF para diferentes formatos de arquivo, como [Microsoft Word](https://www.adobe.com/br/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/br/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/br/acrobat/online/pdf-to-excel.html). Convertendo sua PDF em [Adobe Express](https://express.adobe.com) a adição de elementos de design de marca também é abordada. Ao converter seu PDF para outro formato de arquivo, como o Microsoft Word, isso melhora a eficiência do fluxo de trabalho do documento e economiza um tempo significativo ao fazer grandes alterações em documentos longos. Este tutorial em vídeo usa a nova experiência de área de trabalho.
 
 >[!TIP]
 >
