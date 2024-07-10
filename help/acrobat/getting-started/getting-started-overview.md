@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais pass
 
 ## Novidades
 
+* [Nova experiência de espaço de trabalho](new-workspace.md)
+Saiba mais sobre a nova área de trabalho do Acrobat que ajuda a descobrir ferramentas rapidamente e a concluir suas tarefas de PDF com eficiência
+
 * [Descubra insights de PDF com o Assistente de IA](ai-assistant.md)
 Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de IA
 
@@ -29,13 +32,21 @@ Saiba como converter arquivos PDF em diferentes formatos, como Microsoft Word, E
 * [Editar texto em um PDF](edit-pdf.md)
 Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
 
-* [Criar um PDF](create-pdf.md)
-Saiba como criar PDF a partir de todos os tipos diferentes de documentos
 
 ## Tutoriais de introdução
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Nova experiência de espaço de trabalho" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nova experiência de espaço de trabalho</strong></a>
+    </div>
+    <em>Saiba mais sobre a nova área de trabalho do Acrobat que ajuda a descobrir ferramentas rapidamente e a concluir suas tarefas de PDF com eficiência</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Noções básicas do Workspace" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ Saiba como criar PDF a partir de todos os tipos diferentes de documentos
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas da área de trabalho</strong></a>
     </div>
     <em>Veja como a área de trabalho do Acrobat facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="Nova experiência de espaço de trabalho" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>Nova experiência de espaço de trabalho</strong></a>
-    </div>
-    <em>Saiba mais sobre a nova experiência de espaço de trabalho que você pode ativar no Acrobat</em>
     <br>
   </td>
   <td>
