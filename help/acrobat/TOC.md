@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 3%
 # Tutorials Acrobat {#acrobat-learning}
 
 + [Visão geral](overview.md)
-+ Começar {#getting-started}
++ Começando {#getting-started}
    + [Visão geral](getting-started/getting-started-overview.md)
-   + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nova experiência de espaço de trabalho](getting-started/new-workspace.md)
+   + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Descubra insights de PDF com o Assistente de IA](getting-started/ai-assistant.md)
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [Produtividade em qualquer lugar](getting-started/productivity.md)
    + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Criar um PDF](getting-started/create-pdf.md)
-   + [Combine Files para PDF](getting-started/combine-to-pdf.md)
+   + [Combine arquivos em um único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
    + [Adicionar página personalizada](getting-started/add-custom-page.md)
    + [Editar texto em um PDF](getting-started/edit-pdf.md)
@@ -94,25 +94,25 @@ ht-degree: 3%
    + [Conformidade de um PDF com um formato padrão](60-second/conform.md)
    + [Identifique as diferenças com a Comparação de PDF](60-second/compare.md)
    + [Pesquisar vários arquivos de PDF de uma só vez](60-second/search.md)
-+ Criadores de habilidades {#skill-builders}
++ Criadores de Habilidades {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrações {#integrations}
    + [Visão geral](integrate/integrate-overview.md)
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Criar PDF em [!DNL Office] para a Web](integrate/createofficeweb.md)
-   + [colaboração PDF em [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Trabalhe com o seu [!DNL SharePoint] arquivos](integrate/acrobatandsp.md)
-   + [Converter mensagens de e-mail e anexos em PDF em [!DNL Outlook]](integrate/outlook.md)
-   + [Crie conteúdo de PDF ao navegar com [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Protect PDF usando [!DNL Microsoft Purview Information] rótulos de sensibilidade](integrate/microsoftsensitivitylabels.md)
-   + [Adobe Acrobat para [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [Trabalhar com arquivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
+   + [Criar PDF em  [!DNL Office] para a Web](integrate/createofficeweb.md)
+   + [colaboração PDF em  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Trabalhe com seus [!DNL SharePoint] arquivos](integrate/acrobatandsp.md)
+   + [Converter mensagens de email e anexos em PDF em  [!DNL Outlook]](integrate/outlook.md)
+   + [Criar conteúdo de PDF ao navegar com  [!DNL Microsoft Edge]](integrate/edge.md)
+   + [PDF do Protect usando  [!DNL Microsoft Purview Information] rótulos de confidencialidade](integrate/microsoftsensitivitylabels.md)
+   + [Adobe Acrobat para  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Trabalhar com arquivos de  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Setores e departamentos {#by-industry}
    + [Visão geral](industry/industry-overview.md)
    + Governo {#gov}
       + [Visão geral](industry/gov/gov-overview.md)
       + Cinco dicas para trabalhar em qualquer lugar com o Acrobat {#tips}
-         + [Cinco dicas para trabalhar em qualquer lugar com o Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [5 dicas para trabalhar em qualquer lugar com o Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Dica #1 - Use suas ferramentas](industry/gov/get-your-tools.md)
          + [Dica #2 - Colaborar em documentos](industry/gov/collaborate-on-documents.md)
          + [Dica #3 - Documentos digitais do Protect](industry/gov/protect-digital-documents.md)
