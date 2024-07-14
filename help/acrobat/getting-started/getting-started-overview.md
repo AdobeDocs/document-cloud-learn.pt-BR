@@ -7,31 +7,27 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
+source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '385'
+ht-degree: 2%
 
 ---
 
 # Visão geral de introdução
 
-Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais passo a passo. Desde criar um documento até proteger ou [editar seus arquivos PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, esse conteúdo foi projetado para facilitar seus fluxos de trabalho do PDF.
+Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais passo a passo. Desde a criação de um documento até a proteção ou a [edição de seus arquivos de PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, este conteúdo é projetado para facilitar os fluxos de trabalho de PDF.
 
 ## Novidades
 
 * [Nova experiência de espaço de trabalho](new-workspace.md)
 Saiba mais sobre a nova área de trabalho do Acrobat que ajuda a descobrir ferramentas rapidamente e a concluir suas tarefas de PDF com eficiência
-
 * [Descubra insights de PDF com o Assistente de IA](ai-assistant.md)
 Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de IA
-
 * [Converter PDF em diferentes formatos de arquivo](export-pdf.md)
 Saiba como converter arquivos PDF em diferentes formatos, como Microsoft Word, Excel ou PowerPoint
-
 * [Editar texto em um PDF](edit-pdf.md)
 Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
-
 
 ## Tutoriais de introdução
 
@@ -41,73 +37,36 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
     <a href="new-workspace.md">
       <img alt="Nova experiência de espaço de trabalho" src="../assets/new-workspace.png" />
     </a>
-    <div>
-    <a href="new-workspace.md"><strong>Nova experiência de espaço de trabalho</strong></a>
-    </div>
-    <em>Saiba mais sobre a nova área de trabalho do Acrobat que ajuda a descobrir ferramentas rapidamente e a concluir suas tarefas de PDF com eficiência</em>
-    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Noções básicas do Workspace" src="../assets/workspace_acrobat.png" />
+      <img alt="Noções básicas do Workspace" src="../assets/workspace-basics.png" />
     </a>
-    <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas da área de trabalho</strong></a>
-    </div>
-    <em>Veja como a área de trabalho do Acrobat facilita o acesso a arquivos e ferramentas no desktop, na Web e em dispositivos móveis</em>
-    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="Descubra insights de PDF com o Assistente de IA" src="../assets/ai-assistant.png" />
     </a>
-    <div>
-    <a href="ai-assistant.md"><strong>Descubra insights de PDF com o Assistente de IA</strong></a>
-    </div>
-    <em>Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de IA</em>
-    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Trabalhe em qualquer lugar com o Acrobat Web" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Trabalhe em qualquer lugar com o Acrobat Web" src="../assets/acrobat-web.png" />
     </a>
-    <div>
-    <a href="acrobatweb.md"><strong>Trabalhe em qualquer lugar com o Acrobat Web</strong></a>
-    </div>
-    <em>Saiba como lidar com solicitações de documentos comerciais de qualquer lugar usando as ferramentas da Web do Acrobat no navegador</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
-      <img alt="Produtividade em qualquer lugar" src="../assets/Productivity_1280.png" />
-    </a>
-    <div>
-     <a href="productivity.md"><strong>Produtividade em qualquer lugar</strong></a>
-    </div>
-    <em>Faça mais com seu tablet ou celular usando o aplicativo Acrobat Reader para dispositivos móveis</em>
-    <br>
+      <img alt="Produtividade em qualquer lugar" src="../assets/productivity.png" />
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
-        <img alt="Trabalhar com o Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-      </a>
-      <div>
-      <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabalhar com o Microsoft 365</strong></a>
-      </div>
-      <em>Aumente a produtividade e os fluxos de trabalho de documentos empresariais com o Acrobat e [!DNL Microsoft 365]</em>
-      <br>
+        <img alt="Trabalhar com o Microsoft 365" src="../assets/microsoft-365.png" />
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
-        <img alt="De onde vêm os PDF?" src="../assets/WherePDFs.jpg" />
+        <img alt="De onde vêm os PDF?" src="../assets/where-pdfs.png" />
       </a>
-      <div>
-      <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDF?</strong></a>
-      </div>
-      <em>Compreender de onde vêm os PDF e seus usos</em>
-      <br>
     </td>
     <td>
     <img alt="Espaçador" src="../assets/Grayspacer.png" />
@@ -125,41 +84,20 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <a href="create-pdf.md">
         <img alt="Criar arquivos PDF" src="../assets/create.png" />
       </a>
-      <div>
-      <a href="create-pdf.md"><strong>Criar um PDF</strong></a>
-      </div>
-      <em>Criar PDF de todos os tipos diferentes de documentos</em>
-      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files para PDF" src="../assets/Combine.jpg" />
-      </a>
-      <div>
-      <a href="combine-to-pdf.md"><strong>Combinar arquivos em PDF</strong></a>
-      </div>
-      <em>Combine vários tipos diferentes de arquivos em um único PDF</em>
-      <br>
+        <img alt="Combine Files para PDF" src="../assets/combine.png" />
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organizar páginas" src="../assets/Organize.png" />
+        <img alt="Organizar páginas" src="../assets/organize-pages.png" />
       </a>
-      <div>
-      <a href="organize.md"><strong>Organizar páginas</strong></a>
-      </div>
-      <em>Adicione, substitua, extraia, gire, exclua e reorganize as páginas em seu PDF</em>
-      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Adicionar página personalizada" src="../assets/Custompage.png" />
+        <img alt="Adicionar página personalizada" src="../assets/custom.png" />
       </a>
-      <div>
-      <a href="add-custom-page.md"><strong>Adicionar página personalizada</strong></a>
-      </div>
-      <em>Saiba como adicionar páginas personalizadas ao seu PDF usando o aplicativo de Adobe Express integrado</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -172,41 +110,21 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <a href="edit-pdf.md">
         <img alt="Editar texto em um PDF" src="../assets/edit-text.png" />
       </a>
-      <div>
-      <a href="edit-pdf.md"><strong>Editar texto em um PDF</strong></a>
-      </div>
-      <em>Saiba como editar texto em um PDF</em>
-      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
-        <img alt="Estilizar esta PDF" src="../assets/Stylize.png" />
+        <img alt="Estilizar esta PDF" src="../assets/stylize-pdf.png" />
       </a>
-      <div>
-      <a href="stylize-this-PDF.md"><strong>Estilizar esta PDF</strong></a>
-      </div>
-      <em>Saiba mais sobre o novo modo de edição que ajusta conteúdo automaticamente</em>
-      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
-        <img alt="Ajuste automático de layout" src="../assets/Autoadjust.png" />
+        <img alt="Ajuste automático de layout" src="../assets/auto-adjust.png" />
       </a>
-      <div>
-      <a href="auto-adjust-layout.md"><strong>Ajuste automático de layout</strong></a>
-      </div>
-      <em>Saiba mais sobre o novo modo de edição que ajusta conteúdo automaticamente</em>
-      <br>
     </td>
     <td>
       <a href="export-pdf.md">
         <img alt="Converter PDF em diferentes formatos de arquivo" src="../assets/convert.png" />
       </a>
-      <div>
-      <a href="export-pdf.md"><strong>Converter PDF em diferentes formatos de arquivo</strong></a>
-      </div>
-      <em>Saiba como converter arquivos PDF em diferentes formatos, como Microsoft Word, Excel ou PowerPoint</em>
-      <br>
     </td>
   </tr>
   </table>
@@ -222,7 +140,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <div>
       <a href="collaborate.md"><strong>Colaborar em tempo real</strong></a>
       </div>
-      <em>Avance seus projetos coletando comentários, colaborando em respostas e acompanhando o progresso em seus documentos, tudo em tempo real e de qualquer lugar</em>
+      <em>Avance seus projetos coletando comentários, colaborando em respostas e acompanhando o progresso em seus documentos, tudo em tempo real, de qualquer lugar</em>
       <br>
     </td>
     <td>
@@ -259,7 +177,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
     <div>
     <a href="create-fillable-forms.md"><strong>Criar formulários preenchíveis</strong></a>
     </div>
-    <em>Transformar um documento criado em outro aplicativo em um PDF preenchível</em>
+    <em>Transformar um documento criado em outro aplicativo em um formulário de PDF preenchível</em>
     <br>
   </td>
   <td>
@@ -267,7 +185,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <img alt="Preencher e assinar um formulário PDF" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>PDF forms Fill &amp; Sign</strong></a>
+    <a href="fill-and-sign.md"><strong>PDF forms do Fill &amp; Sign</strong></a>
     </div>
     <em>Preencha e assine rapidamente um formulário de PDF</em>
     <br>
@@ -277,7 +195,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <img alt="Digitalizar e OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Digitalizar e OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Digitalização e OCR</strong></a>
     </div>
     <em>Reduza arquivos grandes e otimize seus PDF sem comprometer a qualidade de compartilhamento, publicação ou arquivamento</em>
     <br>
@@ -289,7 +207,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
     <div>
     <a href="password-protect.md"><strong>Protect um arquivo PDF com uma senha</strong></a>
     </div>
-    <em>Adicione uma senha ao seu PDF para proteger outras pessoas contra a abertura ou edição do arquivo</em>
+    <em>Adicione uma senha ao seu PDF para proteger outras pessoas de abrir ou editar o arquivo</em>
     <br>
   </td>
 </tr>
@@ -301,7 +219,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
     <div>
     <a href="signatures.md"><strong>Obter assinaturas</strong></a>
     </div>
-    <em>Mantenha seus negócios em movimento coletando assinaturas eletrônicas com validade jurídica de terceiros, em qualquer lugar</em>
+    <em>Mantenha os negócios em movimento coletando assinaturas eletrônicas com validade jurídica de outras pessoas, em qualquer lugar</em>
     <br>
   </td>
   <td>
@@ -309,7 +227,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
       <img alt="Rastrear seus documentos" src="../assets/Track_1280.png" />
     </a>
     <div>
-    <a href="track.md"><strong>Rastrear seus documentos</strong></a>
+    <a href="track.md"><strong>Acompanhar seus documentos</strong></a>
     </div>
     <em>Sempre saiba quais arquivos estão aguardando assinaturas e quais foram assinados</em>
     <br>
