@@ -13,7 +13,7 @@ thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Saiba como enviar um lembrete de email da Marketo para contratos não assinados.
 
 1. Instale o Marketo Salesforce Sync.
 
-   Informações e o plug-in mais recente do Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Instale o Acrobat Sign para Salesforce.
 
-   Informações sobre este plug-in estão disponíveisName [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Acelere os ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Acelere os ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponível gratuitamente no Experience League!
 

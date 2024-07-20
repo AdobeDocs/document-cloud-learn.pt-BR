@@ -20,7 +20,7 @@ Saiba como a interface do Acrobat facilita o acesso a arquivos e ferramentas no 
 
 >[!TIP]
 >
->Tem interesse em aprender sobre a nova experiência de espaço de trabalho que você pode ativar no Acrobat? Fazer Check-out [Nova experiência de espaço de trabalho](new-workspace.md).
+>Tem interesse em aprender sobre a nova experiência de espaço de trabalho que você pode ativar no Acrobat? Confira [Nova experiência de espaço de trabalho](new-workspace.md).
 
 <br> 
 

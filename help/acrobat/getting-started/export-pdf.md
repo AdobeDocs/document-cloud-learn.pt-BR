@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # Converter PDF em diferentes formatos de arquivo
 
-Saiba como converter seus arquivos PDF para diferentes formatos de arquivo, como [Microsoft Word](https://www.adobe.com/br/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/br/acrobat/online/pdf-to-ppt.html)e [Excel](https://www.adobe.com/br/acrobat/online/pdf-to-excel.html). Convertendo sua PDF em [Adobe Express](https://express.adobe.com) a adição de elementos de design de marca também é abordada. Ao converter seu PDF para outro formato de arquivo, como o Microsoft Word, isso melhora a eficiência do fluxo de trabalho do documento e economiza um tempo significativo ao fazer grandes alterações em documentos longos. Este tutorial em vídeo usa a nova experiência de área de trabalho.
+Saiba como converter arquivos PDF em diferentes formatos, como [Microsoft Word](https://www.adobe.com/br/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/br/acrobat/online/pdf-to-ppt.html) e [Excel](https://www.adobe.com/br/acrobat/online/pdf-to-excel.html). A conversão do seu PDF em [Adobe Express](https://express.adobe.com) para adicionar elementos de design de marca também é abordada. Ao converter seu PDF para outro formato de arquivo, como o Microsoft Word, isso melhora a eficiência do fluxo de trabalho do documento e economiza um tempo significativo ao fazer grandes alterações em documentos longos. Este tutorial em vídeo usa a nova experiência de área de trabalho.
 
 >[!TIP]
 >
@@ -28,8 +28,8 @@ Saiba como converter seus arquivos PDF para diferentes formatos de arquivo, como
 
 >[!TIP]
 >
->Saiba tudo sobre como trabalhar com [Acrobat e Microsoft 365](../integrate/integrate-overview.md).
+>Saiba tudo sobre como trabalhar com o [Acrobat e o Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de modo mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!

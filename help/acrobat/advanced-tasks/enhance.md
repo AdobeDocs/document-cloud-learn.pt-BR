@@ -9,8 +9,8 @@ thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 1%
+source-wordcount: '325'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Arquivos de exemplo para praticar (ZIP, 342 KB)
 
 ## Saiba como adicionar gráficos de fundo
 
-Use o [Ferramenta Editar PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} para adicionar gráficos de fundo ao seu PDF.
+Use a [ferramenta Editar PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} para adicionar gráficos de fundo ao seu PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
@@ -39,13 +39,13 @@ Use o [Ferramenta Editar PDF](https://www.adobe.com/br/acrobat/online/pdf-editor
 
 A adição de planos de fundo permite adicionar elementos visuais ao PDF sem voltar para o arquivo ou aplicativo de origem.
 
-1. Abrir *Manual do funcionário da Altura Technology.pdf* dos arquivos de amostra.
-1. Selecionar **Editar PDF** no painel à direita.
-1. Selecionar **Mais > Fundo > Adicionar**.
-1. Selecionar **Opções de intervalo de páginas...**.
-Insira de 2 a 26 na caixa **Páginas de** , depois selecione **OK**.
-1. Na seção Origem, escolha **Arquivo** e selecione **Procurar** para adicionar o *Gráfico de Plano de Fundo.pdf* arquivo de amostra.
-1. Selecionar **OK** para adicionar o gráfico de fundo.
+1. Abra o *Altura Technology Employee Handbook.pdf* dos arquivos de amostra.
+1. Selecione **Editar PDF** no painel à direita.
+1. Selecione **Mais > Fundo > Adicionar**.
+1. Selecione **Opções de Intervalo de Páginas...**.
+Insira de 2 a 26 na seção **Páginas de** e selecione **OK**.
+1. Na seção Origem, escolha **Arquivo** e selecione **Procurar** para adicionar o arquivo de exemplo *Background Graphic.pdf*.
+1. Selecione **OK** para adicionar o gráfico de plano de fundo.
 
 ## Saiba como adicionar um novo rodapé
 
@@ -59,18 +59,18 @@ Use a ferramenta Editar para adicionar um novo rodapé ao PDF.
 
 A adição de novos cabeçalhos ou rodapés permite criar arquivos de PDF uniformes para uma melhor experiência de visualização.
 
-1. Selecionar **Cabeçalho e rodapé > Adicionar > Adicionar novo**.
-1. Insira 2 na caixa **Visualizar página** caixa.
-1. Na seção Fonte, selecione Calibri negrito no **Nome** menu suspenso.
-Selecione 12 no **Tamanho** e escolha uma cor branca.
-1. Tipo *Altura Technology Confidential* na caixa **Texto do rodapé esquerdo** caixa.
-1. Selecionar **Inserir número de página** na caixa **Centralizar texto do rodapé** caixa.
-1. Tipo *Revisão 3.0* na caixa **Texto do Rodapé Direito** caixa.
-1. Selecionar **Número de página e formato de data**.
-Insira 2 em **Número da página inicial** e selecione **OK**.
-1. Selecionar **Opções de intervalo de páginas...**.
-Insira de 2 a 26 na seção **Páginas de:** , depois selecione **OK**.
+1. Selecione **Cabeçalho e Rodapé > Adicionar > Adicionar Novo**.
+1. Insira 2 na caixa **Visualizar página**.
+1. Na seção Fonte, selecione Calibri Negrito no menu suspenso **Nome**.
+Selecione 12 na lista suspensa **Tamanho** e escolha uma cor branca.
+1. Digite *Altura Technology Confidential* na caixa **Texto do Rodapé Esquerdo**.
+1. Selecione **Inserir número de página** na caixa **Centralizar texto do rodapé**.
+1. Digite *Revisão 3.0* na caixa **Texto do rodapé direito**.
+1. Selecione **Número de Página e Formato de Data**.
+Insira 2 em **Número da Página Inicial** e selecione **OK**.
+1. Selecione **Opções de Intervalo de Páginas...**.
+Insira de 2 a 26 na seção **Páginas de:** e selecione **OK**.
 1. Insira 0,7 na caixa **Inferior** da seção Margem.
-1. Selecionar **Salvar configurações**.
-Tipo *Revisão 3.0* na caixa e selecione **OK**.
-1. Selecionar **OK** para aplicar o novo rodapé ao PDF.
+1. Selecione **Salvar Configurações**.
+Digite *Revisão 3.0* na caixa e selecione **OK**.
+1. Selecione **OK** para aplicar o novo rodapé ao PDF.

@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <img alt="Delegando para outra pessoa" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Uso da função de delegador</strong></a>
+    <a href="delegate-signature.md"><strong>Usando a função de delegador</strong></a>
     </div>
     <em>Use a função de delegador para enviar um documento para um intermediário que pode encaminhar o documento para assinatura</em>
     <br>
@@ -66,7 +66,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
     <div>
     <a href="authentication-methods.md"><strong>Métodos de autenticação no Acrobat Sign</strong></a>
     </div>
-    <em>Conheça a variedade de métodos de autenticação de identidade disponíveis no Acrobat Sign</em>
+    <em>Saiba mais sobre a gama de métodos de autenticação de identidade disponíveis no Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -106,9 +106,9 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
         <img alt="Criar um formulário da Web" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="webform.md"><strong>Criar um formulário da Web</strong></a>
+      <a href="webform.md"><strong>Criando um formulário da Web</strong></a>
       </div>
-      <em>Saiba como criar um documento que pode ser assinado eletronicamente diretamente no seu site</em>
+      <em>Saiba como criar um documento que possa ser assinado eletronicamente diretamente no seu site</em>
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
       </div>
-      <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
+      <em>Criar campos de formulário do Acrobat Sign por marcação de texto usando o Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -128,9 +128,9 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <img alt="Usar tags de texto no [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
   </a>
     <div>
-    <a href="text-tagging-word.md"><strong>Usar tags de texto no [!DNL Microsoft Word]</strong></a>
+    <a href="text-tagging-word.md"><strong>Usando marcação de texto em [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign em [!DNL Microsoft Word]</em>
+    <em>Saiba como criar um modelo de documento reutilizável adicionando Marcas de Texto do Acrobat Sign em [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -155,9 +155,9 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <img alt="Criação de um relatório" src="../assets/Report.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Criação de um relatório</strong></a>
+    <a href="creating-a-report.md"><strong>Criando um relatório</strong></a>
     </div>
-    <em>Saiba como criar seus próprios relatórios para ter visibilidade sobre o processo de assinatura do documento</em>
+    <em>Saiba como criar seus próprios relatórios para obter visibilidade sobre o processo de assinatura do documento</em>
     <br>
   </td>
   <td>
@@ -167,7 +167,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
     <div>
     <a href="edit-a-template.md"><strong>Gerenciar modelos de documento</strong></a>
     </div>
-    <em>Editar ou excluir um modelo da sua biblioteca</em>
+    <em>Edite ou exclua um modelo da sua biblioteca</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
     <div>
     <a href="modify-webform.md"><strong>Modificar um formulário web existente</strong></a>
     </div>
-    <em>Saiba como desativar, editar e reativar um formulário web existente</em>
+    <em>Saiba como desabilitar, editar e reabilitar um formulário web existente</em>
     <br>
   </td>  
   <td>
@@ -185,7 +185,7 @@ Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para auten
       <img alt="Gerenciamento de dados de formulários da Web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>Gerenciamento de dados de formulários da Web</strong></a>
+    <a href="manage-webform-data.md"><strong>Gerenciando dados de formulários da Web</strong></a>
     </div>
     <em>Saiba como rastrear, gerenciar e exportar dados de um formulário da Web</em>
     <br>

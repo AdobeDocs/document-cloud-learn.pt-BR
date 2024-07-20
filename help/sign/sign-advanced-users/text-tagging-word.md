@@ -1,6 +1,6 @@
 ---
-title: Usar tags de texto no [!DNL Microsoft Word]
-description: Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign em [!DNL Microsoft Word]
+title: Usando marcação de texto em  [!DNL Microsoft Word]
+description: Saiba como criar um modelo de documento reutilizável adicionando Tags de Texto do Acrobat Sign em  [!DNL Microsoft Word]
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Usar tags de texto no [!DNL Microsoft Word]
+# Usando marcação de texto em [!DNL Microsoft Word]
 
-Saiba como criar um modelo de documento reutilizável adicionando tags de texto do Acrobat Sign em [!DNL Microsoft Word]. A marcação de texto cria automaticamente campos de formulário no documento quando ele é enviado para assinatura. Não é necessário posicionar campos manualmente. Esse processo reduz significativamente o tempo necessário para fazer revisões e alterações [!DNL Microsoft Word] documentos enviados para assinatura.
+Saiba como criar um modelo de documento reutilizável adicionando Tags de Texto do Acrobat Sign no [!DNL Microsoft Word]. A marcação de texto cria automaticamente campos de formulário no documento quando ele é enviado para assinatura. Não é necessário posicionar campos manualmente. Esse processo reduz significativamente o tempo necessário para fazer revisões e alterações em documentos do [!DNL Microsoft Word] que você envia para assinatura.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)

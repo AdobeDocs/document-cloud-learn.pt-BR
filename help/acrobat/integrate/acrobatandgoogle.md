@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat para [!DNL Google Drive]
-description: Tenha acesso a ferramentas de PDF para economizar tempo e fluxos de trabalho de assinatura eletrônica diretamente na [!DNL Google Drive] aplicativo
+title: Adobe Acrobat para  [!DNL Google Drive]
+description: Obtenha acesso a ferramentas de PDF para economizar tempo e fluxos de trabalho de assinatura eletrônica diretamente no aplicativo [!DNL Google Drive] i
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Acrobat para [!DNL Google Drive]
 
-Saiba como obter acesso a ferramentas de PDF para economizar tempo e fluxos de trabalho de assinatura eletrônica diretamente no [!DNL Google Drive] aplicativo.
+Saiba como obter acesso a ferramentas de PDF para economizar tempo e fluxos de trabalho de assinatura eletrônica diretamente no aplicativo [!DNL Google Drive].
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

@@ -26,9 +26,9 @@ Saiba como transformar as experiências de assinatura eletrônica da sua organiz
       <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
+    <a href="innovation-series.md"><strong>Criador de habilidades</strong></a>
     </div>
-    <em>Junte-se a nós por 30 minutos no Skill Builder para saber como colocar suas assinaturas eletrônicas em funcionamento — sem acrescentar trabalho extra no seu dia</em>
+    <em>Participe de um Construtor de Habilidades de 30 minutos para saber como colocar suas assinaturas eletrônicas para funcionar, sem acrescentar trabalho extra ao seu dia</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Saiba como transformar as experiências de assinatura eletrônica da sua organiz
     <div>
     <a href="recipes.md"><strong>Casos de uso</strong></a>
     </div>
-    <em>Explore como várias organizações estão usando o Acrobat Sign com esses casos de uso reais</em>
+    <em>Descubra como várias organizações estão usando o Acrobat Sign com estes casos de uso reais</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Saiba como transformar as experiências de assinatura eletrônica da sua organiz
       <img alt="Destaque de caso de uso" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Destaque de caso de uso</strong></a>
+    <a href="use-case-showcase.md"><strong>Vitrine de caso de uso</strong></a>
     </div>
     <em>Assista a sessões ao vivo ou gravadas apresentando novos casos de uso e tendências do Acrobat Sign</em>
     <br>

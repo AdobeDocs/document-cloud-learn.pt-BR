@@ -9,7 +9,7 @@ thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60"><strong>Acessar o Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60"><strong>Acessando o Admin Console</strong></a>
          <br>
         <em>Começar às 1:00</em>
     </td>
@@ -36,7 +36,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105"><strong>Conceder a um usuário o direito ao Acrobat Sign</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105"><strong>Qualificando o Acrobat Sign a um usuário</strong></a>
         <br>
         <em>Começar às 1:45</em>
     </td>
@@ -46,7 +46,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191"><strong>Visão geral do portal da Web do Acrobat Sign</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191"><strong>Visão geral do portal da Web da Acrobat Sign</strong></a>
         <br>
         <em>Começar às 3:11</em>
     </td>
@@ -56,7 +56,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>Definições e configurações globais</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>Configurações e definições globais</strong></a>
         <br>
         <em>Começar às 5:58</em>
     </td>
@@ -68,7 +68,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>Marca e configuração da conta</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>Configuração e identidade visual da conta</strong></a>
          <br>
         <em>Começar às 7:40</em>
     </td>
@@ -132,7 +132,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783"><strong>Gerenciamento de usuários e grupos</strong></a>
         <br>
-        <em>Começar às 13:03</em>
+        <em>Iniciar às 13:03</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917">
@@ -140,7 +140,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>Criar e ativar fluxos de trabalho</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>Criando e ativando fluxos de trabalho</strong></a>
         <br>
         <em>Começar às 15:17</em>
   </td>
@@ -152,7 +152,7 @@ Este abrangente guia em vídeo foi desenvolvido especificamente para novos admin
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>Acesso a suporte e recursos adicionais</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>Acessando suporte e recursos adicionais</strong></a>
         <br>
         <em>Começar às 19:05</em>
     </td>

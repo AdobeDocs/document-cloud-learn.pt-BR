@@ -9,7 +9,7 @@ thumbnail: 34540.jpg
 exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ No primeiro tutorial em vídeo da série Tornando PDF acessíveis, saiba o que s
 
 >[!VIDEO](https://video.tv.adobe.com/v/34540?quality=12&learn=on&hidetitle=true)
 
-[Ir para a Parte 2 - Criação em [!DNL Microsoft Word]](authoring-in-word.md)
+[Ir para a Parte 2 - Criação em  [!DNL Microsoft Word]](authoring-in-word.md)

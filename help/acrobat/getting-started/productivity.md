@@ -20,7 +20,7 @@ Com o trabalho remoto em todos os lugares, é essencial fornecer conteúdo com v
 
 >[!TIP]
 >
->Tem interesse em saber mais sobre as ferramentas do Acrobat que você pode acessar em qualquer lugar? Fazer Check-out [Trabalhe em qualquer lugar com o Acrobat Web](acrobatweb.md).
+>Tem interesse em saber mais sobre as ferramentas do Acrobat que você pode acessar em qualquer lugar? Confira [Trabalhe em qualquer lugar com o Acrobat Web](acrobatweb.md).
 
 <br> 
 

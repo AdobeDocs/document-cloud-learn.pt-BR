@@ -21,14 +21,14 @@ Nunca cometa o erro de trabalhar com a versão incorreta de um arquivo. Detecte 
 [!BADGE Casos de uso]
 Aplicativos, material de apoio, planilhas de fatos, manuais, políticas, relatórios, solicitação de compra (RFPs)
 
-[!BADGE Impacto organizacional]
+[!BADGE Impacto Organizacional]
 Economia de custos, eficiência organizacional, economia de tempo, garantia de qualidade
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Este vídeo faz parte do curso [Trabalhe de modo mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
+Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!
 
 >[!NOTE]
 >

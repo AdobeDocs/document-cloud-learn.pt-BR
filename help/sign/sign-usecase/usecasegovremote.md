@@ -22,4 +22,4 @@ Use assinaturas eletrônicas e webconferências juntas para reduzir o tempo nece
 
 Selecione para baixar ou abrir uma receita de PDF passo a passo para solicitação de garantia remota.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

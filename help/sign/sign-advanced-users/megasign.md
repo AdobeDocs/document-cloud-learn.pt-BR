@@ -9,7 +9,7 @@ thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
 source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '152'
 ht-degree: 3%
 
 ---
@@ -20,13 +20,13 @@ Saiba como enviar e coletar centenas de assinaturas (até 1.000 destinatários c
 
 [!BADGE Casos de uso]
 
-* [Contrato de teletrabalho](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [Contrato de trabalho à distância](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
 * [Contrato de política](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Baixar arquivo CSV de amostra em formato ZIP](../assets/sendInBulkSample.zip). Saiba mais sobre todos os valores que você pode definir em seu arquivo CSV [aqui](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Baixe o arquivo CSV de exemplo em formato ZIP](../assets/sendInBulkSample.zip). Saiba mais sobre todos os valores que você pode definir em seu arquivo CSV [aqui](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
-Este vídeo faz parte da [Tarefas Avançadas para Usuários](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) cursos disponíveis gratuitamente no Experience League!
+Este vídeo faz parte das [Tarefas avançadas para usuários](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) e dos cursos [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), disponíveis gratuitamente no Experience League!

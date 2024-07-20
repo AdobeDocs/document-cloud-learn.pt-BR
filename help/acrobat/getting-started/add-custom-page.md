@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # Adicionar página personalizada
 
-Saiba como adicionar páginas personalizadas ao seu PDF usando o aplicativo Adobe Express integrado, que oferece milhares de modelos para você escolher. Este tutorial em vídeo usa o [nova experiência de espaço de trabalho](new-workspace.md).
+Saiba como adicionar páginas personalizadas ao seu PDF usando o aplicativo Adobe Express integrado, que oferece milhares de modelos para você escolher. Este tutorial em vídeo usa a [nova experiência de espaço de trabalho](new-workspace.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

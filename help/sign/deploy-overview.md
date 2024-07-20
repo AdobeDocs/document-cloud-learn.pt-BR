@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
@@ -25,9 +25,9 @@ Artigos de práticas recomendadas com informações valiosas sobre a implantaç�
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciamento do Acrobat Sign no Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gerenciando o Acrobat Sign no Admin Console</strong></a>
     </div>
-    <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma corporativa Adobe Adobe Admin Console</em>
+    <em>Saiba como gerenciar usuários e licenças da Acrobat Sign na plataforma empresarial Adobe do Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -45,9 +45,9 @@ Artigos de práticas recomendadas com informações valiosas sobre a implantaç�
       <img alt="Guia de estudo do Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Guia de estudo do Acrobat Sign Essentials</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Guia de Estudo do Acrobat Sign Essentials</strong></a>
     </div>
-    <em>Guia de estudo da Acrobat Sign para a avaliação do Acrobat Sign Essentials (AD3-D104)</em>
+    <em>Guia de Estudo da Acrobat Sign para a Avaliação do Acrobat Sign Essentials (AD3-D104)</em>
     <br>
   </td>
   <td>

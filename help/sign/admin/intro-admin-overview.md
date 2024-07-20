@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -47,7 +47,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Em &amp; execução para administradores" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Em &amp; execução para administradores</strong></a>
+    <a href="up-and-running-admin.md"><strong>Em funcionamento para Administradores</strong></a>
     </div>
     <em>Visão geral das 7 áreas principais para que os administradores comecem a trabalhar rapidamente no Acrobat Sign</em>
     <br>
@@ -59,7 +59,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
     </div>
-    <em>Configurar notificações para eventos e alertas da sua conta</em>
+    <em>Configurar notificações para eventos e alertas para sua conta</em>
     <br>
   </td>
   <td>
@@ -67,9 +67,9 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Adicionar usuários" src="../assets/Adding-Users.png" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Adicionar usuários</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Adicionando usuários</strong></a>
     </div>
-    <em>Adicionar e gerenciar usuários para o Acrobat Sign</em>
+    <em>Adicionar e gerenciar usuários do Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -79,9 +79,9 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Criando e Gerenciando Grupos" src="../assets/Creating-Groups.png" />
     </a>
     <div>
-    <a href="create-and-manage-groups.md"><strong>Criação e gerenciamento de grupos</strong></a>
+    <a href="create-and-manage-groups.md"><strong>Criando e gerenciando grupos</strong></a>
     </div>
-    <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupo</em>
+    <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
     <br>
   </td>
   <td>
@@ -89,9 +89,9 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Configurando um arquivamento externo" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivamento externo</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivo externo</strong></a>
     </div>
-    <em>Criar um arquivamento externo para cópias de backup de contratos que foram assinados</em>
+    <em>Criar um arquivo externo para cópias de backup de contratos que foram assinados</em>
     <br>
   </td>
   <td>
@@ -99,7 +99,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Criação de um modelo de documento" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Criação de um modelo de documento</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Criando um modelo de documento</strong></a>
     </div>
     <em>Criar um modelo de documento reutilizável para velocidade e consistência</em>
     <br>
@@ -109,7 +109,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Criação de um gráfico de relatório" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Criação de um gráfico de relatório</strong></a>
+    <a href="create-a-report.md"><strong>Criando um gráfico de relatório</strong></a>
     </div>
     <em>Saiba como criar, salvar e gerenciar seus próprios relatórios personalizados e exportações de dados</em>
     <br>
@@ -131,7 +131,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Criar um formulário da Web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Criar um formulário da Web</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Criando um formulário da Web</strong></a>
     </div>
     <em>Crie um documento que possa ser assinado eletronicamente diretamente no seu site</em>
     <br>
@@ -143,7 +143,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modificar um formulário web existente</strong></a>
     </div>
-    <em>Saiba como desativar, editar e reativar um formulário web existente</em>
+    <em>Saiba como desabilitar, editar e reabilitar um formulário web existente</em>
     <br>
   </td>
   <td>
@@ -206,7 +206,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="share-account-access.md"><strong>Acesso à conta de compartilhamento</strong></a>
     </div>
-    <em>Configurar acesso somente exibição para transações na conta de outro usuário</em>
+    <em>Configurar o acesso somente exibição para transações na conta de outro usuário</em>
     <br>
   </td>
   <td>
@@ -224,9 +224,9 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
       <img alt="Usar configurações do BioPharma" src="../assets/Bio_1280.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Usar configurações do BioPharma</strong></a>
+    <a href="use-bio-pharma-settings.md"><strong>Usando configurações do BioPharma</strong></a>
     </div>
-    <em>Definir configurações do BioPharma que permitem que você atenda aos requisitos da FDA 21 CFR Parte 11</em>
+    <em>Configurar o BioPharma para atender aos requisitos da FDA 21 CFR Parte 11</em>
     <br>
   </td> 
 </tr>
@@ -238,7 +238,7 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Marcação de texto do Acrobat Sign</strong></a>
     <div>
-    <em>Criar campos de formulário do Acrobat Sign com marcação de texto usando o Adobe Acrobat</em>
+    <em>Criar campos de formulário do Acrobat Sign por marcação de texto usando o Adobe Acrobat</em>
     <br>
   </td>
   <td>

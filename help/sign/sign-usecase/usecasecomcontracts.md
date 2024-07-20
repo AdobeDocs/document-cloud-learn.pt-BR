@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Contratos comerciais e formulários de requisição
 
-Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria. Saiba mais sobre o [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) para ajudar a simplificar todo o processo.
+Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria. Saiba mais sobre a [ferramenta Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) para ajudar a simplificar todo o processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Selecione para fazer download ou abrir uma receita de PDF passo a passo para contratos e formulários de requisição.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

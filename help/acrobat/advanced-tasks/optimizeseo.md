@@ -9,8 +9,8 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 1%
+source-wordcount: '750'
+ht-degree: 0%
 
 ---
 
@@ -31,10 +31,11 @@ O conteúdo do PDF deve ser exclusivo e estruturado da seguinte maneira:
 * Use parágrafos curtos contendo palavras-chave e listas
 * Adicionar hiperlinks internos e externos (conteúdo em seu site ou em outros sites)
 * Adicionar um sumário com hiperlink para documentos com mais de 25 páginas
-* Executar [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) em todos os documentos digitalizados
-* Crie PDF que sejam compatíveis com dispositivos móveis Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo na [Aplicativo Acrobat Reader para dispositivos móveis](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
+* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) em todos os documentos digitalizados
+* Crie PDF compatíveis com dispositivos móveis
+Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
 
-  ![Captura de tela do Liquid Mode no aplicativo Acrobat Reader para dispositivos móveis](../assets/optimizeseo1.png)
+  ![Captura de tela do Liquid Mode no aplicativo para dispositivos móveis do Acrobat Reader](../assets/optimizeseo1.png)
 
 +++
 
@@ -46,16 +47,16 @@ Os arquivos de PDF têm um título e uma meta descrição, assim como uma págin
 
 +++Exibir detalhes sobre como adicionar propriedades do documento
 
-Adicionar chave **[!UICONTROL Propriedades do documento]** do seguinte modo:
+Adicione as **[!UICONTROL Propriedades do documento]** da seguinte maneira:
 
-1. Selecionar **[!UICONTROL Arquivo > Propriedades]** ou use o atalho de teclado *Ctrl + D* no Windows ou *Cmd + D* no Mac e selecione a opção **[!UICONTROL Descrição]** guia.
-1. Insira um título otimizado por palavra-chave no **[!UICONTROL Título:]** campo.
-1. Certifique-se de que o **[!UICONTROL Autor:]** não identifica um indivíduo específico em sua organização.
-1. Insira um resumo otimizado por palavras-chave do seu documento na caixa **[!UICONTROL Assunto:]** campo.
+1. Selecione **[!UICONTROL Arquivo > Propriedades]** ou use o atalho de teclado *Ctrl + D* no Windows ou *Cmd + D* no Mac e selecione a guia **[!UICONTROL Descrição]**.
+1. Insira um título otimizado por palavra-chave no campo **[!UICONTROL Título:]**.
+1. Verifique se o campo **[!UICONTROL Autor:]** não identifica um indivíduo específico em sua organização.
+1. Insira um resumo otimizado por palavras-chave do seu documento no campo **[!UICONTROL Assunto:]**.
 Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explorar etc.
-1. Selecionar **[!UICONTROL Metadados adicionais]** para adicionar informações de direitos autorais ou de domínio público, se aplicável.
+1. Selecione **[!UICONTROL Metadados Adicionais]** para adicionar informações de direitos autorais ou domínio público, se aplicável.
 
-   ![Captura de tela de Propriedades do documento](../assets/optimizeseo2.png)
+   ![Captura de tela de Propriedades do Documento](../assets/optimizeseo2.png)
 
 +++
 
@@ -63,19 +64,19 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
 ## 3. Marque seu PDF
 
-Marcar o conteúdo no seu PDF não apenas torna o seu arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência — isso também melhora o SEO.
+Marcar conteúdo no seu PDF não apenas torna o seu arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência, como também melhora o SEO.
 
 +++Visualização de detalhes sobre como marcar um PDF
 
 Marque um PDF da seguinte maneira:
 
-1. Selecionar **[!UICONTROL Acessibilidade]** na caixa **[!UICONTROL Ferramentas]** centro.
-1. Selecionar **[!UICONTROL Marcar Documento Automaticamente]** no painel à direita.
-1. Siga as dicas de reparo no painel à esquerda **[!UICONTROL Relatório de reconhecimento]**.
-1. Executar **[!UICONTROL Definir texto alternativo]** se necessário.
-1. Use palavras-chave para descrever a imagem no **[!UICONTROL Texto alternativo]**.
+1. Selecione **[!UICONTROL Acessibilidade]** no centro de **[!UICONTROL Ferramentas]**.
+1. Selecione **[!UICONTROL Marcar automaticamente documento]** no painel à direita.
+1. Siga as dicas de reparo no painel esquerdo **[!UICONTROL Relatório de reconhecimento]**.
+1. Execute **[!UICONTROL Definir texto alternativo]** se necessário.
+1. Use palavras-chave para descrever a imagem no **[!UICONTROL Texto Alternativo]**.
 
-   ![Captura de tela da configuração de Texto alternativo em PDF](../assets/optimizeseo3.png)
+   ![Captura de tela da configuração de texto alternativo em PDF](../assets/optimizeseo3.png)
 
 +++
 
@@ -87,7 +88,7 @@ Marque um PDF da seguinte maneira:
 
 ## 4. Prepare-se para a Web
 
-Otimize a experiência de interação com seu PDF preparando-o para visualização na Web e [reduzir o tamanho do arquivo de PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
+Otimize a experiência de interação com seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo de PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Exibir detalhes sobre como preparar seu PDF para a Web
 
@@ -95,11 +96,11 @@ Prepare seu PDF para a Web da seguinte maneira:
 
 Para preparar seu PDF para a Web, selecione **[!UICONTROL Arquivo > Salvar como outro > PDF de tamanho reduzido]**.
 
-![Captura de tela de Propriedades do documento](../assets/optimizeseo4.png)
+![Captura de tela de Propriedades do Documento](../assets/optimizeseo4.png)
 
-Essa etapa reduz o tamanho do arquivo e permite **Exibição rápida na Web** no PDF. **Exibição rápida na Web** permite que o arquivo seja aberto, visualizado e pesquisado imediatamente antes que todo o arquivo seja transmitido ou baixado — criando uma experiência ideal para o usuário final. Abrir **[!UICONTROL Propriedades do documento]** (*Ctrl + D* no Windows ou *Cmd + D* no Mac) para determinar se **Exibição rápida na Web** está ativado.
+Esta etapa reduz o tamanho do arquivo e habilita o **Modo de Exibição Rápida da Web** no PDF. O **Modo de exibição rápida da Web** permite que o arquivo seja aberto, visualizado e pesquisado imediatamente antes de o arquivo inteiro ser transmitido ou baixado — criando uma experiência de usuário final ideal. Abra as **[!UICONTROL Propriedades do Documento]** (*Ctrl + D* no Windows ou *Cmd + D* no Mac) para determinar se o **Modo de Exibição Rápida da Web** está habilitado.
 
-![Captura de tela de Propriedades do documento](../assets/optimizeseo5.png)
+![Captura de tela de Propriedades do Documento](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
@@ -123,20 +124,20 @@ O nome do arquivo se torna parte do URL quando um PDF é publicado na Web. Uma b
 
 ## 6. Proteja sua PDF
 
-O último passo é [proteja seu PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar alterações não autorizadas.
+A última etapa é [proteger seu PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar alterações não autorizadas.
 
 +++Exibir detalhes sobre como proteger seu PDF
 
 Proteja um PDF da seguinte maneira:
 
-1. Abrir **[!UICONTROL Propriedades do documento]** (*Ctrl + D* no Windows ou *Cmd + D* no Mac) e selecione a opção **[!UICONTROL Segurança]** guia.
+1. Abra as **[!UICONTROL Propriedades do Documento]** (*Ctrl + D* no Windows ou *Cmd + D* no Mac) e selecione a guia **[!UICONTROL Segurança]**.
 1. Verificar **[!UICONTROL Imprimindo, editando e imprimindo o documento. Uma senha será necessária para alterar essas configurações.]**
-1. Em **[!UICONTROL Alterações permitidas:]** selecionar **[!UICONTROL Nenhum]**.
-1. Verificar **[!UICONTROL Permita o acesso ao texto por meio de dispositivos leitores de tela para deficientes visuais.]**
+1. Em **[!UICONTROL Alterações Permitidas:]** selecione **[!UICONTROL Nenhuma]**.
+1. Marque **[!UICONTROL Habilitar o acesso ao texto para dispositivos leitores de tela para deficientes visuais.]**
 1. Informe e confirme uma senha forte.
-1. Selecionar **[!UICONTROL OK]** e salve o arquivo.
+1. Selecione **[!UICONTROL OK]** e salve o arquivo.
 
-   ![Captura de tela de Propriedades do documento](../assets/optimizeseo6.png)
+   ![Captura de tela de Propriedades do Documento](../assets/optimizeseo6.png)
 
 +++
 

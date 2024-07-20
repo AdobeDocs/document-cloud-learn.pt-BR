@@ -21,10 +21,10 @@ A Adobe Acrobat Sign fez uma parceria com a Notarize, Inc. para fornecer serviç
 
 >[!NOTE]
 >
->A integração do Acrobat Sign com [!DNL Notarize] O serviço de autenticação online da Inc. está disponível apenas para uso nos EUA com planos de serviço de nível corporativo e empresarial.
+>A integração do Acrobat Sign com o serviço de autenticação online da [!DNL Notarize] Inc. está disponível apenas para uso nos EUA com planos de serviço de nível corporativo e empresarial.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Quando a autenticação está ativada para uma conta da Acrobat Sign, o remetente pode selecionar **Requer autenticação** selecionando as reticências no lado direito do registro do destinatário. A opção de notarização está disponível apenas para recipients com função de Signatário.
+>Quando a autenticação está habilitada para uma conta do Acrobat Sign, o remetente pode selecionar **Requer autenticação** nas reticências no lado direito do registro do destinatário. A opção de notarização está disponível apenas para recipients com função de Signatário.

@@ -22,26 +22,26 @@ Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado
 >
 >Disponível somente no Acrobat Pro.
 
-1. Selecionar **[!UICONTROL Action Wizard]** na guia [!UICONTROL Ferramentas] painel central ou à direita.
+1. Selecione **[!UICONTROL Action Wizard]** no painel central ou à direita de [!UICONTROL Ferramentas].
 
    ![Action Wizard Etapa 1](../assets/ActionWizard_1.png)
 
-   As ações predefinidas aparecem na **Lista de ações**.
+   Ações predefinidas aparecem na **Lista de Ações**.
 
-1. Selecionar **[!UICONTROL Nova ação]** no menu superior para criar uma ação personalizada.
+1. Selecione **[!UICONTROL Nova Ação]** no menu superior para criar uma ação personalizada.
 
    ![Action Wizard Etapa 2](../assets/ActionWizard_2.png)
 
-1. Selecione uma tarefa na lista à esquerda e, em seguida, selecione a seta para o centro para adicioná-la à coluna à direita na **[!UICONTROL Criar nova ação]** caixa de diálogo.
+1. Selecione uma tarefa na lista à esquerda e selecione a seta para o centro para adicioná-la à coluna à direita na caixa de diálogo **[!UICONTROL Criar Nova Ação]**.
 
-   *As configurações de cada tarefa são predeterminadas nessa caixa de diálogo, ou você pode solicitar que o usuário tome as decisões necessárias à medida que a ação é executada.*
+   *As configurações de cada tarefa são predeterminadas nesta caixa de diálogo, ou você pode solicitar que o usuário tome qualquer decisão necessária enquanto a ação é executada.*
 
    ![Action Wizard Etapa 3](../assets/ActionWizard_3.png)
 
-1. Selecionar **[!UICONTROL Salvar]** e nomeie a ação para que ela apareça na **[!UICONTROL Lista de ações]**.
+1. Selecione **[!UICONTROL Salvar]** e nomeie sua ação para que ela apareça na **[!UICONTROL Lista de Ações]**.
 
 Agora você pode executar a ação personalizada a qualquer momento para executar essas séries específicas de etapas em um ou mais arquivos de PDF.
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de modo mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!

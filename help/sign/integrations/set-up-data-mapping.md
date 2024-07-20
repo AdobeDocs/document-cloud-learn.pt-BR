@@ -1,6 +1,6 @@
 ---
 title: Configurando o Mapeamento de Dados
-description: Saiba como configurar um mapeamento de dados para o Acrobat Sign em [!DNL Salesforce]
+description: Saiba como configurar um mapeamento de dados para o Acrobat Sign em  [!DNL Salesforce]
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Configurando o Mapeamento de Dados em [!DNL Salesforce]
+# Configurando Mapeamento de Dados em [!DNL Salesforce]
 
-Saiba como configurar o mapeamento de dados para o Acrobat Sign em [!DNL Salesforce]. O mapeamento de dados permite extrair dados _verso_ em [!DNL Salesforce] após a assinatura de um contrato.
+Saiba como configurar o mapeamento de dados para o Acrobat Sign no [!DNL Salesforce]. O mapeamento de dados permite que você leve os dados _de volta_ para [!DNL Salesforce] depois que um contrato for assinado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

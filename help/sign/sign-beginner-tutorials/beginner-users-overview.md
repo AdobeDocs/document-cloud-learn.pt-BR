@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 * [Introdução ao Acrobat Sign](new-sender.md)
 É novo no uso do Acrobat Sign? Este tutorial é um ótimo lugar para começar.
-* [Defina prazos e lembretes](set-deadlines-reminders.md)
+* [Definir prazos e lembretes](set-deadlines-reminders.md)
 Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente
 
 ## Enviar
@@ -34,9 +34,9 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Noções básicas do Workspace" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Noções básicas do Workspace</strong></a>
+    <a href="quick-tour.md"><strong>Noções básicas do espaço de trabalho</strong></a>
     </div>
-    <em>Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a usar o produto</em>
+    <em>Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a trabalhar</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Envio para um único destinatário" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Envio para um único destinatário</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Enviando para um único destinatário</strong></a>
     </div>
     <em>Entre e saiba como é fácil enviar um documento para assinatura</em>
     <br>
@@ -66,7 +66,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
     </div>
-    <em>Envie um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada</em>
+    <em>Envie um documento para assinatura eletrônica a mais de uma pessoa exatamente na ordem desejada</em>
     <br>
   </td>
 </tr>
@@ -86,7 +86,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Adição de campos aos documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>Adição de campos aos documentos</strong></a>
+    <a href="adding-fields.md"><strong>Adicionando campos aos documentos</strong></a>
     </div>
     <em>Saiba como adicionar diferentes tipos de campos aos documentos</em>
     <br>
@@ -96,7 +96,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Modificar um documento após enviar" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modificar um documento após enviar</strong></a>
+    <a href="modify-in-flight.md"><strong>Modificando um documento após o envio</strong></a>
     </div>
     <em>Modificar um documento que já está em andamento</em>
     <br>
@@ -106,7 +106,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Substituir um signatário" src="../assets/replace-signer.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>Substituir um signatário</strong></a>
+    <a href="replace-signer.md"><strong>Substituindo um signatário</strong></a>
     </div>
     <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
      <br>
@@ -118,9 +118,9 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
         <img alt="Defina os prazos e lembretes" src="../assets/Reminders.png" />
       </a>
       <div>
-      <a href="set-deadlines-reminders.md"><strong>Defina os prazos e lembretes</strong></a>
+      <a href="set-deadlines-reminders.md"><strong>Definir prazos e lembretes</strong></a>
       </div>
-      <em>Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente</em>
+      <em>Saiba como enviar lembretes de email regulares e prazos finais para ajudar a assinar seus documentos rapidamente</em>
       <br>
     </td> 
   <td>
@@ -170,7 +170,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Obter uma assinatura presencialmente" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Obter uma assinatura presencialmente</strong></a>
+    <a href="sign-in-person.md"><strong>Obtendo uma assinatura presencialmente</strong></a>
     </div>
     <em>Obtenha a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
     <br>
@@ -180,7 +180,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Delegar assinatura a outra pessoa" src="../assets/Delegatesigning.png" />
     </a>
     <div>
-    <a href="delegate-signing.md"><strong>Delegar assinatura a outra pessoa</strong></a>
+    <a href="delegate-signing.md"><strong>Delegar assinatura para outra pessoa</strong></a>
     </div>
     <em>Saiba como delegar a assinatura de um documento a outra pessoa</em>
     <br>
@@ -194,7 +194,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
     </div>
-    <em>Saiba mais sobre assinaturas digitais com base em certificado</em>
+    <em>Saiba mais sobre assinaturas digitais baseadas em certificado</em>
     <br>
   </td>
   <td>
@@ -239,7 +239,7 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
       <img alt="Criação de um modelo de documento" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Criação de um modelo de documento</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Criando um modelo de documento</strong></a>
     </div>
     <em>Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização</em>
     <br>

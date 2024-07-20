@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Acordos de política comercial
 
-Colete assinaturas de todos os seus funcionários com eficiência em Contratos de política, atualizações de política e muito mais. Saiba como criar um formulário da Web online que pode ser preenchido **e** assinado sem imprimir ou enviar nada.
+Colete assinaturas de todos os seus funcionários com eficiência em Contratos de política, atualizações de política e muito mais. Saiba como criar um formulário da Web online que pode ser concluído **e** assinado sem impressão ou envio por email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Selecione para baixar ou abrir uma receita de PDF passo a passo para contratos de política.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

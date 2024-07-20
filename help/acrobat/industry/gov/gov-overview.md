@@ -9,7 +9,7 @@ thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="5 dicas para trabalhar em qualquer lugar com o Acrobat (Concluído 15:12)" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
-    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 dicas para trabalhar em qualquer lugar com o Acrobat (Concluído 15:12)</strong></a>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 Dicas para trabalhar em qualquer lugar com o Acrobat (Concluído 15:12)</strong></a>
     </div>
-    <em>Saiba como obter e usar as ferramentas do Acrobat e de seus aplicativos móveis companheiros para trabalhar de qualquer lugar</em>
+    <em>Saiba como obter e usar as ferramentas do Acrobat e seus aplicativos móveis associados para trabalhar de qualquer lugar</em>
     <br>
   </td>
   <td>
@@ -37,9 +37,9 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Dica 1: Use suas ferramentas" src="../../assets/Tip1.png" />
     </a>
     <div>
-    <a href="get-your-tools.md"><strong>Dica 1: Use suas ferramentas</strong></a>
+    <a href="get-your-tools.md"><strong>Dica 1: obtenha suas ferramentas</strong></a>
     </div>
-    <em>O primeiro passo para começar a trabalhar de qualquer lugar é obter as ferramentas da Acrobat e os aplicativos móveis complementares</em>
+    <em>A primeira etapa para começar a trabalhar de qualquer lugar é obter as ferramentas da Acrobat e os aplicativos móveis complementares</em>
     <br>
   </td>  
   <td>
@@ -78,7 +78,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Dica 5: Digitalize e edite em dispositivos móveis" src="../../assets/Tip5.png" />
     </a>
     <div>
-    <a href="scan-and-edit-on-mobile.md"><strong>Dica 5: Digitalize e edite em dispositivos móveis</strong></a>
+    <a href="scan-and-edit-on-mobile.md"><strong>Dica 5: digitalizar e editar em dispositivos móveis</strong></a>
     </div>
     <em>Saiba como trabalhar com os aplicativos para dispositivos móveis da Adobe Scan e da Acrobat Reader para realizar seu trabalho em qualquer lugar</em>
     <br>
@@ -105,9 +105,9 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Tornar PDF acessível (Concluído 14:11)" src="../../assets/Accessiblecomplete.png" />
     </a>
     <div>
-    <a href="making-pdfs-accessible.md"><strong>Tornar PDF acessível (Concluído 14:11)</strong></a>
+    <a href="making-pdfs-accessible.md"><strong>Tornando PDF Acessíveis (Concluído 14:11)</strong></a>
     </div>
-    <em>Saiba mais sobre o fluxo de trabalho ideal para a criação de arquivos de PDF acessíveis</em>
+    <em>Saiba mais sobre o fluxo de trabalho ideal para criar arquivos de PDF acessíveis</em>
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Tornando PDF acessível: noções básicas sobre acessibilidade" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>Tornando PDF acessível: noções básicas sobre acessibilidade</strong></a>
+    <a href="understanding-accessibility.md"><strong>Tornando PDF Acessível: Compreendendo A Acessibilidade</strong></a>
     </div>
     <em>Saiba o que significa tornar um PDF acessível para pessoas com deficiência</em>
     <br>
@@ -125,9 +125,9 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Como tornar PDF acessível: criação no Word" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>Como tornar PDF acessível: criação no Word</strong></a>
+    <a href="collaborate-on-documents.md"><strong>Tornando PDF acessíveis: criação no Word</strong></a>
     </div>
-    <em>Saiba mais sobre as práticas recomendadas para a criação de arquivos de PDF criados em [!DNL Microsoft Word]</em>
+    <em>Saiba mais sobre as práticas recomendadas para criar arquivos de PDF criados em [!DNL Microsoft Word]</em>
     <br>
   </td>
    <td>
@@ -135,9 +135,9 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
       <img alt="Tornar PDF acessível: finalização no Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>Tornar PDF acessível: finalização no Acrobat</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>Tornando PDF acessível: finalizando no Acrobat</strong></a>
     </div>
-    <em>Saiba como concluir o acesso ao seu arquivo PDF usando as ferramentas no Acrobat Pro</em>
+    <em>Saiba como concluir o acesso ao seu arquivo PDF usando as ferramentas do Acrobat Pro</em>
     <br>
   </td>
 </tr>
@@ -149,7 +149,7 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
     <div>
     <a href="making-pdf-ballots-accessible.md"><strong>Tornando as cédulas de PDF mais acessíveis</strong></a>
     </div>
-    <em>Este webinário abrange as principais áreas de acessibilidade do PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam suas cédulas</em>
+    <em>Este webinário abrange as principais áreas de acessibilidade do PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam seus votos</em>
     <br>
   </td>  
   <td>

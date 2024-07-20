@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -38,7 +38,7 @@ Envie documentos para assinatura, acompanhe o progresso da assinatura eletrônic
     <div>
     <a href="liquidmode.md"><strong>Liquid Mode no Acrobat Sign</strong></a>
     </div>
-    <em>Saiba como o Liquid Mode melhora a experiência de assinatura em dispositivos móveis</em>
+    <em>Saiba como o Liquid Mode melhora a experiência de assinatura móvel</em>
     <br>
   </td>
   <td>

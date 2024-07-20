@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Gerenciamento de dados de formulários da Web
 
-Saiba como rastrear, gerenciar e exportar dados de um [formulário web](webform.md). Este tutorial mostra um fluxo de trabalho de formulário web adicional do participante e como consolidar várias entradas de dados em um único arquivo .csv para exibição e análise.
+Saiba como rastrear, gerenciar e exportar dados de um [formulário da Web](webform.md). Este tutorial mostra um fluxo de trabalho de formulário web adicional do participante e como consolidar várias entradas de dados em um único arquivo .csv para exibição e análise.
 
 >[!NOTE]
 >

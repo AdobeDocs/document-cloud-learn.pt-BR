@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Este tutorial detalhado aborda os seguintes tópicos:
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Fazer logon</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Entrar</strong></a>
          <br>
-        <em>Começar às 0:00</em>
+        <em>Iniciar às 0:00</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
@@ -95,7 +95,7 @@ Este tutorial detalhado aborda os seguintes tópicos:
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Gerenciar e monitorar documentos</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Gerenciar e acompanhar documentos</strong></a>
         <br>
         <em>Começar às 12:54</em>
     </td>

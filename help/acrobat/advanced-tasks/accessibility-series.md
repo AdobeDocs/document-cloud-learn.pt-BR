@@ -27,7 +27,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
       <img alt="Introdução à acessibilidade do PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>Introdução à acessibilidade do PDF</strong></a>
+    <a href="accessibilitysession1.md"><strong>Introdução à Acessibilidade PDF</strong></a>
     </div>
     <em>Nesta sessão por demanda, saiba o que significa tornar um PDF acessível, como configurar o Acrobat Pro para trabalhar em PDF para acessibilidade e o processo de conversão de um documento de origem em um PDF</em>
     <br>
@@ -37,7 +37,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
       <img alt="Correção de um PDF inacessível" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Correção de um PDF inacessível</strong></a>
+    <a href="accessibilitysession2.md"><strong>Corrigindo um PDF inacessível</strong></a>
     </div>
     <em>Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro mostradas no webinar de introdução</em>
     <br>
@@ -49,7 +49,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
     <div>
     <a href="accessibilitysession3.md"><strong>Tabelas complexas</strong></a>
     </div>
-    <em>Esta sessão sob demanda aborda um dos problemas mais comuns e desafiadores na correção de um PDF de acessibilidade — tabelas complexas</em>
+    <em>Esta sessão por demanda resolve um dos problemas mais comuns e desafiadores na correção de um PDF de acessibilidade — tabelas complexas</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
     <div>
     <a href="accessibilitysession4.md"><strong>Documentos digitalizados e listas complexas</strong></a>
     </div>
-    <em>Esta sessão por demanda aborda os problemas mais complexos que as pessoas costumam encontrar, como documentos digitalizados e listas complexas</em>
+    <em>Esta sessão por demanda aborda os problemas mais complexos que as pessoas costumam enfrentar, como documentos digitalizados e listas complexas</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
       <img alt="Adição de campos de formulário a um PDF marcado" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>Adição de campos de formulário a um PDF marcado</strong></a>
+    <a href="accessibilitysession5.md"><strong>Adicionando campos de formulário a um PDF marcado</strong></a>
     </div>
     <em>Esta sessão por demanda se concentra em adicionar campos de formulário a um PDF marcado anteriormente</em>
     <br>
@@ -79,7 +79,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
       <img alt="Adição de campos de formulário a um PDF não marcado" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Adição de campos de formulário a um PDF não marcado</strong></a>
+    <a href="accessibilitysession6.md"><strong>Adicionando campos de formulário a um PDF não marcado</strong></a>
     </div>
     <em>Esta sessão por demanda aprofunda-se na criação de campos de formulário manuais e propriedades adicionais de campos de formulário</em>
     <br>

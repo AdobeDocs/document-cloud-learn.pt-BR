@@ -21,11 +21,11 @@ Explore como várias organizações estão usando o Acrobat Sign para transforma
 
 ## Novidades
 
-* [Fluxo de trabalho personalizado para processo IEP de educação](usecase-edu-iep.md)
+* [Fluxo de trabalho personalizado para processo IEP educacional](usecase-edu-iep.md)
 Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)
-* [Aplicativo de estágio de formulário web para instituições de ensino](usecase-edu-intern.md)
+* [Solicitação de estágio de formulário da Web para instituições de ensino](usecase-edu-intern.md)
 Saiba como os formulários da Web são usados para melhorar o acesso dos alunos aos formulários necessários
-* [Criar um formulário da Web para educação em um aplicativo de estágio](usecase-edu-intern-create.md)
+* [Criar um aplicativo de estágio de formulário educacional na Web](usecase-edu-intern-create.md)
 Saiba como criar um formulário da Web de estágio
 * [Aplicativo de empréstimo governamental com vários signatários desconhecidos](webform-multiple-signers.md)
 Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de aplicativos de empréstimo do governo que envolve vários participantes desconhecidos
@@ -41,7 +41,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
     <div>
     <a href="webform-multiple-signers.md"><strong>Aplicativo de empréstimo governamental com vários signatários desconhecidos</strong></a>
     </div>
-    <em>Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de aplicativos de empréstimo do governo que envolve vários participantes desconhecidos</em>
+    <em>Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de aplicativo de empréstimo governamental que envolve vários participantes desconhecidos</em>
     <br>
   </td> 
   <td>
@@ -49,9 +49,9 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Subsídios comerciais e empréstimos" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Subsídios comerciais e empréstimos</strong></a>
+    <a href="usecasegovgrants.md"><strong>Concessões e empréstimos comerciais</strong></a>
     </div>
-    <em>Fornecer assistência rápida às empresas, fornecendo acesso de autoatendimento a formulários de solicitação de concessão, empréstimo e diferimento de impostos</em>
+    <em>Forneça assistência rápida às empresas fornecendo acesso de autoatendimento a formulários de solicitação de concessão, empréstimo e diferimento de impostos</em>
     <br>
   </td> 
   <td>
@@ -59,9 +59,9 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Contrato de teletrabalho" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Contrato de teletrabalho</strong></a>
+    <a href="usecasegovtelework.md"><strong>Contrato de trabalho à distância</strong></a>
     </div>
-    <em>Colete assinaturas de todos os seus funcionários com eficiência em contratos de teletrabalho, atualizações de políticas e muito mais</em>
+    <em>Colete assinaturas de todos os seus funcionários com eficiência em contratos de teletrabalho, atualizações de política e muito mais</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
     <div>
     <a href="usecasegovcontracts.md"><strong>Contratos e formulários de requisição</strong></a>
     </div>
-    <em>Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria</em>
+    <em>Substitua rapidamente o processamento de papel por fluxos de trabalho digitais compatíveis, com relatórios de auditoria</em>
     <br>
   </td>
 </tr>
@@ -81,7 +81,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Assistência ao reemprego" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Assistência ao reemprego</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Assistência para Reemprego</strong></a>
     </div>
     <em>Ajude os cidadãos a obter a ajuda de que precisam sem ficar alinhados com os formulários de aplicativos digitais que podem ser disponibilizados em dias</em>
     <br>
@@ -91,7 +91,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Proteção contra Paycheck" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Proteção contra Paycheck</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Proteção Contra Cheque De Pagamento</strong></a>
     </div>
     <em>Veja como usar o Acrobat Sign para converter o formulário do Programa de Proteção de Pagamento em um formulário interativo online</em>
     <br>
@@ -125,7 +125,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
     <div>
     <a href="usecasecomcontracts.md"><strong>Contratos e formulários de requisição</strong></a>
     </div>
-    <em>Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria</em>
+    <em>Substitua rapidamente o processamento de papel por fluxos de trabalho digitais compatíveis, com relatórios de auditoria</em>
     <br>
   </td> 
   <td>
@@ -143,7 +143,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Contrato de teletrabalho" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasecomtelework.md"><strong>Contrato de teletrabalho</strong></a>
+    <a href="usecasecomtelework.md"><strong>Contrato de trabalho à distância</strong></a>
     </div>
     <em>Colete assinaturas de todos os seus funcionários com eficiência em contratos de teletrabalho</em>
     <br>
@@ -165,9 +165,9 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Aplicativo de estágio de formulário web para instituições de ensino" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Aplicativo de estágio de formulário web para instituições de ensino</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Solicitação de estágio de formulário da Web para instituições de ensino</strong></a>
     </div>
-    <em>Saiba como os formulários da Web são usados para melhorar o acesso dos alunos aos formulários necessários</em>
+    <em>Saiba como os formulários web são usados para melhorar o acesso dos alunos aos formulários necessários</em>
     <br>
   </td> 
   <td>
@@ -175,7 +175,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Criar um formulário da Web para educação em um aplicativo de estágio" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Criar um formulário da Web para educação em um aplicativo de estágio</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Criar um aplicativo de estágio de formulário educacional na Web</strong></a>
     </div>
     <em>Saiba como criar um formulário da Web de estágio</em>
     <br>
@@ -185,9 +185,9 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
       <img alt="Fluxo de trabalho personalizado para processo IEP de educação" src="../assets/Workflow-iep.png" />
     </a>
     <div>
-    <a href="usecase-edu-iep.md"><strong>Fluxo de trabalho personalizado para processo IEP de educação</strong></a>
+    <a href="usecase-edu-iep.md"><strong>Fluxo de trabalho personalizado para processo IEP educacional</strong></a>
     </div>
-    <em>Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)</em>
+    <em>Saiba como o Designer de Fluxo de Trabalho Personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)</em>
     <br>
   </td>
   <td>

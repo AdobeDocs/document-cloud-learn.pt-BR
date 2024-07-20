@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Subsídios e empréstimos a empresas por parte do governo
 
-Ofereça assistência rápida às empresas, fornecendo acesso de autoatendimento a formulários de solicitação de concessão, empréstimo e diferimento de impostos. Saiba como criar um formulário da Web online que pode ser preenchido **e** assinado sem imprimir ou enviar nada.
+Ofereça assistência rápida às empresas, fornecendo acesso de autoatendimento a formulários de solicitação de concessão, empréstimo e diferimento de impostos. Saiba como criar um formulário da Web online que pode ser concluído **e** assinado sem impressão ou envio por email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Selecione para fazer download ou abrir uma receita de PDF passo a passo para concessões e empréstimos comerciais.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

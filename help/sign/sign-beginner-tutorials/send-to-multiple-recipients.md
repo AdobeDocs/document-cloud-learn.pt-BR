@@ -9,8 +9,8 @@ thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '80'
+ht-degree: 10%
 
 ---
 
@@ -22,4 +22,4 @@ Você tem mais de uma pessoa que deve interagir com seu documento? Saiba como en
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), que está disponível gratuitamente no Experience League!

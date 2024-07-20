@@ -12,7 +12,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 ## Novidades
 
 * [Integração da guia Documentos para [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Saiba como enviar documentos para assinatura diretamente na guia Documentos em [!DNL Microsoft Teams]
+Saiba como enviar documentos para assinatura diretamente da guia Documentos no [!DNL Microsoft Teams]
 * [Live Sign no Adobe Acrobat Sign para [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Saiba como criar uma experiência de assinatura online que se assemelha à assinatura presencial durante uma [!DNL Microsoft Teams] reunião
-* [Crie um fluxo de trabalho avançado com [!DNL Power Automate]](advanced-workflow-power-automate.md)
+Saiba como criar uma experiência de assinatura online que se assemelhe à assinatura presencial durante uma reunião do [!DNL Microsoft Teams]
+* [Criar um fluxo de trabalho avançado com [!DNL Power Automate]](advanced-workflow-power-automate.md)
 Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] conectores
 
 ## Tutoriais de integrações do Microsoft
@@ -44,7 +44,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Preencher e assinar no Microsoft Outlook</strong></a>
     </div>
-    <em>Preencher e assinar um formulário diretamente no Microsoft Outlook</em>
+    <em>Preencha e assine um formulário diretamente no Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -64,7 +64,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Enviar para assinatura no SharePoint Online</strong></a>
     </div>
-    <em>Enviar um documento para assinatura diretamente no SharePoint Online</em>
+    <em>Enviar um documento para assinatura diretamente no Sharepoint Online</em>
     <br>
   </td>
    <td>
@@ -84,9 +84,9 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Integrar um formulário web com [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrar um formulário web com [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrar um formulário da Web com [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Saiba como mapear dados coletados de um formulário da Web para um [!DNL SharePoint] lista</em>
+    <em>Saiba como mapear dados coletados de um formulário da Web para uma lista [!DNL SharePoint]</em>
     <br>
   </td>
   <td>
@@ -94,9 +94,9 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Arquivar arquivos automaticamente em [!DNL SharePoint] com [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>Arquivar arquivos automaticamente em [!DNL SharePoint] com [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Arquivar automaticamente arquivos em [!DNL SharePoint] com [!DNL Power Automate]</strong></a>
     </div>
-    <em>Saiba como arquivar automaticamente documentos assinados em um [!DNL SharePoint] biblioteca usando [!DNL Power Automate]</em>
+    <em>Saiba como arquivar automaticamente documentos assinados em uma biblioteca do [!DNL SharePoint] usando [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="documentautomation.md"><strong>Automação de documentos com [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Saiba como ativar e usar o [!DNL Acrobat Sign] e [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] aplicativos</em>
+    <em>Saiba como ativar e usar os conectores do [!DNL Acrobat Sign] e do [!DNL Adobe PDF Tools] para aplicativos do [!DNL Microsoft Power]</em>
     <br>
   </td>
    <td>
@@ -116,7 +116,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para assinatura em [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Envie documentos para assinatura diretamente do [!DNL Microsoft Teams]</em>
+    <em>Envie documentos para assinatura diretamente em [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -128,7 +128,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="live-sign-microsoft-teams.md"><strong>Live Sign no Adobe Acrobat Sign para [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Saiba como criar uma experiência de assinatura online que se assemelha à assinatura presencial durante uma [!DNL Microsoft Teams] reunião</em>
+    <em>Saiba como criar uma experiência de assinatura online que se assemelhe à assinatura presencial durante uma reunião do [!DNL Microsoft Teams]</em>
     <br>
   </td>
    <td>
@@ -138,7 +138,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="acrobat-sign-teams-documents-tab.md"><strong>Integração da guia Documentos para [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Saiba como enviar documentos para assinatura diretamente na guia Documentos em [!DNL Microsoft Teams]</em>
+    <em>Saiba como enviar documentos para assinatura diretamente da guia Documentos em [!DNL Microsoft Teams]</em>
     <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Crie um fluxo de trabalho simples com o Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Crie um fluxo de trabalho simples com [!DNL Power Automate]</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>Criar um fluxo de trabalho simples com [!DNL Power Automate]</strong></a>
     </div>
     <em>Saiba como criar um fluxo de trabalho simples usando [!DNL Power Automate] conectores</em>
     <br>
@@ -156,7 +156,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Crie um fluxo de trabalho avançado com o Power Automate" src="../assets/advanced-workflow.png" />
     </a>
     <div>
-    <a href="advanced-workflow-power-automate.md"><strong>Crie um fluxo de trabalho avançado com o Power Automate</strong></a>
+    <a href="advanced-workflow-power-automate.md"><strong>Criar um fluxo de trabalho avançado com o Power Automate</strong></a>
     </div>
     <em>Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] conectores</em>
     <br>
@@ -169,7 +169,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 para Atendimento ao Cliente</strong></a>
     </div>
-    <em>Saiba como a Acrobat Sign e a [!DNL Microsoft Dynamics 365] para o Atendimento ao cliente são usados para melhorar a satisfação do cliente em um portal da Web de autoatendimento do cliente</em>
+    <em>Saiba como a Acrobat Sign e o [!DNL Microsoft Dynamics 365] for Customer Service são usados para melhorar a satisfação do cliente em um portal da Web de autoatendimento do cliente</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 para Field Service</strong></a>
     </div>
-    <em>Saiba como a Acrobat Sign, [!DNL Power Automate]e [!DNL Microsoft Dynamics 365] para o Field Service são usados para simplificar os contratos no local do cliente</em>
+    <em>Saiba como a Acrobat Sign, o [!DNL Power Automate] e o [!DNL Microsoft Dynamics 365] for Field Service são usados para otimizar os contratos no local do cliente</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 para Vendas</strong></a>
     </div>
-    <em>Saiba como a Acrobat Sign e a [!DNL Microsoft Dynamics 365] para Vendas são usados para automatizar o processo de assinatura de cotação de venda</em>
+    <em>Saiba como o Acrobat Sign e o [!DNL Microsoft Dynamics 365] for Sales são usados para automatizar o processo de assinatura de cotação de venda</em>
     <br>
   </td>
   <td>
@@ -200,7 +200,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
 </tr>
 </table>
 
-## [!DNL Notarize] tutoriais de integração
+## Tutoriais de integração do [!DNL Notarize]
 
 <table style="table-layout:fixed">
 <tr>
@@ -243,7 +243,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="create-an-agreement-template.md"><strong>Document Builder para [!DNL Salesforce]</strong></a>
     </div>
-    <em>Saiba como criar um modelo de documento reutilizável para [!DNL Salesforce]</em>
+    <em>Saiba como criar um modelo de documento reutilizável usando o Document Builder para [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -253,7 +253,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
     <div>
     <a href="set-up-data-mapping.md"><strong>Configurando mapeamento de dados</strong></a>
     </div>
-    <em>Extrair dados de volta no Salesforce após a assinatura de um contrato</em>
+    <em>Retirar dados de volta para o Salesforce após a assinatura de um contrato</em>
     <br>
   </td>
   <td>
@@ -261,7 +261,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Configurar o mapeamento de mesclagem no Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Configurar o mapeamento de mesclagem no Salesforce</strong></a>
+    <a href="set-up-merging-map.md"><strong>Configurando o mapeamento de mesclagem no Salesforce</strong></a>
     </div>
     <em>Saiba como mesclar dados do Salesforce diretamente em um documento do Acrobat Sign</em>
     <br>
@@ -271,9 +271,9 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Criar um botão personalizado" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>Criar um botão personalizado</strong></a>
+    <a href="create-a-custom-button.md"><strong>Criando um botão personalizado</strong></a>
     </div>
-    <em>Criar um botão personalizado que inicia o processo de envio e preenche automaticamente um contrato no Salesforce</em>
+    <em>Criar um botão personalizado que inicia o processo de envio e preenche automaticamente um contrato dentro do Salesforce</em>
     <br>
   </td>
 </tr>
@@ -288,7 +288,7 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Acrobat Sign + integração de nova contratação do Workday" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + integração de nova contratação do Workday</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Integração da nova contratação do Acrobat Sign + Workday</strong></a>
     </div>
     <em>Saiba como otimizar os fluxos de trabalho de integração com o Acrobat Sign + Workday</em>
     <br>
@@ -340,9 +340,9 @@ Saiba como criar um fluxo de trabalho avançado usando [!DNL Power Automate] con
       <img alt="Enviar lembretes usando o guia de configuração do Acrobat Sign para Salesforce e Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Enviar lembretes usando o guia de configuração do Acrobat Sign para Salesforce e Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Enviar lembretes usando o Acrobat Sign para Salesforce e o guia de configuração do Marketo</strong></a>
     </div>
-    <em>Ler como enviar um lembrete de email da Marketo quando um contrato permanece não assinado após um período</em>
+    <em>Leia como enviar um lembrete de email da Marketo quando um contrato permanecer não assinado após um período de tempo</em>
     <br>
   </td>
    <td>

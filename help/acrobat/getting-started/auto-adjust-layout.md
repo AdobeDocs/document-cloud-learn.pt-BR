@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Ajuste automático de layout
 
-Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa o [nova experiência de espaço de trabalho](new-workspace.md).
+Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa a [nova experiência de espaço de trabalho](new-workspace.md).
 
 >[!NOTE]
 >

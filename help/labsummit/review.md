@@ -8,8 +8,8 @@ level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 10%
+source-wordcount: '534'
+ht-degree: 8%
 
 ---
 
@@ -22,47 +22,47 @@ Neste exercício, analisamos como:
 * Envie convites personalizados para comentar
 * Enviar um link anônimo ou público por email
 
-Aqui estão os [arquivos de demonstração](assets/01_Review.zip) para este exercício.
+Aqui estão os [arquivos de demonstração](assets/01_Review.zip) deste exercício.
 
 ## Envie convites personalizados para comentar
 
-**Etapa 1:** Abra o `localFoodTruckmenu_start.pdf` arquivo no Adobe Acrobat.
+**Etapa 1:** abra o arquivo `localFoodTruckmenu_start.pdf` no Adobe Acrobat.
 
 ![Imagem da etapa 1](assets/Step1.png)
 
-**Etapa 2:** Clique em **[!UICONTROL Send for Comments]** no painel direito ou na guia **[!UICONTROL Compartilhar Este Arquivo Com Outras Pessoas]** ![commentsicon](assets/sendforcommentsicon.png)  no canto superior direito.
+**Etapa 2:** clique no ícone **[!UICONTROL Send for Comments]** do painel direito ou no ícone **[!UICONTROL Compartilhar este arquivo com outras pessoas]** ![comentáriosícone](assets/sendforcommentsicon.png) no canto superior direito.
 
-**Etapa 3:** Insira os endereços de email dos destinatários. Você pode inserir uma mensagem para os destinatários ou adicionar um prazo para revisão.
+**Etapa 3:** insira os endereços de email dos destinatários. Você pode inserir uma mensagem para os destinatários ou adicionar um prazo para revisão.
 
 ![Imagem da etapa 2C](assets/Step2C.png)
 
 Você receberá um aviso por email assim que os destinatários tiverem visualizado seu arquivo.
 
-![Imagem do recibo de entrega](assets/deliveryReceipt_Track.png)
+![Imagem da confirmação de entrega](assets/deliveryReceipt_Track.png)
 
 ## Experiência do revisor
 
-Os revisores recebem um convite por email com um link para a revisão do PDF. Quando eles clicarem no link ou na guia **[!UICONTROL Revisão]** no convite, o PDF será aberto em um navegador da web. Eles podem usar as ferramentas de comentários para adicionar comentários ao PDF. Além disso, podem usar os aplicativos de desktop do Acrobat Reader ou do Acrobat para adicionar comentários.
+Os revisores recebem um convite por email com um link para a revisão do PDF. Quando eles clicarem no link ou no botão **[!UICONTROL Revisar]** do convite, o PDF será aberto em um navegador da Web. Eles podem usar as ferramentas de comentários para adicionar comentários ao PDF. Eles também podem usar os aplicativos de desktop da Acrobat Reader ou da Acrobat para adicionar comentários.
 
 ## Enviar um link anônimo ou público por email
 
-**Etapa 1:** Abra o `localFoodTruckmenu_start.pdf` arquivo no Adobe Acrobat.
+**Etapa 1:** abra o arquivo `localFoodTruckmenu_start.pdf` no Adobe Acrobat.
 
-**Etapa 2:** Clique em **[!UICONTROL Compartilhar Um Link]** ![linkicon](assets/sendlinkicon.png). O link compartilhado é gerado instantaneamente; você não terá que esperar que o arquivo seja carregado na nuvem. Por padrão, o [!UICONTROL Permitir comentários] o switch está ligado.
+**Etapa 2:** Clique Em **[!UICONTROL Compartilhar Um Link]** ![linkicon](assets/sendlinkicon.png). O link compartilhado é gerado instantaneamente; você não terá que esperar que o arquivo seja carregado na nuvem. Por padrão, a opção [!UICONTROL Permitir Comentários] está ativada.
 
 ![Imagem da etapa 2L](assets/Step2L.png)
 
-**Etapa 3:** Clique em **[!UICONTROL Copiar link]** e compartilhe o link com os destinatários.
+**Etapa 3:** clique em **[!UICONTROL Copiar Link]** e compartilhe o link com os destinatários.
 
 ## Fazer comentários
 
-**Etapa 1:** Clique no botão **[!UICONTROL Comentário]** no painel direito.
+**Etapa 1:** clique no **[!UICONTROL Comentário]** no painel direito.
 
-![Clique em Comentar](assets/Cselect.jpg)
+![Clique para comentar](assets/Cselect.jpg)
 
-**Etapa 2:** Use as ferramentas da faixa superior para marcar o documento e/ou digitar um comentário.
+**Etapa 2:** use as ferramentas da faixa de opções superior para marcar o documento e/ou digitar um comentário.
 
-![interface de comentário](assets/commentsui.png)
+![interface do usuário do comentário](assets/commentsui.png)
 
 Seus comentários são salvos automaticamente e ficam visíveis para outras pessoas.
 
@@ -70,19 +70,19 @@ Seus comentários são salvos automaticamente e ficam visíveis para outras pess
 
 O InDesign CC 2019 permite importar comentários diretamente de arquivos PDF. Você pode importar, aceitar e aplicar as alterações com apenas um clique. Selecionar um comentário no novo painel Comentários do PDF localizará e realçará o comentário em seu arquivo de InDesign.
 
-**Etapa 1:** Baixe o arquivo PDF que contém os comentários.
+**Etapa 1:** baixe o arquivo de PDF que contém os comentários.
 
-**Etapa 2:** Abra o arquivo de InDesign.
+**Etapa 2:** abra o arquivo de InDesign.
 
-**Etapa 3:** Clique em **[!UICONTROL Arquivo]** no menu superior.
+**Etapa 3:** clique em **[!UICONTROL Arquivo]** no menu superior.
 
-![PDF Comentários em Indd](assets/inddpdf.png)
+![Comentários PDF no Indd](assets/inddpdf.png)
 
-**Etapa 4:** Clique em **[!UICONTROL Importar comentários de PDF]** na lista suspensa.
+**Etapa 4:** clique em **[!UICONTROL Importar comentários de PDF]** na lista suspensa.
 
-**Etapa 5:** Abra o PDF que contém os comentários.
+**Etapa 5:** abra o PDF que contém os comentários.
 
-![PDF Comentários em Indd](assets/inddpdfshown.png)
+![Comentários PDF no Indd](assets/inddpdfshown.png)
 
 Os comentários são exibidos na interface do usuário.
 

@@ -9,14 +9,14 @@ thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
 # Combine arquivos em um único PDF
 
-Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como combinar perfeitamente muitos tipos diferentes de arquivos (PDF, Word, Excel, PowerPoint, JPEG etc.) em um único PDF. [Combinação de arquivos em um único PDF](https://www.adobe.com/br/acrobat/online/merge-pdf.html){target="_blank"} permite gerenciar e controlar o conteúdo enviado a outras pessoas, criando uma experiência melhor.
+Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como combinar perfeitamente muitos tipos diferentes de arquivos (PDF, Word, Excel, PowerPoint, JPEG etc.) em um único PDF. [Combinar arquivos em um único PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} permite gerenciar e controlar o conteúdo enviado para outras pessoas, criando uma experiência melhor.
 
 >[!TIP]
 >
@@ -28,4 +28,4 @@ Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de modo mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!

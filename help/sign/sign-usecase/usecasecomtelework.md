@@ -22,4 +22,4 @@ Saiba como coletar assinaturas de todos os seus funcionários com eficiência em
 
 Selecione para baixar ou abrir uma receita de PDF passo a passo para contratos de teletrabalho.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

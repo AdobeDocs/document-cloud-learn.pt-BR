@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Contratos governamentais e formulários de requisição
 
-Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria. Saiba como usar a ferramenta Designer de fluxo de trabalho do Acrobat Sign para ajudar a simplificar todo o processo.
+Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria. Saiba como usar a ferramenta Workflow Designer da Acrobat Sign para ajudar a simplificar todo o processo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 Selecione para fazer download ou abrir uma receita de PDF passo a passo para contratos e formulários de requisição.
 
-[![Baixar receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![Baixar Receita PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

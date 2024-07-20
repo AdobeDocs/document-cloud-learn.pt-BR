@@ -1,6 +1,6 @@
 ---
-title: Trabalhar com arquivos de [!DNL Dropbox]
-description: Saiba como abrir, criar, editar, assinar e salvar alterações em seus [!DNL Dropbox] arquivos de dentro do Acrobat
+title: Trabalhar com arquivos de  [!DNL Dropbox]
+description: Saiba como abrir, criar, editar, assinar e salvar alterações em seus [!DNL Dropbox] arquivos diretamente do Acrobat
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Trabalhar com arquivos de [!DNL Dropbox]
 
-Saiba como abrir, criar, editar, assinar e salvar alterações em seus [!DNL Dropbox] de dentro do Acrobat. Conectar sua conta Dropbox ao Acrobat economiza tempo, mantendo todos os seus arquivos na ponta dos dedos.
+Saiba como abrir, criar, editar, assinar e salvar alterações em seus arquivos do [!DNL Dropbox] de dentro do Acrobat. Conectar sua conta Dropbox ao Acrobat economiza tempo, mantendo todos os seus arquivos na ponta dos dedos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -46,9 +46,9 @@ ht-degree: 13%
       <img alt="Reúna documentos de grande volume usando o GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Reúna documentos de grande volume usando o GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Coletar documentos em alto volume usando o GigaSign</strong></a>
     </div>
-    <em>Envie, colete e rastreie documentos para assinatura a milhares de pessoas ao mesmo tempo</em>
+    <em>Envie, colete e acompanhe documentos para assinatura a milhares de pessoas ao mesmo tempo</em>
     <br>
   </td>
    <td>
@@ -58,7 +58,7 @@ ht-degree: 13%
     <div>
     <a href="embeddedesignature.md"><strong>Criar assinatura eletrônica incorporada e experiências de documento</strong></a>
     </div>
-    <em>Saiba como usar as APIs do Acrobat Sign para incorporar experiências de assinatura eletrônica e de documento em suas plataformas Web e sistemas de gerenciamento de conteúdo e documentos</em>
+    <em>Saiba como usar as APIs do Acrobat Sign para incorporar a assinatura eletrônica e as experiências de documento em suas plataformas Web e sistemas de gerenciamento de conteúdo e documentos</em>
     <br>
   </td>
 </tr>

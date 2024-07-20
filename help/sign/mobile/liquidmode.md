@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Liquid Mode no Acrobat Sign
 
-Saiba como o Liquid Mode melhora a experiência de assinatura em dispositivos móveis. Chega de beliscar e aplicar zoom ao tentar ler e assinar documentos. Este tutorial explica como você pode enviar um _formulário HTML_ enviado para assinatura e cria automaticamente uma experiência de assinatura aprimorada para usuários móveis.
+Saiba como o Liquid Mode melhora a experiência de assinatura em dispositivos móveis. Chega de beliscar e aplicar zoom ao tentar ler e assinar documentos. Este tutorial explica como enviar um _formulário HTML_ para assinatura e criar automaticamente uma experiência de assinatura aprimorada para usuários móveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

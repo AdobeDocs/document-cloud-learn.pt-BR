@@ -21,23 +21,23 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 >[!IMPORTANT]
 >
->O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na seção [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) funcionalidade. Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
+>O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na funcionalidade [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Baixar e instalar o aplicativo GigaSign
 
-[Baixar arquivo zip do GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
+[Baixar Arquivo Zip do GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[Endereços IP para lista branca (somente se necessário)](https://helpx.adobe.com/br/sign/system-requirements.html#IPs){target="_blank"}
+[Endereços IP para lista de permissões (somente se necessário)](https://helpx.adobe.com/br/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Instruções básicas de configuração
 
 1. Faça logon na sua conta da Acrobat Sign.
 
-1. Clique em **[!UICONTROL Agrupar]** ou **[!UICONTROL Conta]**, o que estiver no topo.
+1. Clique em **[!UICONTROL Grupo]** ou em **[!UICONTROL Conta]**, o que estiver na parte superior.
 
 1. Digite “Tokens de acesso” no campo de pesquisa no lado esquerdo da tela.
 
@@ -49,7 +49,7 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 1. Abra o GigaSign.
 
-1. Clique no botão **[!UICONTROL Configurações]** no canto superior direito.
+1. Clique no ícone **[!UICONTROL Configurações]** no canto superior direito.
 
 1. Cole a chave de integração na primeira linha.
 

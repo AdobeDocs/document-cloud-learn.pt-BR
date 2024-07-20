@@ -5,7 +5,8 @@ feature: Use Cases, Web Forms, Mobile
 role: User
 level: Intermediate
 jira: KT-13607
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: ba19bca2-d4ab-41c2-9235-40672dc58929
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -16,6 +17,6 @@ ht-degree: 0%
 
 Saiba como os formulários da Web são usados para melhorar o acesso dos alunos aos formulários necessários que podem ser enviados de qualquer dispositivo - e de qualquer local - acelerando os processos de aprovação educacional. Neste exemplo, o fluxo de trabalho para cada aluno é único dependendo do curso de estudo, pois cada aluno precisa adicionar seu próprio supervisor de faculdade e chefe de departamento para aprovação.
 
-Fazer Check-out [Criar um formulário da Web para educação em um aplicativo de estágio](usecase-edu-intern-create.md) para saber como criar este formulário da Web.
+Confira [Criar um aplicativo de estágio de formulário da Web para instituições de ensino](usecase-edu-intern-create.md) para saber como criar este formulário da Web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)

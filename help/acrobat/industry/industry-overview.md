@@ -29,7 +29,7 @@ Saiba como você pode transformar as experiências de clientes e funcionários e
     <div>
     <a href="gov/gov-overview.md"><strong>Tutoriais governamentais</strong></a>
     </div>
-    <em>Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os governos federal, estadual e local</em>
+    <em>Explore nossos tutoriais do Acrobat criados especificamente para os governos federal, estadual e local</em>
     <br>
   </td>
   <td>

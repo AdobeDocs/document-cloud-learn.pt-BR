@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Preencher e assinar um documento
 
-Saiba como preencher formulários **E** adicione sua assinatura eletrônica a documentos.
+Saiba como preencher formulários **E** para adicionar sua assinatura eletrônica a documentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

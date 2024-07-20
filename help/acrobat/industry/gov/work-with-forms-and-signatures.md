@@ -8,14 +8,14 @@ thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
 # 5 Dicas para trabalhar em qualquer lugar com o Acrobat — Trabalhar com formulários e assinaturas
 
-Todo mundo em algum momento precisa [preencher formulários](https://www.adobe.com/br/acrobat/online/sign-pdf.html). Como nem sempre você tem acesso a uma impressora, saiba como ficar digital ao preencher formulários.
+Todos precisam [preencher formulários](https://www.adobe.com/br/acrobat/online/sign-pdf.html) em algum momento. Como nem sempre você tem acesso a uma impressora, saiba como ficar digital ao preencher formulários.
 
 ## Dica #4 - Trabalhar com formulários e assinaturas (7:03)
 
