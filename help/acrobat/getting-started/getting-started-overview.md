@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Noções básicas do espaço de trabalho</strong></a>
     </div>
-    Saiba como acessar arquivos e ferramentas no desktop, na Web e em dispositivos móveis
+    Aprenda os conceitos básicos do espaço de trabalho do Acrobat
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="ai-assistant.md"><strong>Descubra insights de PDF com o Assistente de IA</strong></a>
     </div>
-    Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de IA
+    Obtenha informações sobre seus arquivos de PDF usando o Assistente de IA
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="acrobatweb.md"><strong>Trabalhe em qualquer lugar com o Acrobat Web</strong></a>
     </div>
-    Saiba como lidar com solicitações de documentos comerciais de qualquer lugar
+    Aprenda a trabalhar em qualquer lugar
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="productivity.md"><strong>Produtividade em qualquer lugar</strong></a>
     </div>
-    Saiba como fazer mais coisas do seu tablet ou celular
+    Saiba como fazer mais com seu tablet ou celular
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabalhar com o Microsoft 365</strong></a>
       </div>
-      Saiba como trabalhar perfeitamente com arquivos PDF diretamente no Microsoft 365
+      Trabalhe perfeitamente com arquivos de PDF, diretamente no Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>De onde vêm os PDF?</strong></a>
       </div>
-      Saiba de onde vêm os PDF e como usá-los em fluxos de trabalho digitais
+      Saiba de onde vêm os PDF e como usá-los
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="create-pdf.md"><strong>Criar arquivos PDF</strong></a>
       </div>
-      Saiba como criar PDF a partir de todos os tipos diferentes de documentos
+      Criar PDF de todos os tipos diferentes de documentos
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="combine-to-pdf.md"><strong>Combinar arquivos em um único PDF</strong></a>
       </div>
-      Saiba como combinar perfeitamente vários tipos diferentes de arquivos em um único PDF
+      Combine perfeitamente vários tipos diferentes de arquivos em um único PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="edit-pdf.md"><strong>Editar texto em um PDF</strong></a>
       </div>
-      Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF
+      Edite palavras, frases ou até mesmo páginas inteiras no PDF
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="export-pdf.md"><strong>Converter PDF em diferentes formatos de arquivo</strong></a>
       </div>
-      Saiba como converter seus arquivos PDF para diferentes formatos de arquivo
+      Converta seus arquivos PDF em diferentes formatos de arquivo
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
       <div>
       <a href="comment-on-pdf-files.md"><strong>Comentar em um PDF</strong></a>
       </div>
-      Saiba como adicionar comentários a um arquivo PDF e compartilhá-lo com outras pessoas
+      Adicione comentários e compartilhe seu PDF com outras pessoas
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="scan-and-ocr.md"><strong>Digitalização e OCR</strong></a>
     </div>
-    Converta digitalizações ou imagens de documentos em arquivos de PDF pesquisáveis e editáveis
+    Converta digitalizações ou imagens em arquivos de PDF editáveis e pesquisáveis
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="signatures.md"><strong>Obter assinaturas</strong></a>
     </div>
-    Mantenha a continuidade dos negócios coletando assinaturas eletrônicas com validade jurídica
+    Saiba como coletar assinaturas eletrônicas com validade jurídica
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ Saiba como obter informações sobre seus arquivos de PDF usando o Assistente de
     <div>
     <a href="track.md"><strong>Acompanhar seus documentos</strong></a>
     </div>
-    Saiba como rastrear e gerenciar seus documentos de assinatura eletrônica
+    Rastrear e gerenciar documentos de assinatura eletrônica
     <br>
   </td>
   <td>
