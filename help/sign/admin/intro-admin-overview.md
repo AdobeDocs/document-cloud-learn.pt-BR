@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 ## Novidades
 
+* [Relatórios de auditoria](audit-reports.md)
+Saiba como acessar, utilizar e configurar relatórios de auditoria para atender às necessidades da sua organização
 * [Envio em massa](../sign-advanced-users/megasign.md)
 Saiba como coletar milhares de assinaturas de uma só vez para qualquer documento em poucas etapas
 * [Opções de relatório](report-options.md)
 Saiba como configurar opções de relatório para usuários
-* [Adicionando usuários](add-users-to-your-account.md)
-Saiba como adicionar e gerenciar usuários para o Acrobat Sign
 
 ## Introdução
 
@@ -169,8 +169,13 @@ Saiba como adicionar e gerenciar usuários para o Acrobat Sign
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Relatórios de auditoria" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>Relatórios de auditoria</strong></a>
+    </div>
+    <em>Saiba como acessar, utilizar e configurar relatórios de auditoria</em>
     <br>
   </td>
   <td>
