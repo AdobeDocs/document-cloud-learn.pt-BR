@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 ## Novidades
 
+* [Como configurar administradores de privacidade](privacy.md)
+Saiba como configurar e usar administradores de privacidade
+* [Ferramenta de download em massa](bulk-download-tool.md)
+Saiba como usar a ferramenta Download em massa para baixar rapidamente todos os seus contratos assinados
 * [Relatórios de auditoria](audit-reports.md)
 Saiba como acessar, utilizar e configurar relatórios de auditoria para atender às necessidades da sua organização
-* [Envio em massa](../sign-advanced-users/megasign.md)
-Saiba como coletar milhares de assinaturas de uma só vez para qualquer documento em poucas etapas
-* [Opções de relatório](report-options.md)
-Saiba como configurar opções de relatório para usuários
+
 
 ## Introdução
 
@@ -225,13 +226,13 @@ Saiba como configurar opções de relatório para usuários
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Usar configurações do BioPharma" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Ferramenta Download em massa" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Usando configurações do BioPharma</strong></a>
+    <a href="bulk-download-tool.md"><strong>Ferramenta de download em massa</strong></a>
     </div>
-    <em>Configurar o BioPharma para atender aos requisitos da FDA 21 CFR Parte 11</em>
+    <em>Saiba como usar a ferramenta de Download em Massa para baixar rapidamente todos os seus contratos assinados</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Saiba como configurar opções de relatório para usuários
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Usar configurações do BioPharma" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Usando configurações do BioPharma</strong></a>
+    </div>
+    <em>Configurar o BioPharma para atender aos requisitos da FDA 21 CFR Parte 11</em>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Como configurar o administrador de privacidade" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>Como configurar administradores de privacidade</strong></a>
+    </div>
+    <em>Saiba como configurar e usar administradores de privacidade</em>
     <br>
   </td>
   <td>

@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '525'
 ht-degree: 7%
 
 ---
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [Configurações globais](admin/learn-about-global-settings.md)
       + [Acesso à conta de compartilhamento](admin/share-account-access.md)
       + [Compartilhamento avançado de conta](admin/advanced-account-sharing.md)
-      + [Usar configurações do BioPharma](admin/use-bio-pharma-settings.md)
+      + [Ferramenta Download em massa](admin/bulk-download-tool.md)
       + [Marcação de texto do Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Usar configurações do BioPharma](admin/use-bio-pharma-settings.md)
+      + [Como configurar administradores de privacidade](admin/privacy.md)
 + ID digital {#digital-id}
    + [Visão geral](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -158,9 +160,10 @@ ht-degree: 7%
       + [Apresentação](sign-usecase/use-case-showcase.md)
 + Desenvolver {#develop}
    + [Visão geral](develop/develop-overview.md)
-   + APIs personalizadas {#custom}
+   + APIs e webhooks {#custom}
       + [Reúna documentos de grande volume usando o GigaSign](develop/gigasign.md)
       + [Criar assinatura eletrônica incorporada e experiências de documento](develop/embeddedesignature.md)
+      + [Como configurar webhooks](develop/webhooks.md)
 + Implantar {#deploy}
    + [Visão geral](deploy-overview.md)
 + Celular {#mobile}
