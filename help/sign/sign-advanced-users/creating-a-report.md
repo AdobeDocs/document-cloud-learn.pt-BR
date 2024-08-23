@@ -1,22 +1,22 @@
 ---
-title: Criação de um relatório
-description: Saiba como criar seus próprios relatórios para ter visibilidade sobre o processo de assinatura do documento
+title: Emissão de Relatórios e Uso de Transações
+description: Saiba como gerar relatórios e rastrear o uso de transações
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Criação de um relatório
+# Emissão de relatórios e uso de transações
 
-Saiba como criar seus próprios relatórios para ter visibilidade sobre seu processo de assinatura de documentos ou ver como grupos ou usuários individuais estão indo.
+Saiba como gerar relatórios e rastrear o uso de transações. Esses relatórios podem incluir informações como a porcentagem de contratos que foram assinados ou o tempo médio necessário para assinar. A geração de relatórios e o acompanhamento do uso oferecem visibilidade dos processos de assinatura do documento.
 
 >[!NOTE]
 >
