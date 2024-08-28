@@ -1,46 +1,28 @@
 ---
-title: Action Wizard
-description: Economize tempo e teclas ao usar uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos
+title: Ações guiadas
+description: Saiba como usar ações guiadas para executar um ou mais comandos em vários documentos com um único clique
 feature: Action
 role: User
 level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# Action Wizard
+# Ações guiadas
 
-Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Economize tempo e teclas ao usar uma Ação para aplicar automaticamente um conjunto de comandos a um ou vários arquivos.
+Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como usar ações guiadas para executar um ou mais comandos em vários documentos com um único clique, economizando tempo e teclas.
 
 >[!NOTE]
 >
 >Disponível somente no Acrobat Pro.
 
-1. Selecione **[!UICONTROL Action Wizard]** no painel central ou à direita de [!UICONTROL Ferramentas].
-
-   ![Action Wizard Etapa 1](../assets/ActionWizard_1.png)
-
-   Ações predefinidas aparecem na **Lista de Ações**.
-
-1. Selecione **[!UICONTROL Nova Ação]** no menu superior para criar uma ação personalizada.
-
-   ![Action Wizard Etapa 2](../assets/ActionWizard_2.png)
-
-1. Selecione uma tarefa na lista à esquerda e selecione a seta para o centro para adicioná-la à coluna à direita na caixa de diálogo **[!UICONTROL Criar Nova Ação]**.
-
-   *As configurações de cada tarefa são predeterminadas nesta caixa de diálogo, ou você pode solicitar que o usuário tome qualquer decisão necessária enquanto a ação é executada.*
-
-   ![Action Wizard Etapa 3](../assets/ActionWizard_3.png)
-
-1. Selecione **[!UICONTROL Salvar]** e nomeie sua ação para que ela apareça na **[!UICONTROL Lista de Ações]**.
-
-Agora você pode executar a ação personalizada a qualquer momento para executar essas séries específicas de etapas em um ou mais arquivos de PDF.
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
