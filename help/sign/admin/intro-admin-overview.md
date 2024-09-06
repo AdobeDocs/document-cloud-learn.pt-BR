@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '584'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,12 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 ## Novidades
 
+* [Como usar vários perfis](multiple-profiles.md)
+Saiba como usar o seletor de perfil para trabalhar com várias contas da Acrobat Sign
 * [Como configurar administradores de privacidade](privacy.md)
 Saiba como configurar e usar administradores de privacidade
 * [Ferramenta de download em massa](bulk-download-tool.md)
 Saiba como usar a ferramenta Download em massa para baixar rapidamente todos os seus contratos assinados
-* [Relatórios de auditoria](audit-reports.md)
-Saiba como acessar, utilizar e configurar relatórios de auditoria para atender às necessidades da sua organização
-
 
 ## Introdução
 
@@ -180,8 +179,13 @@ Saiba como acessar, utilizar e configurar relatórios de auditoria para atender 
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="multiple-profiles.md">
+      <img alt="Como usar vários perfis" src="../assets/multiple-profiles.png" />
+    </a>
     <div>
+    <a href="multiple-profiles.md"><strong>Como usar vários perfis</strong></a>
+    </div>
+    <em>Saiba como usar o seletor de perfil para trabalhar com várias contas da Acrobat Sign</em>
     <br>
   </td>
   <td>
