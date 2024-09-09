@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,8 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 ## Novidades
 
+* [Como promover um usuário a uma função de administrador](promote-admin.md)
+Saiba como promover um usuário a uma função de administrador do Acrobat Sign usando o Admin Console
 * [Como usar vários perfis](multiple-profiles.md)
 Saiba como usar o seletor de perfil para trabalhar com várias contas da Acrobat Sign
 * [Como configurar administradores de privacidade](privacy.md)
@@ -189,8 +191,13 @@ Saiba como usar a ferramenta Download em massa para baixar rapidamente todos os 
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="Como promover um usuário a uma função de administrador" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>Como promover um usuário a uma função de administrador</strong></a>
+    </div>
+    <em>Saiba como promover um usuário a uma função de administrador do Acrobat Sign usando o Admin Console</em>
     <br>
   </td>
 </table>
