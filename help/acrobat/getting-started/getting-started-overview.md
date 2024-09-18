@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
+source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -196,11 +196,11 @@ Saiba como obter informações de seus arquivos PDF usando o [Assistente de IA](
       <br>
     </td>
     <td>
-      <a href="stylize-this-PDF.md">
+      <a href="stylize-this-pdf.md">
         <img alt="Estilizar esta PDF" src="../assets/stylize-pdf.png" />
       </a>
       <div>
-      <a href="stylize-this-PDF.md"><strong>Estilizar este PDF</strong></a>
+      <a href="stylize-this-pdf.md"><strong>Estilizar este PDF</strong></a>
       </div>
       Saiba como criar PDF de aparência profissional
       <br>
