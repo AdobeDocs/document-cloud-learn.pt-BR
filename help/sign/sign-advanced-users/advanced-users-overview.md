@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Saiba como enviar um documento para assinatura a centenas de destinatários ao m
 
 ## Novidades
 
-* [Envio em massa](megasign.md)
-Saiba como coletar milhares de assinaturas de uma só vez para qualquer documento em poucas etapas
-* [Métodos de autenticação no Acrobat Sign](authentication-methods.md)
-Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para autenticar a identidade de alguém que assina um documento
+>[!BEGINTABS]
+
+>[!TAB Envio em massa]
+
+Saiba como [coletar milhares](megasign.md) de assinaturas de uma só vez para qualquer documento em poucas etapas.
+
+>[!TAB Métodos de autenticação no Acrobat Sign]
+
+Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para [autenticar](authentication-methods.md) a identidade de alguém que assina um documento.
+
+>[!ENDTABS]
 
 ## Enviar
 

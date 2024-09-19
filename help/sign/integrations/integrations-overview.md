@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ Você pode usar o Acrobat Sign em outros aplicativos que sua organização já u
 
 ## Novidades
 
-* [Configurar arquivos grandes e mapeamentos por push](salesforce-large-files.md)
-Saiba como configurar documentos grandes e enviar serviços de contrato por push no Salesforce
-* [Configurar atualizações automáticas](salesforce-automatic-updates.md)
-Saiba como vincular facilmente sua conta ao Salesforce para obter atualizações automáticas
-* [Integração da guia Documentos para [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Saiba como enviar documentos para assinatura diretamente da guia Documentos no [!DNL Microsoft Teams]
+>[!BEGINTABS]
+
+>[!TAB Configurar arquivos grandes e mapeamentos por push]
+
+Saiba como configurar [documentos grandes e enviar serviços de contrato por push](salesforce-large-files.md) no Salesforce.
+
+>[!TAB Configurar atualizações automáticas]
+
+Saiba como vincular facilmente sua conta ao Salesforce para obter [atualizações automáticas](salesforce-automatic-updates.md).
+
+>[!TAB Integração da guia Documentos para Microsoft Teams]
+
+Saiba como enviar documentos para assinatura diretamente da [guia Documentos](acrobat-sign-teams-documents-tab.md) no [!DNL Microsoft Teams].
+
+>[!ENDTABS]
 
 ## Tutoriais de integrações do Microsoft
 

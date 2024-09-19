@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 ## Novidades
 
-* [Introdução ao Acrobat Sign](new-sender.md)
-É novo no uso do Acrobat Sign? Este tutorial é um ótimo lugar para começar.
-* [Definir prazos e lembretes](set-deadlines-reminders.md)
-Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente
+>[!BEGINTABS]
+
+>[!TAB Introdução ao Acrobat Sign]
+
+É novo no uso do Acrobat Sign? Este [tutorial](new-sender.md)) é um ótimo lugar para começar.
+
+>[!TAB Definir prazos e lembretes]
+
+Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email regulares para ajudar a obter a assinatura rápida de seus documentos.
+
+>[!ENDTABS]
 
 ## Enviar
 

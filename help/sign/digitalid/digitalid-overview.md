@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ Semelhante a um passaporte eletrônico, uma identidade digital (ID digital) perm
 
 ## Novidades
 
-* [Registrar e assinar usando a Digidentity](digidentity-sign.md)
-Saiba como registrar e usar a ID digital do [!DNL Digidentity] no Acrobat Sign
-* [Registre e assine usando o D-Trust](d-trust.md)
-Saiba como registrar sua identidade no [!DNL D-Trust] e usar a assinatura digital do [!DNL D-Trust] em um documento no Acrobat Sign
+>[!BEGINTABS]
+
+>[!TAB Registrar e assinar usando a Digidentity]
+
+Saiba como registrar e usar sua ID digital do [[!DNL Digidentity]](digidentity-sign.md) no Acrobat Sign.
+
+>[!TAB Registre e assine usando o D-Trust]
+
+Saiba como registrar sua identidade no [[!DNL D-Trust]](d-trust.md) e usar a assinatura digital do [!DNL D-Trust] em um documento no Acrobat Sign.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 

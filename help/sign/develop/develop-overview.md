@@ -8,7 +8,7 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -21,8 +21,13 @@ ht-degree: 3%
 
 ## Novidades
 
-* [Como configurar webhooks](webhooks.md)
-Saiba como criar um webhook para automatizar processos que normalmente exigiriam intervenção manual
+>[!BEGINTABS]
+
+>[!TAB Como configurar webhooks]
+
+Saiba como criar um [webhook](webhooks.md) para automatizar processos que normalmente exigiriam intervenção manual.
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>

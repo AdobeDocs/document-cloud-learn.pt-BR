@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ Explore como várias organizações estão usando o Acrobat Sign para transforma
 
 ## Novidades
 
-* [Fluxo de trabalho personalizado para processo IEP educacional](usecase-edu-iep.md)
-Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)
-* [Solicitação de estágio de formulário da Web para instituições de ensino](usecase-edu-intern.md)
-Saiba como os formulários da Web são usados para melhorar o acesso dos alunos aos formulários necessários
-* [Criar um aplicativo de estágio de formulário educacional na Web](usecase-edu-intern-create.md)
-Saiba como criar um formulário da Web de estágio
-* [Aplicativo de empréstimo governamental com vários signatários desconhecidos](webform-multiple-signers.md)
-Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de aplicativos de empréstimo do governo que envolve vários participantes desconhecidos
+>[!BEGINTABS]
+
+>[!TAB Fluxo de trabalho personalizado para processo IEP educacional]
+
+Saiba como o [Designer de Fluxo de Trabalho Personalizado](usecase-edu-iep.md) é usado para digitalizar um processo do Programa de Educação Individualizado (IEP).
+
+>[!TAB Solicitação de estágio de formulário da Web para instituições de ensino]
+
+Saiba como os [formulários web](usecase-edu-intern.md) são usados para melhorar o acesso dos alunos aos formulários necessários.
+
+>[!TAB Criar um aplicativo de estágio de formulário educacional na Web]
+
+Saiba como criar um [formulário da Web](usecase-edu-intern-create.md) de estágio.
+
+>[!TAB Aplicativo de empréstimo governamental com vários signatários desconhecidos]
+
+Saiba como um [formulário da Web](webform-multiple-signers.md) é usado para um fluxo de trabalho complexo de aplicativo de empréstimo do governo que envolve vários participantes desconhecidos.
+
+>[!ENDTABS]
 
 ## Casos de uso do governo
 
