@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
+source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Noções básicas do Workspace" src="../assets/workspace_1280.png" />
+      <img alt="Noções básicas do Workspace" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>Noções básicas do espaço de trabalho</strong></a>
@@ -196,7 +196,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="O que é uma assinatura digital" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="O que é uma assinatura digital" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
@@ -233,7 +233,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gerenciar e monitorar seus contratos" src="../assets/Manage_1280.png" />
+      <img alt="Gerenciar e monitorar seus contratos" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Gerenciar e monitorar seus contratos</strong></a>
