@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="quick-tour.md"><strong>Noções básicas do espaço de trabalho</strong></a>
     </div>
-    <em>Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a trabalhar</em>
+    Faça um tour rápido pelo espaço de trabalho do Acrobat Sign para começar a usar o produto
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="new-sender.md"><strong>Introdução ao Acrobat Sign</strong></a>
     </div>
-    <em>Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Acrobat Sign</em>
+    Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviando para um único destinatário</strong></a>
     </div>
-    <em>Entre e saiba como é fácil enviar um documento para assinatura</em>
+    Entre e saiba como é fácil enviar um documento para assinatura
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
     </div>
-    <em>Envie um documento para assinatura eletrônica a mais de uma pessoa exatamente na ordem desejada</em>
+    Envie um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="sending-options.md"><strong>Configurar opções de envio</strong></a>
     </div>
-    <em>Saiba como configurar várias opções ao enviar um documento para assinatura</em>
+    Saiba como configurar várias opções ao enviar um documento para assinatura
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="adding-fields.md"><strong>Adicionando campos aos documentos</strong></a>
     </div>
-    <em>Saiba como adicionar diferentes tipos de campos aos documentos</em>
+    Saiba como adicionar diferentes tipos de campos aos documentos
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="modify-in-flight.md"><strong>Modificando um documento após o envio</strong></a>
     </div>
-    <em>Modificar um documento que já está em andamento</em>
+    Modificar um documento que já está em andamento
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="replace-signer.md"><strong>Substituindo um signatário</strong></a>
     </div>
-    <em>Saiba como alterar o signatário de um documento que já está em andamento</em>
+    Saiba como alterar o signatário de um documento que já está em andamento
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
       <div>
       <a href="set-deadlines-reminders.md"><strong>Definir prazos e lembretes</strong></a>
       </div>
-      <em>Saiba como enviar lembretes de email regulares e prazos finais para ajudar a assinar seus documentos rapidamente</em>
+      Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar seus documentos rapidamente
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="electronically-sign-a-document.md"><strong>Assinar um documento eletronicamente</strong></a>
     </div>
-    <em>Saiba como é fácil assinar um documento enviado para você com o Acrobat Sign</em>
+    Saiba como é fácil assinar um documento enviado para você com o Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="fill-and-sign.md"><strong>Preencher e assinar um documento</strong></a>
     </div>
-    <em>Preencha formulários e adicione sua assinatura eletrônica aos documentos</em>
+    Preencha formulários e adicione sua assinatura eletrônica aos documentos
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="sign-in-person.md"><strong>Obtendo uma assinatura presencialmente</strong></a>
     </div>
-    <em>Obtenha a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis</em>
+    Obtenha a assinatura de outra pessoa usando o aplicativo Acrobat Sign para dispositivos móveis
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="delegate-signing.md"><strong>Delegar assinatura para outra pessoa</strong></a>
     </div>
-    <em>Saiba como delegar a assinatura de um documento a outra pessoa</em>
+    Saiba como delegar a assinatura de um documento a outra pessoa
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
     </div>
-    <em>Saiba mais sobre assinaturas digitais baseadas em certificado</em>
+    Saiba mais sobre assinaturas digitais com base em certificado
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="sign-with-a-stamp.md"><strong>Assinatura usando um carimbo</strong></a>
     </div>
-    <em>Usar carimbos para marcar um documento aprovado ou concluído</em>
+    Usar carimbos para marcar um documento aprovado ou concluído
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="manage-and-track.md"><strong>Gerenciar e monitorar seus contratos</strong></a>
     </div>
-    <em>Saiba como gerenciar e rastrear contratos enviados para assinatura</em>
+    Saiba como gerenciar e rastrear contratos enviados para assinatura
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Criando um modelo de documento</strong></a>
     </div>
-    <em>Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização</em>
+    Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização
     <br>
   </td>
   <td>
