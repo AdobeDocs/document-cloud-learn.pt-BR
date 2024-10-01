@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Conheça as sete áreas principais que os administradores devem se concentrar pa
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!

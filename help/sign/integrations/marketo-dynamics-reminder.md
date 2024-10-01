@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Saiba como enviar um lembrete de email quando um contrato permanece não assinad
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Admin Terminal do Marketo.
+Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
 
 ![Administrador](assets/adminTerminal.png)
 
@@ -65,7 +65,7 @@ Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign f
 
 1. Reative a sincronização depois de habilitar a sincronização nos objetos personalizados.
 
-   Volte para o Admin Terminal, clique em **Microsoft Dynamics** e em **Habilitar sincronização**.
+   Volte para o Admin Terminal, clique em **Microsoft Dynamics** e em **Habilitar Sincronização**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -204,7 +204,3 @@ Como o filtro de campanha **Dias até a Expiração** foi usado, você pode usar
 1. Defina o **Agendamento** para _Diário_. Escolha um dia e hora de início e uma data de término para a campanha, se necessário.
 
    ![Configurações de Agendamento](assets/scheduleSettings.png)
-
->[!TIP]
->
->Este tutorial faz parte do curso [Acelerar ciclos de vendas com o Acrobat Sign para Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponível gratuitamente no Experience League!

@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Saiba como enviar uma mensagem de texto, um email ou uma notificação por push 
 
 ## Localizar o objeto personalizado
 
-Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Admin Terminal do Marketo.
+Quando as configurações do Marketo Microsoft Dynamics Sync e do Acrobat Sign for Dynamics estiverem concluídas, duas novas opções serão exibidas no Marketo Admin Terminal.
 
 ![Administrador](assets/adminTerminal.png)
 
@@ -152,6 +152,3 @@ Recupere esses parâmetros de sua conta e abra sua instância do Marketo.
    ![Chamar Webhook](assets/callWebhook.png)
 
 1. Sua campanha de aviso por SMS para clientes potenciais adicionados a um contrato está configurada.
->[!TIP]
->
->Este tutorial faz parte do curso [Acelerar ciclos de vendas com o Acrobat Sign para Microsoft Dynamics e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponível gratuitamente no Experience League!

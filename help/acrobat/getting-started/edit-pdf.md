@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF. A
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -71,4 +71,4 @@ Para acelerar o processo de redação, confira o [Action Wizard](../advanced-tas
 
 >[!TIP]
 >
-Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!
+Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!

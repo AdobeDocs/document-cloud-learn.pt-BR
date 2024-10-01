@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-8255
 thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Com o trabalho remoto em qualquer lugar, a colaboração contínua é essencial 
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Trabalhe de forma mais inteligente com o Acrobat DC e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!

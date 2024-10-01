@@ -9,7 +9,7 @@ jira: KT-6462
 topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Saiba como simplificar fluxos de trabalho de documentos preenchendo e assinando 
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Usando o Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Usando o Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps), que está disponível gratuitamente no Experience League!

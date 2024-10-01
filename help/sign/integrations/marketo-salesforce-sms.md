@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,3 @@ Recupere esses parâmetros de sua conta e abra uma instância do Marketo.
    ![Chamar Webhook](assets/callWebhook.png)
 
 1. Sua campanha de aviso por SMS para clientes potenciais adicionados a um contrato está configurada.
-
->[!TIP]
->
->Este tutorial faz parte do curso [Acelerar ciclos de vendas com o Acrobat Sign para Salesforce e Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponível gratuitamente no Experience League!

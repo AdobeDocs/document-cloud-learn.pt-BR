@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-4965
 thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -22,4 +22,4 @@ O fluxo de trabalho mais comum no Acrobat Sign: enviar um documento para assinat
 
 >[!TIP]
 >
->Este vídeo faz parte do curso [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!

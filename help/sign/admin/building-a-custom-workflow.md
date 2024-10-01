@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Os administradores de grupo atribuem fluxos de trabalho a qualquer grupo que adm
 
 >[!TIP]
 >
-Este vídeo faz parte do curso [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), que está disponível gratuitamente no Experience League!
+Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
