@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Saiba como todos na sua equipe podem trabalhar perfeitamente com arquivos de PDF
     <div>
     <a href="createofficeweb.md"><strong>Criar PDF em [!DNL Office] para a Web</strong></a>
     </div>
-    Saiba como criar arquivos de PDF avançados e robustos diretamente do Microsoft Word
+    Saiba como criar arquivos PDF sem sair do [!DNL Microsoft Office] para aplicativos Web
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Saiba como todos na sua equipe podem trabalhar perfeitamente com arquivos de PDF
     <div>
     Colaboração de <a href="acrobatandteams.md"><strong>PDF em [!DNL Microsoft Teams]</strong></a>
     </div>
-    Colabore e trabalhe com colegas visualizando, anotando e revisando PDF sem sair de [!DNL Microsoft Teams]
+    Colaborar e revisar PDF sem sair de [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Saiba como todos na sua equipe podem trabalhar perfeitamente com arquivos de PDF
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>PDF Protect usando [!DNL Microsoft Purview Information] rótulos de confidencialidade</strong></a>
     </div>
-    Saiba como proteger PDF adicionando, editando, personalizando e excluindo rótulos de confidencialidade de informações do Microsoft Purview diretamente no Acrobat
+    Saiba como proteger PDF com rótulos de confidencialidade de informações do Microsoft Purview diretamente no Acrobat
     <br>
   </td>
   <td>
