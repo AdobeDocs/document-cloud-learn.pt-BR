@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # Visão geral de introdução
 
-Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais passo a passo. Desde a criação de um documento até a proteção ou a [edição de seus arquivos de PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, este conteúdo é projetado para facilitar os fluxos de trabalho de PDF.
+Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais passo a passo. Desde a criação de um documento até a proteção ou a [edição de seus arquivos de PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}, este conteúdo é projetado para facilitar os fluxos de trabalho de PDF. Confira esta [lista de reprodução](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) habilmente selecionada para começar a usar o Acrobat.
 
 ## Novidades
 
