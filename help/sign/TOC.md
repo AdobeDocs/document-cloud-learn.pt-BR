@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '547'
 ht-degree: 6%
 
 ---
@@ -80,7 +80,6 @@ ht-degree: 6%
       + [Envio em massa](sign-advanced-users/megasign.md)
       + [Criação de um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
       + [Relatórios de auditoria](admin/audit-reports.md)
-      + [Como usar vários perfis](admin/multiple-profiles.md)
       + [Como promover um usuário a uma função de administrador](admin/promote-admin.md)
    + Tarefas avançadas {#advanced-tasks-admins}
       + [Configurações globais](admin/learn-about-global-settings.md)
