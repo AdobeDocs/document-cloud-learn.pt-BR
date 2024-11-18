@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Saiba como começar a usar o Adobe Acrobat por meio destes breves tutoriais pass
 
 >[!BEGINTABS]
 
+>[!TAB Colaborar em tempo real]
+
+Saiba como criar um [processo de revisão](collaborate.md) do documento que não apenas aumenta a eficiência, mas também a qualidade do conteúdo.
+
 >[!TAB Criar uma nova página]
 
 Saiba como [criar uma nova página de aparência profissional](add-custom-page.md) em seu PDF usando o Adobe Express.
@@ -33,10 +37,6 @@ Saiba como [criar, editar e aprimorar gráficos](edit-graphics.md) em seu PDF.
 >[!TAB Nova experiência de espaço de trabalho]
 
 Saiba mais sobre o [novo espaço de trabalho](new-workspace.md) no Acrobat que ajuda você a descobrir ferramentas rapidamente e concluir suas tarefas de PDF com eficiência.
-
->[!TAB Descubra insights de PDF com o Assistente de IA]
-
-Saiba como obter informações de seus arquivos PDF usando o [Assistente de IA](ai-assistant.md).
 
 >[!ENDTABS]
 
