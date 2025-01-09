@@ -8,9 +8,9 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 9bc93e141a5f7edc5dda923905148aa256aafd7c
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -21,65 +21,63 @@ Crie, preencha e [assine PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.h
 
 ## Tutoriais do aplicativo Acrobat Reader para dispositivos móveis
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="../getting-started/productivity.md">
-      <img alt="Produtividade em qualquer lugar" src="../assets/productivity.png" />
-    </a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Productivity on the go">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" title="Produtividade em qualquer lugar" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/mobile/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Produtividade em qualquer lugar"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" title="Produtividade em qualquer lugar">Produtividade em qualquer lugar</a>
+                    </p>
+                    <p class="is-size-6">Saiba como fazer mais coisas do seu tablet ou celular com o aplicativo Acrobat Reader para dispositivos móveis</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
     </div>
-    <em>Saiba como fazer mais coisas do seu tablet ou celular com o aplicativo móvel da Acrobat Reader</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Tutoriais do aplicativo Adobe Scan para dispositivos móveis
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-mobile-app.md">
-      <img alt="Digitalize qualquer coisa para o PDF" src="../assets/Scanmobile.png" />
-    </a>
-    <div>
-     <a href="scan-mobile-app.md"><strong>Examinar qualquer coisa no PDF</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scan anything to PDF">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app" title="Digitalize qualquer coisa para o PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/mobile/media_194c72db4bfb487b4aa16a298167469d060790c36.png?width=400&format=webply&optimize=medium" alt="Digitalize qualquer coisa para o PDF"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app" target="_self" rel="referrer" title="Digitalize qualquer coisa para o PDF">Examinar qualquer coisa no PDF</a>
+                    </p>
+                    <p class="is-size-6">Saiba como transformar qualquer documento impresso em um PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
+                </a>
+            </div>
+        </div>
     </div>
-    <em>Saiba como transformar qualquer documento impresso em um PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-   <td>
-   <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 Baixe o [aplicativo para dispositivos móveis do Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} como o padrão global gratuito para visualizar, anotar e assinar PDF com segurança.
 
