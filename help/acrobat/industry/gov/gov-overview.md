@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os govern
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="Tornar PDF acessível (Concluído 14:11)" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>Tornando PDF Acessíveis (Concluído 14:11)</strong></a>
-    </div>
-    <em>Saiba mais sobre o fluxo de trabalho ideal para criar arquivos de PDF acessíveis</em>
-    <br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="Tornando PDF acessível: noções básicas sobre acessibilidade" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>Tornando PDF Acessível: Compreendendo A Acessibilidade</strong></a>
-    </div>
-    <em>Saiba o que significa tornar um PDF acessível para pessoas com deficiência</em>
-    <br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="Como tornar PDF acessível: criação no Word" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>Tornando PDF acessíveis: criação no Word</strong></a>
-    </div>
-    <em>Saiba mais sobre as práticas recomendadas para criar arquivos de PDF criados em [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="Tornar PDF acessível: finalização no Acrobat" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>Tornando PDF acessível: finalizando no Acrobat</strong></a>
-    </div>
-    <em>Saiba como concluir o acesso ao seu arquivo PDF usando as ferramentas do Acrobat Pro</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="Tornando as cédulas de PDF mais acessíveis" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>Tornando as cédulas de PDF mais acessíveis</strong></a>
-    </div>
-    <em>Este webinário abrange as principais áreas de acessibilidade do PDF necessárias para permitir que os usuários de tecnologias assistivas, como leitores de tela, leiam e concluam seus votos</em>
-    <br>
-  </td>  
-  <td>
-   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaçador" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
