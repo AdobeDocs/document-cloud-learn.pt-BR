@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <div>
     <a href="add-users-to-your-account.md"><strong>Adicionar um novo usuário</strong></a>
     </div>
-    <em>Adicionar e gerenciar usuários do Acrobat Sign</em>
+    <em>Adicionar novos usuários ao Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Como promover um usuário a uma função de administrador" src="../assets/promote-admin.png" />
+      <img alt="Atribuir funções de administrador de produto e suporte" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>Como promover um usuário a uma função de administrador</strong></a>
+    <a href="promote-admin.md"><strong>Atribuir funções de administrador de produto e suporte</strong></a>
     </div>
-    <em>Saiba como promover um usuário a uma função de administrador do Acrobat Sign usando o Admin Console</em>
+    <em>Saiba como promover um usuário para uma função de administrador de produto ou suporte da Acrobat Sign usando o Admin Console</em>
     <br>
   </td>
    <td>

@@ -1,19 +1,20 @@
 ---
-title: Como promover um usuário a uma função de administrador
-description: Saiba como promover um usuário a uma função de administrador do Acrobat Sign usando o Admin Console
+title: Atribuir funções de administrador de produto e administrador de suporte
+description: Saiba como promover um usuário a administrador ou função de suporte do Acrobat Sign usando o Admin Console
 feature: Administration
 role: Admin
 level: Intermediate
-jira: KT-15914
-source-git-commit: 5bec453b8902dffc63929adcb28dfe873b2267b5
+jira: KT-17583
+exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# Como promover um usuário a uma função de administrador
+# Atribuir funções de administrador de produto e administrador de suporte
 
-Saiba como promover um usuário a uma função de administrador do Acrobat Sign usando o Adobe Admin Console.
+Saiba como promover um usuário para uma função de administrador ou suporte da Acrobat Sign usando o [Admin Console](https://adminconsole.adobe.com/br/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
