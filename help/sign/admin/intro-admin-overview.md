@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="Adicionar um novo usuário" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="Adicionar um novo administrador de conta" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Adicionar um novo usuário</strong></a>
+    <a href="add-admin.md"><strong>Adicionar um novo administrador de conta</strong></a>
     </div>
-    <em>Adicionar novos usuários ao Acrobat Sign</em>
+    <em>Saiba como criar um novo usuário ou promover um usuário existente à função de administrador do Acrobat Sign</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="Criando e Gerenciando Grupos" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>Criando e gerenciando grupos</strong></a>
+    </div>
+    <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="Criando e Gerenciando Grupos" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Criar um modelo de documento reutilizável para velocidade e consistência</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Emissão de relatórios e uso de transações" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Saiba como gerar relatórios e acompanhar o uso de transações</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="Opções de relatório para usuários" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Saiba como desabilitar, editar e reabilitar um formulário web existente</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Envio em massa" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Colete milhares de assinaturas de uma só vez para qualquer documento</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configurando um Workflow" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Saiba como promover um usuário para uma função de administrador de produto ou suporte da Acrobat Sign usando o Admin Console</em>
     <br>
   </td>
-   <td>
-    <img alt="Espaçador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## Tarefas avançadas
