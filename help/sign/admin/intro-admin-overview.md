@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 >[!TAB Adicionar um novo usuário]
 
-Saiba como [adicionar e gerenciar usuários para o Acrobat Sign](add-users-to-your-account.md).
+Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Como configurar administradores de privacidade]
 
@@ -72,6 +72,18 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Adicionar um novo usuário" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Adicionar um novo usuário</strong></a>
+    </div>
+    <em>Saiba como adicionar novos usuários ao Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Adicionar um novo administrador de conta" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <a href="add-admin.md"><strong>Adicionar um novo administrador de conta</strong></a>
     </div>
     <em>Saiba como criar um novo usuário ou promover um usuário existente à função de administrador do Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Criando e Gerenciando Grupos" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Criando e gerenciando grupos</strong></a>
-    </div>
-    <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
     <br>
   </td>
   <td>
