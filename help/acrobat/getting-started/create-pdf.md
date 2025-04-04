@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4426993598edcbf560780dd6369462ff1f2cecfd
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Criar um PDF
 
-Saiba como [criar PDF de todos os tipos diferentes de documentos](https://www.adobe.com/br/acrobat/online/convert-pdf.html). Comece com um arquivo criado no Microsoft Office ou em um aplicativo Creative Cloud, ou use uma imagem, uma digitalização ou até mesmo um site. Transformar conteúdo em PDF oferece uma maneira conveniente e confiável de compartilhar, preservar e proteger documentos enquanto mantêm a formatação original. Este tutorial em vídeo usa a [nova experiência de espaço de trabalho](new-workspace.md).
+Saiba como [criar PDF de todos os tipos diferentes de documentos](https://www.adobe.com/br/acrobat/online/convert-pdf.html). Comece com um arquivo criado no Microsoft Office ou em um aplicativo Creative Cloud, ou use uma imagem, uma digitalização ou até mesmo um site. Transformar conteúdo em PDF oferece uma maneira conveniente e confiável de compartilhar, preservar e proteger documentos enquanto mantêm a formatação original. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
 >[!TIP]
 >

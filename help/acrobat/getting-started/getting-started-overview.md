@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,9 @@ Saiba como [criar uma nova página de aparência profissional](add-custom-page.m
 
 Saiba como [criar, editar e aprimorar gráficos](edit-graphics.md) em seu PDF.
 
->[!TAB Nova experiência de espaço de trabalho]
+>[!TAB nova experiência do Acrobat]
 
-Saiba mais sobre o [novo espaço de trabalho](new-workspace.md) no Acrobat que ajuda você a descobrir ferramentas rapidamente e concluir suas tarefas de PDF com eficiência.
+Saiba mais sobre a [nova experiência do Acrobat](new-workspace.md) que ajuda você a descobrir ferramentas rapidamente e concluir suas tarefas PDF de forma eficiente.
 
 >[!ENDTABS]
 
@@ -44,12 +44,12 @@ Saiba mais sobre o [novo espaço de trabalho](new-workspace.md) no Acrobat que a
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="Nova experiência de espaço de trabalho" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nova experiência de espaço de trabalho"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="nova experiência do Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="nova experiência do Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,9 +57,9 @@ Saiba mais sobre o [novo espaço de trabalho](new-workspace.md) no Acrobat que a
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="Nova experiência de espaço de trabalho">Nova experiência de espaço de trabalho</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="nova experiência do Acrobat">Nova experiência do Acrobat</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre o novo espaço de trabalho no Acrobat</p>
+                    <p class="is-size-6">Saiba mais sobre a experiência com o novo Acrobat</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
