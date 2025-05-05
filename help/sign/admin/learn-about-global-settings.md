@@ -23,4 +23,4 @@ A seção Configurações globais da guia Conta é uma das seções mais ricas e
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Tarefas avançadas para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Tarefas avançadas para administradores](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-perform-advanced-tasks-administrators), que está disponível gratuitamente no Experience League!

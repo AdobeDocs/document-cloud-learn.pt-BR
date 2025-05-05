@@ -36,4 +36,4 @@ O Adobe Acrobat para equipes permite que os usuários colaborem e trabalhem com 
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/pt-br/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!

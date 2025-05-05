@@ -20,10 +20,10 @@ Saiba como personalizar e automatizar fluxos de trabalho de documentos para obte
 
 [!BADGE Casos de uso]
 
-* [Fluxo de trabalho personalizado para processo IEP educacional](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [Fluxo de trabalho personalizado para processo IEP educacional](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=pt-BR)
 Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de Educação Individualizado (IEP)
-* [Forms de Contratos e Requisições Governamentais](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Forms de Contratos Comerciais e Requisições](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Forms de Contratos e Requisições Governamentais](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=pt-BR)
+* [Forms de Contratos Comerciais e Requisições](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=pt-BR)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Saiba como o Designer de fluxo de trabalho personalizado é usado para digitaliz
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!

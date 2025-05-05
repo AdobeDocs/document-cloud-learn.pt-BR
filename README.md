@@ -15,13 +15,13 @@ Este projeto adotou o [Código de Conduta de Origem Aberta do Adobe](code-of-con
 
 ## Sobre suas contribuições para conteúdo de Adobe
 
-Consulte o [Guia do Colaborador de Documentos de Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte o [Guia do Colaborador de Documentos de Adobe](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html).
 
 O modo como você contribui depende de quem você é e do tipo de mudanças que você gostaria de contribuir:
 
 ### Alterações menores
 
-Se você está contribuindo com atualizações menores da bondade do coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte do GitHub para o artigo. Em seguida, basta usar a interface do usuário do GitHub para fazer suas atualizações. Consulte o [Guia do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se você está contribuindo com atualizações menores da bondade do coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte do GitHub para o artigo. Em seguida, basta usar a interface do usuário do GitHub para fazer suas atualizações. Consulte o [Guia do colaborador do Adobe Docs](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html) para obter mais informações.
 
 Pequenas correções ou clarificações que você submete para documentação e exemplos de código neste acordo de recompra são cobertas pelos termos de uso de Adobe.
 
@@ -43,7 +43,7 @@ Se você for um autor técnico, gerente de programas ou desenvolvedor da equipe 
 
 Os colaboradores da comunidade podem usar a interface do usuário do GitHub para edição básica ou forçar o acordo de recompra a fazer contribuições importantes.
 
-Consulte o [Guia do Colaborador de Documentos de Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter detalhes.
+Consulte o [Guia do Colaborador de Documentos de Adobe](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html) para obter detalhes.
 
 ## Como usar a marcação para formatar seu tópico
 

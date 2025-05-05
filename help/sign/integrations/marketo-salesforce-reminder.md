@@ -25,7 +25,7 @@ Saiba como enviar um lembrete de email da Marketo quando um contrato permanece n
 
 1. Instale o Marketo Salesforce Sync.
 
-   Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=pt-BR)
 
 1. Instale o Acrobat Sign para Salesforce.
 

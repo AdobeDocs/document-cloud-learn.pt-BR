@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Obter uma assinatura presencialmente
 
-Saiba como obter a assinatura de outra pessoa usando o [aplicativo para dispositivos móveis da Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Saiba como obter a assinatura de outra pessoa usando o [aplicativo para dispositivos móveis da Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Artigos sobre implantação e práticas recomendadas com insight valioso e conhecimento obtido ao trabalhar com nossos clientes.
 
-* Saiba como [Implantar o Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} se você estiver usando o Adobe® Creative Cloud™ para equipes ou corporações.
+* Saiba como [Implantar o Adobe Acrobat](https://helpx.adobe.com/br/enterprise/using/deploying-acrobat.html){target="_blank"} se você estiver usando o Adobe® Creative Cloud™ para equipes ou corporações.
 
 * Saiba mais sobre o [Enterprise Toolkit para Produtos da Acrobat](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} para implantar produtos personalizados em toda a sua organização, configurar instalações virtualizadas e criar fluxos de trabalho de PDF empresariais.
 

@@ -30,4 +30,4 @@ Otimize os fluxos de trabalho de documentos com o [!DNL SharePoint] e o Acrobat 
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/pt-br/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!

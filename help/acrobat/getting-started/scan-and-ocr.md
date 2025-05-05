@@ -48,4 +48,4 @@ O arquivo agora é um arquivo de PDF editável e pesquisável.
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!

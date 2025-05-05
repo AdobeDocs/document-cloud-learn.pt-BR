@@ -20,13 +20,13 @@ Saiba como enviar e coletar centenas de assinaturas (até 1.000 destinatários c
 
 [!BADGE Casos de uso]
 
-* [Contrato de trabalho à distância](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [Contrato de política](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [Contrato de trabalho à distância](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=pt-BR)
+* [Contrato de política](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=pt-BR)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Baixe o arquivo CSV de exemplo em formato ZIP](../assets/sendInBulkSample.zip). Saiba mais sobre todos os valores que você pode definir em seu arquivo CSV [aqui](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Baixe o arquivo CSV de exemplo em formato ZIP](../assets/sendInBulkSample.zip). Saiba mais sobre todos os valores que você pode definir em seu arquivo CSV [aqui](https://helpx.adobe.com/br/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->Este vídeo faz parte das [Tarefas avançadas para usuários](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e das listas de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponíveis gratuitamente no Experience League!
+>Este vídeo faz parte das [Tarefas avançadas para usuários](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-perform-advanced-tasks-business-users) e das listas de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-administrators), disponíveis gratuitamente no Experience League!

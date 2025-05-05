@@ -21,7 +21,7 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 >[!IMPORTANT]
 >
->O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na funcionalidade [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
+>O GigaSign não está mais sendo atualizado para a versão mais recente do Java ou Acrobat Sign e terá suporte limitado. Os recursos do GigaSign estão sendo adicionados ao produto na funcionalidade [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=pt-BR&). Use o Envio em massa para todos os casos de uso que não exijam explicitamente o uso do GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 

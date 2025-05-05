@@ -23,6 +23,6 @@ Saiba como enviar um documento por meio de um processo de aprovação. Neste exe
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Tarefas avançadas para usuários](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Tarefas avançadas para usuários](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-business-users), que está disponível gratuitamente no Experience League!
 
 

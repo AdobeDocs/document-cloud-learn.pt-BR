@@ -28,5 +28,5 @@ Com o trabalho remoto em todos os lugares, é essencial fornecer conteúdo com v
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Comece a usar o Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Comece a usar o Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-get-started-business-users), que está disponível gratuitamente no Experience League!
 

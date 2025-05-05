@@ -26,4 +26,4 @@ Saiba como usar a função de delegador para enviar um documento a um intermedi�
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Tarefas avançadas para usuários](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Tarefas avançadas para usuários](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-perform-advanced-tasks-business-users), que está disponível gratuitamente no Experience League!

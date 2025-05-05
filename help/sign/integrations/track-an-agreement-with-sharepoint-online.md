@@ -24,4 +24,4 @@ Saiba como monitorar o progresso de um contrato diretamente no Microsoft SharePo
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Usando o Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Usando o Acrobat Sign Inside Microsoft Apps](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-integrate-microsoft-apps), que está disponível gratuitamente no Experience League!

@@ -30,4 +30,4 @@ Saiba como criar arquivos de PDF avançados e robustos com sumário e referênci
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/pt-br/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!

@@ -22,4 +22,4 @@ Neste tutorial em vídeo de 60 segundos, saiba como converter um email [anexo do
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/?lang=pt-br&recommended=Acrobat-U-1-2021.microsoft365), disponível gratuitamente no Experience League!

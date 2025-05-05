@@ -26,4 +26,4 @@ Conheça as sete áreas principais que os administradores devem se concentrar pa
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
