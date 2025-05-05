@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, aprenda a fazer edições avançadas em um gráfico no seu PDF usando o Illustrator! Após selecionar Editar PDF, clique com o botão direito em um gráfico e escolha editá-lo no Illustrator. Quando terminar, basta selecionar Salvar no Illustrator e o Acrobat atualizará a ilustração no PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409122?quality=12&learn=on&hidetitle=true&captions=por_br)

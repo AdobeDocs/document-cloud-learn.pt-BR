@@ -26,7 +26,7 @@ Saiba como transformar páginas da Web em PDF sem interrupções com a extensão
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409098?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

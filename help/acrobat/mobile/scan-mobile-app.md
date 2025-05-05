@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como transformar qualquer documento impresso em um PDF usando o aplicativo gratuito Adobe Scan para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416168?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ![QR Code](../assets/Scanqrcode.jpg)
 

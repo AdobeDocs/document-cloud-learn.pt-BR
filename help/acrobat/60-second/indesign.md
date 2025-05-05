@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como carregar comentários do PDF de volta ao InDesign após uma revisão compartilhada do Acrobat. Esse fluxo de trabalho digital ajuda a concluir revisões em tempo recorde.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414210?quality=12&learn=on&hidetitle=true&captions=por_br)

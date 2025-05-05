@@ -24,7 +24,7 @@ Saiba como [criar PDF de todos os tipos diferentes de documentos](https://www.ad
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409195?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
 
 Quer uma versão portátil deste tutorial? Selecione o ícone de PDF para abrir ou baixar uma versão por escrito deste tutorial.
 

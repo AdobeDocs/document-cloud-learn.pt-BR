@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como criar uma experiência de assinatura online que se assemelha à assinatura presencial durante uma reunião do Microsoft Teams. O Live Sign permite que você hospede uma experiência de assinatura pessoal, rápida e segura em qualquer dispositivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445945?quality=12&learn=on&hidetitle=true&captions=por_br)

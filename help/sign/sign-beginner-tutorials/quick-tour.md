@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Faça um tour rápido por vídeo pela área de trabalho do Acrobat Sign para começar a usá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425259?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

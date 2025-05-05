@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como enviar documentos para assinatura diretamente da guia Documentos no [!DNL Microsoft Teams].
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439653?quality=12&learn=on&hidetitle=true&captions=por_br)

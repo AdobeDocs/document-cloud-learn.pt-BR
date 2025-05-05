@@ -19,7 +19,7 @@ ht-degree: 23%
 
 Saiba como enviar um documento por meio de um processo de aprovação. Neste exemplo, veja como enviar um contrato de admissão por meio do HR, um funcionário em potencial e o gerente de contratação. A função do aprovador funciona bem para as situações nas quais alguém precisa aprovar um documento antes de enviá-lo ao signatário.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412550?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

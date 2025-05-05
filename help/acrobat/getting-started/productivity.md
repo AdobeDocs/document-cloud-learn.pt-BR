@@ -24,7 +24,7 @@ Com o trabalho remoto em todos os lugares, é essencial fornecer conteúdo com v
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347150?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ![QR Code](../assets/Acrobatqrcode.jpg)
 

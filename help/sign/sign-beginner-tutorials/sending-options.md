@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como configurar várias opções ao enviar um documento para assinatura. Explore como definir as mensagens do documento, os formatos de arquivo, a frequência de lembrete e a expiração do documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416163?quality=12&learn=on&hidetitle=true&captions=por_br)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como criar um formulário da Web de estágio para melhorar o acesso do aluno aos formulários necessários que podem ser enviados de qualquer dispositivo - e qualquer local. Neste exemplo, o fluxo de trabalho para cada aluno é único dependendo do curso de estudo, pois cada aluno precisa adicionar seu próprio supervisor de faculdade e chefe de departamento para aprovação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423379?quality=12&learn=on&hidetitle=true&captions=por_br)

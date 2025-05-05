@@ -23,4 +23,4 @@ Saiba como mapear os dados coletados de um formulário da Web para uma lista [!D
 >
 >O mapeamento de campos entre o Acrobat Sign Web Forms e a Lista [!DNL SharePoint] está disponível somente para instalações Online, não para instalações Locais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423565?quality=12&learn=on&hidetitle=true&captions=por_br)

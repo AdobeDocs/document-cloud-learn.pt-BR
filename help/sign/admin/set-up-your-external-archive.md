@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como criar um arquivamento externo para cópias de backup de contratos que foram assinados. Você pode arquivar cópias em qualquer endereço de email ou em [!DNL Box] e Evernote. Uma cópia do email assinado e concluído é enviada para o endereço de email ou para o serviço na nuvem que você designar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416173?quality=12&learn=on&hidetitle=true&captions=por_br)

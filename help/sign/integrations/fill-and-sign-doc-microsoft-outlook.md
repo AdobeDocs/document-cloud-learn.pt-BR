@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba como simplificar fluxos de trabalho de documentos preenchendo e assinando um formulário diretamente no [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443457?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

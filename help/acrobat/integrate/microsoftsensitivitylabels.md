@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como proteger PDF adicionando, editando, personalizando e excluindo as [Informações do Microsoft Purview](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) diretamente no Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444303?quality=12&learn=on&hidetitle=true&captions=por_br)

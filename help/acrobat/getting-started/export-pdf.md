@@ -24,7 +24,7 @@ Saiba como converter arquivos PDF em diferentes formatos, como [Microsoft Word](
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414224?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

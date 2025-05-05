@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Neste tutorial em vídeo de 60 segundos, saiba como [converter um arquivo PDF em um documento do Microsoft Word totalmente editável](https://www.adobe.com/br/acrobat/online/pdf-to-word.html){target="_blank"} com o aplicativo para dispositivos móveis da Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347121?quality=12&learn=on&hidetitle=true&captions=por_br)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como converter um PDF digitalizado para que você possa pesquisar texto no PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347098?quality=12&learn=on&hidetitle=true&captions=por_br)

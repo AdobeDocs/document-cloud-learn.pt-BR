@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, aprenda a usar o Adobe Scan para assinar um formulário impresso. Basta digitalizá-lo, assiná-lo e enviá-lo como um PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347128?quality=12&learn=on&hidetitle=true&captions=por_br)

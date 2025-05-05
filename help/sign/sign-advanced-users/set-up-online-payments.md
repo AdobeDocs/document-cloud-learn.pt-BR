@@ -18,4 +18,4 @@ ht-degree: 8%
 
 Saiba como configurar e aceitar pagamentos online em seus documentos. O serviço de Pagamento Online no Acrobat Sign integra o [!DNL Braintree] como um portal de pagamento vinculado ao processo de assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416161?quality=12&learn=on&hidetitle=true&captions=por_br)

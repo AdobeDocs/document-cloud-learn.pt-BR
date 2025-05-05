@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Neste tutorial em vídeo de 60 segundos, saiba como converter um email [anexo do PowerPoint em PDF](https://www.adobe.com/br/acrobat/online/ppt-to-pdf.html){target="_blank"} no seu telefone. Quando o arquivo retornar, visualize-o e toque em compartilhar para enviá-lo à sua equipe, tudo sem ter o PowerPoint no telefone.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409209?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

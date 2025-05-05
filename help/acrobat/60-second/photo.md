@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Neste tutorial em vídeo de 60 segundos, saiba como arrastar e soltar um monte de JPG no ícone do Acrobat. Clique em sim para criar um PDF de várias páginas. Então, você pode simplesmente arrastar mais arquivos de JPG para o painel Páginas para [adicionar outras páginas ao PDF](https://www.adobe.com/br/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414214?quality=12&learn=on&hidetitle=true&captions=por_br)

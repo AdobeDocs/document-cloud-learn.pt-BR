@@ -22,4 +22,4 @@ Sempre saiba quais arquivos estão aguardando assinaturas e quais foram assinado
 >
 >Você deve ter um direito ao Acrobat Sign Enterprise além de sua assinatura do Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347159?quality=12&learn=on&hidetitle=true&captions=por_br)

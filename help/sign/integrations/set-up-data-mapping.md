@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como configurar o mapeamento de dados para o Acrobat Sign no [!DNL Salesforce]. O mapeamento de dados permite que você leve os dados _de volta_ para [!DNL Salesforce] depois que um contrato for assinado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416171?quality=12&learn=on&hidetitle=true&captions=por_br)

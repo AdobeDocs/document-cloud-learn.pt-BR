@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como configurar documentos grandes e enviar serviços de contrato por push no Acrobat Sign para [!DNL Salesforce]. Os contratos por push permitem enviar documentos, criar um formulário web e ter contratos enviados por push como se fossem criados em [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455782?quality=12&learn=on&hidetitle=true&captions=por_br)

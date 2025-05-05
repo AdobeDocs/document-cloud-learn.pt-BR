@@ -24,7 +24,7 @@ Com o trabalho remoto em todos os lugares, é essencial fornecer conteúdo com v
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443536?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

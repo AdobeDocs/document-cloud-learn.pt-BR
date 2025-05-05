@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como o Designer de fluxo de trabalho personalizado é usado para digitalizar um processo do Programa de educação individualizada (IEP) para uma escola de ensinos fundamental e médio. Os IEPs são planos educacionais escritos projetados para atender às necessidades de um aluno e exigem assinaturas de vários membros da equipe do IEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423334?quality=12&learn=on&hidetitle=true&captions=por_br)

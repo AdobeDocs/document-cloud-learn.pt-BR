@@ -19,4 +19,4 @@ ht-degree: 0%
 
 O Acrobat Sign no Workday facilita a integração de fluxos de trabalho com um processo 100% digital para coletar assinaturas. Capacite sua equipe a gastar menos tempo gerenciando processos de assinatura e mais tempo realizando um trabalho valioso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446638?quality=12&learn=on&hidetitle=true&captions=por_br)

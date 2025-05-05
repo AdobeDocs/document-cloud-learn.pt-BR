@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como usar sua ID digital do [!DNL Aadhaar] para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura na nuvem) em um documento no Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444517?quality=12&learn=on&hidetitle=true&captions=por_br)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como usar sua ID digital do [!DNL Intesi Group] para autenticar sua identidade e autorizar uma assinatura digital remota (assinatura na nuvem) em um documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443666?quality=12&learn=on&hidetitle=true&captions=por_br)

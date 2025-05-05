@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Saiba como o Liquid Mode melhora a experiência de assinatura em dispositivos móveis. Chega de beliscar e aplicar zoom ao tentar ler e assinar documentos. Este tutorial explica como enviar um _formulário HTML_ para assinatura e criar automaticamente uma experiência de assinatura aprimorada para usuários móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414226?quality=12&learn=on&hidetitle=true&captions=por_br)

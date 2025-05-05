@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como converter um arquivo de PDF em um documento do Microsoft Excel totalmente editável.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409908?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436950?quality=12&learn=on&hidetitle=true&captions=por_br)

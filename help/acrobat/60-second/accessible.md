@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como verificar se um PDF está Acessível.
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347099?quality=12&learn=on&hidetitle=true&captions=por_br)

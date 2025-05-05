@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Saiba como enviar contratos para assinatura, verificar o status dos contratos e enviar lembretes a partir de [!DNL Microsoft Teams]. Este exemplo percorre um corretor de hipotecas enviando um pedido de empréstimo para assinatura diretamente no Teams. Essa estreita integração acelera o processo de empréstimo hipotecário, mesmo ao trabalhar com candidatos a hipoteca em um ambiente de trabalho remoto.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446198?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Neste tutorial em vídeo de 60 segundos, saiba como fazer [edições de PDF simples](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} em texto e imagens sem precisar baixar o PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414212?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

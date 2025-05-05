@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, aprenda a maneira correta de remover informações confidenciais de um PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436917?quality=12&learn=on&hidetitle=true&captions=por_br)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como criar PDF de aparência profissional com as ferramentas de design integradas e fáceis de usar no [Adobe Express](https://express.adobe.com). Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445546?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)

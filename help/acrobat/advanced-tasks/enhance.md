@@ -31,7 +31,7 @@ Arquivos de exemplo para praticar (ZIP, 342 KB)
 
 Use a [ferramenta Editar PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} para adicionar gráficos de fundo ao seu PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443822?hidetitle=true&captions=por_br)
 
 <br> 
 
@@ -51,7 +51,7 @@ Insira de 2 a 26 na seção **Páginas de** e selecione **OK**.
 
 Use a ferramenta Editar para adicionar um novo rodapé ao PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437738?hidetitle=true&captions=por_br)
 
 <br> 
 

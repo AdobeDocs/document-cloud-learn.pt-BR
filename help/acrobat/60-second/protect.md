@@ -18,4 +18,4 @@ ht-degree: 3%
 
 Neste tutorial em vídeo de 60 segundos, saiba como [proteger um PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target="_blank"} para que uma senha seja necessária para abrir ou [editar o PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347114?quality=12&learn=on&hidetitle=true&captions=por_br)

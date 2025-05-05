@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como editar ou excluir um modelo na sua biblioteca.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412544?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

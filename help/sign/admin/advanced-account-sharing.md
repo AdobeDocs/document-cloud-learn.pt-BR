@@ -23,7 +23,7 @@ Saiba como configurar o compartilhamento de conta avançado, permitindo que admi
 >
 >O Compartilhamento de conta avançado está disponível apenas para planos de nível empresarial. O suporte técnico pode ativar o Compartilhamento avançado, mas depois de ativado, ele altera os relacionamentos dos objetos compartilhados de uma forma que não pode ser revertida. Por esse motivo, é recomendável que você entre em contato com a equipe da sua conta de Adobe e tenha uma conta de avaliação configurada para testar a funcionalidade e verificar se ela permite tudo o que você deseja realizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412548?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como acessar, utilizar e configurar relatórios de auditoria para atender às necessidades da sua organização. Cada documento no Acrobat Sign passa por uma série de eventos em “etapas” que definem o progresso de uma transação. Essas etapas são documentadas detalhadamente em um relatório de auditoria para cada transação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448550?quality=12&learn=on&hidetitle=true&captions=por_br)

@@ -22,5 +22,5 @@ Saiba como enviar lembretes e prazos regulares por email para ajudar a assinar s
 >
 >Os planos empresariais e corporativos podem expor seletivamente a opção Lembrete durante o processo de envio ou ativar a automação em toda a conta/grupo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425318?quality=12&learn=on&hidetitle=true&captions=por_br)
 

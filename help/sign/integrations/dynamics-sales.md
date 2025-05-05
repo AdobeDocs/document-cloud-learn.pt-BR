@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como o Acrobat Sign e o [!DNL Microsoft Dynamics 365] for Sales são usados para automatizar o processo de assinatura de cotação de venda. Neste exemplo, o [!DNL Microsoft Dynamics 365] for Sales ajuda a equipe de vendas da Contoso a fechar negócios mais rapidamente e aproveitar melhor as oportunidades com uma visão única do cliente e processo de assinatura integrado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423404?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447192?quality=12&learn=on&hidetitle=true&captions=por_br)

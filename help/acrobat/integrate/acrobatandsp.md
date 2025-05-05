@@ -26,7 +26,7 @@ Otimize os fluxos de trabalho de documentos com o [!DNL SharePoint] e o Acrobat 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414230?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

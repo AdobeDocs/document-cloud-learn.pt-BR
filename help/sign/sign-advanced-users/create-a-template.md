@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como criar um modelo de documento reutilizável e adicioná-lo à biblioteca do Acrobat Sign para uso futuro. Os Modelos de documento fornecem velocidade e consistência nas transações do Sign e permitem gerenciar revisões e alterações de documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347143?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

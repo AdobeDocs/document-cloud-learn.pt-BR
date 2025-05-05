@@ -22,4 +22,4 @@ Saiba como gerar relatórios e rastrear o uso de transações. Esses relatórios
 >
 >A emissão de relatórios só está disponível para planos de nível empresarial e corporativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444687?quality=12&learn=on&hidetitle=true&captions=por_br)

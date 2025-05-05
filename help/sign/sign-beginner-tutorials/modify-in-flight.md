@@ -27,7 +27,7 @@ Saiba como modificar um documento que já foi enviado para assinatura, como quan
 >
 >A modificação de um documento após o envio só está disponível para planos corporativos. O administrador do Acrobat Sign precisa habilitar **Modificar contratos** na seção **Configurações de envio** das **Configurações da conta** para usar este recurso.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410738?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

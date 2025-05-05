@@ -32,7 +32,7 @@ O Adobe Acrobat para equipes permite que os usuários colaborem e trabalhem com 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414229?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

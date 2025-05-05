@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como um expedidor e um técnico do field service usam o Acrobat Sign, [!DNL Power Automate] e [!DNL Dynamics 365] para otimizar os contratos do field service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447303?quality=12&learn=on&hidetitle=true&captions=por_br)

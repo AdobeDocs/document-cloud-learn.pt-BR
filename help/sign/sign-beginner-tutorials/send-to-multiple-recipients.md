@@ -18,7 +18,7 @@ ht-degree: 10%
 
 Você tem mais de uma pessoa que deve interagir com seu documento? Saiba como enviar um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425285?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

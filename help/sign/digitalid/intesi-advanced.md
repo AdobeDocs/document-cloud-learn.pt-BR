@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como obter um certificado de assinatura digital Avançado do [!DNL Intesi Group]. Depois de registrado e sua identidade verificada, o [!DNL Intesi Group] emite uma ID digital usada para aplicar uma assinatura em nuvem do Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449903?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 <br> 
 

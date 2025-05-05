@@ -18,4 +18,4 @@ ht-degree: 3%
 
 Neste tutorial em vídeo de 60 segundos, aprenda a usar a ferramenta [Organizar páginas](https://www.adobe.com/br/acrobat/online/rearrange-pdf.html) para obter uma visão panorâmica do seu PDF. Faça alterações na ordem e no layout da página e até mesmo [divida o PDF](https://www.adobe.com/br/acrobat/online/split-pdf.html){target="_blank"} em arquivos menores.
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409113?quality=12&learn=on&hidetitle=true&captions=por_br)

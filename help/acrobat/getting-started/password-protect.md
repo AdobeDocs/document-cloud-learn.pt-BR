@@ -25,7 +25,7 @@ Saiba como [adicionar uma senha ao seu PDF](https://www.adobe.com/br/acrobat/onl
 [!BADGE Impacto Organizacional]
 Proteção de informações, gerenciamento de riscos
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414223?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

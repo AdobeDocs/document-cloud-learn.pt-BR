@@ -29,7 +29,7 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
 * [Concessões e empréstimos comerciais](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=pt-BR)
 * [Assistência para reemprego](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=pt-BR)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412552?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

@@ -21,4 +21,4 @@ Como administrador do Acrobat Sign, saiba como configurar opções de relatório
 >
 >A emissão de relatórios só está disponível para planos de nível empresarial e corporativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437149?quality=12&learn=on&hidetitle=true&captions=por_br)

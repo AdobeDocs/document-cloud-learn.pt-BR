@@ -20,4 +20,4 @@ A Digidentity é um provedor de serviços confiável qualificado (QTSP) da UE. O
 
 Este tutorial em vídeo detalha a jornada do usuário desde o recebimento do email de convite de registro até o uso de uma ID digital para autenticar e aplicar uma assinatura em nuvem no Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449787?quality=12&learn=on&hidetitle=true&captions=por_br)

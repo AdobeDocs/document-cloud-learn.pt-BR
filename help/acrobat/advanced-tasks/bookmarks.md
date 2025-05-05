@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Saiba como adicionar marcadores e hiperlinks para melhorar a navegação e a interação com seus arquivos PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347095?quality=12&learn=on&hidetitle=true&captions=por_br)
 

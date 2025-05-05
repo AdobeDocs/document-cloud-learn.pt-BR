@@ -17,4 +17,4 @@ ht-degree: 5%
 
 Saiba como assinar documentos usando o aplicativo Acrobat Sign para dispositivos móveis para [iOS](https://apps.apple.com/br/app/adobe-sign/id481082197) ou [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=pt_BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/3423957?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439039?quality=12&learn=on&hidetitle=true&captions=por_br)

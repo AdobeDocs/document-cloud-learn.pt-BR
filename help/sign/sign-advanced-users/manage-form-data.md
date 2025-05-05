@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como consolidar dados de formulário de seus documentos para que você possa exibi-los e gerenciá-los em um relatório ou planilha do Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443523?quality=12&learn=on&hidetitle=true&captions=por_br)

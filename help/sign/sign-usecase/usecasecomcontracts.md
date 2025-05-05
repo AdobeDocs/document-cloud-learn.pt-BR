@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Substitua rapidamente o processamento de papel por fluxos de trabalho digitais em conformidade, com relatórios de auditoria. Saiba mais sobre a [ferramenta Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) para ajudar a simplificar todo o processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409216?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 Selecione para fazer download ou abrir uma receita de PDF passo a passo para contratos e formulários de requisição.
 

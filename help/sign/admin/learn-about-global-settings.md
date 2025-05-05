@@ -19,7 +19,7 @@ ht-degree: 2%
 
 A seção Configurações globais da guia Conta é uma das seções mais ricas em recursos, e todas as configurações são específicas de caso de uso. Saiba como editar configurações globalmente para toda a organização ou para grupos específicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452107?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

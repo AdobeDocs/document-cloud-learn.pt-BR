@@ -22,7 +22,7 @@ Conheça as sete áreas principais que os administradores devem se concentrar pa
 >
 >A emissão de relatórios só está disponível para planos de nível empresarial e corporativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412556?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

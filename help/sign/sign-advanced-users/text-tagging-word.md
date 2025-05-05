@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como criar um modelo de documento reutilizável adicionando Tags de Texto do Acrobat Sign no [!DNL Microsoft Word]. A marcação de texto cria automaticamente campos de formulário no documento quando ele é enviado para assinatura. Não é necessário posicionar campos manualmente. Esse processo reduz significativamente o tempo necessário para fazer revisões e alterações em documentos do [!DNL Microsoft Word] que você envia para assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416178?quality=12&learn=on&hidetitle=true&captions=por_br)

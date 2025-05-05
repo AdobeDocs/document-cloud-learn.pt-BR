@@ -22,7 +22,7 @@ Mantenha seus negócios em movimento coletando [assinaturas eletrônicas](https:
 >
 >Você deve ter um direito ao Acrobat Sign Enterprise além de sua assinatura do Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347166?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 >[!TIP]
 >

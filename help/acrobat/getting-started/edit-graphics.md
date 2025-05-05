@@ -19,4 +19,4 @@ Saiba como criar, editar e aprimorar gráficos na sua PDF. Editar gráficos dire
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446934?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
