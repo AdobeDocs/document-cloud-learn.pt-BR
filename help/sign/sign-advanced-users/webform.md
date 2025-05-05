@@ -33,4 +33,4 @@ Saiba como um formulário da Web é usado para um fluxo de trabalho complexo de 
 
 >[!TIP]
 >
-Este vídeo faz parte das [Tarefas avançadas para usuários](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e das listas de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponíveis gratuitamente no Experience League!
+>Este vídeo faz parte das [Tarefas avançadas para usuários](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) e das listas de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponíveis gratuitamente no Experience League!

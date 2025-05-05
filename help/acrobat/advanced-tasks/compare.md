@@ -28,8 +28,8 @@ Economia de custos, eficiência organizacional, economia de tempo, garantia de q
 
 >[!TIP]
 >
-Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
 
 >[!NOTE]
 >
-Disponível somente no Acrobat Pro.
+>Disponível somente no Acrobat Pro.

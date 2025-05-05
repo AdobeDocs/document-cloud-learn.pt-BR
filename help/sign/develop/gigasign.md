@@ -29,7 +29,7 @@ Gigasign permite enviar, coletar e rastrear documentos para assinatura para milh
 
 [Baixar Arquivo Zip do GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Link de download do Java 1.8 (somente se necessário)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
 [Endereços IP para lista de permissões (somente se necessário)](https://helpx.adobe.com/br/sign/system-requirements.html#IPs){target="_blank"}
 

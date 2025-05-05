@@ -27,10 +27,10 @@ Saiba como o Designer de fluxo de trabalho personalizado é usado para digitaliz
 
 >[!NOTE]
 >
-Os administradores de grupo atribuem fluxos de trabalho a qualquer grupo que administrem (não apenas ao grupo principal). Os administradores de grupo também podem editar qualquer fluxo de trabalho atribuído a qualquer grupo que administrem.
+>Os administradores de grupo atribuem fluxos de trabalho a qualquer grupo que administrem (não apenas ao grupo principal). Os administradores de grupo também podem editar qualquer fluxo de trabalho atribuído a qualquer grupo que administrem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponível gratuitamente no Experience League!
