@@ -39,4 +39,4 @@ Revise as transcrições da reunião e ajude a redigir um resumo de email com os
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445827?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
