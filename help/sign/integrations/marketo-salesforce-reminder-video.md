@@ -32,5 +32,5 @@ Saiba como enviar um lembrete de email da Marketo para contratos não assinados.
 
    Informações sobre este plug-in estão disponíveis [aqui.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417354?quality=12&learn=on&hidetitle=true&captions=por_br)
 
