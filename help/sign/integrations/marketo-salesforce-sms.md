@@ -3,14 +3,14 @@ title: Enviar notificações usando o Acrobat Sign para Salesforce e Marketo
 description: Saiba como enviar uma mensagem de texto, um email ou uma notificação por push para permitir que o signatário saiba que um contrato está a caminho
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 jira: KT-7247
 topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Saiba como enviar uma mensagem de texto, um email ou uma notificação por push 
 
 1. Instale o Marketo Salesforce Sync.
 
-   Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=pt-BR)
+   Informações e o plug-in mais recente para o Salesforce Sync estão disponíveis [aqui.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Instale o Acrobat Sign para Salesforce.
 
