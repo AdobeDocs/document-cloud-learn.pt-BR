@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Envio para um único destinatário" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Envio para um único destinatário" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviando para um único destinatário</strong></a>
@@ -68,7 +68,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Envio para vários destinatários" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Envio para vários destinatários" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
@@ -80,7 +80,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Configurar opções de envio" src="../assets/Sendingoptions.png" />
+      <img alt="Configurar opções de envio" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Configurar opções de envio</strong></a>
@@ -90,7 +90,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Adição de campos aos documentos" src="../assets/AddingFields.png" />
+      <img alt="Adição de campos aos documentos" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Adicionando campos aos documentos</strong></a>
@@ -100,7 +100,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modificar um documento após enviar" src="../assets/Modifying-sending.png" />
+      <img alt="Modificar um documento após enviar" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Modificando um documento após o envio</strong></a>
@@ -110,7 +110,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Substituir um signatário" src="../assets/replace-signer.png" />
+      <img alt="Substituir um signatário" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Substituindo um signatário</strong></a>
@@ -122,7 +122,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Defina os prazos e lembretes" src="../assets/Reminders.png" />
+        <img alt="Defina os prazos e lembretes" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Definir prazos e lembretes</strong></a>
@@ -154,7 +154,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Assinar um documento eletronicamente" src="../assets/Electronically-sign.png" />
+      <img alt="Assinar um documento eletronicamente" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Assinar um documento eletronicamente</strong></a>
@@ -164,7 +164,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Preencher e assinar um documento" src="../assets/FillandSign.png" />
+      <img alt="Preencher e assinar um documento" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Preencher e assinar um documento</strong></a>
@@ -174,7 +174,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Obter uma assinatura presencialmente" src="../assets/In-person.png" />
+      <img alt="Obter uma assinatura presencialmente" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Obtendo uma assinatura presencialmente</strong></a>
@@ -184,7 +184,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delegar assinatura a outra pessoa" src="../assets/Delegatesigning.png" />
+      <img alt="Delegar assinatura a outra pessoa" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Delegar assinatura para outra pessoa</strong></a>
@@ -196,7 +196,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="O que é uma assinatura digital" src="../assets/whatisdigsig.png" />
+      <img alt="O que é uma assinatura digital" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>O que é uma assinatura digital</strong></a>
@@ -206,7 +206,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Assinatura usando um carimbo" src="../assets/Stamp.png" />
+      <img alt="Assinatura usando um carimbo" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Assinatura usando um carimbo</strong></a>
@@ -233,7 +233,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gerenciar e monitorar seus contratos" src="../assets/Manage.png" />
+      <img alt="Gerenciar e monitorar seus contratos" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Gerenciar e monitorar seus contratos</strong></a>
@@ -243,7 +243,7 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Criação de um modelo de documento" src="../assets/Template.png" />
+      <img alt="Criação de um modelo de documento" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Criando um modelo de documento</strong></a>
