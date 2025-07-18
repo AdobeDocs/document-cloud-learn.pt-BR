@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 >[!BEGINTABS]
 
+>[!TAB Migrar modelos do Docusign]
+
+Saiba como [migrar facilmente seus modelos e fluxos de trabalho do Docusign](docusign-templates.md) em três etapas fáceis.
+
 >[!TAB Adicionar um novo usuário]
 
 Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account.md).
@@ -30,10 +34,6 @@ Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account
 >[!TAB Como configurar administradores de privacidade]
 
 Saiba como configurar e usar os [administradores de privacidade](privacy.md).
-
->[!TAB Ferramenta de download em massa]
-
-Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para baixar rapidamente todos os seus contratos assinados.
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuração de alertas e eventos compartilhados" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="Migrar modelos do Docusign" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
+    <a href="docusign-templates.md"><strong>Migrar modelos do Docusign</strong></a>
     </div>
-    <em>Configurar notificações para eventos e alertas para sua conta</em>
+    <em>Saiba como migrar modelos e fluxos de trabalho do Docusign com facilidade</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="Adicionar um novo administrador de conta" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Criando e Gerenciando Grupos" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Criando e gerenciando grupos</strong></a>
-    </div>
-    <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="Configurando um arquivamento externo" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>Configurando um arquivo externo</strong></a>
-    </div>
-    <em>Criar um arquivo externo para cópias de backup de contratos que foram assinados</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Configuração de alertas e eventos compartilhados" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
+      </div>
+      <em>Configurar notificações para eventos e alertas para sua conta</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="Criando e Gerenciando Grupos" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>Criando e gerenciando grupos</strong></a>
+      </div>
+      <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="Configurando um arquivamento externo" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>Configurando um arquivo externo</strong></a>
+      </div>
+      <em>Criar um arquivo externo para cópias de backup de contratos que foram assinados</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Criação de um modelo de documento" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Criar um modelo de documento reutilizável para velocidade e consistência</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="Emissão de relatórios e uso de transações" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Crie um documento que possa ser assinado eletronicamente diretamente no seu site</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificar um formulário web existente" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Saiba como desabilitar, editar e reabilitar um formulário web existente</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Envio em massa" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ Saiba como usar a [ferramenta de Download em Massa](bulk-download-tool.md) para 
     <em>Saiba como acessar, utilizar e configurar relatórios de auditoria</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="Atribuir funções de administrador de produto e suporte" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>Atribuir funções de administrador de produto e suporte</strong></a>
-    </div>
-    <em>Saiba como atribuir uma função de administrador de produto e de suporte de usuário do Acrobat Sign no Admin Console</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Atribuir funções de administrador de produto e suporte" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>Atribuir funções de administrador de produto e suporte</strong></a>
+      </div>
+      <em>Saiba como atribuir uma função de administrador de produto e de suporte de usuário do Acrobat Sign no Admin Console</em>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## Tarefas avançadas
