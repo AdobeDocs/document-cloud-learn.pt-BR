@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 3%
+source-wordcount: '512'
+ht-degree: 5%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 3%
 # Tutorials Acrobat {#acrobat-learning}
 
 + [Visão geral](overview.md)
-+ Começando {#getting-started}
++ Introdução {#getting-started}
    + [Visão geral](getting-started/getting-started-overview.md)
    + [Nova experiência do Acrobat](getting-started/new-workspace.md)
    + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Descubra insights de PDF com o AI Assistant](getting-started/ai-assistant.md)
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [Produtividade em qualquer lugar](getting-started/productivity.md)
-   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Criar um PDF](getting-started/create-pdf.md)
    + [Combine arquivos em um único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
@@ -58,7 +58,7 @@ ht-degree: 3%
    + [Reduza o tamanho do arquivo e otimize](advanced-tasks/reduce.md)
    + [Trabalhar com dados de formulário](advanced-tasks/formdata.md)
    + [Verificar acessibilidade do PDF](advanced-tasks/accessibility.md)
-   + Série Acessibilidade do Acrobat {#accessibility-series}
+   + Webinars de acessibilidade do Acrobat {#accessibility-series}
       + [Visão geral](advanced-tasks/accessibility-series.md)
       + [Introdução à acessibilidade do PDF](advanced-tasks/accessibilitysession1.md)
       + [Correção de um PDF inacessível](advanced-tasks/accessibilitysession2.md)
@@ -66,6 +66,12 @@ ht-degree: 3%
       + [Documentos digitalizados e listas complexas](advanced-tasks/accessibilitysession4.md)
       + [Adição de campos de formulário a um PDF marcado](advanced-tasks/accessibilitysession5.md)
       + [Adição de campos de formulário a um PDF não marcado](advanced-tasks/accessibilitysession6.md)
++ Série de acessibilidade {#accessibility-tutorials}
+   + [Visão geral](accessibility-series/accessibility-overview.md)
+   + [O como e o porquê de arquivos de PDF acessíveis](accessibility-series/how-why-accessible-pdf.md)
+   + [Configurar seu espaço de trabalho](accessibility-series/set-up-workspace.md)
+   + [Criar um PDF acessível do Word](accessibility-series/create-accessible-from-word.md)
+   + [Criar formulários acessíveis](accessibility-series/create-accessible-forms.md)
 + Acrobat de 60 segundos {#60-second}
    + [Visão geral](60-second/60-second-overview.md)
    + [Editar PDF com o Acrobat Web](60-second/edit.md)
@@ -95,7 +101,7 @@ ht-degree: 3%
    + [Conformidade de um PDF com um formato padrão](60-second/conform.md)
    + [Identifique as diferenças com a Comparação de PDF](60-second/compare.md)
    + [Pesquisar vários arquivos de PDF de uma só vez](60-second/search.md)
-+ Criadores de Habilidades {#skill-builders}
++ Criadores de habilidades {#skill-builders}
    + [Webinars](skill-builder/skill-builder-webinars.md)
 + Integrações {#integrations}
    + [Visão geral](integrate/integrate-overview.md)
@@ -130,7 +136,7 @@ ht-degree: 3%
 + Implantar {#deploy}
    + [Visão geral](deploy/deploy-overview.md)
    + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
-+ Celular {#mobile}
++ Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=pt-BR)
+   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)
