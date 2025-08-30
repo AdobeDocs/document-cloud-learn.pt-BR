@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ Saiba tudo sobre como criar arquivos PDF acessíveis. Os Tutorials da série var
 
 >[!BEGINTABS]
 
->[!TAB O modo e o motivo dos arquivos de PDF acessíveis]
+>[!TAB O quê e por que de arquivos de PDF acessíveis]
 
-Saiba [como e por que é importante tornar os arquivos PDF acessíveis](how-why-accessible-pdf.md).
+Saiba [o que é um arquivo de PDF acessível e por que ele é importante](what-why-accessible-pdf.md).
 
 >[!TAB Configurar seu espaço de trabalho]
 
@@ -43,13 +44,13 @@ Saiba como tornar [formulários acessíveis](create-accessible-forms.md) no Acro
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="O como e o porquê de arquivos de PDF acessíveis" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="O quê e por que dos arquivos de PDF acessíveis" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>O modo e o motivo dos arquivos de PDF acessíveis</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>O quê e por que de arquivos de PDF acessíveis</strong></a>
     </div>
-    <em>Saiba como e por que é importante tornar os arquivos PDF acessíveis.</em>
+    <em>Saiba o que é um arquivo de PDF acessível e por que ele é importante</em>
     <br>
   </td>
   <td>
