@@ -30,4 +30,4 @@ Este tutorial aborda os seguintes tópicos:
 * Gerenciar e monitorar contratos
 * Acesso a suporte e recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454388?quality=12&learn=on&hidetitle=true&captions=por_br)
