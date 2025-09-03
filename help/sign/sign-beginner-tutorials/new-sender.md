@@ -1,14 +1,14 @@
 ---
 title: Introdução ao Acrobat Sign
-description: Este tutorial abrangente é um ótimo lugar para começar para novos remetentes no Adobe Sign
+description: Este tutorial é um ótimo lugar para novos usuários no Acrobat Sign
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Este tutorial aborda os seguintes tópicos:
 * Gerenciar e monitorar contratos
 * Acesso a suporte e recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/3454388?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
