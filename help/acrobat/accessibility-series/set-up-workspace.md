@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como colocar todas as ferramentas de acessibilidade ao alcance dos dedos para ajudar a simplificar a criação de arquivos de PDF acessíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471621?quality=12&learn=on&hidetitle=true&captions=por_br)

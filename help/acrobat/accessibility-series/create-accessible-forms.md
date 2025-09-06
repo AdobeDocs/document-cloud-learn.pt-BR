@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como tornar formulários acessíveis no Acrobat. Seguir essas sete etapas pode ajudar a acelerar o processamento para tornar acessível o PDF com campos de formulário interativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471667?quality=12&learn=on&hidetitle=true&captions=por_br)
