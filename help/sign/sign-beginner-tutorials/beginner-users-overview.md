@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 >[!BEGINTABS]
 
+>[!TAB Enviar um documento para um signatário único]
+
+Entre e saiba como é fácil [enviar um documento para assinatura](send-to-single-recipient.md)
+
 >[!TAB Introdução ao Acrobat Sign]
 
 É novo no uso do Acrobat Sign? Este [tutorial](new-sender.md) é um ótimo lugar para começar.
-
->[!TAB Definir prazos e lembretes]
-
-Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email regulares para ajudar a obter a assinatura rápida de seus documentos.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Introdução ao Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Introdução ao Acrobat Sign</strong></a>
+    </div>
+    Este tutorial é um ótimo lugar para novos usuários no Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Noções básicas do Workspace" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Saiba como enviar [lembretes e prazos](set-deadlines-reminders.md) por email reg
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Introdução ao Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Introdução ao Acrobat Sign</strong></a>
-    </div>
-    Este tutorial é um ótimo lugar para novos usuários no Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Envio para um único destinatário" src="../assets/send-single-recipient.png" />
+      <img alt="Enviar um documento para um signatário único" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Enviando para um único destinatário</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Enviar um documento para um signatário único</strong></a>
     </div>
     Entre e saiba como é fácil enviar um documento para assinatura
     <br>
