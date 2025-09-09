@@ -22,4 +22,4 @@ Enviar um documento para uma única assinatura é a ação mais comum no Acrobat
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!
