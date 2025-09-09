@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 >[!TAB Enviar um documento para um signatário único]
 
-Entre e saiba como é fácil [enviar um documento para assinatura](send-to-single-recipient.md)
+Entre e saiba como é fácil [enviar um documento para assinatura](send-to-single-recipient.md).
 
 >[!TAB Introdução ao Acrobat Sign]
 
