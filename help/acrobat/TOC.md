@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
+source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '522'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,11 @@ ht-degree: 5%
    + [Visão geral](getting-started/getting-started-overview.md)
    + [Nova experiência do Acrobat](getting-started/new-workspace.md)
    + [Noções básicas do Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Aumente a eficiência da equipe com o PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [Descubra insights de PDF com o AI Assistant](getting-started/ai-assistant.md)
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [O que é o Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Criar um PDF](getting-started/create-pdf.md)
    + [Combine arquivos em um único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
@@ -139,5 +140,5 @@ ht-degree: 5%
    + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=pt-BR)
+   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)
