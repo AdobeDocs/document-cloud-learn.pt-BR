@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 ## Novidades
 
 >[!BEGINTABS]
+
+>[!TAB Enviar para vários signatários]
+
+Saiba como enviar um documento para assinatura eletrônica a [mais de uma pessoa](send-to-multiple-recipients.md) exatamente na ordem desejada.
 
 >[!TAB Enviar um documento para um signatário único]
 
@@ -68,10 +72,10 @@ Entre e saiba como é fácil [enviar um documento para assinatura](send-to-singl
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Envio para vários destinatários" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Enviar para vários signatários" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Envio para vários destinatários</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Enviar para vários signatários</strong></a>
     </div>
     Envie um documento para assinatura eletrônica a mais de uma pessoa na ordem exata desejada
     <br>
