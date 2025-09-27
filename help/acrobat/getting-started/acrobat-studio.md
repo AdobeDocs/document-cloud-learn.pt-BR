@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces e o Adobe Express Premium.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475061?quality=12&learn=on&hidetitle=true&captions=por_br)
