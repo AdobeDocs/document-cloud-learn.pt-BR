@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 >[!BEGINTABS]
 
+>[!TAB Habilitar regras de atribuição automática de usuários]
+
+Saiba como configurar [regras de atribuição automática](automatic-assignment-rules.md) que concedem aos usuários acesso ao Acrobat Sign no Admin Console.
+
 >[!TAB Migrar modelos do Docusign]
 
 Saiba como [migrar modelos e fluxos de trabalho do Docusign](docusign-templates.md) com facilidade em três etapas simples.
@@ -30,10 +34,6 @@ Saiba como [migrar modelos e fluxos de trabalho do Docusign](docusign-templates.
 >[!TAB Adicionar um novo usuário]
 
 Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account.md).
-
->[!TAB Como configurar administradores de privacidade]
-
-Saiba como configurar e usar os [administradores de privacidade](privacy.md).
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Habilitar regras de atribuição automática de usuários" src="../assets/add-admin.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>Habilitar regras de atribuição automática de usuários</strong></a>
+    </div>
+    <em>Saiba como configurar regras de atribuição automática que concedem aos usuários acesso ao Acrobat Sign no Admin Console</em>
+    <br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Adicionar um novo administrador de conta" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
     <em>Saiba como criar um novo usuário ou promover um usuário existente à função de administrador do Acrobat Sign</em>
     <br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Configuração de alertas e eventos compartilhados" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Atribuir funções de administrador de produto e suporte" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
+      <a href="promote-admin.md"><strong>Atribuir funções de administrador de produto e suporte</strong></a>
       </div>
-      <em>Configurar notificações para eventos e alertas para sua conta</em>
+      <em>Saiba como atribuir uma função de administrador de produto e de suporte de usuário do Acrobat Sign no Admin Console</em>
       <br>
     </td>
     <td>
@@ -113,7 +123,9 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
       <em>Criar grupos, adicionar usuários a grupos e editar configurações de grupos</em>
       <br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Configurando um arquivamento externo" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
       <em>Criar um arquivo externo para cópias de backup de contratos que foram assinados</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Criação de um modelo de documento" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
     <em>Saiba como configurar opções de relatório para usuários</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Criar um formulário da Web" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
     <em>Crie um documento que possa ser assinado eletronicamente diretamente no seu site</em>
     <br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificar um formulário web existente" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
     <em>Automatizar fluxos de trabalho de documentos para obter rapidamente assinaturas eletrônicas e dados</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Relatórios de auditoria" src="../assets/audit-report.png" />
     </a>
@@ -206,22 +218,15 @@ Saiba como configurar e usar os [administradores de privacidade](privacy.md).
     </div>
     <em>Saiba como acessar, utilizar e configurar relatórios de auditoria</em>
     <br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Atribuir funções de administrador de produto e suporte" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>Atribuir funções de administrador de produto e suporte</strong></a>
-      </div>
-      <em>Saiba como atribuir uma função de administrador de produto e de suporte de usuário do Acrobat Sign no Admin Console</em>
-      <br>
     </td>
     <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Configuração de alertas e eventos compartilhados" src="../assets/notifications.png" />
+      </a>
       <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificações para eventos e alertas</strong></a>
+      </div>
+      <em>Configurar notificações para eventos e alertas para sua conta</em>
       <br>
     </td>
     <td>
