@@ -7,15 +7,19 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Configurar opções de envio
 
-Saiba como configurar várias opções ao enviar um documento para assinatura. Explore como definir as mensagens do documento, os formatos de arquivo, a frequência de lembrete e a expiração do documento.
+Saiba como personalizar os detalhes do contrato, anexar arquivos e definir configurações adicionais, como lembretes, expiração e idioma do destinatário ao enviar um documento para assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416163?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!NOTE]
+>
+>As opções de envio podem ser configuradas pelo administrador, portanto, talvez você não veja exatamente as mesmas opções mencionadas neste tutorial.
+
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)

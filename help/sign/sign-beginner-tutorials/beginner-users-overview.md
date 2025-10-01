@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '511'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 ## Novidades
 
 >[!BEGINTABS]
+
+>[!TAB Configurar opções de envio]
+
+Saiba como [configurar várias opções](sending-options.md) ao enviar um documento para assinatura.
 
 >[!TAB Enviar para vários signatários]
 
