@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Saiba como personalizar os detalhes do contrato, anexar arquivos e definir confi
 
 >[!NOTE]
 >
->As opções de envio podem ser configuradas pelo administrador, portanto, talvez você não veja exatamente as mesmas opções mencionadas neste tutorial.
+>O administrador pode ter personalizado as opções de envio, portanto, as opções exibidas podem ser diferentes daquelas mostradas neste tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416163?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
