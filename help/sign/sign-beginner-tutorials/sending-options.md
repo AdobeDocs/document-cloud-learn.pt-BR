@@ -22,4 +22,4 @@ Saiba como personalizar os detalhes do contrato, anexar arquivos e definir confi
 >
 >As opções de envio podem ser configuradas pelo administrador, portanto, talvez você não veja exatamente as mesmas opções mencionadas neste tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416163?quality=12&learn=on&hidetitle=true&captions=por_br)
