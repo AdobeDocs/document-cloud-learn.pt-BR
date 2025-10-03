@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ Entre e saiba como é fácil [enviar um documento para assinatura](send-to-singl
       <br>
     </td> 
   <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="Criar um modelo reutilizável" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Criar um modelo reutilizável</strong></a>
+    </div>
+    Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização
+    <br>
+  </td>
     <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ Entre e saiba como é fácil [enviar um documento para assinatura](send-to-singl
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Criação de um modelo de documento" src="../assets/create-template.png" />
-    </a>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Criando um modelo de documento</strong></a>
-    </div>
-    Crie um modelo de documento reutilizável para fornecer velocidade e consistência à sua organização
     <br>
   </td>
   <td>
