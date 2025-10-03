@@ -22,4 +22,4 @@ Saiba como criar um modelo de documento reutilizável e adicioná-lo à bibliote
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!

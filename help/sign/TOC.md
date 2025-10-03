@@ -2,11 +2,11 @@
 user-guide-title: Tutorials Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/support/sign.html
+solution-hub-url: https://helpx.adobe.com/br/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/br/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/br/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
@@ -35,7 +35,7 @@ ht-degree: 9%
       + [Modificar um documento após enviar](sign-beginner-tutorials/modify-in-flight.md)
       + [Substituir um signatário](sign-beginner-tutorials/replace-signer.md)
       + [Defina os prazos e lembretes](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [Criar um modelo reutilizável](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [Criar um modelo reutilizável](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=pt-BR)
    + Assinar {#getting-started-signing}
       + [Assinar um documento eletronicamente](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -54,9 +54,9 @@ ht-degree: 9%
       + [Métodos de autenticação no Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Gerenciar dados de formulário](sign-advanced-users/manage-form-data.md)
       + [Configurar pagamentos online](sign-advanced-users/set-up-online-payments.md)
-      + [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
-      + [Criando um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=pt-BR)
+      + [Criando um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=pt-BR)
+      + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=pt-BR)
       + [Usando marcação de texto em  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gerenciar {#advanced-tasks-managing}
       + [Emissão de relatórios e uso de transações](sign-advanced-users/creating-a-report.md)
@@ -76,10 +76,10 @@ ht-degree: 9%
       + [Criação e gerenciamento de grupos](admin/create-and-manage-groups.md)
       + [Configurando um arquivamento externo](admin/set-up-your-external-archive.md)
       + [Criar um modelo reutilizável](sign-advanced-users/create-a-template.md)
-      + [Uso de relatórios e transações](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Uso de relatórios e transações](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opções de relatório para usuários](admin/report-options.md)
       + [Criar um formulário da Web](sign-advanced-users/webform.md)
-      + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=pt-BR)
       + [Envio em massa](sign-advanced-users/megasign.md)
       + [Criação de um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
       + [Relatórios de auditoria](admin/audit-reports.md)
