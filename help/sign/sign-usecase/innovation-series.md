@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Os Acrobat Sign Skill Builder são sessões de 30 minutos projetadas para colocar suas assinaturas eletrônicas em funcionamento, sem acrescentar trabalho extra ao seu dia. A cada mês, um novo tópico é destacado.
 
-Confira todos os webinars por demanda [aqui](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+Confira todos os webinars por demanda [aqui](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-sign-webinars/overview).
