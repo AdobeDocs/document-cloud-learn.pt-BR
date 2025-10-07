@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ Saiba como criar campos de formulário do Acrobat Sign com tags de texto. As tag
 
 ## Introdução
 
-Tags de texto são partes de texto formatadas de maneira exclusiva, colocadas em qualquer lugar de um documento
-reconhecidos automaticamente como campos quando carregados no Acrobat Sign.
+Tags de texto são partes de texto formatadas exclusivamente e colocadas em qualquer lugar de um documento, reconhecidas automaticamente como campos quando carregadas no Acrobat Sign.
 
-    ![Sintaxe da tag de texto](../assets/syntax.png)
+![Sintaxe da tag de texto](../assets/syntax.png)
 
-As tags de texto podem ser adicionadas diretamente às ferramentas de criação, como Microsoft Word, Adobe InDesign ou
-você tem um PDF — Acrobat. As tags de texto reduzem significativamente o esforço de preparação
-documentos usados no Acrobat Sign.
+As tags de texto podem ser adicionadas diretamente às ferramentas de criação, como Microsoft Word, Adobe InDesign ou se você tiver um PDF (Acrobat). As tags de texto reduzem significativamente o esforço envolvido na preparação de documentos usados no Acrobat Sign.
 
-## Adicionar tags no Microsoft Word
+### Adicionar tags no Microsoft Word
 
 Para adicionar tags de texto a um documento do Microsoft Word, confira este [tutorial em vídeo](text-tagging-word.md).
 
-## Adicionar tags no Acrobat
+### Adicionar tags no Acrobat
 
 O Adobe Acrobat tem um ambiente robusto de criação de formulários com a função arrastar e soltar. Aplicar tags de texto no Acrobat permite que você aproveite os recursos adicionais disponíveis no Acrobat Sign.
 
@@ -69,7 +66,7 @@ O Adobe Acrobat tem um ambiente robusto de criação de formulários com a funç
 
 1. Faça upload do arquivo no Acrobat Sign e crie um modelo reutilizável conforme descrito na próxima seção.
 
-## Criar um modelo reutilizável
+### Criar um modelo reutilizável
 
 Depois de criar um documento marcado, configure-o como um modelo reutilizável, eliminando a necessidade de adicionar campos aos documentos.
 
