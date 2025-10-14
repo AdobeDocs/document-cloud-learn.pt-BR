@@ -75,7 +75,7 @@ Primeiro, você precisa estabelecer o acesso. Com o Acrobat Sign, há duas manei
 
 Agora que você tem acesso e pode interagir com a API, veja o que você pode fazer com a API.
 
-1. Acrobat Sign Navegue até os [Métodos da ](http://adobesign.com/public/docs/restapi/v6) da API REST Versão 6.
+1. Acrobat Sign Navegue até os [Métodos da &#x200B;](http://adobesign.com/public/docs/restapi/v6) da API REST Versão 6.
 
    ![Captura de tela de navegação dos Métodos da Acrobat Sign REST API Versão 6](assets/embeddedesignature/embed_5.png)
 
