@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: 6fe3549230e9c277ba4e936b947d5c9d5d6c481d
+source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # Visão geral viabilizada por IA
 
-Saiba tudo sobre as ferramentas viabilizadas por IA no Acrobat.
+Descubra como a IA pode transformar seus fluxos de trabalho de PDF. Saiba mais sobre as ferramentas que simplificam as tarefas de documentação e aumentam a produtividade.
 
 ## Novidades
 
@@ -82,7 +82,7 @@ Saiba como [descobrir insights de PDF](../getting-started/ai-assistant.md) em se
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="Estilizar esta PDF" src="../assets/ai-powered.png" />
+      <img alt="Estilizar esta PDF" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>Estilizar este PDF</strong></a>
