@@ -1,5 +1,5 @@
 ---
-title: Redigir e limpar
+title: Remover informações confidenciais
 description: Saiba como remover permanentemente informações confidenciais de sua PDF
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Redigir e limpar
+# Remover informações confidenciais
 
-Saiba como usar a ferramenta Redigir para remover permanentemente informações confidenciais de sua PDF. Use a ferramenta Limpar para remover informações que não estão visíveis no arquivo, como comentários, metadados ou camadas ocultas.
+Saiba como usar a ferramenta Redigir para remover permanentemente informações confidenciais de um PDF e, em seguida, limpar o documento para remover informações não visíveis no arquivo, como comentários, metadados ou camadas ocultas. A remoção permanente de conteúdo sigiloso e dados ocultos é importante para que as informações não sejam transmitidas ao publicar sua PDF. Este tutorial usa a [Nova experiência do Acrobat](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ Saiba como usar a ferramenta Redigir para remover permanentemente informações 
 [!BADGE Impacto Organizacional]
 Proteção de dados do cliente, gerenciamento de riscos
 
-## Redigir texto e imagens
+## Como redigir informações no Acrobat para desktop
 
-1. Selecione **[!UICONTROL Redigir]** no painel central ou à direita de [!UICONTROL Ferramentas].
-
+1. Abra um arquivo e selecione **[!UICONTROL Todas as ferramentas]** na barra de ferramentas e escolha **[!UICONTROL Redigir um PDF]**.
    ![Redigir Etapa 1](../assets/Redact_1.png)
 
-1. Selecione **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Propriedades]** para personalizar a aparência de suas censuras, incluindo a cor das caixas de redação ou a sobreposição do texto.
+1. Selecione **[!UICONTROL Definir propriedades]** para personalizar a aparência de suas censuras, incluindo a cor das caixas de censura ou a sobreposição do texto.
 
    ![Redigir Etapa 2](../assets/Redact_2.png)
 
-Para censurar as informações, primeiro marque os itens para remoção e, em seguida, aplique as censuras. Você pode censurar páginas inteiras ou conteúdo selecionado.
+   Para censurar as informações, primeiro marque os itens para remoção e, em seguida, aplique as censuras. Você pode censurar páginas inteiras ou conteúdo selecionado.
 
-1. Selecione **[!UICONTROL Redigir Páginas]**, escolha a página ou o intervalo de páginas a ser redigido e selecione **[!UICONTROL OK]**.
+1. Selecione **[!UICONTROL Redigir texto e imagens]** e use o cursor para selecionar o conteúdo a ser censurado.
 
    ![Redigir Etapa 4](../assets/Redact_3.png)
 
-Ou use o cursor para selecionar o conteúdo a ser censurado. Você pode visualizar a redação passando o mouse sobre o conteúdo selecionado.
+   Você pode visualizar a redação passando o mouse sobre o conteúdo selecionado.
 
    ![Redigir Etapa 5a](../assets/Redact_4.png)
 
-1. Selecione **[!UICONTROL Redigir texto e imagens]** **>** **[!UICONTROL Localizar texto e redigir]** para localizar conteúdo específico a ser redigido.
+1. Selecione **[!UICONTROL Localizar texto e redigir]** para procurar uma palavra ou frase específica ou pesquisar um Padrão para localizar determinados tipos de informações. Defina sua pesquisa e selecione Pesquisar e remover texto.
 
-Use a caixa de pesquisa para procurar uma palavra ou frase específica.
-
-1. Selecione **[!UICONTROL Padrões]** para localizar certos tipos of informações, marque as caixas e selecione **[!UICONTROL Pesquisar e Remover Texto]**.
+1. Na caixa de diálogo de resultados da pesquisa, marque as caixas ao lado dos itens e selecione **[!UICONTROL Marcar resultados marcados para redação]**.
 
    ![Redigir Etapa 5b](../assets/Redact_5.png)
 
-1. Selecione **[!UICONTROL Aplicar]** no menu superior [!UICONTROL Redigir] para aplicar as censuras marcadas e salvar o arquivo redigido.
+1. Selecione **[!UICONTROL Redigir páginas]** para marcar páginas inteiras para redação.
 
    ![Redigir Etapa 6](../assets/Redact_6.png)
 
-## Limpar documento
+1. Selecione suas páginas e escolha **[!UICONTROL OK]**.
 
-1. Selecione **[!UICONTROL Limpar documento]** no menu superior [!UICONTROL Redigir].
+1. Selecione **[!UICONTROL Aplicar]** no painel Redigir um PDF para aplicar as censuras marcadas.
 
-1. Selecione **[!UICONTROL OK]** para confirmar a remoção de informações ocultas. Ou escolha **[!UICONTROL Clique Aqui]** para remover seletivamente as informações ocultas.
+   ![Redigir Etapa 6](../assets/Redact_7.png)
 
-   ![Limpar Etapa 2](../assets/Redact_7.png)
+1. Selecione **[!UICONTROL Continuar]** para limpar e remover informações ocultas.
+
+   ![Redigir Etapa 6](../assets/Redact_8.png)
+
+Depois de confirmar, as censuras e informações ocultas são removidas permanentemente e salvas em um novo arquivo.
 
 >[!TIP]
 >
 >Para acelerar o processo de redação, confira o [Action Wizard](../advanced-tasks/action.md).
-
->[!TIP]
->
->Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
