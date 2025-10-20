@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Proteção de dados do cliente, gerenciamento de riscos
 
 1. Selecione **[!UICONTROL Localizar texto e redigir]** para procurar uma palavra ou frase específica ou pesquisar um Padrão para localizar determinados tipos de informações. Defina sua pesquisa e selecione Pesquisar e remover texto.
 
-![Redigir Etapa 4](../assets/Redact_4.png)
+   ![Redigir Etapa 4](../assets/Redact_4.png)
 
 1. Na caixa de diálogo de resultados da pesquisa, marque as caixas ao lado dos itens e selecione **[!UICONTROL Marcar resultados marcados para redação]**.
 
