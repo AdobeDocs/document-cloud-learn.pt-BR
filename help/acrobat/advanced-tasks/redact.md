@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ Proteção de dados do cliente, gerenciamento de riscos
 
 1. Selecione **[!UICONTROL Redigir texto e imagens]** e use o cursor para selecionar o conteúdo a ser censurado.
 
-   ![Redigir Etapa 4](../assets/Redact_3.png)
+   ![Redigir Etapa 3](../assets/Redact_3.png)
 
    Você pode visualizar a redação passando o mouse sobre o conteúdo selecionado.
 
-   ![Redigir Etapa 5a](../assets/Redact_4.png)
-
 1. Selecione **[!UICONTROL Localizar texto e redigir]** para procurar uma palavra ou frase específica ou pesquisar um Padrão para localizar determinados tipos de informações. Defina sua pesquisa e selecione Pesquisar e remover texto.
+
+![Redigir Etapa 4](../assets/Redact_4.png)
 
 1. Na caixa de diálogo de resultados da pesquisa, marque as caixas ao lado dos itens e selecione **[!UICONTROL Marcar resultados marcados para redação]**.
 
-   ![Redigir Etapa 5b](../assets/Redact_5.png)
+   ![Redigir Etapa 5](../assets/Redact_5.png)
 
 1. Selecione **[!UICONTROL Redigir páginas]** para marcar páginas inteiras para redação.
 
@@ -56,13 +56,15 @@ Proteção de dados do cliente, gerenciamento de riscos
 
 1. Selecione suas páginas e escolha **[!UICONTROL OK]**.
 
+   ![Redigir Etapa 7](../assets/Redact_7.png)
+
 1. Selecione **[!UICONTROL Aplicar]** no painel Redigir um PDF para aplicar as censuras marcadas.
 
-   ![Redigir Etapa 6](../assets/Redact_7.png)
+   ![Redigir Etapa 8](../assets/Redact_8.png)
 
 1. Selecione **[!UICONTROL Continuar]** para limpar e remover informações ocultas.
 
-   ![Redigir Etapa 6](../assets/Redact_8.png)
+   ![Redigir Etapa 9](../assets/Redact_9.png)
 
 Depois de confirmar, as censuras e informações ocultas são removidas permanentemente e salvas em um novo arquivo.
 
