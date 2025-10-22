@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
    ![Reduzir Etapa 1](../assets/Reduce_1.png)
 
-1. Selecione **[!UICONTROL Arquivos únicos]** ou **[!UICONTROL Vários arquivos]** no painel **[!UICONTROL Compactar um PDF]**.
+1. Selecione **[!UICONTROL Arquivo único]** ou **[!UICONTROL Vários arquivos]** no painel **[!UICONTROL Compactar um PDF]**.
 
    ![Reduzir Etapa 2](../assets/Reduce_2.png)
 
@@ -61,19 +61,17 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
    ![Reduzir Etapa 1](../assets/Reduce_1.png)
 
-1. Selecione **[!UICONTROL Otimização avançada]** no painel **[!UICONTROL Compactar um PDF]**.
+1. Selecione **[!UICONTROL Otimização Avançada]** no painel **[!UICONTROL Compactar um PDF]**.
 
    ![Otimizar Etapa 1](../assets/Optimize_1.png)
-
-   Por padrão, o **Padrão** está selecionado no menu **Configurações**. Se você alterar qualquer configuração na caixa de diálogo Otimizador de PDF, o menu **Configurações** alternará automaticamente para **Personalizado**.
 
 1. Na lista suspensa **Tornar compatível com**, escolha **Manter existente** para manter a versão atual do PDF ou escolha uma versão do Acrobat. Marque a caixa de seleção ao lado de um painel (por exemplo, Imagens, Fontes, Transparência), selecione as opções nesse painel, escolha **[!UICONTROL OK]** e salve o arquivo.
 
    ![Otimizar Etapa 2](../assets/Optimize_2.png)
 
-   Para impedir que todas as opções de um painel sejam executadas durante a otimização, desmarque a caixa de seleção desse painel.
+   Por padrão, o **Padrão** está selecionado no menu **Configurações**. Se você alterar qualquer configuração na caixa de diálogo Otimizador de PDF, o menu **Configurações** alternará automaticamente para **Personalizado**. Para impedir que todas as opções de um painel sejam executadas durante a otimização, desmarque a caixa de seleção desse painel.
 
-1. (Opcional) Para salvar suas configurações personalizadas, selecione **[!UICONTROL Salvar]** e nomeie as configurações. Para excluir uma configuração salva, escolha-a no menu **Configurações** e selecione **[!UICONTROL Excluir]**.
+1. (Opcional) Para salvar suas configurações personalizadas, selecione **[!UICONTROL Salvar]** e nomeie as configurações. Para excluir uma configuração salva, selecione-a no menu suspenso **Configurações** e selecione **[!UICONTROL Excluir]**.
 
    ![Otimizar Etapa 3](../assets/Optimize_3.png)
 
