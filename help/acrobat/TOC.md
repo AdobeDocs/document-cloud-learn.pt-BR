@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3f0b7909cd5a096a9db0b0d380f47688221ea3ca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '555'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Descubra insights de PDF com o AI Assistant](getting-started/ai-assistant.md)
    + [Aumente a eficiência da equipe com o PDF Spaces](getting-started/pdf-spaces-legal.md)
    + [O que é o Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+   + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
    + [Criar um PDF](getting-started/create-pdf.md)
    + [Combine arquivos em um único PDF](getting-started/combine-to-pdf.md)
@@ -63,9 +63,9 @@ ht-degree: 5%
    + [Detectar diferenças entre dois PDF](advanced-tasks/compare.md)
    + [Ações guiadas](advanced-tasks/action.md)
    + [Remover informações confidenciais](advanced-tasks/redact.md)
-   + [Compactar e otimizar](advanced-tasks/reduce.md)
+   + [Compactar e otimizar um PDF](advanced-tasks/reduce.md)
    + [Trabalhar com dados de formulário](advanced-tasks/formdata.md)
-   + [Verificar acessibilidade do PDF](advanced-tasks/accessibility.md)
+   + [Verificar a acessibilidade do PDF](advanced-tasks/accessibility.md)
    + Webinars de acessibilidade do Acrobat {#accessibility-series}
       + [Visão geral](advanced-tasks/accessibility-series.md)
       + [Introdução à acessibilidade do PDF](advanced-tasks/accessibilitysession1.md)
@@ -76,11 +76,11 @@ ht-degree: 5%
       + [Adição de campos de formulário a um PDF não marcado](advanced-tasks/accessibilitysession6.md)
 + Ativado por IA {#ai-powered}
    + [Visão geral](ai-powered/ai-overview.md)
-   + [Descubra insights de PDF com o Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Aumentar a eficiência da equipe com PDF Spaces](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Editar gráficos em um PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Estilizar este PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Descubra insights de PDF com o Assistente de IA](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Aumentar a eficiência da equipe com PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Editar gráficos em um PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + Acrobat de 60 segundos {#60-second}
    + [Visão geral](60-second/60-second-overview.md)
    + [Editar PDF com o Acrobat Web](60-second/edit.md)
@@ -147,5 +147,5 @@ ht-degree: 5%
    + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=pt-BR)
+   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)

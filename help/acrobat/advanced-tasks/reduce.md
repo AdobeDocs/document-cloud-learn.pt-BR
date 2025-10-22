@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
    ![Reduzir Etapa 1](../assets/Reduce_1.png)
 
-1. Selecione **[!UICONTROL Arquivos únicos]** ou **[!UICONTROL Vários arquivos]** no painel **[!UICONTROL Compactar um PDF]** e escolha **[!UICONTROL Salvar]**.
-
-   O arquivo é reduzido ao menor tamanho possível, sem prejudicar a qualidade do documento.
+1. Selecione **[!UICONTROL Arquivos únicos]** ou **[!UICONTROL Vários arquivos]** no painel **[!UICONTROL Compactar um PDF]**.
 
    ![Reduzir Etapa 2](../assets/Reduce_2.png)
 
 1. Clique em **[!UICONTROL Salvar]**.
 
    ![Reduzir Etapa 3](../assets/Reduce_3.png)
+
+   O arquivo é reduzido ao menor tamanho possível, sem prejudicar a qualidade do documento.
 
 
 ## Como compactar um PDF no Acrobat na Web
@@ -43,7 +43,7 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
    ![Reduzir Etapa 4](../assets/Reduce_4.png)
 
-1. Escolha **[!UICONTROL Selecionar arquivos]**, seus arquivos e [!UICONTROL Abrir].
+1. Escolha **[!UICONTROL Selecionar arquivos]**, seus arquivos e **[!UICONTROL Abrir]**.
 
    ![Reduzir Etapa 5](../assets/Reduce_5.png)
 
