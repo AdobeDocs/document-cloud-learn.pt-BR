@@ -22,4 +22,4 @@ Saiba como tornar formulários acessíveis no Acrobat. Seguir essas sete etapas 
 >
 >Alguns recursos deste tutorial estão disponíveis somente no Acrobat Pro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471667?captions=por_br&quality=12&learn=on&hidetitle=true)
