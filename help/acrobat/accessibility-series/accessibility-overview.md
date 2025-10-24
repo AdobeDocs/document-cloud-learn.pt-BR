@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Saiba tudo sobre como criar arquivos PDF acessíveis. Os Tutorials da série var
 
 >[!BEGINTABS]
 
->[!TAB O quê e por que de arquivos de PDF acessíveis]
+>[!TAB Documentos digitalizados]
 
-Saiba [o que é um arquivo de PDF acessível e por que ele é importante](what-why-accessible-pdf.md).
+Saiba como tornar um [documento digitalizado](scanned-documents.md) acessível.
 
 >[!TAB Configurar seu espaço de trabalho]
 
@@ -74,14 +74,41 @@ Saiba como tornar [formulários acessíveis](create-accessible-forms.md) no Acro
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Documentos digitalizados" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Documentos digitalizados</strong></a>
+    </div>
+    <em>Saiba como tornar documentos digitalizados acessíveis no Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Criar formulários acessíveis" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Criar formulários acessíveis</strong></a>
     </div>
-    <em>Saiba como tornar formulários acessíveis no Acrobat</em>
+    <em>Saiba como tornar formulários acessíveis no Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
