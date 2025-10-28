@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
    O arquivo é reduzido ao menor tamanho possível, sem prejudicar a qualidade do documento.
 
 
-## Como compactar um PDF no Acrobat na Web
+## Como compactar um PDF no Acrobat Web
 
 1. Faça logon no [acrobat.adobe.com](https://acrobat.adobe.com/) em um navegador.
 
@@ -77,4 +77,4 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
 >[!TIP]
 >
->Para otimizar vários arquivos de PDF, tente usar o [Action Wizard](../advanced-tasks/action.md).
+>Para otimizar vários arquivos de PDF, tente usar o [Action Wizard](../advanced-tasks/action.md) no Acrobat Pro no desktop.
