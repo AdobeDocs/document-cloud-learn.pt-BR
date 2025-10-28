@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Papel para PDF
 
-Saiba como digitalizar (ou tirar uma foto) de um documento impresso e transformá-lo em um [arquivo de PDF editável](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} inteligente e pesquisável. A conversão de papel em PDF aumenta a capacidade de localizar informações rapidamente e torná-las acessíveis a portadores de deficiência. Além disso, você pode compartilhar e colaborar facilmente com outras pessoas eletronicamente, convertendo papel em PDF.
+Saiba como digitalizar (ou tirar uma foto) de um documento impresso e transformá-lo em um arquivo de PDF pesquisável e [editável](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}. A conversão de papel em PDF aumenta a capacidade de localizar informações rapidamente e torná-las acessíveis a portadores de deficiência.
 
 ## Como transformar papel em um PDF no Acrobat para desktop
 
@@ -50,7 +50,7 @@ O arquivo agora é um arquivo de PDF editável e pesquisável.
 
    ![Etapa de Verificação 5](../assets/Scan_5.png)
 
-1. Escolha **[!UICONTROL Selecionar arquivos]**, selecione seu arquivo e escolha **[!UICONTROL Abrir]**.
+1. Escolha **[!UICONTROL Selecionar arquivos]**, escolha seu arquivo e selecione **[!UICONTROL Abrir]**.
 
    ![Etapa de Verificação 6](../assets/Scan_6.png)
 
