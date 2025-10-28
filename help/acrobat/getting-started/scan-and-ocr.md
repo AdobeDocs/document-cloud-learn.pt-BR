@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ O arquivo agora é um arquivo de PDF editável e pesquisável.
 >[!TIP]
 >
 >Para fazer o OCR de vários arquivos de PDF, tente usar o [Action Wizard](../advanced-tasks/action.md) no Acrobat Pro no desktop.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="Papel para PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Papel para PDF</strong></a>
-    </div>
-    <em>Saiba como transformar um documento impresso em um recurso de arquivo de PDF inteligente, pesquisável e editável</em>
-    <br>
-  </td>
-  <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
