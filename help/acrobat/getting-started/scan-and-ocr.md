@@ -7,16 +7,17 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Papel para PDF
 
-Saiba como digitalizar (ou tirar uma foto) de um documento impresso e transformá-lo em um arquivo de PDF pesquisável e [editável](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}. A conversão de papel em PDF aumenta a capacidade de localizar informações rapidamente e torná-las acessíveis a portadores de deficiência.
+Saiba como digitalizar (ou tirar uma foto) de um documento impresso e transformá-lo em um arquivo de PDF pesquisável e [editável](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"}. A conversão de papel em PDF aumenta a capacidade de localizar informações rapidamente e torná-las acessíveis a portadores de deficiência. Este tutorial mostra a [nova experiência do Acrobat](new-workspace.md).
+
 
 ## Como transformar papel em um PDF no Acrobat para desktop
 
