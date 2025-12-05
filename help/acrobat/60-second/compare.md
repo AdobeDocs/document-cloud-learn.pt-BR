@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como detectar as diferenças entre dois arquivos de PDF usando a ferramenta Comparar arquivos no Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437477?captions=por_br&quality=12&learn=on&hidetitle=true)

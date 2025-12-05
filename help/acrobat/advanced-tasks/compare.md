@@ -24,7 +24,7 @@ Aplicativos, material de apoio, planilhas de fatos, manuais, políticas, relató
 [!BADGE Impacto Organizacional]
 Economia de custos, eficiência organizacional, economia de tempo, garantia de qualidade
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414207?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

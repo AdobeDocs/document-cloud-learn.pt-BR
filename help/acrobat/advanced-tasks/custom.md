@@ -22,4 +22,4 @@ Saiba como melhorar a eficiência do fluxo de trabalho de documentos usando ferr
 >
 >Os comandos personalizados estão disponíveis apenas no Acrobat Pro, Premium ou Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347097?captions=por_br&quality=12&learn=on&hidetitle=true)
