@@ -45,7 +45,7 @@ Saiba como verificar se o seu PDF é universalmente acessível a pessoas com def
 
    ![Etapa de acessibilidade 4](../assets/Accessibility_4.png)
 
-Você também pode usar a ação [!UICONTROL Tornar acessível] na ferramenta [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), que passa por um conjunto básico de etapas para criar um PDF acessível.
+Você também pode usar a ação [!UICONTROL Tornar acessível] na ferramenta [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=pt-BR), que passa por um conjunto básico de etapas para criar um PDF acessível.
 
 ## Corrigir problemas de acessibilidade
 
