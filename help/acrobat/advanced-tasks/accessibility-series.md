@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
     <div>
     <a href="accessibilitysession1.md"><strong>Introdução à Acessibilidade PDF</strong></a>
     </div>
-    <em>Nesta sessão por demanda, saiba o que significa tornar um PDF acessível, como configurar o Acrobat Pro para trabalhar em PDF para acessibilidade e o processo de conversão de um documento de origem em um PDF</em>
+    <em>Nesta sessão por demanda, saiba o que significa tornar um PDF acessível, como configurar o Acrobat Pro (Premium ou Studio) para trabalhar em PDF para acessibilidade e o processo de conversão de um documento de origem em um PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ Nesta série de webinários sob demanda em seis partes, vá do básico de Acessi
     <div>
     <a href="accessibilitysession2.md"><strong>Corrigindo um PDF inacessível</strong></a>
     </div>
-    <em>Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro mostradas no webinar de introdução</em>
+    <em>Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro (Premium ou Studio) mostradas no webinário de introdução</em>
     <br>
   </td>  
   <td>

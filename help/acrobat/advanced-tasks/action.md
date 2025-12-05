@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado
 
 >[!NOTE]
 >
->Disponível somente no Acrobat Pro.
+>Disponível somente no Acrobat Pro, Premium ou Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444880?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!

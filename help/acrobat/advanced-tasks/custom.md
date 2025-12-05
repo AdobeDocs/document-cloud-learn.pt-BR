@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9672
 thumbnail: KT-9672.jpg
 exl-id: 0cbe419b-d1fd-4737-9f79-0f99b4f38df3
-source-git-commit: ed082395eba870c3d5546edf3601990e6dc4049a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Saiba como melhorar a eficiência do fluxo de trabalho de documentos usando ferr
 
 >[!NOTE]
 >
->Os comandos personalizados estão disponíveis somente no Acrobat Pro.
+>Os comandos personalizados estão disponíveis apenas no Acrobat Pro, Premium ou Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/347097?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)

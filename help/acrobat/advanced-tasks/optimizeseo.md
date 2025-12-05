@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como otimizar um PDF para melhorar a capacidade de descoberta e a classificação dos mecanismos de pesquisa na Web.
 
-## 1. Crie um conteúdo exclusivo
+## &#x200B;1. Crie um conteúdo exclusivo
 
 Crie conteúdo de PDF diferente das informações contidas em suas páginas da Web.
 
@@ -31,7 +31,7 @@ O conteúdo do PDF deve ser exclusivo e estruturado da seguinte maneira:
 * Use parágrafos curtos contendo palavras-chave e listas
 * Adicionar hiperlinks internos e externos (conteúdo em seu site ou em outros sites)
 * Adicionar um sumário com hiperlink para documentos com mais de 25 páginas
-* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=pt-BR) em todos os documentos digitalizados
+* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) em todos os documentos digitalizados
 * Crie PDF compatíveis com dispositivos móveis
 Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
 
@@ -41,7 +41,7 @@ Para verificar a experiência de visualização móvel do seu PDF, abra o arquiv
 
 <br> 
 
-## 2. Adicionar Propriedades do Documento
+## &#x200B;2. Adicionar Propriedades do Documento
 
 Os arquivos de PDF têm um título e uma meta descrição, assim como uma página da Web.
 
@@ -62,11 +62,11 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
 <br> 
 
-## 3. Marque seu PDF
+## &#x200B;3. Marque seu PDF
 
-Marcar conteúdo no seu PDF não apenas torna o seu arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=pt-BR) para pessoas com deficiência, como também melhora o SEO.
+Marcar conteúdo no seu PDF não apenas torna o seu arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para pessoas com deficiência, como também melhora o SEO.
 
-+++Visualização de detalhes sobre como marcar um PDF
++++Exibir detalhes sobre como marcar um PDF
 
 Marque um PDF da seguinte maneira:
 
@@ -82,11 +82,11 @@ Marque um PDF da seguinte maneira:
 
 >[!NOTE]
 >
->Disponível somente no Acrobat Pro.
+>Disponível somente no Acrobat Pro, Premium ou Studio.
 
 <br> 
 
-## 4. Prepare-se para a Web
+## &#x200B;4. Prepare-se para a Web
 
 Otimize a experiência de interação com seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo de PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
 
@@ -104,13 +104,13 @@ Esta etapa reduz o tamanho do arquivo e habilita o **Modo de Exibição Rápida 
 
 >[!TIP]
 >
->Se você tiver o Acrobat Pro, execute Otimizar para Web e dispositivos móveis na ferramenta Action Wizard. Esta ação converte cores em sRGB e incorpora fontes para uma exibição consistente de PDF entre navegadores e dispositivos móveis.
+>Se você tiver o Acrobat Pro (Premium ou Studio), execute Otimizar para Web e dispositivos móveis na ferramenta Action Wizard. Esta ação converte cores em sRGB e incorpora fontes para uma exibição consistente de PDF entre navegadores e dispositivos móveis.
 
 +++
 
 <br> 
 
-## 5. Crie um nome de arquivo de palavra-chave
+## &#x200B;5. Crie um nome de arquivo de palavra-chave
 
 +++Exibir detalhes sobre como criar um nome de arquivo de palavra-chave
 
@@ -122,7 +122,7 @@ O nome do arquivo se torna parte do URL quando um PDF é publicado na Web. Uma b
 
 <br> 
 
-## 6. Proteja sua PDF
+## &#x200B;6. Proteja sua PDF
 
 A última etapa é [proteger seu PDF](https://www.adobe.com/br/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar alterações não autorizadas.
 

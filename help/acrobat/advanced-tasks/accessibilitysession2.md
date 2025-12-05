@@ -7,16 +7,16 @@ level: Experienced
 jira: KT-8609
 thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Correção de um PDF inacessível
 
-Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro mostradas no webinar de introdução.
+Nesta sessão por demanda, saiba mais sobre o fluxo de trabalho para converter um documento do Word e corrigir alguns problemas básicos de marcação usando as ferramentas do Acrobat Pro (Premium ou Studio) mostradas no webinário de introdução.
 
 Clique [aqui](../assets/accessibilitysession2.zip) para baixar uma pasta zip dos arquivos de sessão prática.
 

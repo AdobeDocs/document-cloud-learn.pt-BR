@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Saiba como verificar se o seu PDF é universalmente acessível a pessoas com def
 
 >[!NOTE]
 >
->Disponível somente no Acrobat Pro.
+>Disponível somente no Acrobat Pro, Premium ou Studio.
 
 ## Verificação de acessibilidade
 
@@ -45,7 +45,7 @@ Saiba como verificar se o seu PDF é universalmente acessível a pessoas com def
 
    ![Etapa de acessibilidade 4](../assets/Accessibility_4.png)
 
-Você também pode usar a ação [!UICONTROL Tornar acessível] na ferramenta [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=pt-BR), que passa por um conjunto básico de etapas para criar um PDF acessível.
+Você também pode usar a ação [!UICONTROL Tornar acessível] na ferramenta [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), que passa por um conjunto básico de etapas para criar um PDF acessível.
 
 ## Corrigir problemas de acessibilidade
 

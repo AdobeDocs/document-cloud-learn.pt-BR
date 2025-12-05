@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
 >[!NOTE]
 >
->A otimização de um PDF está disponível apenas no Acrobat Pro para desktop.
+>A otimização de um PDF só está disponível no Acrobat Pro, Premium ou Studio no desktop.
 
 1. Abra um arquivo e selecione **[!UICONTROL Todas as ferramentas]** na barra de ferramentas e escolha **[!UICONTROL Compactar um PDF]**.
 
@@ -77,4 +77,4 @@ Saiba como compactar e otimizar o tamanho de um arquivo de PDF. Compactar um PDF
 
 >[!TIP]
 >
->Para otimizar vários arquivos de PDF, tente usar o [Action Wizard](../advanced-tasks/action.md) no Acrobat Pro no desktop.
+>Para otimizar vários arquivos de PDF, tente usar o [Action Wizard](../advanced-tasks/action.md) no Acrobat Pro, Premium ou Studio no desktop.
