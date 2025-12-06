@@ -23,7 +23,7 @@ Saiba como enviar e coletar centenas de assinaturas (até 1.000 destinatários c
 * [Contrato de trabalho à distância](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=pt-BR)
 * [Contrato de política](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=pt-BR)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477303?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 [Baixe o arquivo CSV de exemplo em formato ZIP](../assets/sendInBulkSample.zip). Saiba mais sobre todos os valores que você pode definir em seu arquivo CSV [aqui](https://helpx.adobe.com/br/sign/adv-user/send-in-bulk/send-with-csv.html).
 
