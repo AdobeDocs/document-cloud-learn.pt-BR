@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 ## Novidades
 
 >[!BEGINTABS]
+
+>[!TAB Gerenciar e monitorar contratos]
+
+Saiba como [gerenciar e rastrear contratos](../sign-beginner-tutorials/manage-and-track.md) enviados para assinatura.
 
 >[!TAB Assinar um documento eletronicamente]
 
@@ -33,10 +37,6 @@ Saiba como criar um [modelo de documento reutilizável](../sign-advanced-users/c
 >[!TAB Configurar opções de envio]
 
 Saiba como [configurar várias opções](sending-options.md) ao enviar um documento para assinatura.
-
->[!TAB Enviar para vários signatários]
-
-Saiba como enviar um documento para assinatura eletrônica a [mais de uma pessoa](send-to-multiple-recipients.md) exatamente na ordem desejada.
 
 >[!ENDTABS]
 

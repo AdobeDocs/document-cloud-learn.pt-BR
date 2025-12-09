@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5315
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a060df1f8cf17d4b7639153ec80393cf9395916c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Saiba como gerenciar e rastrear documentos enviados para assinatura no Acrobat Sign. Receba atualizações de status e notificações em tempo real de cada documento que você assinar ou enviar para assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/347136?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/pt-br/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), disponível gratuitamente no Experience League!
