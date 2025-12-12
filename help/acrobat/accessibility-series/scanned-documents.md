@@ -21,4 +21,4 @@ Saiba como tornar documentos digitalizados acessíveis no Acrobat. Os PDF digita
 >
 >Alguns recursos deste tutorial estão disponíveis apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476239?captions=por_br&quality=12&learn=on&hidetitle=true)
