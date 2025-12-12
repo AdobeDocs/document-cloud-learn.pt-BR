@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
 # Noções básicas de marcação
 
-Conheça os conceitos básicos de como marcar um arquivo de PDF para torná-lo acessível. Os tópicos abordados incluem: correção de listas, artefatos, texto alternativo para imagens e tabelas simples.
+Conheça os conceitos básicos de como marcar um arquivo de PDF para torná-lo acessível. Os tópicos abordados incluem: correção de listas, artefatos, adição de texto alternativo a imagens e tabelas simples.
 
 >[!NOTE]
 >
