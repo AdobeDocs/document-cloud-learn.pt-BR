@@ -21,4 +21,4 @@ Saiba como marcar listas complexas para acessibilidade no Acrobat. As listas com
 >
 >Alguns recursos deste tutorial estão disponíveis apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477836?captions=por_br&quality=12&learn=on&hidetitle=true)

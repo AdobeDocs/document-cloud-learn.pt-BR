@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Saiba como gerenciar e rastrear documentos enviados para assinatura no Acrobat Sign. Receba atualizações de status e notificações em tempo real de cada documento que você assinar ou enviar para assinatura.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436623?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
