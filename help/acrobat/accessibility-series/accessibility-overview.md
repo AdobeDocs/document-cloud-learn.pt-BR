@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ Saiba tudo sobre como criar arquivos PDF acessíveis. Os Tutorials da série var
 
 >[!BEGINTABS]
 
+>[!TAB Tabelas complexas]
+
+Saiba como [marcar tabelas](complex-tables.md) para acessibilidade no Acrobat.
+
+>[!TAB Ação guiada Tornar Acessível]
+
+Saiba como usar a [ação guiada Tornar Acessível](make-accessible-action.md).
+
 >[!TAB Criar um PDF acessível no Acrobat]
 
 Saiba como criar um [PDF acessível a partir do Acrobat](accessible-acrobat.md).
@@ -28,14 +36,6 @@ Saiba como criar um [PDF acessível a partir do Acrobat](accessible-acrobat.md).
 >[!TAB Noções básicas de marcação]
 
 Conheça os conceitos básicos sobre como [marcar um arquivo PDF](basics-tagging.md) para torná-lo acessível.
-
->[!TAB Listas complexas]
-
-Saiba como marcar [listas complexas](complex-lists.md) para acessibilidade no Acrobat.
-
->[!TAB Documentos digitalizados]
-
-Saiba como tornar um [documento digitalizado](scanned-documents.md) acessível.
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Saiba como tornar um [documento digitalizado](scanned-documents.md) acessível.
     <em>Saiba como marcar listas complexas para acessibilidade no Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Tabelas complexas" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Tabelas complexas</strong></a>
+    </div>
+    <em>Saiba como marcar tabelas para acessibilidade no Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Ação guiada Tornar acessível" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Ação guiada Tornar Acessível</strong></a>
+    </div>
+    <em>Saiba como usar a ação guiada Tornar Acessível</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Espaçador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Espaçador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
