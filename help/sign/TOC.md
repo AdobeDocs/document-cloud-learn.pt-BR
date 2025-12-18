@@ -2,20 +2,20 @@
 user-guide-title: Tutorials Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/br/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/br/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/br/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a060df1f8cf17d4b7639153ec80393cf9395916c
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 15%
+source-wordcount: '563'
+ht-degree: 14%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 15%
       + [Modificar um documento após enviar](sign-beginner-tutorials/modify-in-flight.md)
       + [Substituir um signatário](sign-beginner-tutorials/replace-signer.md)
       + [Defina os prazos e lembretes](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [Criar um modelo reutilizável](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=pt-BR)
+      + [Criar um modelo reutilizável](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
    + Assinar {#getting-started-signing}
       + [Assinar um documento eletronicamente](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -51,18 +51,19 @@ ht-degree: 15%
       + [Definição da ordem das assinaturas](sign-advanced-users/setting-up-routing.md)
       + [Uso da função de delegador](sign-advanced-users/delegate-signature.md)
       + [Usando a função de aprovador](sign-advanced-users/add-an-approver.md)
-      + [Métodos de autenticação no Acrobat Sign](sign-advanced-users/authentication-methods.md)
-      + [Gerenciar dados de formulário](sign-advanced-users/manage-form-data.md)
+      + [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Criando um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Criar um fluxo de trabalho personalizado](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Configurar pagamentos online](sign-advanced-users/set-up-online-payments.md)
-      + [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=pt-BR)
-      + [Criando um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=pt-BR)
-      + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=pt-BR)
+      + [Métodos de autenticação no Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Marcação de texto do Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Usando marcação de texto em  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gerenciar {#advanced-tasks-managing}
       + [Utilização de relatórios e transações](sign-advanced-users/creating-a-report.md)
       + [Gerenciar modelos de documento](sign-advanced-users/edit-a-template.md)
       + [Modificar um formulário web existente](sign-advanced-users/modify-webform.md)
       + [Gerenciamento de dados de formulários da Web](sign-advanced-users/manage-webform-data.md)
+      + [Gerenciar dados de formulário](sign-advanced-users/manage-form-data.md)
 + Administrar {#admin-set-up}
    + [Visão geral](admin/intro-admin-overview.md)
    + Introdução {#getting-started-admin}
@@ -76,12 +77,12 @@ ht-degree: 15%
       + [Criação e gerenciamento de grupos](admin/create-and-manage-groups.md)
       + [Configurando um arquivamento externo](admin/set-up-your-external-archive.md)
       + [Criar um modelo reutilizável](sign-advanced-users/create-a-template.md)
-      + [Uso de relatórios e transações](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Uso de relatórios e transações](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opções de relatório para usuários](admin/report-options.md)
       + [Criar um formulário da Web](sign-advanced-users/webform.md)
-      + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=pt-BR)
+      + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Envio em massa](sign-advanced-users/megasign.md)
-      + [Criação de um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
+      + [Criar um fluxo de trabalho personalizado](admin/building-a-custom-workflow.md)
       + [Relatórios de auditoria](admin/audit-reports.md)
       + [Configurar notificações para eventos e alertas](admin/set-up-shared-events-and-alert.md)
    + Tarefas avançadas {#advanced-tasks-admins}

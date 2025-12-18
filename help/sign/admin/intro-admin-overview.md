@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 ## Novidades
 
 >[!BEGINTABS]
+
+>[!TAB Criar um fluxo de trabalho personalizado]
+
+Saiba como criar e usar [fluxos de trabalho personalizados](building-a-custom-workflow.md) para acelerar o processo de criação e envio de um contrato.
 
 >[!TAB Criar um modelo reutilizável]
 
@@ -35,10 +39,6 @@ Saiba como configurar [regras de atribuição automática](automatic-assignment-
 
 Saiba como [migrar modelos e fluxos de trabalho do Docusign](docusign-templates.md) com facilidade em três etapas simples.
 
->[!TAB Adicionar um novo usuário]
-
-Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account.md).
-
 >[!ENDTABS]
 
 ## Introdução
@@ -47,7 +47,7 @@ Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Introdução para novos administradores" src="../assets/get-started-admin.png" />
+      <img alt="Primeiros passos para novos administradores" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Introdução para novos administradores</strong></a>
@@ -151,7 +151,7 @@ Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="Emissão de relatórios e uso de transações" src="../assets/reporting.png" />
+      <img alt="Utilização de relatórios e transações" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Uso de relatórios e transações</strong></a>
@@ -203,12 +203,12 @@ Saiba como [adicionar novos usuários ao Acrobat Sign](add-users-to-your-account
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Configurando um Workflow" src="../assets/workflow.png" />
+      <img alt="Criar um fluxo de trabalho personalizado" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Configurando um fluxo de trabalho</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Criar um fluxo de trabalho personalizado</strong></a>
     </div>
-    <em>Automatizar fluxos de trabalho de documentos para obter rapidamente assinaturas eletrônicas e dados</em>
+    <em>Saiba como criar e usar fluxos de trabalho personalizados para acelerar o processo de criação e envio de um contrato</em>
     <br>
   </td>
 </tr>
