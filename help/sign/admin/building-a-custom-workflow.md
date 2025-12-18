@@ -29,7 +29,7 @@ Saiba como o Designer de fluxo de trabalho personalizado é usado para digitaliz
 >
 >Os administradores de grupo atribuem fluxos de trabalho a qualquer grupo que administrem (não apenas ao grupo principal). Os administradores de grupo também podem editar qualquer fluxo de trabalho atribuído a qualquer grupo que administrem.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416167?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
