@@ -20,4 +20,4 @@ Saiba como usar a ação guiada Tornar acessível para tornar seu arquivo de PDF
 >
 >Disponível apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477968?captions=por_br&quality=12&learn=on&hidetitle=true)
