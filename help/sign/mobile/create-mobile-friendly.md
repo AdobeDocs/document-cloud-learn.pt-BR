@@ -1,20 +1,20 @@
 ---
 title: Criar Exibição Amigável para Dispositivos Móveis
-description: Saiba como criar uma visualização móvel do documento com o modo “Foco móvel”
+description: Saiba como gerar um documento móvel sem interrupções e sem qualquer suporte de desenvolvedor
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Criar exibição amigável para dispositivos móveis
 
-Saiba como criar uma visualização móvel do documento com o modo “Foco móvel”. Os remetentes agora podem gerar um formulário compatível com dispositivos móveis sem nenhum suporte de desenvolvedor.
+Saiba como gerar um documento compatível com dispositivos móveis sem interrupções e sem qualquer suporte de desenvolvedor.
 
 Com o Mobile Focus, os remetentes se beneficiam de:
 
