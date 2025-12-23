@@ -8,7 +8,7 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: ec258dc58cefb5ac22143f75755a47f122e4ccae
+source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -62,11 +62,11 @@ Saiba como usar o [modo de exibição móvel](mobile-friendly.md) para concluir 
     <br>
   </td>
    <td>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197">
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Baixar o aplicativo Acrobat Sign para dispositivos móveis para iOS" src="../assets/mobile-ios.png" />
     </a>
     <div>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para iOS</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para iOS</strong></a>
     </div>
     <em>Baixar o aplicativo Acrobat Sign para dispositivos móveis do App Store</em>
     <br>
@@ -74,11 +74,11 @@ Saiba como usar o [modo de exibição móvel](mobile-friendly.md) para concluir 
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Baixar o aplicativo móvel Acrobat Sign para Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para Android</strong></a>
     </div>
     <em>Baixar o aplicativo Acrobat Sign para dispositivos móveis da Google Play</em>
     <br>
