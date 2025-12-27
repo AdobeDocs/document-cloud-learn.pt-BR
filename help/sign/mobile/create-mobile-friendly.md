@@ -23,4 +23,4 @@ Com o Mobile Focus, os remetentes se beneficiam de:
 * Não é necessário ter conhecimento técnico especializado: crie formulários dinâmicos e de fácil utilização com o mínimo de esforço
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478403?captions=por_br&quality=12&learn=on&hidetitle=true)
