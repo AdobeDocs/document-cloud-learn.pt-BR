@@ -5,7 +5,7 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
+source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Saiba como gerar um documento compatível com dispositivos móveis sem interrupções e sem qualquer suporte de desenvolvedor.
 
-Com o Mobile Focus, os remetentes se beneficiam de:
+Com o Mobile View, os remetentes se beneficiam de:
 
 * Taxa de conclusão aumentada: taxas de conclusão de formulários mais altas que levam a resultados melhores
 * Reduza o tempo e o custo: evite o esforço necessário para converter documentos em formulários de dispositivos móveis
 * Não é necessário ter conhecimento técnico especializado: crie formulários dinâmicos e de fácil utilização com o mínimo de esforço
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478403?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
