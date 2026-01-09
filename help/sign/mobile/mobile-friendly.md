@@ -22,4 +22,4 @@ Com a Exibição móvel, o Acrobat Sign torna mais fácil do que nunca preencher
 * Maior precisão: reduz erros e garante que todas as informações necessárias sejam capturadas
 * Continuidade: os usuários podem começar e retornar ao formulário de fácil utilização em dispositivos móveis a qualquer momento, sem perder o progresso
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478391?captions=por_br&quality=12&learn=on&hidetitle=true)
