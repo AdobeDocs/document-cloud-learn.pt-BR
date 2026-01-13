@@ -6,9 +6,10 @@ role: User
 level: Beginner
 topics: Accessibility
 jira: KT-18725
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+exl-id: 0073aeb2-ae73-4a41-93a8-834706904f2c
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 Saiba o que é um arquivo de PDF acessível e por que ele é importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471634?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo faz parte da [série de acessibilidade PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) da lista de reprodução, que está disponível gratuitamente no Experience League!

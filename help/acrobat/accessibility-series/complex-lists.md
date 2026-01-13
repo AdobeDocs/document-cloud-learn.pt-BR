@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18731
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Saiba como marcar listas complexas para acessibilidade no Acrobat. As listas com
 >
 >Alguns recursos deste tutorial estão disponíveis apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477836?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo faz parte da [série de acessibilidade PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) da lista de reprodução, que está disponível gratuitamente no Experience League!
