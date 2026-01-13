@@ -20,7 +20,7 @@ Saiba como marcar tabelas para acessibilidade no Acrobat. Os tópicos abordados 
 >
 >Disponível apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477957?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

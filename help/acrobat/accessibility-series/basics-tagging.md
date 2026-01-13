@@ -21,7 +21,7 @@ Conheça os conceitos básicos de como marcar um arquivo de PDF para torná-lo a
 >
 >Alguns recursos deste tutorial estão disponíveis apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477887?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
