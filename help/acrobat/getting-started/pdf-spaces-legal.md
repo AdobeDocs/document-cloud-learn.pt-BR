@@ -19,7 +19,7 @@ Saiba como uma equipe jurídica interna usa espaços de PDF para reunir document
 
 Os PDF Spaces estão disponíveis para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475137?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por função]
 

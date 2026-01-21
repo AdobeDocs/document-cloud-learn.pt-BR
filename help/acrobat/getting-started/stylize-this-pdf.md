@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como usar a opção Estilizar esta PDF para melhorar a aparência visual de um PDF aplicando recomendações de fontes, temas de cores, imagens e elementos de design usando as ferramentas no aplicativo viabilizadas pelo Adobe Express [Adobe Express](https://express.adobe.com). O tutorial também mostra como refinar layouts, adicionar imagens geradas por Adobe Stock ou IA e personalizar o estilo do texto para criar documentos elegantes e com aparência profissional. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445546?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por função]
 
