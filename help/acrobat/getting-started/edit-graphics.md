@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Saiba como usar o modo de edição no Acrobat para adicionar, substituir, cortar, redimensionar, girar e organizar imagens diretamente em um PDF no desktop e na Web. O tutorial também mostra como gerar e refinar imagens a partir de comandos de texto usando o gerador de imagens no aplicativo viabilizado pelo Adobe Express. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446934?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por função]
 
