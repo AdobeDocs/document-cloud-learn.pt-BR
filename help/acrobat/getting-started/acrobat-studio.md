@@ -5,15 +5,40 @@ feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18748
-source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
+exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
 # O que é o Acrobat Studio?
 
-Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces e o Adobe Express Premium.
+Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces, além do Adobe Express Premium. Essas ferramentas integradas aceleram a produtividade da equipe centralizando arquivos, permitindo a análise orientada por IA e apoiando a criação completa de conteúdo em um espaço de trabalho unificado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475061?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+
+[!BADGE Por função]
+
+## Como o Acrobat Studio ajuda diferentes equipes
+
+* Assuntos legais e conformidade
+
+  Centralize políticas, contratos e orientação normativa em um espaço de trabalho e, em seguida, use o AI Assistant para destacar alterações, identificar riscos e gerar atualizações compatíveis com citações verificáveis.
+
+* Recursos humanos
+
+  Transforme documentos complexos de políticas em resumos claros, perguntas frequentes e materiais prontos para os funcionários, mantendo as mensagens consistentes e em conformidade.
+
+* Vendas
+
+  Reúna rapidamente propostas e respostas de RFP extraindo conteúdo aprovado dos documentos existentes e transformando-o em arquivos aperfeiçoados, prontos para o cliente.
+
+* Marketing e comunicações
+
+  Extraia insights de documentos de origem e transforme-os em apresentações com marca, one-pagers e conteúdo visual usando o Adobe Express.
+
+* Executivos e líderes
+
+  Obtenha resumos concisos e vinculados à origem em vários documentos para que as decisões possam ser tomadas mais rapidamente sem precisar revisar todos os arquivos.

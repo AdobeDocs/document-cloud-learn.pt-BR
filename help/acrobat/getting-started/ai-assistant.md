@@ -6,37 +6,50 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '332'
+ht-degree: 1%
 
 ---
 
 # Descubra insights de PDF com o AI Assistant
 
-Saiba como obter informações sobre seus arquivos PDF usando o Assistente do AI. O AI Assistant é um mecanismo conversacional seguro que aprimora os fluxos de trabalho de documentos e analisa dados de documentos complexos. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
+Saiba como obter informações sobre seus arquivos PDF usando o Assistente do AI. O Assistente de IA analisa um PDF para gerar resumos, responder perguntas e extrair insights com atribuições claras ao conteúdo de origem, reduzindo a necessidade de ler manualmente documentos longos. As respostas geradas por IA são verificadas por meio de um link direto de volta aos locais exatos no documento, permitindo uma tomada de decisão mais rápida e confiável. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
-## Casos de uso
+O AI Assistant está disponível para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!BEGINTABS]
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!TAB Faça uma apresentação impactante]
+[!BADGE Por função]
 
-Use prompts de voz para procurar insights do setor e relatórios de clientes em qualquer lugar. Assista ao [vídeo](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true){target="_blank"}.
+## Como o Assistente de IA ajuda diferentes equipes
 
->[!TAB Compartilhe descobertas de pesquisa mais rapidamente]
+* Assuntos legais e conformidade
 
-Resuma os relatórios do setor, obtenha insights mais aprofundados e rascunhos de recapitulação para sua equipe em um piscar de olhos. Assista ao [vídeo](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  As equipes jurídicas usam o assistente de IA para resumir contratos longos, políticas e documentos normativos, identificar rapidamente cláusulas ou alterações relevantes e verificar as informações por meio de citações diretas ao texto de origem. Isso acelera a revisão, mantendo a confiança e a rastreabilidade.
 
->[!TAB Criar propostas rapidamente]
+* Recursos humanos
 
-Acelere as respostas de RFP extraindo as principais informações do documento e cortando revisões demoradas. Assista ao [vídeo](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  As equipes de RH usam o Assistente de IA para extrair pontos principais de documentos de política, materiais de treinamento e manuais dos funcionários, permitindo que eles criem resumos e perguntas frequentes claros sem ler ou reescrever manualmente conteúdos longos.
 
->[!TAB Enviar um resumo rápido da reunião]
+* Vendas
 
-Revise as transcrições da reunião e ajude a redigir um resumo de email com os principais argumentos. Assista ao [vídeo](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true){target="_blank"}.
+  As equipes de vendas usam o Assistente de IA para digitalizar propostas, RFPs e documentação do cliente, obter rapidamente respostas relevantes ou pontos de discussão e gerar resumos concisos que ofereçam suporte a respostas mais rápidas e à preparação de negócios.
 
->[!ENDTABS]
+* Marketing e comunicações
 
->[!VIDEO](https://video.tv.adobe.com/v/3445827?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
+  As equipes de marketing usam o Assistente de IA para analisar relatórios e pesquisar documentos, extrair insights e gerar resumos bem estruturados que podem ser reutilizados em apresentações, resumos e planejamento de conteúdo.
+
+* Finanças
+
+  As equipes financeiras usam o Assistente de IA para revisar relatórios financeiros e documentos de apoio, resumir tendências ou variações e apresentar insights necessários para relatórios de nível executivo sem ler manualmente arquivos inteiros.
+
+* Gerenciamento de operações e programas
+
+  As equipes de operações usam o Assistente de IA para analisar SOPs, documentação de projetos e atualizações, entender rapidamente o que importa e gerar resumos para manter os colaboradores alinhados.
+
+* Executivos e líderes
+
+  Os executivos usam o Assistente de IA para obter resumos de alto nível e respostas diretas de documentos complexos, com citações que permitem validar insights sem revisar materiais de origem completos.
+

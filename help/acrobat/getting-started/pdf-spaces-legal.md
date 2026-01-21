@@ -5,17 +5,50 @@ feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18747
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
 # Aumente a eficiência da equipe com o PDF Spaces
 
-Transforme coleções de arquivos e sites em centros de conhecimento de conversação compartilháveis com assistentes de IA personalizados. Neste exemplo, saiba como a PDF Spaces ajuda uma equipe jurídica interna a atualizar com rapidez e segurança várias políticas de toda a empresa em resposta a novas mudanças normativas.
+Saiba como uma equipe jurídica interna usa espaços de PDF para reunir documentos de política, memorandos legais e orientação normativa em um único espaço de trabalho. Ele mostra como os resumos gerados por IA, as alterações destacadas e os insights citados ajudam as equipes a revisar as atualizações de maneira mais eficiente, mantendo a precisão e a conformidade.
 
 Os PDF Spaces estão disponíveis para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475137?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+
+[!BADGE Por função]
+
+## Como os PDF Spaces ajudam diferentes equipes
+
+* Assuntos legais e conformidade
+
+  As equipes jurídicas usam o PDF Spaces para reunir contratos, políticas e orientações normativas em um único espaço de trabalho, facilitando a revisão de documentos, a identificação de alterações e a geração de resumos citados que dão suporte à tomada de decisões precisas e auditáveis.
+
+* Recursos humanos
+
+  As equipes de RH usam o PDF Spaces para organizar documentos de política, materiais de integração e recursos de treinamento e gerar rapidamente resumos claros ou notas de referência que podem ser compartilhadas de maneira consistente em toda a organização.
+
+* Vendas
+
+  As equipes de vendas usam o PDF Spaces para coletar propostas, documentos de RFP e materiais de suporte em um só lugar, permitindo que elas revisem o conteúdo com eficiência, extraiam pontos principais e preparem respostas prontas para o cliente mais rapidamente.
+
+* Marketing e comunicações
+
+  As equipes de marketing usam o PDF Spaces para analisar relatórios de pesquisa e documentos de origem juntos, ajudando-as a extrair insights e alinhar mensagens antes de criar apresentações, resumos ou campanhas.
+
+* Finanças
+
+  As equipes financeiras usam o PDF Spaces para revisar relatórios, planilhas e documentação de suporte em contexto, facilitando a comparação de informações, apresentar insights importantes e dar suporte a relatórios executivos.
+
+* Gerenciamento de operações e programas
+
+  As equipes de operações usam espaços de PDF para manter SOPs, documentos de projetos e atualizações organizados em um espaço de trabalho compartilhado, permitindo um alinhamento mais rápido e uma comunicação mais clara entre as equipes.
+
+* Executivos e líderes
+
+  Os executivos usam o PDF Spaces para revisar resumos gerados por IA em vários documentos, ajudando-os a entender informações importantes rapidamente e, ao mesmo tempo, manter o acesso ao conteúdo original de origem quando necessário.

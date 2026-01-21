@@ -6,17 +6,35 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '203'
+ht-degree: 1%
 
 ---
 
 # Editar gráficos em um PDF
 
-Saiba como criar, editar e aprimorar gráficos na sua PDF. Editar gráficos diretamente no Acrobat permite atualizar conteúdo com precisão e profissionalmente, sem precisar alternar entre aplicativos. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
+Saiba como usar o modo de edição no Acrobat para adicionar, substituir, cortar, redimensionar, girar e organizar imagens diretamente em um PDF no desktop e na Web. O tutorial também mostra como gerar e refinar imagens a partir de comandos de texto usando o gerador de imagens no aplicativo viabilizado pelo Adobe Express. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
 
-<br> 
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!VIDEO](https://video.tv.adobe.com/v/3446934?enablevpops&quality=12&learn=on&hidetitle=true&captions=por_br)
+[!BADGE Por função]
+
+## Como o modo de edição ajuda diferentes equipes
+
+* Assuntos legais e conformidade
+
+  As equipes jurídicas usam o modo Editar para atualizar elementos gráficos e visuais em contratos, políticas e orientação sem recriar arquivos, ajudando a manter os documentos precisos e atualizados durante revisões ou alterações normativas.
+
+* Recursos humanos
+
+  As equipes de RH usam o modo Editar para revisar imagens e layouts em documentos de política, materiais de integração e PDF de treinamento, para que as atualizações possam ser feitas rapidamente sem retornar aos arquivos de design de origem.
+
+* Vendas
+
+  As equipes de vendas usam o modo Editar para substituir imagens, ajustar layouts e atualizar visuais em propostas e materiais de vendas para personalizar documentos para clientes ou oportunidades específicas.
+
+* Marketing e comunicações
+
+  As equipes de marketing usam o modo Editar para refinar imagens e conteúdo visual em PDF, garantindo que os materiais permaneçam aperfeiçoados e alinhados com as atualizações de marca ou alterações de campanha.
