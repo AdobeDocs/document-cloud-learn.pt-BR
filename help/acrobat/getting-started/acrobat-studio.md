@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,28 +17,28 @@ ht-degree: 1%
 
 Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces, além do Adobe Express Premium. Essas ferramentas integradas aceleram a produtividade da equipe centralizando arquivos, permitindo a análise orientada por IA e apoiando a criação completa de conteúdo em um espaço de trabalho unificado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475061?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por função]
 
 ## Como o Acrobat Studio ajuda diferentes equipes
 
-* Assuntos legais e conformidade
+* **Conformidade e questões legais**
 
   Centralize políticas, contratos e orientação normativa em um espaço de trabalho e, em seguida, use o AI Assistant para destacar alterações, identificar riscos e gerar atualizações compatíveis com citações verificáveis.
 
-* Recursos humanos
+* **Recursos Humanos**
 
   Transforme documentos complexos de políticas em resumos claros, perguntas frequentes e materiais prontos para os funcionários, mantendo as mensagens consistentes e em conformidade.
 
-* Vendas
+* **Vendas**
 
   Reúna rapidamente propostas e respostas de RFP extraindo conteúdo aprovado dos documentos existentes e transformando-o em arquivos aperfeiçoados, prontos para o cliente.
 
-* Marketing e comunicações
+* **Marketing e comunicações**
 
   Extraia insights de documentos de origem e transforme-os em apresentações com marca, one-pagers e conteúdo visual usando o Adobe Express.
 
-* Executivos e líderes
+* **Executivos e líderes**
 
   Obtenha resumos concisos e vinculados à origem em vários documentos para que as decisões possam ser tomadas mais rapidamente sem precisar revisar todos os arquivos.
