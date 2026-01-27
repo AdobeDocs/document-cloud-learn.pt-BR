@@ -24,7 +24,7 @@ Saiba como editar palavras, frases ou até mesmo páginas inteiras na sua PDF. A
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409181?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

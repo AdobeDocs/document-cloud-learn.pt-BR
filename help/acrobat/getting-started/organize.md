@@ -24,4 +24,4 @@ Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416169?captions=por_br&quality=12&learn=on&hidetitle=true)
