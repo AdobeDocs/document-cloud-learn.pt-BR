@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Estilizar esta PDF
 
-Saiba como usar a opção Estilizar esta PDF para melhorar a aparência visual de um PDF aplicando recomendações de fontes, temas de cores, imagens e elementos de design usando as ferramentas no aplicativo viabilizadas pelo Adobe Express [Adobe Express](https://express.adobe.com). O tutorial também mostra como refinar layouts, adicionar imagens geradas por Adobe Stock ou IA e personalizar o estilo do texto para criar documentos elegantes e com aparência profissional. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-workspace.md).
+Saiba como usar a opção Estilizar esta PDF para melhorar a aparência visual de um PDF aplicando recomendações de fontes, temas de cores, imagens e elementos de design usando as ferramentas no aplicativo viabilizadas pelo Adobe Express [Adobe Express](https://express.adobe.com). O tutorial também mostra como refinar layouts, adicionar imagens geradas por Adobe Stock ou IA e personalizar o estilo do texto para criar documentos elegantes e com aparência profissional. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445546?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por função]
 
