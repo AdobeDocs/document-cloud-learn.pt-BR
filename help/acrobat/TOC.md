@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Fundamentos {#basics}
       + [Noções básicas do Workspace](getting-started/workspace-basics.md)
       + [Nova experiência do Acrobat](getting-started/new-experience.md)
-      + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+      + [Trabalhar com [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
       + [Produtividade em qualquer lugar](getting-started/productivity.md)
       + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [Dica #3 - Documentos digitais do Protect](industry/gov/protect-digital-documents.md)
          + [Dica #4 - Trabalhar com formulários e assinaturas](industry/gov/work-with-forms-and-signatures.md)
          + [Dica #5 - Digitalizar e editar em dispositivos móveis](industry/gov/scan-and-edit-on-mobile.md)
-      + Acessibilidade {#pdfs}
-         + [Tornar PDF acessível](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Compreendendo a acessibilidade](industry/gov/understanding-accessibility.md)
-         + [#2 - Criação no Word](industry/gov/authoring-in-word.md)
-         + [#3 - Finalizar no Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Tornando as cédulas de PDF mais acessíveis](industry/gov/making-pdf-ballots-accessible.md)
 + Desenvolver {#develop}
    + [Visão geral](develop/develop-overview.md)
 + Implantar {#deploy}
