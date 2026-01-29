@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces, além do Adobe Express Premium. Essas ferramentas integradas aceleram a produtividade da equipe centralizando arquivos, permitindo a análise orientada por IA e apoiando a criação completa de conteúdo em um espaço de trabalho unificado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475061?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
-[!BADGE Por função]
+[!BADGE Específico da equipe]
 
 ## Como o Acrobat Studio ajuda diferentes equipes
 
