@@ -19,7 +19,7 @@ Saiba como obter informações sobre seus arquivos PDF usando o Assistente do AI
 
 O AI Assistant está disponível para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445827?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico da equipe]
 
