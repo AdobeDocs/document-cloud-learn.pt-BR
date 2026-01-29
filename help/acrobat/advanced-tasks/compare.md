@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Aplicativos, material de apoio, planilhas de fatos, manuais, políticas, relató
 [!BADGE Impacto Organizacional]
 Economia de custos, eficiência organizacional, economia de tempo, garantia de qualidade
 
->[!VIDEO](https://video.tv.adobe.com/v/3414207?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da playlist [Executar Tarefas Avançadas no Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponível gratuitamente no Experience League!
 
 >[!NOTE]
 >

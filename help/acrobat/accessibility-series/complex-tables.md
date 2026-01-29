@@ -5,22 +5,22 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Tabelas complexas
 
-Saiba como marcar tabelas para acessibilidade no Acrobat. Os tópicos abordados incluem: definição de opções do editor de tabelas, identificação do tipo de célula (TD ou TH), definição do escopo e da extensão do cabeçalho, criação de um resumo de tabela, geração de IDs de célula de cabeçalho, associação de células de dados a IDs de célula de cabeçalho e artefato de uma linha de cabeçalho repetitiva.
+Saiba como marcar tabelas para acessibilidade no Acrobat. Os tópicos abordados incluem a definição de opções do editor de tabelas, a identificação do tipo de célula (TD ou TH), a definição do escopo e da extensão do cabeçalho e a criação de um resumo da tabela. O tutorial também aborda a geração de IDs de célula de cabeçalho, a associação de células de dados a IDs de célula de cabeçalho e a artefatos de uma linha de cabeçalho repetida.
 
 >[!NOTE]
 >
 >Disponível apenas no Acrobat Pro, Premium e Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477957?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

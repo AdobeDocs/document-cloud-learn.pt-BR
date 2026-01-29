@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10835
 thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Ajuste automático de layout
 
-Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa a [Nova experiência do Acrobat](new-experience.md).
+Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automaticamente o layout nas páginas do PDF. Este tutorial em vídeo usa a [nova experiência do Acrobat](new-experience.md).
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automatic
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441225?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)

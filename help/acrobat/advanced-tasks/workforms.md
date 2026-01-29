@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Use a ferramenta Prepare Form para adicionar automaticamente campos de formulár
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448516?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ As propriedades de favo são usadas para espalhar o texto uniformemente pela lar
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439897?hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -118,7 +118,7 @@ Proteger um formulário garante que os campos ou o conteúdo do documento não p
 1. Digite *Ctrl + D (Cmd + D no Mac)* para abrir a caixa de diálogo **Propriedades do documento**.
 1. Selecione a guia **Segurança**.
 1. Selecione **Segurança por Senha** na lista suspensa **Método de Segurança:**.
-1. Marque **Restringir a edição e impressão do documento. Uma senha será necessária para alterar essas configurações de permissão.**
+1. Marque **Restringir a edição e impressão do documento. Uma senha é necessária para alterar essas configurações de permissão.**
 1. Selecione **Alta Resolução** no menu suspenso **Impressão Permitida:**.
 1. Selecione **Preencher campos de formulário e assinar campos de assinatura existentes** na lista suspensa **Alterações permitidas:**.
 1. Digite uma senha forte no campo **Alterar Senha de Permissões:**.

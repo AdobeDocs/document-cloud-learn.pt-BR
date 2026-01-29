@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # Remover informações confidenciais
 
-Saiba como usar a ferramenta Redigir para remover permanentemente informações confidenciais de um PDF e, em seguida, limpar o documento para remover informações não visíveis no arquivo, como comentários, metadados ou camadas ocultas. A remoção permanente de conteúdo sigiloso e dados ocultos é importante para que as informações não sejam transmitidas ao publicar sua PDF. Este tutorial usa a [Nova experiência do Acrobat](../getting-started/new-experience.md).
+Saiba como usar a ferramenta Redigir para remover permanentemente informações confidenciais de um PDF. O tutorial também aborda como animar o documento para remover informações que não estão visíveis no arquivo, como comentários, metadados ou camadas ocultas. A remoção permanente de conteúdo sigiloso e dados ocultos é importante para que as informações não sejam transmitidas ao publicar sua PDF. Este tutorial usa a [nova experiência do Acrobat](../getting-started/new-experience.md).
 
 >[!NOTE]
 >

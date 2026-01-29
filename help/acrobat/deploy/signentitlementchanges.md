@@ -1,15 +1,15 @@
 ---
 title: Atualizações importantes de produtos Acrobat DC para clientes ETLA
-description: Saiba mais sobre as alterações importantes nos direitos da Acrobat DC incluídos nas ofertas do ETLA (Enterprise Term License Agreement) de agosto de 2020 a novembro de 2020
+description: Saiba mais sobre as alterações importantes nos direitos da Acrobat DC incluídos nas ofertas do ETLA (Enterprise Term License Agreement) que começam de agosto de 2020 a 20 de novembro de 2020
 feature: Deploy
 role: Admin
 level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Se você não atualizou o Acrobat DC para a versão mais recente, a ferramenta p
 
 ## Por que estamos desprovisionando isso?
 
-[Em outubro de 2018, lançamos um novo Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Esta versão mais recente inclui novas ferramentas e funcionalidades para trabalhar melhor com PDF em dispositivos móveis, na Web e no desktop, além de novas ferramentas de colaboração. Como assinante do Acrobat DC, você já deve ter esses ótimos recursos disponíveis. Outra atualização importante que lançamos foi a solução de assinatura eletrônica Adobe Sign.
+[Em outubro de 2018, lançamos um novo Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Esta versão mais recente inclui novas ferramentas e funcionalidades para trabalhar melhor com PDF em dispositivos móveis, na Web e no desktop, além de novas ferramentas de colaboração. Como assinante do Acrobat DC, você já deve ter esses ótimos recursos disponíveis. Outra atualização importante lançada foi a nossa solução de assinatura eletrônica Adobe Sign.
 
 Antes da versão de outubro de 2018, os usuários do Acrobat DC podiam enviar documentos para assinatura eletrônica usando ferramentas no Acrobat denominadas &quot;Fill &amp; Sign&quot; (ou &quot;Adobe Sign&quot; ou &quot;Send for Signature“) que receberam o direito [!DNL Adobe Sign Individual].
 
@@ -57,7 +57,7 @@ Os usuários ainda poderão acessar contratos enviados antes desta ação por me
 
 ## Experiência do Acrobat DC sem direito [!DNL Sign Individual]
 
-Os usuários com direitos do Adobe Sign Enterprise poderão enviar contratos no Acrobat usando o Adobe Sign ou a ferramenta [!UICONTROL Fill &amp; Sign] (Solicitar assinaturas).
+Os usuários com direitos do Adobe Sign Enterprise podem enviar contratos no Acrobat usando o Adobe Sign ou a ferramenta [!UICONTROL Fill &amp; Sign] (Solicitar assinaturas).
 Os usuários que não possuem direitos do Adobe Sign Enterprise não poderão enviar novos contratos e receberão uma mensagem de erro. O gráfico abaixo descreve os possíveis resultados.
 
 ![Mensagem de erro para a experiência do Acrobat DC](../assets/Deploy_SignEntitle2.png)
@@ -70,8 +70,8 @@ Os usuários poderão fazer logon em https://documentcloud.adobe.com/ para acess
 
 ## Para obter mais informações, visite as páginas abaixo:
 
-* [Faça logon na Adobe Document Cloud](https://helpx.adobe.com/br/document-cloud/help/sign-in.html)
-* [Gerenciando arquivos (Onde estão meus arquivos?)](https://helpx.adobe.com/br/document-cloud/help/manage-files.html)
+* [Faça logon na Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [Gerenciando arquivos (Onde estão meus arquivos?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Usando o [!UICONTROL Customization Wizard do Acrobat] para configuração](https://www.adobe.com/br/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Visão geral do [!UICONTROL Admin Console]](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
 * [Gerenciando o Adobe Sign no [!UICONTROL Admin Console]](https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html)

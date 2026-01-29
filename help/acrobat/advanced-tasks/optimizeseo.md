@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Saiba como otimizar um PDF para melhorar a capacidade de descoberta e a classifi
 
 ## &#x200B;1. Crie um conteúdo exclusivo
 
-Crie conteúdo de PDF diferente das informações contidas em suas páginas da Web.
+Crie conteúdo de PDF diferente das informações em suas páginas da Web.
 
 +++Exibir detalhes sobre como criar conteúdo exclusivo
 
@@ -29,9 +29,9 @@ O conteúdo do PDF deve ser exclusivo e estruturado da seguinte maneira:
 * Usar um único título principal começando com uma palavra-chave
 * Usar subtítulos de palavras-chave organizados em uma estrutura hierárquica
 * Use parágrafos curtos contendo palavras-chave e listas
-* Adicionar hiperlinks internos e externos (conteúdo em seu site ou em outros sites)
+* Adicionar conteúdo interno e externo ao seu site ou a outros sites com hiperlinks
 * Adicionar um sumário com hiperlink para documentos com mais de 25 páginas
-* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=pt-BR) em todos os documentos digitalizados
+* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) em todos os documentos digitalizados
 * Crie PDF compatíveis com dispositivos móveis
 Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
 
@@ -64,7 +64,7 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
 ## &#x200B;3. Marque seu PDF
 
-Marcar conteúdo no seu PDF não apenas torna o seu arquivo [Acessível](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=pt-BR) para pessoas com deficiência, como também melhora o SEO.
+Marcar conteúdo no seu PDF não apenas torna o arquivo [Acessível](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para pessoas com deficiência, como também melhora o SEO.
 
 +++Exibir detalhes sobre como marcar um PDF
 
@@ -88,7 +88,7 @@ Marque um PDF da seguinte maneira:
 
 ## &#x200B;4. Prepare-se para a Web
 
-Otimize a experiência de interação com seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo de PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
+Otimize seu PDF preparando-o para exibição na Web e [reduzindo o tamanho do arquivo de PDF](https://www.adobe.com/br/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Exibir detalhes sobre como preparar seu PDF para a Web
 
@@ -131,7 +131,7 @@ A última etapa é [proteger seu PDF](https://www.adobe.com/br/acrobat/online/pa
 Proteja um PDF da seguinte maneira:
 
 1. Abra as **[!UICONTROL Propriedades do Documento]** (*Ctrl + D* no Windows ou *Cmd + D* no Mac) e selecione a guia **[!UICONTROL Segurança]**.
-1. Verificar **[!UICONTROL Imprimindo, editando e imprimindo o documento. Uma senha será necessária para alterar essas configurações.]**
+1. Verificar **[!UICONTROL Imprimindo, editando e imprimindo o documento. Uma senha é necessária para alterar essas configurações.]**
 1. Em **[!UICONTROL Alterações Permitidas:]** selecione **[!UICONTROL Nenhuma]**.
 1. Marque **[!UICONTROL Habilitar o acesso ao texto para dispositivos leitores de tela para deficientes visuais.]**
 1. Informe e confirme uma senha forte.
@@ -141,4 +141,4 @@ Proteja um PDF da seguinte maneira:
 
 +++
 
-Agora seu PDF está pronto para ser publicado na web — com potencial ideal de classificação de palavras-chave e interação com o usuário final.
+Agora, o seu PDF está pronto para ser publicado na Web, com potencial ideal de classificação de palavras-chave e interação com o usuário final.

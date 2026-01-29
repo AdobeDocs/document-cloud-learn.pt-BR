@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Saiba como uma equipe jurídica interna usa espaços de PDF para reunir document
 
 Os PDF Spaces estão disponíveis para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475137?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico da equipe]
 
@@ -27,20 +27,20 @@ Os PDF Spaces estão disponíveis para usuários que compram o Acrobat Studio ou
 
 * **Jurídico**
 
-  As equipes jurídicas usam o PDF Spaces para reunir contratos, políticas e orientações normativas em um único espaço de trabalho, facilitando a revisão de documentos, a identificação de alterações e a geração de resumos citados que dão suporte à tomada de decisões precisas e auditáveis.
+  As equipes jurídicas usam os PDF Spaces para centralizar contratos, políticas e orientação, facilitando a revisão de documentos em conjunto, o controle de alterações e a geração de resumos precisos e auditáveis.
 
 * **Vendas**
 
-  As equipes de vendas usam o PDF Spaces para coletar propostas, documentos de RFP e materiais de suporte em um só lugar, permitindo que elas revisem o conteúdo com eficiência, extraiam pontos principais e preparem respostas prontas para o cliente mais rapidamente.
+  As equipes de vendas usam o PDF Spaces para reunir propostas, RFPs e materiais de suporte em um só lugar, ajudando-as a revisar o conteúdo com eficiência, extrair pontos principais e preparar respostas prontas para o cliente com mais rapidez.
 
 * **H**
 
-  As equipes de RH usam o PDF Spaces para organizar documentos de política, materiais de integração e recursos de treinamento e gerar rapidamente resumos claros ou notas de referência que podem ser compartilhadas de maneira consistente em toda a organização.
+  As equipes de RH usam o PDF Spaces para organizar políticas, materiais de integração e recursos de treinamento, bem como gerar rapidamente resumos claros ou notas de referência para um compartilhamento consistente em toda a organização.
 
 * **Finanças**
 
-  As equipes financeiras usam o PDF Spaces para revisar relatórios, planilhas e documentação de suporte em contexto, facilitando a comparação de informações, apresentar insights importantes e dar suporte a relatórios executivos.
+  As equipes financeiras usam o PDF Spaces para revisar relatórios, planilhas e documentos auxiliares em contexto, facilitando a comparação de informações, análises de superfície e relatórios executivos de suporte.
 
 * **Aquisição**
 
-  As equipes de compras usam os PDF Spaces para centralizar todos os documentos relacionados ao fornecedor, como contratos, RFPs, lances, declarações de trabalho, formulários de conformidade e notas de negociação, em espaços de trabalho organizados e compartilhados. Isso ajuda a otimizar a colaboração com as partes interessadas, rastrear versões e aprovações, manter a consistência entre os processos de fornecimento e garantir que todos os documentos permaneçam seguros, acessíveis e fáceis de encontrar durante todo o ciclo de vida da aquisição.
+  As equipes de compras usam espaços de PDF para reunir todos os documentos do fornecedor em um espaço de trabalho, no qual a IA resume automaticamente o conteúdo, destaca as principais alterações e revela insights importantes.

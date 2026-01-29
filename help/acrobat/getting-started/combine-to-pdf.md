@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Combine arquivos em um único PDF
 
-Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como combinar perfeitamente muitos tipos diferentes de arquivos (PDF, Word, Excel, PowerPoint, JPEG etc.) em um único PDF. [Combinar arquivos em um único PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} permite gerenciar e controlar o conteúdo enviado para outras pessoas, criando uma experiência melhor.
+Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado mais rápido do que nunca. Saiba como combinar perfeitamente vários tipos diferentes de arquivos (PDF, Word, Excel, PowerPoint, JPEG etc.) em um único PDF. [Combinar arquivos em um único PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} permite gerenciar e controlar o conteúdo enviado para outras pessoas, criando uma experiência melhor.
 
 >[!TIP]
 >
@@ -24,8 +24,8 @@ Fornecer as melhores experiências ao cliente requer que o conteúdo seja criado
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3414215?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/pt-br/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Introdução ao Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), disponível gratuitamente no Experience League!
