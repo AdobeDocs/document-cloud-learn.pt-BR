@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Com o trabalho remoto em qualquer lugar, a colaboração contínua é essencial para fornecer conteúdo com velocidade e escala. Mantenha os projetos em movimento, coletando comentários, colaborando em tempo real e acompanhando o progresso de qualquer lugar. Saiba como criar um processo de revisão de documentos que não apenas aumenta a eficiência, mas também a qualidade do conteúdo. Este tutorial em vídeo usa a [nova experiência do Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409202?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

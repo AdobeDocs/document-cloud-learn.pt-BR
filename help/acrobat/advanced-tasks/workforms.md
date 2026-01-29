@@ -37,7 +37,7 @@ Use a ferramenta Prepare Form para adicionar automaticamente campos de formulár
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448516?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ As propriedades de favo são usadas para espalhar o texto uniformemente pela lar
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439897?captions=por_br&hidetitle=true)
 
 <br> 
 

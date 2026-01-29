@@ -24,4 +24,4 @@ Saiba mais sobre o novo modo de edição que reflui conteúdo e ajusta automatic
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441225?captions=por_br&quality=12&learn=on&hidetitle=true)

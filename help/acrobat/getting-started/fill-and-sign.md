@@ -18,4 +18,4 @@ ht-degree: 2%
 
 Saiba como [preencher e assinar um formulário PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.html){target="_blank"} de forma rápida e fácil. Não é necessária impressão ou digitalização confusas.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414222?captions=por_br&quality=12&learn=on&hidetitle=true)
