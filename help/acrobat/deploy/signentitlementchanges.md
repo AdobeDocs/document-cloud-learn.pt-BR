@@ -70,8 +70,8 @@ Os usuários poderão fazer logon em https://documentcloud.adobe.com/ para acess
 
 ## Para obter mais informações, visite as páginas abaixo:
 
-* [Faça logon na Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [Gerenciando arquivos (Onde estão meus arquivos?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Faça logon na Adobe Document Cloud](https://helpx.adobe.com/br/document-cloud/help/sign-in.html)
+* [Gerenciando arquivos (Onde estão meus arquivos?)](https://helpx.adobe.com/br/document-cloud/help/manage-files.html)
 * [Usando o [!UICONTROL Customization Wizard do Acrobat] para configuração](https://www.adobe.com/br/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Visão geral do [!UICONTROL Admin Console]](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
 * [Gerenciando o Adobe Sign no [!UICONTROL Admin Console]](https://helpx.adobe.com/br/enterprise/using/adobe-sign-for-enterprise.html)

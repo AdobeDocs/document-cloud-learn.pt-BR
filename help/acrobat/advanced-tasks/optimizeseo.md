@@ -31,7 +31,7 @@ O conteúdo do PDF deve ser exclusivo e estruturado da seguinte maneira:
 * Use parágrafos curtos contendo palavras-chave e listas
 * Adicionar conteúdo interno e externo ao seu site ou a outros sites com hiperlinks
 * Adicionar um sumário com hiperlink para documentos com mais de 25 páginas
-* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) em todos os documentos digitalizados
+* Executar o [reconhecimento de texto](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) em todos os documentos digitalizados
 * Crie PDF compatíveis com dispositivos móveis
 Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
 
@@ -64,7 +64,7 @@ Tente iniciar o resumo usando um verbo de ação como Aprender, Descobrir, Explo
 
 ## &#x200B;3. Marque seu PDF
 
-Marcar conteúdo no seu PDF não apenas torna o arquivo [Acessível](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para pessoas com deficiência, como também melhora o SEO.
+Marcar conteúdo no seu PDF não apenas torna o arquivo [Acessível](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para pessoas com deficiência, como também melhora o SEO.
 
 +++Exibir detalhes sobre como marcar um PDF
 
