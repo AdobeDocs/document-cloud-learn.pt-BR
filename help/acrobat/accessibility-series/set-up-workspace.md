@@ -22,4 +22,4 @@ Saiba como colocar todas as ferramentas de acessibilidade ao alcance dos dedos p
 
 >[!TIP]
 >
->Este vídeo faz parte da [série de acessibilidade PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) da lista de reprodução, que está disponível gratuitamente no Experience League!
+>Este vídeo faz parte da [série de acessibilidade PDF](https://experienceleague.adobe.com/pt-br/playlists/acrobat-pdf-accessibility) da lista de reprodução, que está disponível gratuitamente no Experience League!
