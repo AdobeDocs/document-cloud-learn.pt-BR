@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como é fácil delegar a assinatura de um documento a outra pessoa.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412558?captions=por_br&quality=12&learn=on&hidetitle=true)
