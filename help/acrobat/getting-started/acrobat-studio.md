@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # O que é o Acrobat Studio?
 
-Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces, além do Adobe Express Premium. Essas ferramentas integradas aceleram a produtividade da equipe centralizando arquivos, permitindo a análise orientada por IA e apoiando a criação completa de conteúdo em um espaço de trabalho unificado.
+Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trabalhos complexos com o Acrobat Studio para que sua equipe possa se mover mais rapidamente. O Acrobat Studio é uma solução completa que inclui o Acrobat Pro, o AI Assistant, o PDF Spaces, além do Adobe Express Premium. Explore as opções interativas *Experimente agora* abaixo para saber como o Acrobat Studio otimiza o trabalho da sua equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475061?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico da equipe]
 
@@ -25,20 +25,20 @@ Saiba como criar conteúdo seguro para a marca, extrair insights e otimizar trab
 
 * **Conformidade e questões legais**
 
-  Centralize políticas, contratos e orientação normativa em um espaço de trabalho e, em seguida, use o AI Assistant para destacar alterações, identificar riscos e gerar atualizações compatíveis com citações verificáveis.
+  Centralize políticas, contratos e orientação normativa em um espaço de trabalho e, em seguida, use o AI Assistant para destacar alterações, identificar riscos e gerar atualizações compatíveis com citações verificáveis. [Experimente agora](https://w.adobedemo.com/s/ujZN1y).
 
 * **Recursos Humanos**
 
-  Transforme documentos complexos de políticas em resumos claros, perguntas frequentes e materiais prontos para os funcionários, mantendo as mensagens consistentes e em conformidade.
+  Transforme documentos complexos de políticas em resumos claros, perguntas frequentes e materiais prontos para os funcionários, mantendo as mensagens consistentes e em conformidade. [Experimente agora](https://w.adobedemo.com/s/NvvfVm).
 
 * **Vendas**
 
-  Reúna rapidamente propostas e respostas de RFP extraindo conteúdo aprovado dos documentos existentes e transformando-o em arquivos aperfeiçoados, prontos para o cliente.
+  Reúna rapidamente propostas e respostas de RFP extraindo conteúdo aprovado dos documentos existentes e transformando-o em arquivos aperfeiçoados, prontos para o cliente. [Experimente agora](https://w.adobedemo.com/s/HEEljN).
 
 * **Marketing e comunicações**
 
   Extraia insights de documentos de origem e transforme-os em apresentações com marca, one-pagers e conteúdo visual usando o Adobe Express.
 
-* **Executivos e líderes**
+* **Finanças**
 
-  Obtenha resumos concisos e vinculados à origem em vários documentos para que as decisões possam ser tomadas mais rapidamente sem precisar revisar todos os arquivos.
+  Saiba como as equipes financeiras podem trabalhar mais rapidamente com relatórios financeiros — sem comprometer a precisão, a confiança ou o controle. [Experimente agora]https://w.adobedemo.com/s/31LpAI.
