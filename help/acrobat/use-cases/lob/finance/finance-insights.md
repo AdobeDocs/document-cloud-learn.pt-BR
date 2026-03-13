@@ -6,32 +6,36 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 57155812d67c812370d0b5d93f03211b5e1c25f7
+source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Preparar documentos financeiros prontos para os executivos, do insight à entrega
 
-Saiba como as equipes financeiras usam o Acrobat Studio para passar da análise à entrega, consolidando documentos financeiros, colaborando com segurança com as partes interessadas e criando relatórios e apresentações prontos para executivos. Esse fluxo de trabalho completo mostra como apresentar insights, gerenciar revisões, aplicar um design consistente com a marca e fornecer materiais financeiros seguros e prontos para auditoria para a liderança e os relatórios do conselho. Este caso de uso foi projetado para ser concluído em sequência. Cada vídeo se baseia na etapa anterior do fluxo de trabalho.
+Saiba como as equipes financeiras usam o Acrobat para gerenciar documentos financeiros do insight à entrega. Este caso de uso apresenta um fluxo de trabalho completo para analisar informações, colaborar com as partes interessadas e criar materiais financeiros prontos para executivos. Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
-## &#x200B;1. Compreender o desempenho financeiro
+Ideal para: líderes financeiros, equipes de FP&amp;A, analistas e qualquer pessoa que prepare materiais para revisão executiva ou de conselho.
+
+## Etapa 1. Compreender o desempenho financeiro
 
 Comece consolidando documentos financeiros e apresentando as principais informações para preparar as informações para a revisão executiva.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;2. Colaborar em relatórios financeiros
+## Etapa 2. Colaborar em relatórios financeiros
 
-Reúna as partes interessadas para revisar materiais financeiros, compartilhar feedback e aprimorar os insights em um espaço de trabalho seguro.
+Os insights estão prontos para a revisão da equipe. Reúna as partes interessadas para revisar materiais financeiros, compartilhar feedback e aprimorar os insights em um espaço de trabalho seguro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;3. Crie apresentações prontas para executivos
+## Etapa 3. Crie apresentações prontas para executivos
 
-Transforme insights validados em apresentações sofisticadas de marca e resultados financeiros seguros para a liderança.
+O feedback está completo e o conteúdo pronto para ser entregue. Transforme insights validados em apresentações sofisticadas de marca e resultados financeiros seguros para a liderança.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
+Agora, você tem um processo repetível para analisar, revisar e fornecer documentos financeiros prontos para executivos usando o Acrobat.
 
