@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
@@ -32,12 +33,12 @@ Saiba como as equipes financeiras podem consolidar informações financeiras par
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="Transforme relatórios financeiros em insights prontos para executivos" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="Preparar documentos financeiros prontos para os executivos, do insight à entrega" src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>Transforme relatórios financeiros em insights prontos para executivos</strong></a>
+    <a href="finance-insights.md"><strong>Prepare documentos financeiros prontos para executivos, do insight à entrega</strong></a>
     </div>
-    <em>Saiba como as equipes financeiras podem consolidar informações financeiras para rapidamente revelar informações importantes sobre desempenho</em>
+    <em>Saiba como as equipes financeiras usam o Acrobat Studio para passar da análise para a entrega</em>
     <br>
   </td>
   <td>
