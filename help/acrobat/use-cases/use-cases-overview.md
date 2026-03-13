@@ -1,22 +1,56 @@
 ---
-title: Casos de uso
-description: Veja como transformar as experiências de clientes e funcionários explorando diferentes casos de uso
+title: Visão geral dos casos de uso
+description: Explore vários casos de uso para saber como o Acrobat pode transformar seu trabalho
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Casos de uso
+# Visão geral dos casos de uso
 
-Saiba como usar o Acrobat para aumentar a produtividade e transformar informações em insights acionáveis para sua equipe.
+Saiba como usar o Acrobat para aumentar a produtividade e transformar informações em insights acionáveis para sua equipe e o setor.
+
+## Linha de negócios
+
+Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para solucionar os desafios diários dos documentos, otimizar fluxos de trabalho e dar suporte ao trabalho essencial aos negócios.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Casos de uso de finanças" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>Casos de uso de finanças</strong></a>
+    </div>
+    <em>Saiba como as equipes financeiras usam o Acrobat para criar, gerenciar, analisar e proteger documentos financeiros</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaçador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Indústria
 
@@ -27,7 +61,7 @@ Saiba como usar o Acrobat para aumentar a produtividade e transformar informaç�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para órgãos governamentais" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
