@@ -1,22 +1,23 @@
 ---
-title: Do insight ao impacto — simplifique os fluxos de trabalho de RH
+title: Do insight ao impacto — fluxos de trabalho integrados simplificados
 description: Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integração de funcionários do início ao fim
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# Do insight ao impacto: simplifique os fluxos de trabalho de RH
+# Da percepção ao impacto: simplifique os fluxos de trabalho de integração
 
 Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integração de funcionários do início ao fim. Saiba como transformar documentos de integração complexos em insights claros, colaborar com as partes interessadas em PDF Spaces compartilhados e criar conteúdo elegante e de marca que esteja pronto para compartilhar com novos funcionários, de forma mais rápida, consistente e confiável. Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
-**Ideal para:** líderes de RH, parceiros de negócios e operações de RH, equipes de integração e experiência de funcionário e qualquer pessoa responsável por revisar, colaborar ou criar materiais de RH voltados para funcionários.
+**Ideal para:** líderes de RH, parceiros de negócios e operações de RH, equipes de integração e experiência de funcionário e qualquer pessoa que prepare materiais de RH para funcionários ou liderança.
 
 ## Etapa 1. Transforme documentos de integração em insights claros
 
@@ -37,4 +38,3 @@ O feedback está completo e o conteúdo pronto para ser entregue. Veja como o Ac
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Agora, você tem um processo repetível para analisar, revisar e fornecer documentos prontos para funcionários integrados usando o Acrobat Studio.
-

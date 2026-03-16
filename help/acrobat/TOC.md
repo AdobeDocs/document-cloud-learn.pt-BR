@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6d1049437e47a684478d5d2c513f935afbcc20fc
+source-git-commit: 39f40663f2c89c234a6f29767d9a451fb643589c
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 23%
@@ -22,7 +22,7 @@ ht-degree: 23%
    + Fundamentos {#basics}
       + [Noções básicas do Workspace](getting-started/workspace-basics.md)
       + [Nova experiência do Acrobat](getting-started/new-experience.md)
-      + [Trabalhar com  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+      + [Trabalhar com  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
       + [Produtividade em qualquer lugar](getting-started/productivity.md)
       + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 23%
       + [Comandos e ferramentas personalizados](advanced-tasks/custom.md)
 + Ativado por IA {#ai-powered}
    + [Visão geral](ai-powered/ai-overview.md)
-   + [Descubra insights de PDF com o AI Assistant](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Aumente a eficiência da equipe com o PDF Spaces](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Editar gráficos em um PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Estilizar esta PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Descubra insights de PDF com o AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Aumente a eficiência da equipe com o PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Editar gráficos em um PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Estilizar esta PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Casos de uso {#use-cases}
    + [Visão geral](use-cases/use-cases-overview.md)
    + Linha de negócios {#lob}
@@ -96,7 +96,7 @@ ht-degree: 23%
          + [Preparar documentos financeiros prontos para os executivos, do insight à entrega](use-cases/lob/finance/finance-insights.md)
       + HR {#hr}
          + [Visão geral](use-cases/lob/hr/hr-overview.md)
-         + [Do insight ao impacto: simplifique os fluxos de trabalho de RH](use-cases/lob/hr/hr-insights.md)
+         + [Do insight ao impacto: simplifique os fluxos de trabalho de integração](use-cases/lob/hr/hr-insights.md)
    + Governo {#gov}
       + [Visão geral](use-cases/gov/gov-overview.md)
       + Cinco dicas para trabalhar em qualquer lugar com o Acrobat {#tips}
@@ -155,5 +155,5 @@ ht-degree: 23%
    + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
 + Dispositivos móveis {#mobile}
    + [Visão geral](mobile/mobile-overview.md)
-   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)

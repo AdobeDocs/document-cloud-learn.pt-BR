@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -32,10 +33,10 @@ Descubra como as equipes de RH usam o Acrobat Studio para otimizar o conteúdo d
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="Do insight ao impacto: simplifique os fluxos de trabalho de RH" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="Do insight ao impacto: simplifique os fluxos de trabalho de integração" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>Do insight ao impacto: otimizar fluxos de trabalho de RH</strong></a>
+    <a href="hr-insights.md"><strong>Do insight ao impacto: simplifique os fluxos de trabalho de integração</strong></a>
     </div>
     <em>Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integração de funcionários do início ao fim</em>
     <br>
