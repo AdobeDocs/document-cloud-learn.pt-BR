@@ -6,14 +6,14 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
 
-# Da percepção ao impacto: simplifique os fluxos de trabalho de integração
+# Do insight ao impacto: simplifique os fluxos de trabalho de integração
 
 Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integração de funcionários do início ao fim. Saiba como transformar documentos de integração complexos em insights claros, colaborar com as partes interessadas em PDF Spaces compartilhados e criar conteúdo elegante e de marca que esteja pronto para compartilhar com novos funcionários, de forma mais rápida, consistente e confiável. Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
@@ -31,7 +31,7 @@ Os insights estão prontos para a revisão da equipe. Saiba como o PDF Spaces ma
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Etapa 3. Crie apresentações prontas para executivos
+## Etapa 3. Criar conteúdo de integração envolvente para novas contratações
 
 O feedback está completo e o conteúdo pronto para ser entregue. Veja como o Acrobat Studio usa IA e modelos de marca para criar rapidamente apresentações e materiais prontos para os funcionários e fáceis de compartilhar e atualizar.
 

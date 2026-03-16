@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20534
 exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Explore como as equipes de RH usam o Acrobat para gerenciar documentos e fluxos 
 
 >[!BEGINTABS]
 
->[!TAB Do insight ao impacto: otimizar fluxos de trabalho de RH]
+>[!TAB Do insight ao impacto: simplifique os fluxos de trabalho de integração]
 
 Descubra como as equipes de RH usam o Acrobat Studio para otimizar o conteúdo de integração dos funcionários, desde [insight, colaboração até a entrega na marca](hr-insights.md).
 
