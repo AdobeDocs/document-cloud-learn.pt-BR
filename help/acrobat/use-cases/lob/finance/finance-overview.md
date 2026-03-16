@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20533
 exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
-source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
+source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Explore fluxos de trabalho específicos de finanças que mostram como o Acrobat 
 
 >[!TAB Transforme relatórios financeiros em insights prontos para executivos]
 
-Saiba como as equipes financeiras podem consolidar informações financeiras para apresentar rapidamente o [insight](finance-insights.md) principal desempenho.
+Saiba como as equipes financeiras podem consolidar informações financeiras para apresentar rapidamente o [insight](finance-insights.md) de desempenho principal e apresentações prontas para executivos.
 
 >[!ENDTABS]
 
