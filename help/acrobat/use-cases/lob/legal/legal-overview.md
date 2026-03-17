@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Visão geral dos casos de uso legal da Acrobat
 
-Saiba como simplificar a revisão legal trazendo a análise de documentos, a colaboração e a criação de conteúdo para um fluxo de trabalho controlado e seguro.
+Permitir que as equipes jurídicas se movam mais rapidamente, reduzam riscos e mantenham o controle em todos os estágios de revisão e entrega de documentos.
 
 ## Novidades
 
