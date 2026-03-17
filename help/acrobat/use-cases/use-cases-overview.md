@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,14 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
     <br>
   </td>
   <td>
-        <img alt="Espaçador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="lob/sales/sales-overview.md">
+      <img alt="Casos de uso de vendas" src="../assets/use-case-sales.png" />
+    </a>
+    <div>
+    <a href="lob/sales/sales-overview.md"><strong>Casos de uso de vendas</strong></a>
+    </div>
+    <em>Saiba como as equipes de vendas vão do insight ao impacto com colaboração mais inteligente e criação mais rápida de conteúdo.</em>
+    <br>
   </td>
   <td>
         <img alt="Espaçador" src="../assets/Whitespacer.png" />
@@ -65,8 +70,8 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para órgãos governamentais" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para órgãos governamentais" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,11 +79,11 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para órgãos governamentais">Acrobat para o governo</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para órgãos governamentais">Acrobat para o governo</a>
                     </p>
                     <p class="is-size-6">Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os governos federal, estadual e local</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar tutoriais</span>
                 </a>
             </div>
