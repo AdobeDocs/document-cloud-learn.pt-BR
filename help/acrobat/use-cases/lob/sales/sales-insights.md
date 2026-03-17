@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Saiba como as equipes de vendas podem reunir insights de clientes, colaborar em um espaço de trabalho compartilhado e transformar inteligência validada em apresentações e propostas de marca, com mais rapidez e confiança. Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
-**Ideal para:** Ideal para: líderes de RH, parceiros de negócios e operações de RH, equipes de integração e experiência de funcionário e qualquer pessoa que prepare materiais de RH para funcionários ou liderança.
+**Ideal para:** executivos de conta, gerentes de vendas, equipes de negócios e qualquer pessoa que prepare materiais de vendas voltados para o cliente para reuniões, apresentações ou propostas.
 
-## Etapa 1. Transforme documentos de integração em insights claros
+## Etapa 1. Entenda seu cliente com insights viabilizados por IA
 
 Comece aprendendo como coletar documentos do cliente, analisar informações importantes e usar resumos e insights viabilizados por IA para entender as necessidades do cliente e se preparar para conversas de vendas mais eficazes.
 
@@ -36,4 +36,4 @@ O feedback está completo e o conteúdo pronto para ser entregue. Saiba como tra
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-Agora, você tem um processo repetível para entender os clientes, colaborar com as partes interessadas e fornecer apresentações e propostas prontas para vendas usando o Acrobat Studio.Y
+Agora, você tem um processo repetível para entender os clientes, colaborar com as partes interessadas e fornecer apresentações e propostas prontas para vendas usando o Acrobat Studio.
