@@ -1,11 +1,12 @@
 ---
 title: Visão Geral dos Casos de Uso do Acrobat Sales
-description: Saiba como as equipes de vendas vão da percepção ao impacto com colaboração mais inteligente e criação mais rápida de conteúdo.
+description: Saiba como as equipes de vendas vão da percepção ao impacto com colaboração mais inteligente e criação mais rápida de conteúdo
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Saiba como as equipes de vendas podem reunir [insights de clientes, colaborar e 
 
 >[!ENDTABS]
 
-## Tutoriais de casos de uso de RH
+## Tutoriais de casos de uso de vendas
 
 <table style="table-layout:fixed">
 <tr>
