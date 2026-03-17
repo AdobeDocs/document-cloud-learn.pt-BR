@@ -23,7 +23,7 @@ Saiba como as equipes financeiras usam o Acrobat para gerenciar documentos finan
 
 Comece consolidando documentos financeiros e apresentando as principais informações para preparar as informações para a revisão executiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481428?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Etapa 2. Colaborar em relatórios financeiros
 
