@@ -22,18 +22,18 @@ Saiba como as equipes de vendas podem reunir insights de clientes, colaborar em 
 
 Comece aprendendo como coletar documentos do cliente, analisar informações importantes e usar resumos e insights viabilizados por IA para entender as necessidades do cliente e se preparar para conversas de vendas mais eficazes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481569?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Etapa 2. Faça negócios progredirem com colaboração em equipe focada
 
 Os insights estão prontos para a revisão da equipe. Saiba como colaborar em contas de clientes em um espaço de trabalho compartilhado, manter as partes interessadas alinhadas com o acesso baseado em funções e revisar insights, observações e documentos sem perder contexto ou controle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481593?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Etapa 3. Acelere os negócios com conteúdo pronto para vendas
 
 O feedback está completo e o conteúdo pronto para ser entregue. Saiba como transformar insights validados de clientes em apresentações de vendas e propostas sofisticadas de marca, sem começar do zero ou depender de suporte a design.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481604?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 Agora, você tem um processo repetível para entender os clientes, colaborar com as partes interessadas e fornecer apresentações e propostas prontas para vendas usando o Acrobat Studio.
