@@ -8,10 +8,10 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 1%
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ Saiba como gerar um documento [compatível com dispositivos móveis](create-mobi
   </td>
   <td>
     <a href="mobile-friendly.md">
-      <img alt="Exibição amigável para dispositivos móveis" src="../assets/mobile-friendly.png" />
+      <img alt="Exibição amigável para dispositivos móveis" src="../assets/mobile-friendly.png"/>
     </a>
     <div>
     <a href="mobile-friendly.md"><strong>Exibição amigável ao dispositivo móvel</strong></a>
@@ -88,11 +88,11 @@ Saiba como gerar um documento [compatível com dispositivos móveis](create-mobi
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Baixar o aplicativo móvel Acrobat Sign para Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Baixar o aplicativo Acrobat Sign para dispositivos móveis para Android</strong></a>
     </div>
     <em>Baixar o aplicativo Acrobat Sign para dispositivos móveis da Google Play</em>
     <br>
