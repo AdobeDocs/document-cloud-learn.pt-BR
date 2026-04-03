@@ -15,13 +15,13 @@ Este projeto adotou o [Código de Conduta de Código Aberto do Adobe](code-of-co
 
 ## Sobre suas contribuições para o conteúdo do Adobe
 
-Consulte o [Guia do Colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte o [Guia do Colaborador do Adobe Docs](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html).
 
 A forma como você contribui depende de quem você é e do tipo de alterações para as quais você deseja contribuir:
 
 ### Pequenas alterações
 
-Se você estiver contribuindo com pequenas atualizações por causa da bondade de seu coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte do GitHub do artigo. Depois, basta usar a interface do GitHub para fazer suas atualizações. Consulte o [guia geral do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se você estiver contribuindo com pequenas atualizações por causa da bondade de seu coração, visite o artigo e clique no link **Editar** no artigo que vai para a fonte do GitHub do artigo. Depois, basta usar a interface do GitHub para fazer suas atualizações. Consulte o [guia geral do colaborador do Adobe Docs](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html) para obter mais informações.
 
 Pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório são cobertos pelos termos de uso do Adobe.
 
@@ -43,7 +43,7 @@ Se você for um redator técnico, gerente de programa ou desenvolvedor da equipe
 
 Os colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer grandes contribuições.
 
-Consulte o [Guia do Colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais detalhes.
+Consulte o [Guia do Colaborador do Adobe Docs](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html) para obter mais detalhes.
 
 ## Como usar o markdown para formatar o tópico
 
