@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 14%
+source-wordcount: '683'
+ht-degree: 13%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 14%
       + [Uso da função de delegador](sign-advanced-users/delegate-signature.md)
       + [Usando a função de aprovador](sign-advanced-users/add-an-approver.md)
       + [Envio em massa](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=pt-BR)
-      + [Criando um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=pt-BR)
+      + [Criar um formulário da Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=pt-BR)
       + [Criar um fluxo de trabalho personalizado](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Configurar pagamentos online](sign-advanced-users/set-up-online-payments.md)
       + [Métodos de autenticação no Acrobat Sign](sign-advanced-users/authentication-methods.md)
@@ -77,7 +77,7 @@ ht-degree: 14%
       + [Criação e gerenciamento de grupos](admin/create-and-manage-groups.md)
       + [Configurando um arquivamento externo](admin/set-up-your-external-archive.md)
       + [Criar um modelo reutilizável](sign-advanced-users/create-a-template.md)
-      + [Uso de relatórios e transações](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Utilização de relatórios e transações](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opções de relatório para usuários](admin/report-options.md)
       + [Criar um formulário da Web](sign-advanced-users/webform.md)
       + [Modificar um formulário web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=pt-BR)
