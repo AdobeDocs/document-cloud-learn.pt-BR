@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
+source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '719'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,10 @@ Saiba como adicionar usuários à sua conta, configurar grupos, compartilhar ace
 
 >[!BEGINTABS]
 
+>[!TAB Configurar e controlar a opção Modificar Contrato]
+
+Saiba como configurar e controlar o [Contrato de modificação](configure-modify-agreement.md) no Acrobat Sign.
+
 >[!TAB Criar um fluxo de trabalho personalizado]
 
 Saiba como criar e usar [fluxos de trabalho personalizados](building-a-custom-workflow.md) para acelerar o processo de criação e envio de um contrato.
@@ -34,10 +38,6 @@ Saiba como criar um [modelo de documento reutilizável](../sign-advanced-users/c
 >[!TAB Habilitar regras de atribuição automática de usuários]
 
 Saiba como configurar [regras de atribuição automática](automatic-assignment-rules.md) que concedem aos usuários acesso ao Acrobat Sign no Admin Console.
-
->[!TAB Migrar modelos do Docusign]
-
-Saiba como [migrar modelos e fluxos de trabalho do Docusign](docusign-templates.md) com facilidade em três etapas simples.
 
 >[!ENDTABS]
 
@@ -234,8 +234,13 @@ Saiba como [migrar modelos e fluxos de trabalho do Docusign](docusign-templates.
       <br>
     </td>
     <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <a href="configure-modify-agreement.md">
+        <img alt="Configurar e controlar o recurso Modificar contrato" src="../assets/configure-modify.png" />
+      </a>
       <div>
+      <a href="configure-modify-agreement.md"><strong>Configurar e controlar a opção Modificar Contrato</strong></a>
+      </div>
+      <em>Saiba como configurar e controlar a opção Modificar Contrato</em>
       <br>
     </td>
     <td>
