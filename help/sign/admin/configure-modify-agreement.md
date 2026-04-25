@@ -23,4 +23,4 @@ O que você aprenderá:
 * Como o modo de revisão protege a integridade do contrato
 * Quais alterações são registradas no relatório de auditoria
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483696?captions=por_br&quality=12&learn=on&hidetitle=true)
