@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,13 @@ Saiba como as equipes financeiras usam o Acrobat para gerenciar documentos finan
 
 **Ideal para:** líderes financeiros, equipes de FP&amp;A, analistas e qualquer pessoa que esteja preparando materiais para revisão executiva ou de conselho.
 
+**Experimente:** explore este fluxo de trabalho do Financial Reporting [prático](https://w.adobedemo.com/s/31LpAI){target="_blank"} agora mesmo.
+
 ## Etapa 1. Compreender o desempenho financeiro
 
 Comece consolidando documentos financeiros e apresentando as principais informações para preparar as informações para a revisão executiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481428?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## Etapa 2. Colaborar em relatórios financeiros
 

@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -19,22 +19,24 @@ Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integraçã
 
 **Ideal para:** líderes de RH, parceiros de negócios e operações de RH, equipes de integração e experiência de funcionário e qualquer pessoa que prepare materiais de RH para funcionários ou liderança.
 
+**Experimente:** explore este fluxo de trabalho de integração de RH [prático](https://w.adobedemo.com/s/NvvfVm){target="_blank"} agora mesmo.
+
 ## Etapa 1. Transforme documentos de integração em insights claros
 
 Comece aprendendo como os insights de integração viabilizados por IA podem destacar informações importantes, mostrar as próximas etapas e ajudar a garantir que os novos contratados obtenham as informações certas no momento certo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481489?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
 
 ## Etapa 2. Revisar e alinhar em materiais de integração
 
 Os insights estão prontos para a revisão da equipe. Saiba como o PDF Spaces mantém feedback, comentários e atualizações organizados para que as partes interessadas permaneçam alinhadas e a integração avance sem cadeias de email ou confusão de versão.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481526?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
 ## Etapa 3. Criar conteúdo de integração envolvente para novas contratações
 
 O feedback está completo e o conteúdo pronto para ser entregue. Veja como o Acrobat Studio usa IA e modelos de marca para criar rapidamente apresentações e materiais prontos para os funcionários e fáceis de compartilhar e atualizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481537?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Agora, você tem um processo repetível para analisar, revisar e fornecer documentos prontos para funcionários integrados usando o Acrobat Studio.
