@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 2%
 Descubra como as equipes de RH usam o Acrobat Studio para otimizar a integração de funcionários do início ao fim. Saiba como transformar documentos de integração complexos em insights claros, colaborar com as partes interessadas em PDF Spaces compartilhados e criar conteúdo elegante e de marca que esteja pronto para compartilhar com novos funcionários, de forma mais rápida, consistente e confiável. Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
 **Ideal para:** líderes de RH, parceiros de negócios e operações de RH, equipes de integração e experiência de funcionário e qualquer pessoa que prepare materiais de RH para funcionários ou liderança.
+
+**Experimente:** explore este fluxo de trabalho de integração de RH [prático](https://w.adobedemo.com/s/NvvfVm){target="_blank"} agora mesmo.
 
 ## Etapa 1. Transforme documentos de integração em insights claros
 
