@@ -22,4 +22,4 @@ Saiba como grupos de caixas de seleção:
 * Orientar os signatários com feedback claro e incorporado
 * Melhorar a precisão das informações coletadas em formulários
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484165?captions=por_br&quality=12&learn=on&hidetitle=true)
