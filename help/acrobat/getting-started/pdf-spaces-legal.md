@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,9 @@ Saiba como uma equipe jurídica interna usa espaços de PDF para reunir document
 
 Os PDF Spaces estão disponíveis para usuários que compram o Acrobat Studio ou o complemento AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475137?captions=por_br&quality=12&learn=on&hidetitle=true)
+**Experimente:** Explore PDF Spaces [com participação](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} agora mesmo.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico da equipe]
 
