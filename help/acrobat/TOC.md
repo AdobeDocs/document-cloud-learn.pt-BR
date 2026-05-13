@@ -1,15 +1,17 @@
 ---
 user-guide-title: Tutorials Acrobat
 solution: Acrobat
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
 breadcrumb-title: Tutorials Acrobat
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
 workflow-type: tm+mt
-source-wordcount: '674'
-ht-degree: 23%
+source-wordcount: 674
+ht-degree: 10%
 
 ---
 
@@ -146,7 +148,7 @@ ht-degree: 23%
 + Integrações {#integrations}
    + [Visão geral](integrate/integrate-overview.md)
    + [Criar PDF de [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Criar PDF em [!DNL Office] para a Web](integrate/createofficeweb.md)
+   + [Criar PDF em  [!DNL Office] para a Web](integrate/createofficeweb.md)
    + [colaboração PDF em  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Trabalhe com seus [!DNL SharePoint] arquivos](integrate/acrobatandsp.md)
    + [Converter mensagens de email e anexos em PDF em  [!DNL Outlook]](integrate/outlook.md)
