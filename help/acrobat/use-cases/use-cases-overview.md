@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -23,60 +23,75 @@ Saiba como usar o Acrobat para aumentar a produtividade e transformar informaç�
 Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para solucionar os desafios diários dos documentos, otimizar fluxos de trabalho e dar suporte ao trabalho essencial aos negócios.
 
 <table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="lob/finance/finance-overview.md">
-      <img alt="Casos de uso de finanças" src="../assets/use-case-finance.png" />
-    </a>
-    <div>
-    <a href="lob/finance/finance-overview.md"><strong>Casos de uso de finanças</strong></a>
-    </div>
-    <em>Saiba como as equipes financeiras usam o Acrobat para criar, gerenciar, analisar e proteger documentos financeiros</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/hr/hr-overview.md">
-      <img alt="Casos de uso de RH" src="../assets/use-case-hr.png" />
-    </a>
-    <div>
-    <a href="lob/hr/hr-overview.md"><strong>Casos de uso de RH</strong></a>
-    </div>
-    <em>Explore como as equipes de RH usam o Acrobat para gerenciar documentos e fluxos de trabalho no ciclo de vida do funcionário</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/legal/legal-overview.md">
-      <img alt="Casos de uso legal" src="../assets/use-case-legal.png" />
-    </a>
-    <div>
-    <a href="lob/legal/legal-overview.md"><strong>Casos de uso legal</strong></a>
-    </div>
-    <em>Saiba como as equipes jurídicas entendem rapidamente documentos complexos e apresentam riscos e alterações críticos</em>
-    <br>
-  </td>
-  <td>
-    <a href="lob/marketing/marketing-overview.md">
-      <img alt="Casos de uso de marketing" src="../assets/use-case-marketing.png" />
-    </a>
-    <div>
-    <a href="lob/marketing/marketing-overview.md"><strong>Casos de uso de marketing</strong></a>
-    </div>
-    <em>Saiba como as equipes de marketing simplificam a colaboração, aceleram as aprovações e lançam novas ideias mais rapidamente no mercado</em>
-    <br>
-  </td>
+  <tr>
+    <td>
+      <a href="lob/finance/finance-overview.md">
+        <img alt="Casos de uso de finanças" src="../assets/use-case-finance.png" />
+      </a>
+      <div>
+      <a href="lob/finance/finance-overview.md"><strong>Casos de uso de finanças</strong></a>
+      </div>
+      <em>Saiba como as equipes financeiras usam o Acrobat para criar, gerenciar, analisar e proteger documentos financeiros</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/hr/hr-overview.md">
+        <img alt="Casos de uso de RH" src="../assets/use-case-hr.png" />
+      </a>
+      <div>
+      <a href="lob/hr/hr-overview.md"><strong>Casos de uso de RH</strong></a>
+      </div>
+      <em>Explore como as equipes de RH usam o Acrobat para gerenciar documentos e fluxos de trabalho no ciclo de vida do funcionário</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/legal/legal-overview.md">
+        <img alt="Casos de uso legal" src="../assets/use-case-legal.png" />
+      </a>
+      <div>
+      <a href="lob/legal/legal-overview.md"><strong>Casos de uso legal</strong></a>
+      </div>
+      <em>Saiba como as equipes jurídicas entendem rapidamente documentos complexos e apresentam riscos e alterações críticos</em>
+      <br>
+    </td>
+    <td>
+      <a href="lob/marketing/marketing-overview.md">
+        <img alt="Casos de uso de marketing" src="../assets/use-case-marketing.png" />
+      </a>
+      <div>
+      <a href="lob/marketing/marketing-overview.md"><strong>Casos de uso de marketing</strong></a>
+      </div>
+      <em>Saiba como as equipes de marketing simplificam a colaboração, aceleram as aprovações e lançam novas ideias mais rapidamente no mercado</em>
+      <br>
+    </td>
   </tr>
   <tr>
-  <td>
-    <a href="lob/sales/sales-overview.md">
-      <img alt="Casos de uso de vendas" src="../assets/use-case-sales.png" />
-    </a>
-    <div>
-    <a href="lob/sales/sales-overview.md"><strong>Casos de uso de vendas</strong></a>
-    </div>
-    <em>Saiba como as equipes de vendas vão do insight ao impacto com colaboração mais inteligente e criação mais rápida de conteúdo</em>
-    <br>
-  </td>
-</tr>
+    <td>
+      <a href="lob/sales/sales-overview.md">
+        <img alt="Casos de uso de vendas" src="../assets/use-case-sales.png" />
+      </a>
+      <div>
+      <a href="lob/sales/sales-overview.md"><strong>Casos de uso de vendas</strong></a>
+      </div>
+      <em>Saiba como as equipes de vendas vão do insight ao impacto com colaboração mais inteligente e criação mais rápida de conteúdo</em>
+      <br>
+    </td>
+    <td>
+          <img alt="Espaçador" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+    <td>
+          <img alt="Espaçador" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+    <td>
+          <img alt="Espaçador" src="../assets/Grayspacer.png" />
+          <div>
+          <br>
+    </td>
+  </tr>
 </table>
 
 ## Governo
