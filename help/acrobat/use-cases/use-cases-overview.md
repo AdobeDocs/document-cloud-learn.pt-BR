@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,18 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
     <br>
   </td>
   <td>
+    <a href="lob/marketing/marketing-overview.md">
+      <img alt="Casos de uso de marketing" src="../assets/use-case-marketing.png" />
+    </a>
+    <div>
+    <a href="lob/marketing/marketing-overview.md"><strong>Casos de uso de marketing</strong></a>
+    </div>
+    <em>Saiba como as equipes de marketing simplificam a colaboração, aceleram as aprovações e lançam novas ideias mais rapidamente no mercado</em>
+    <br>
+  </td>
+  </tr>
+  <tr>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Casos de uso de vendas" src="../assets/use-case-sales.png" />
     </a>
@@ -67,7 +79,7 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
 </tr>
 </table>
 
-## Indústria
+## Governo
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -75,8 +87,8 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para órgãos governamentais" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para órgãos governamentais" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para órgãos governamentais"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,11 +96,11 @@ Descubra como as equipes das diferentes linhas de negócios usam o Acrobat para 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para órgãos governamentais">Acrobat para o governo</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para órgãos governamentais">Acrobat para o governo</a>
                     </p>
                     <p class="is-size-6">Explore nossos tutoriais do Acrobat desenvolvidos especificamente para os governos federal, estadual e local</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar tutoriais</span>
                 </a>
             </div>
