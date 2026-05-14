@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Visão geral dos casos de uso de marketing da Acrobat
 
-Saiba como as equipes de marketing usam o Acrobat Studio para simplificar a colaboração, acelerar as aprovações e lançar novas ideias no mercado com mais rapidez
+Saiba como as equipes de marketing usam o Acrobat Studio para simplificar a colaboração, acelerar as aprovações e lançar novas ideias no mercado mais rapidamente.
 
 ## Novidades
 
