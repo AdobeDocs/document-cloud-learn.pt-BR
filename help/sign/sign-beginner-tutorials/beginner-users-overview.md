@@ -7,10 +7,15 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
+TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: '539'
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -21,6 +26,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 ## Novidades
 
 >[!BEGINTABS]
+
+>[!TAB Quando usar Criar uma cópia]
+
+Saiba como usar o [Criar uma cópia](../sign-beginner-tutorials/create-a-copy.md) para duplicar qualquer contrato existente. Você pode ajustar o que precisa ser alterado e reenviá-lo em segundos. Não recriar do zero.
 
 >[!TAB Modificar um documento após enviar]
 
@@ -33,10 +42,6 @@ Saiba como [gerenciar e rastrear contratos](../sign-beginner-tutorials/manage-an
 >[!TAB Assinar um documento eletronicamente]
 
 Saiba como é fácil [assinar](../sign-beginner-tutorials/electronically-sign-a-document.md) um documento que é enviado para você com o Acrobat Sign.
-
->[!TAB Criar um modelo reutilizável]
-
-Saiba como criar um [modelo de documento reutilizável](../sign-advanced-users/create-a-template.md).
 
 >[!ENDTABS]
 
@@ -148,7 +153,7 @@ Saiba como criar um [modelo de documento reutilizável](../sign-advanced-users/c
     Crie um modelo de documento reutilizável para proporcionar agilidade e consistência à sua organização
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Guiar seleções necessárias com grupos de caixas de seleção" src="../assets/checkboxes.png" />
     </a>
@@ -158,10 +163,15 @@ Saiba como criar um [modelo de documento reutilizável](../sign-advanced-users/c
     Saiba como usar grupos de caixas de seleção para controlar quantas opções um signatário pode selecionar em um formulário
     <br>
     </td>
-    <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="Quando usar a opção Criar uma cópia" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>Quando usar Criar uma cópia</strong></a>
+    </div>
+    Saiba como usar Criar uma cópia para duplicar qualquer contrato existente
+    <br>
     </td>
 </tr>
 </table>
