@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '700'
 ht-degree: 13%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 13%
       + [Defina os prazos e lembretes](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [Criar um modelo reutilizável](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=pt-BR)
       + [Guiar seleções necessárias com grupos de caixas de seleção](sign-beginner-tutorials/checkbox-groups.md)
+      + [Quando usar a opção Criar uma cópia](sign-beginner-tutorials/create-a-copy.md)
    + Assinar {#getting-started-signing}
       + [Assinar um documento eletronicamente](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Preencher e assinar um documento](sign-beginner-tutorials/fill-and-sign.md)
