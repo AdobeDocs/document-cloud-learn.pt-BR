@@ -33,7 +33,7 @@ Saiba como criar arquivos PDF sem sair do [!DNL Microsoft Office] para aplicativ
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409136?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

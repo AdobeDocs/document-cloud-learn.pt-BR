@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como compartilhar um PDF para coletar feedback rapidamente de várias pessoas em um único arquivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437193?captions=por_br&quality=12&learn=on&hidetitle=true)

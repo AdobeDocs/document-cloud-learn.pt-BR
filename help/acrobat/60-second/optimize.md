@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como usar a ferramenta Optimize PDF para reduzir significativamente o tamanho dos arquivos de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347106?captions=por_br&quality=12&learn=on&hidetitle=true)

@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Saiba como usar carimbos para marcar um documento como aprovado ou concluído.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412562?captions=por_br&quality=12&learn=on&hidetitle=true)

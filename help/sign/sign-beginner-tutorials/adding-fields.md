@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Saiba como inserir campos automaticamente no documento ou usar o ambiente de criação de arrastar e soltar no Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425296?captions=por_br&quality=12&learn=on&hidetitle=true)

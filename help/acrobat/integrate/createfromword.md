@@ -35,7 +35,7 @@ Saiba como criar arquivos de PDF avançados e robustos com sumário e referênci
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414216?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

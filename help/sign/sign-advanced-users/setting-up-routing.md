@@ -31,4 +31,4 @@ Saiba como configurar a ordem de assinatura para vários signatários. Envie um 
 >
 >O roteamento híbrido está disponível apenas para planos de nível empresarial. O administrador do Acrobat Sign pode precisar ativar esses recursos na seção Configurações de envio das Configurações da conta.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410719?captions=por_br&quality=12&learn=on&hidetitle=true)

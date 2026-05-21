@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Saiba como configurar o acesso somente exibição para transações na conta de outro usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412542?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

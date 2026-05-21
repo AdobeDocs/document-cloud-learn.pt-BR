@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como criar um resumo de todos os comentários e marcas de formatação no seu arquivo PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436972?captions=por_br&quality=12&learn=on&hidetitle=true)

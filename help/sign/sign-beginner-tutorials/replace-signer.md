@@ -31,4 +31,4 @@ Saiba como substituir um signatário, como quando um email incorreto foi usado a
 >
 >A configuração padrão para Substituir destinatário substitui totalmente o destinatário atual por um novo. Planos de nível empresarial e corporativo têm opções adicionais disponíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425307?captions=por_br&quality=12&learn=on&hidetitle=true)

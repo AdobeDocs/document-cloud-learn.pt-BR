@@ -24,4 +24,4 @@ ht-degree: 14%
 
 Neste tutorial em vídeo de 60 segundos, saiba como [converter um arquivo PDF em um documento do Microsoft Word totalmente editável](https://www.adobe.com/br/acrobat/online/pdf-to-word.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428841?captions=por_br&quality=12&learn=on&hidetitle=true)

@@ -38,4 +38,4 @@ Arquivos de exemplo para praticar (ZIP, 1,7 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446336?captions=por_br&quality=12&learn=on&hidetitle=true)

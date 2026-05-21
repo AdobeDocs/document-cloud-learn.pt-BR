@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Saiba como simplificar fluxos de trabalho de documentos enviando um documento para assinatura diretamente no [!DNL Microsoft Sharepoint Online].
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414217?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

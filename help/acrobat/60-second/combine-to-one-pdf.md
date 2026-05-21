@@ -25,4 +25,4 @@ ht-degree: 10%
 
 Neste tutorial em vídeo de 60 segundos, saiba como criar rapidamente um documento [combinando vários tipos diferentes de arquivos em um único PDF](https://www.adobe.com/br/acrobat/online/merge-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414211?captions=por_br&quality=12&learn=on&hidetitle=true)

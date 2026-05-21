@@ -31,4 +31,4 @@ Saiba como a interface do Acrobat facilita o acesso a arquivos e ferramentas no 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409174?captions=por_br&quality=12&learn=on&hidetitle=true)

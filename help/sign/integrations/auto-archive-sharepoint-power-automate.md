@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Saiba como arquivar automaticamente documentos assinados em uma biblioteca do [!DNL SharePoint] usando o [!DNL Power Automate].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3416170?captions=por_br&quality=12&learn=on&hidetitle=true)

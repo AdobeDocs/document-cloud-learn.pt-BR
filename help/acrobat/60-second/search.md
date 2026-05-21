@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo de 60 segundos, saiba como iniciar uma pesquisa em um arquivo PDF e, em seguida, abra a Pesquisa avançada e pesquise uma pasta inteira de arquivos PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414213?captions=por_br&quality=12&learn=on&hidetitle=true)

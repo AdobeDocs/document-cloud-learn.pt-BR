@@ -27,4 +27,4 @@ ht-degree: 7%
 
 Saiba como obter acesso a ferramentas de PDF para economizar tempo e fluxos de trabalho de assinatura eletrônica diretamente no aplicativo [!DNL Google Drive].
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414227?captions=por_br&quality=12&learn=on&hidetitle=true)
