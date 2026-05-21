@@ -6,16 +6,23 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
+TQID: https://experienceleague.adobe.com/6NbvQKIapL3jPQm7zVl-vFP1VobjR0DZHjzMyAAC7Wg
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 0%
+source-wordcount: 410
+ht-degree: 1%
 
 ---
 
 # Preencha e assine qualquer formulário no desktop ou em dispositivos móveis
 
-Preencha, assine e envie formulários rapidamente pelo desktop, navegador ou aplicativo móvel. O Adobe AI reconhece e salva dados usados com frequência para uso em formato de PDF. Crie uma assinatura desenhando, importando uma digitalização ou digitando seu nome e, em seguida, aplique-o com segurança a um documento.
+Preencha, assine e envie formulários rapidamente pelo desktop, navegador ou aplicativo móvel. A IA da Adobe reconhece e salva dados usados com frequência para uso em formato PDF. Crie uma assinatura desenhando, importando uma digitalização ou digitando seu nome e, em seguida, aplique-o com segurança a um documento.
 
 Neste exercício, você importará, preencherá, assinará e enviará um formulário usando seu dispositivo móvel.
 

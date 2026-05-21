@@ -8,10 +8,18 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+TQID: https://experienceleague.adobe.com/eXYxxE6n8-KJgWVqYWiC66eYH3WqNQcfCt6j1XyJlLk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: 324
+ht-degree: 17%
 
 ---
 
@@ -81,12 +89,12 @@ Crie, preencha e [assine PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.h
 
 Baixe o [aplicativo para dispositivos móveis do Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} como o padrão global gratuito para visualizar, anotar e assinar PDF com segurança.
 
-[guia do Acrobat Reader para iOS para dispositivos móveis](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+Guia do [Acrobat Reader para iOS mobile](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Guia do Acrobat Reader para Android para dispositivos móveis](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
 Baixe o [aplicativo Adobe Scan para dispositivos móveis](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
 
-[guia do Adobe Scan para iOS para dispositivos móveis](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+Guia do [Adobe Scan para iOS mobile](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Guia do Adobe Scan para Android para dispositivos móveis](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
 Baixe o [aplicativo Adobe Fill &amp; Sign para dispositivos móveis](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando apenas o dedo ou uma caneta.

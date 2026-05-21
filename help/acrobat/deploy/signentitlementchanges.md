@@ -7,10 +7,21 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -22,13 +33,13 @@ O acesso ao [!DNL Adobe Sign Individual] está disponível no Acrobat por meio d
 
 Acesso de ![[!DNL Adobe Sign Individual] no Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
-Se você não atualizou o Acrobat DC para a versão mais recente, a ferramenta pode estar identificada como &quot;Send for Signature“.
+Se você não atualizou o Acrobat DC para a versão mais recente, a ferramenta pode estar identificada como “Send for Signature”.
 
 ## Por que estamos desprovisionando isso?
 
 [Em outubro de 2018, lançamos um novo Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Esta versão mais recente inclui novas ferramentas e funcionalidades para trabalhar melhor com PDF em dispositivos móveis, na Web e no desktop, além de novas ferramentas de colaboração. Como assinante do Acrobat DC, você já deve ter esses ótimos recursos disponíveis. Outra atualização importante lançada foi a nossa solução de assinatura eletrônica Adobe Sign.
 
-Antes da versão de outubro de 2018, os usuários do Acrobat DC podiam enviar documentos para assinatura eletrônica usando ferramentas no Acrobat denominadas &quot;Fill &amp; Sign&quot; (ou &quot;Adobe Sign&quot; ou &quot;Send for Signature“) que receberam o direito [!DNL Adobe Sign Individual].
+Antes da versão de outubro de 2018, os usuários do Acrobat DC podiam enviar documentos para assinatura eletrônica usando ferramentas no Acrobat denominadas “Fill &amp; Sign” (ou “Adobe Sign” ou “Send for Signature”) que receberam o direito [!DNL Adobe Sign Individual].
 
 Embora esta opção tenha fornecido uma ótima maneira de capturar assinaturas eletrônicas, estamos desprovisionando o [!DNL Adobe Sign Individual] porque ele não fornece a funcionalidade de nível corporativo disponível por meio do Adobe Sign Enterprise, como:
 

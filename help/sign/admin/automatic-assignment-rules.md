@@ -6,15 +6,30 @@ role: Admin
 level: Intermediate
 jira: KT-19302
 topic-revisit: Administration
-source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
+exl-id: 8979f619-4c79-4182-b829-636b19434381
+TQID: https://experienceleague.adobe.com/8ur5ud3fGyloku6YrnAkVpfbW3eZDiQpgVVdiNwuG9g
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+feature_v2:
+  - id: a0ba023f-45f7-46ff-bcd1-92ed8bb4d79d
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: 73
+ht-degree: 2%
 
 ---
 
 # Habilitar regras de atribuição automática de usuários
 
-Saiba como configurar regras de atribuição automática que concedem aos usuários acesso ao Acrobat Sign no [Admin Console](https://adminconsole.adobe.com/br/), simplificando o provisionamento e reduzindo as tarefas administrativas manuais. Os usuários podem convidar outros usuários para o Acrobat Sign pelo URL de acesso ao produto gerado pelo Admin Console.
+Saiba como configurar regras de atribuição automática que concedem aos usuários acesso ao Acrobat Sign no [Admin Console](https://adminconsole.adobe.com/), simplificando o provisionamento e reduzindo as tarefas administrativas manuais. Os usuários podem convidar outros usuários para o Acrobat Sign pelo URL de acesso ao produto gerado pelo Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475289?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3475289?captions=por_br&quality=12&learn=on&hidetitle=true)
