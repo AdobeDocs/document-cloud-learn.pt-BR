@@ -9,9 +9,13 @@ topic-revisit: Integrations
 jira: KT-8497
 thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/0-hfeqloh0G64hLPcOMt0-ToXl34o4ZPp78Gu6m-x-c
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 115
 ht-degree: 0%
 
 ---
@@ -26,8 +30,8 @@ Saiba como criar arquivos PDF sem sair do [!DNL Microsoft Office] para aplicativ
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409136?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/pt-br/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!
+>Este vídeo faz parte da lista de reprodução [Integrar o Acrobat e o Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), disponível gratuitamente no Experience League!

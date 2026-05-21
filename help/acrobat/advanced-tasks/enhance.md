@@ -7,10 +7,14 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -31,7 +35,7 @@ Arquivos de exemplo para praticar (ZIP, 342 KB)
 
 Use a [ferramenta Editar PDF](https://www.adobe.com/br/acrobat/online/pdf-editor.html){target="_blank"} para adicionar gráficos de fundo ao seu PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443822?hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
 <br> 
 
@@ -51,7 +55,7 @@ Insira de 2 a 26 na seção **Páginas de** e selecione **OK**.
 
 Use a ferramenta Editar para adicionar um novo rodapé ao PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437738?hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
 <br> 
 
