@@ -19,5 +19,5 @@ Neste tutorial, siga uma orientação de marketing enquanto ela usa um espaço d
 
 **Ideal para:** gerentes e clientes potenciais de marketing, gerentes de projeto/programa e equipes de comunicação e habilitação
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491112?captions=por_br&quality=12&learn=on&hidetitle=true)
 
