@@ -26,4 +26,4 @@ Já enviou um contrato — mas ele expirou, foi cancelado ou você precisa envi�
 >
 >Criar uma cópia está disponível para os planos corporativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491377?captions=por_br&quality=12&learn=on&hidetitle=true)
