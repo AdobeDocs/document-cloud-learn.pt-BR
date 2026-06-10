@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Capacitação de TI sem o gargalo
 
-Neste tutorial, siga um membro da equipe de TI do SecurFinancial, por meio de três fluxos de trabalho reais. Remova o PII e gere um resumo executivo a partir de um relatório de incidentes. Analisar um contrato de fornecedor em relação aos seus padrões internos de segurança e produzir um questionário de acompanhamento. Em seguida, pegue documentos de política estáticos e transforme-os em um recurso interativo de governança que os funcionários podem acessar e consultar em qualquer dispositivo. Cada tutorial usa o AI Assistant, o PDF Spaces e o Adobe Express do Acrobat Studio para reduzir em minutos as horas de trabalho manual, mantendo a TI no controle de cada etapa.Este caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
+Neste tutorial, siga um membro da equipe de TI do SecurFinancial, por meio de três fluxos de trabalho reais. Remova o PII e gere um resumo executivo a partir de um relatório de incidentes. Analisar um contrato de fornecedor em relação aos seus padrões internos de segurança e produzir um questionário de acompanhamento. Em seguida, pegue documentos de política estáticos e transforme-os em um recurso interativo de governança que os funcionários podem acessar e consultar em qualquer dispositivo. Cada tutorial usa o AI Assistant, o PDF Spaces e o Adobe Express do Acrobat Studio para reduzir em minutos as horas de trabalho manual, mantendo a TI no controle de todas as etapas. Esse caso de uso foi projetado para ser concluído em sequência, com cada criação de vídeo na etapa anterior.
 
 **Ideal para:** diretores de TI, equipes de segurança e operações
 
