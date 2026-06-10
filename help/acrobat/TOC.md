@@ -9,9 +9,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 89b2dc5ef550dff86ca2228997b7d1bda3476cd4
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: 682
+source-wordcount: 689
 ht-degree: 11%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 11%
       + HR {#hr}
          + [Visão geral](use-cases/lob/hr/hr-overview.md)
          + [Do insight ao impacto: simplifique os fluxos de trabalho de integração](use-cases/lob/hr/hr-insights.md)
+      + IT {#it}
+         + [Visão geral](use-cases/lob/it/it-overview.md)
+         + [Capacitação de TI sem o gargalo](use-cases/lob/it/it-enablement.md)
       + Jurídico {#legal}
          + [Visão geral](use-cases/lob/legal/legal-overview.md)
          + [Transforme insights legais em orientação acionável](use-cases/lob/legal/legal-insights.md)
