@@ -127,7 +127,7 @@ Saiba como [descobrir insights de PDF](ai-assistant.md) em seu PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Trabalhe em qualquer lugar com o Acrobat Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="Trabalhe em qualquer lugar com o Acrobat Web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443536?captions=por_br&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="Trabalhe em qualquer lugar com o Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +150,7 @@ Saiba como [descobrir insights de PDF](ai-assistant.md) em seu PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Produtividade em qualquer lugar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="Produtividade em qualquer lugar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347150?captions=por_br&quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="Produtividade em qualquer lugar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
