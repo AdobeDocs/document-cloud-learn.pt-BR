@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Tutoriais do Acrobat
 
 O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negócios em movimento convertendo, editando, compartilhando e assinando PDF. Aqui você encontra uma ampla variedade de experiências de aprendizado projetadas para atualizar rapidamente iniciantes e usuários avançados no Adobe Acrobat.
+
+>[!NOTE]
+>
+>O acesso a recursos depende do seu plano da Acrobat. Use a [comparação de planos da Acrobat](https://www.adobe.com/br/acrobat/pricing.html) para identificar os recursos disponíveis para você. Alguns recursos estão sendo lançados em fases e podem não estar disponíveis para todos ainda.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
