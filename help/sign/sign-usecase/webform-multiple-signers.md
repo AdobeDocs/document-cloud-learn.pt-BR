@@ -28,11 +28,11 @@ Saiba como um [formulário da Web](../sign-advanced-users/webform.md) é usado p
 
 [!BADGE Casos de uso]
 
-* [Aplicativo de estágio de formulário da Web para instituições de ensino](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Aplicativo de estágio de formulário da Web para instituições de ensino](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=pt-BR)
 Saiba como os formulários da Web são usados para melhorar o acesso dos alunos aos formulários necessários
-* [Criar um formulário da Web para educação em um aplicativo de estágio](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Criar um formulário da Web para educação em um aplicativo de estágio](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=pt-BR)
 Saiba como criar um formulário da Web de estágio
-* [Subsídios comerciais e empréstimos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Assistência ao reemprego](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Subsídios comerciais e empréstimos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=pt-BR)
+* [Assistência ao reemprego](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=pt-BR)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
