@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Saiba como monitorar o progresso de um contrato diretamente no Microsoft SharePoint. Depois de enviar um documento para assinatura, você pode monitorar seu status sem sair do SharePoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414219?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
