@@ -88,7 +88,7 @@ Saiba como as equipes de marketing usam o Acrobat Studio para centralizar os ati
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="Casos de uso de TI" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="Casos de uso de TI" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium" alt="Casos de uso de TI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -97,11 +97,11 @@ Saiba como as equipes de marketing usam o Acrobat Studio para centralizar os ati
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="Casos de uso de TI">Casos de uso de TI</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="Casos de uso de TI">Casos de uso de TI</a>
                     </p>
                     <p class="is-size-6">Descubra como as equipes de TI usam o Acrobat Studio para simplificar fluxos de trabalho de documentos, fortalecer a segurança e a conformidade e dimensionar programas de governança em toda a organização</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
                 </a>
             </div>
