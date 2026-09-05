@@ -18,10 +18,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
+source-git-commit: 16e9e75c155262868c06ed67573c26b6cd3e30e1
 workflow-type: tm+mt
-source-wordcount: 802
-ht-degree: 2%
+source-wordcount: 901
+ht-degree: 1%
 
 ---
 
@@ -131,6 +131,29 @@ O Adobe Acrobat, uma solução da Adobe Document Cloud, ajuda a manter os negóc
                     <p class="is-size-6">Saiba como a IA pode transformar seus fluxos de trabalho de PDF</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Introdução" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/analyzer/media_1052181d9e75a3ece8d8885c16c96135101b56a6d.png?width=400&format=webply&optimize=medium" alt="Analisador no Acrobat Studio"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Introdução">Analisador no Acrobat Studio</a>
+                    </p>
+                    <p class="is-size-6">Saiba como o Analyzer no Acrobat Studio ajuda a extrair dados estruturados e citados de grandes volumes de documentos</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar</span>
                 </a>
             </div>

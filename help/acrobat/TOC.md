@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '702'
 ht-degree: 11%
 
 ---
@@ -84,6 +84,11 @@ ht-degree: 11%
   + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Editar gráficos em um PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Estilizar esta PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analisador no Acrobat Studio {#analyzer}
+  + [Visão geral](analyzer/analyzer-overview.md)
+  + [Introdução](analyzer/get-started.md)
+  + [Usar coleções](analyzer/collections.md)
+  + [Auditoria de contrato pós-integração de fusões e aquisições](analyzer/m-and-a-post-audit.md)
 + Casos de uso {#use-cases}
   + [Visão geral](use-cases/use-cases-overview.md)
   + Linha de negócios {#lob}
