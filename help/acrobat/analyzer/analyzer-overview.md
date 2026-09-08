@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Saiba como criar [Coleções](collections.md) manuais e vinculadas, aplicar atri
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="Trabalhar com atributos" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>Trabalhar com atributos</strong></a>
+    </div>
+    Saiba como criar, testar e refinar atributos com o Analyzer no Acrobat Studio
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="Auditoria de contrato pós-integração de fusões e aquisições" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Saiba como criar [Coleções](collections.md) manuais e vinculadas, aplicar atri
     </div>
     Saiba como o Analyzer pode ajudar as empresas a executar uma auditoria de contrato de pós-integração de M&amp;A em minutos, em vez de semanas
     <br>
-  </td>
-  <td>
-      <img alt="Espaçador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
