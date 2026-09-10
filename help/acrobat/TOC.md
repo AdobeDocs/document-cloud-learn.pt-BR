@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '715'
 ht-degree: 11%
 
 ---
@@ -90,6 +90,7 @@ ht-degree: 11%
   + [Usar coleções](analyzer/collections.md)
   + [Trabalhar com atributos](analyzer/attributes.md)
   + [Auditoria de contrato pós-integração de fusões e aquisições](analyzer/m-and-a-post-audit.md)
+  + [Webinars](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casos de uso {#use-cases}
   + [Visão geral](use-cases/use-cases-overview.md)
   + Linha de negócios {#lob}
