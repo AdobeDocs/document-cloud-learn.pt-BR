@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---
@@ -27,6 +27,10 @@ O Analyzer no Acrobat Studio ajuda os usuários corporativos a extrair insights 
 >[!TAB Usar Coleções]
 
 Saiba como criar [Coleções](collections.md) manuais e vinculadas, aplicar atributos e manter documentos organizados à medida que seu conteúdo cresce.
+
+>[!TAB Trabalhar com atributos]
+
+Saiba como criar, testar e refinar [Atributos](attributes.md) com o Analyzer no Acrobat Studio.
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Saiba como criar [Coleções](collections.md) manuais e vinculadas, aplicar atri
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="Auditoria de contrato pós-integração de fusões e aquisições" src="../assets/m-and-a.jpg" />
+    <a href="use-cases/use-case-overview.md">
+      <img alt="Analisador em casos de uso do Acrobat Studio" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>Auditoria de contrato de pós-integração de fusões e aquisições</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Casos de uso do Analyzer no Acrobat Studio</strong></a>
     </div>
-    Saiba como o Analyzer pode ajudar as empresas a executar uma auditoria de contrato de pós-integração de M&amp;A em minutos, em vez de semanas
+    Explore casos de uso reais que mostram como as organizações podem simplificar os processos de revisão, descobrir insights e transformar o conteúdo do documento em dados prontos para os negócios
     <br>
   </td>
 </tr>

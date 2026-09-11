@@ -1,13 +1,13 @@
 ---
 title: Auditoria de Contrato Pós-Integração de M&A
-description: Saiba como o Analyzer pode ajudar as empresas a executar uma auditoria de contrato de pós-integração de M&A em minutos, em vez de semanas
+description: Saiba como o Analyzer no Acrobat Studio pode ajudar as empresas a executar uma auditoria de contrato pós-integração de M&A em minutos, em vez de semanas
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
