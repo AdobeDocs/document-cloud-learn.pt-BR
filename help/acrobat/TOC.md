@@ -2,13 +2,11 @@
 user-guide-title: Tutorials Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
+source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '745'
 ht-degree: 11%
-
 ---
-
 
 # Tutorials Acrobat {#acrobat-learning}
 
@@ -95,6 +93,7 @@ ht-degree: 11%
     + [Auditoria de contrato pós-integração de fusões e aquisições](analyzer/use-cases/m-and-a-post-audit.md)
     + [Acelerando a revisão de auditoria e receita em finanças](analyzer/use-cases/accelerate-revenue.md)
     + [Transformando o risco à privacidade dos dados em visibilidade e monitoramento totais](analyzer/use-cases/data-privacy-risk.md)
+    + [Gerenciamento de subcontratos para identificação da detecção da fonte da margem de erosão](analyzer/use-cases/identify-margin-erosion.md)
   + [Webinars](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casos de uso {#use-cases}
   + [Visão geral](use-cases/use-cases-overview.md)

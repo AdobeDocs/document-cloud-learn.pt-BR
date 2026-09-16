@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # Visão geral do caso de uso do Analyzer no Acrobat Studio
 
 Saiba como o Analyzer no Acrobat Studio ajuda as equipes a extrair informações valiosas de grandes coleções de documentos. Explore casos de uso reais que mostram como as organizações podem simplificar os processos de revisão, descobrir insights e transformar o conteúdo do documento em dados prontos para os negócios.
@@ -20,13 +18,17 @@ Saiba como o Analyzer no Acrobat Studio ajuda as equipes a extrair informações
 
 >[!BEGINTABS]
 
->[!TAB Acelerando a revisão de receita e auditoria em finanças]
+>[!TAB Identificar margem de erosão]
+
+Saiba como o Analyzer no Acrobat Studio ajuda a detectar sinais de alerta antecipados de [perda de margem entre contratos de subcontratados](identify-margin-erosion.md) e a agir antes que os custos aumentem.
+
+>[!TAB Acelerando a revisão de receita e auditoria]
 
 Saiba como o Analyzer no Acrobat Studio ajuda as equipes de [finanças](accelerate-revenue.md) a extrair, analisar e validar dados de contratos em escala.
 
->[!TAB Transformando o risco de privacidade de dados em visibilidade e monitoramento totais]
+>[!TAB Análise de risco de privacidade de dados]
 
-Saiba como o Analyzer no Acrobat Studio ajuda as equipes de [privacidade](data-privacy-risk.md), jurídica e de compras a extrair, monitorar e validar termos críticos do DPA em escala.
+Saiba como o Analyzer no Acrobat Studio ajuda as [equipes de privacidade, jurídica e de compras](data-privacy-risk.md) a extrair, monitorar e validar termos críticos do DPA em escala.
 
 >[!ENDTABS]
 
@@ -36,7 +38,7 @@ Saiba como o Analyzer no Acrobat Studio ajuda as equipes de [privacidade](data-p
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="Auditoria de contrato pós-integração de fusões e aquisições" src="../../assets/m-and-a.jpg" />
+      <img alt="Auditoria de contrato pós-integração de fusões e aquisições" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>Auditoria de contrato de pós-integração de fusões e aquisições</strong></a>
@@ -65,8 +67,13 @@ Saiba como o Analyzer no Acrobat Studio ajuda as equipes de [privacidade](data-p
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/Whitespacer.png" />
+    <a href="identify-margin-erosion.md">
+      <img alt="Gerenciamento de subcontratos para identificação da detecção da fonte da margem de erosão" src="../../assets/analyzer_margin-identification.png" />
+    </a>
     <div>
+    <a href="identify-margin-erosion.md"><strong>Gerenciamento de subcontratos para identificação da detecção da origem da margem de erosão</strong></a>
+    </div>
+    Saiba como o Analyzer no Acrobat Studio ajuda a detectar sinais de aviso antecipado de perda de margem em contratos de subcontratados e a agir antes que os custos aumentem
     <br>
   </td>
 </tr>
