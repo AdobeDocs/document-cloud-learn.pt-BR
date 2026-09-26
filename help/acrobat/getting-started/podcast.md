@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como criar podcasts gerados por IA a partir de seus documentos e materiais de pesquisa usando o Acrobat Studio. Descubra como os podcasts podem ajudar a resumir informações importantes, destacar informações importantes e facilitar o consumo de conteúdo em qualquer lugar. Você também aprenderá como personalizar a saída do podcast para seu público e atualizar podcasts à medida que novas informações forem adicionadas ao seu projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503840?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503844?captions=por_br&enablevpops&quality=12&learn=on&hidetitle=true)
