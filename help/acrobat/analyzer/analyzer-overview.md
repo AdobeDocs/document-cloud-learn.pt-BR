@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '437'
+ht-degree: 0%
 ---
-
 # Visão geral do Analyzer no Acrobat Studio
 
 O Analyzer no Acrobat Studio ajuda os usuários corporativos a extrair insights estruturados e auditáveis de dezenas de milhares de documentos não estruturados para automatizar processos de negócios centrados em documentos.
@@ -34,11 +32,17 @@ Saiba como criar, testar e refinar [Atributos](attributes.md) com o Analyzer no 
 
 >[!TAB Explorar recursos avançados]
 
-Saiba como [exportar dados extraídos, compartilhar uma coleção, comparar dois documentos e usar o Assistente de IA](advanced.md) para perguntas rápidas e ad-hoc
+Saiba como [exportar dados extraídos, compartilhar uma coleção, comparar dois documentos e usar o Assistente do AI](advanced.md) para tirar dúvidas rápidas e ad-hoc.
+
+>[!TAB Casos de uso em ação]
+
+Saiba mais sobre [casos de uso](use-cases/use-case-overview.md) reais e como equipes diferentes utilizam o Analyzer no Acrobat Studio para trabalhar de forma mais inteligente e rápida.
 
 >[!ENDTABS]
 
-## Tutoriais do Analyzer no Acrobat Studio
+## Fundamentos
+
+Comece com o básico. Saiba como usar o Analyzer no Acrobat Studio para entender, resumir e interagir rapidamente com seus documentos.
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +87,66 @@ Saiba como [exportar dados extraídos, compartilhar uma coleção, comparar dois
     <br>
   </td>
 </tr>
+</table>
+
+## Casos de uso em ação
+
+Veja cenários do mundo real. Saiba como equipes diferentes utilizam o Analyzer no Acrobat Studio para trabalhar de modo mais inteligente e rápido.
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Analisador em casos de uso do Acrobat Studio" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="Fusões e aquisições: contratos de auditoria após uma aquisição" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Casos de uso do Analyzer no Acrobat Studio</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>Fusões e aquisições: auditar contratos após uma aquisição</strong></a>
     </div>
-    Explore casos de uso reais que mostram como as organizações podem simplificar os processos de revisão, descobrir insights e transformar o conteúdo do documento em dados prontos para os negócios
+    Saiba como as equipes de M&amp;A podem analisar grandes conjuntos de contratos para identificar as principais obrigações, os termos e os riscos em questão de minutos, em vez de semanas
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="Finanças: Verificar contratos para reconhecimento e auditorias de receita" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>Finanças: revisar contratos para reconhecimento e auditorias de receita</strong></a>
+    </div>
+    Saiba como as equipes financeiras podem se preparar para auditorias, oferecer suporte ao reconhecimento de receitas e identificar riscos contábeis com mais rapidez
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="Privacidade e segurança das informações: leia os contratos de privacidade de dados" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>Privacidade e segurança das informações: revise os contratos de privacidade de dados</strong></a>
+    </div>
+    Saiba como as equipes de privacidade e segurança das informações podem identificar lacunas de conformidade e validar obrigações com resultados rastreáveis
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="Construção: Localizar riscos de margem em subcontratos" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>Construção: encontre riscos de margem em subcontratos</strong></a>
+    </div>
+    Saiba como as equipes de construção e projeto podem encontrar pedidos de alteração perdidos, SDIs de envelhecimento e lacunas nas proteções de subcontrato antes que afetem as margens
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="Auditoria de segurança das informações: identificando o risco do fornecedor" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>Auditoria de segurança das informações: identificando risco do fornecedor</strong></a>
+    </div>
+    Saiba como identificar proativamente os riscos à segurança das informações dos contratos de fornecedores
+    <br>
+  </td>
+  <td>
     <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +156,11 @@ Saiba como [exportar dados extraídos, compartilhar uma coleção, comparar dois
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="Espaçador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

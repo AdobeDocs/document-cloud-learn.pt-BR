@@ -1,18 +1,19 @@
 ---
-title: Gerenciamento de Subcontratos para Identificação da Detecção da Origem da Margem de Eroding
-description: Saiba como detectar sinais de alerta antecipados de perda de margem em contratos de subcontratados e agir antes que os custos aumentem
+title: Construção - Localizar Riscos de Margem em Subcontratos
+description: Saiba como as equipes de construção e projeto podem encontrar pedidos de alteração perdidos, SDIs de envelhecimento e lacunas nas proteções de subcontrato antes que afetem as margens
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22619
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '69'
 ht-degree: 0%
 ---
 
-# Gerenciamento de subcontratos para identificação da detecção da fonte da margem de erosão
+# Construção: Localizar riscos de margem em subcontratos
 
-A margem do projeto não é perdida no nível do contrato principal. Perdeu um subcontrato de cada vez — em pedidos de troca que cresciam antes que alguém definisse o preço da recuperação, em SDIs que envelhecem silenciosamente em solicitações de atraso, e em proteções de contrato que nunca chegavam ao papel do subcontratado. Quando aparece em um relatório, o dinheiro já sumiu. Saiba como identificar riscos de erosão da margem oculta em contratos de subcontrato revelando ordens de alteração perdidas, solicitações de investimento de aging e lacunas de contrato antes que afetem a lucratividade do projeto.
+Identificar problemas de contrato que podem reduzir a lucratividade do projeto. Saiba como as equipes de construção e projeto podem encontrar pedidos de alteração perdidos, SDIs de envelhecimento e lacunas nas proteções de subcontrato antes que afetem as margens com o Analyzer no Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503511?captions=por_br&quality=12&learn=on&hidetitle=true)
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)

@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 10%
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
     + [O que é o Acrobat Studio?](getting-started/acrobat-studio.md)
     + [Noções básicas do Workspace](getting-started/workspace-basics.md)
     + [Nova experiência do Acrobat](getting-started/new-experience.md)
-    + [Trabalhar com  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=pt-BR#microsoft)
+    + [Trabalhar com  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Trabalhe em qualquer lugar com o Acrobat Web](getting-started/acrobatweb.md)
     + [Produtividade em qualquer lugar](getting-started/productivity.md)
     + [De onde vêm os PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -78,12 +78,12 @@ ht-degree: 10%
     + [Comandos e ferramentas personalizados](advanced-tasks/custom.md)
 + Ativado por IA {#ai-powered}
   + [Visão geral](ai-powered/ai-overview.md)
-  + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
-  + [Descubra insights de PDF com o AI Assistant](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Aumente a eficiência da equipe com o PDF Spaces](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Criar um podcast](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
-  + [Editar gráficos em um PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Estilizar esta PDF](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [O que é o Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
+  + [Descubra insights de PDF com o AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Aumente a eficiência da equipe com o PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Criar um podcast](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
+  + [Editar gráficos em um PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Estilizar esta PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analisador no Acrobat Studio {#analyzer}
   + [Visão geral](analyzer/analyzer-overview.md)
   + [Introdução](analyzer/get-started.md)
@@ -92,11 +92,12 @@ ht-degree: 10%
   + [Explore recursos avançados](analyzer/advanced.md)
   + Casos de uso {#use-cases}
     + [Visão geral](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [Auditoria de contrato pós-integração de fusões e aquisições](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Acelerando a revisão de auditoria e receita em finanças](analyzer/use-cases/accelerate-revenue.md)
-    + [Transformando o risco à privacidade dos dados em visibilidade e monitoramento totais](analyzer/use-cases/data-privacy-risk.md)
-    + [Gerenciamento de subcontratos para identificação da detecção da fonte da margem de erosão](analyzer/use-cases/identify-margin-erosion.md)
-  + [Webinars](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
+    + [Fusões e aquisições: contratos de auditoria após uma aquisição](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finanças: Verificar contratos para reconhecimento e auditorias de receita](analyzer/use-cases/accelerate-revenue.md)
+    + [Privacidade e segurança das informações: leia os contratos de privacidade de dados](analyzer/use-cases/data-privacy-risk.md)
+    + [Construção: Localizar riscos de margem em subcontratos](analyzer/use-cases/identify-margin-erosion.md)
+    + [Auditoria de segurança das informações: identificando o risco do fornecedor](analyzer/use-cases/vendor-risk.md)
+  + [Webinars](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casos de uso {#use-cases}
   + [Visão geral](use-cases/use-cases-overview.md)
   + Linha de negócios {#lob}
@@ -176,5 +177,5 @@ ht-degree: 10%
   + [Atualizações importantes de produtos da Acrobat DC para clientes do ETLA](deploy/signentitlementchanges.md)
 + Dispositivos móveis {#mobile}
   + [Visão geral](mobile/mobile-overview.md)
-  + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Produtividade em qualquer lugar](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Digitalize qualquer coisa para o PDF](mobile/scan-mobile-app.md)

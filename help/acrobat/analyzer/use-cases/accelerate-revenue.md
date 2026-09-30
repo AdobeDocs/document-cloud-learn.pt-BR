@@ -1,20 +1,18 @@
 ---
-title: Acelerando a revisão de receita e auditoria em finanças
-description: Saiba como o Analyzer no Acrobat Studio ajuda as equipes financeiras a extrair, analisar e validar dados de contratos em escala
+title: Finanças - Examinar Contratos de Reconhecimento de Receita e Auditorias
+description: Saiba como as equipes financeiras podem se preparar para auditorias, oferecer suporte ao reconhecimento de receitas e identificar riscos contábeis com mais rapidez
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22588
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
 
+# Finanças: Verificar contratos para reconhecimento e auditorias de receita
 
-# Acelerando a revisão de auditoria e receita em finanças
-
-As informações essenciais à receita são geralmente enterradas em centenas de contratos, dificultando a identificação de riscos contábeis antes das auditorias ou do fechamento financeiro. Saiba como o Analyzer no Acrobat Studio ajuda as equipes financeiras a extrair, analisar e validar dados de contrato em escala para melhorar a prontidão da auditoria, o reconhecimento de receita e a conformidade do leasing.
+Extraia e valide condições contábeis, de receita e de leasing em grandes conjuntos de contratos. Saiba como as equipes financeiras podem se preparar para auditorias, oferecer suporte ao reconhecimento de receitas e identificar riscos contábeis mais rapidamente com o Analyzer no Acrobat Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503302?quality=12&learn=on&hidetitle=true)
