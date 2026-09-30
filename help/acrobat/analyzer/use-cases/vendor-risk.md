@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Saiba como o Analyzer no Acrobat Studio pode identificar proativamente os riscos à segurança das informações dos contratos do fornecedor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503857?captions=por_br&quality=12&learn=on&hidetitle=true)

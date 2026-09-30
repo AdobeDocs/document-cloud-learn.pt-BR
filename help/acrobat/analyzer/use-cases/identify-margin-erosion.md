@@ -16,4 +16,4 @@ ht-degree: 0%
 Identificar problemas de contrato que podem reduzir a lucratividade do projeto. Saiba como as equipes de construção e projeto podem encontrar pedidos de alteração perdidos, SDIs de envelhecimento e lacunas nas proteções de subcontrato antes que afetem as margens com o Analyzer no Acrobat Studio.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503511?captions=por_br&quality=12&learn=on&hidetitle=true)
