@@ -2,9 +2,9 @@
 user-guide-title: Tutorials Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 10%
 ---
 
@@ -92,10 +92,11 @@ ht-degree: 10%
   + [Explore recursos avançados](analyzer/advanced.md)
   + Casos de uso {#use-cases}
     + [Visão geral](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [Auditoria de contrato pós-integração de fusões e aquisições](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Acelerando a revisão de auditoria e receita em finanças](analyzer/use-cases/accelerate-revenue.md)
-    + [Transformando o risco à privacidade dos dados em visibilidade e monitoramento totais](analyzer/use-cases/data-privacy-risk.md)
-    + [Gerenciamento de subcontratos para identificação da detecção da fonte da margem de erosão](analyzer/use-cases/identify-margin-erosion.md)
+    + [Fusões e aquisições: contratos de auditoria após uma aquisição](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finanças: Verificar contratos para reconhecimento e auditorias de receita](analyzer/use-cases/accelerate-revenue.md)
+    + [Privacidade e segurança das informações: leia os contratos de privacidade de dados](analyzer/use-cases/data-privacy-risk.md)
+    + [Construção: Localizar riscos de margem em subcontratos](analyzer/use-cases/identify-margin-erosion.md)
+    + [Auditoria de segurança das informações: identificando o risco do fornecedor](analyzer/use-cases/vendor-risk.md)
   + [Webinars](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Casos de uso {#use-cases}
   + [Visão geral](use-cases/use-cases-overview.md)
