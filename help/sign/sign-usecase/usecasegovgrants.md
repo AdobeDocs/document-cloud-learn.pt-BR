@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # Subsídios e empréstimos a empresas por parte do governo
 
 Ofereça assistência rápida às empresas, fornecendo acesso de autoatendimento a formulários de solicitação de concessão, empréstimo e diferimento de impostos. Saiba como criar um formulário da Web online que pode ser concluído **e** assinado sem impressão ou envio por email.
