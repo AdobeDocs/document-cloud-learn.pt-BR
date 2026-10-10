@@ -7,22 +7,25 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+TQID: 'https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Reporting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 480
+source-wordcount: '480'
 ht-degree: 3%
-
 ---
-
 # Visão geral de tarefas avançadas
 
 Saiba como enviar um documento para assinatura a centenas de destinatários ao mesmo tempo, configurar um documento pronto para assinatura para seu site, gerenciar transações de assinatura e criar e gerenciar modelos de documento. Esses tutoriais são para qualquer pessoa que já esteja familiarizada com os conceitos básicos de envio e solicitação de assinaturas e queira aprender mais maneiras do Acrobat Sign trabalhar para elas.
