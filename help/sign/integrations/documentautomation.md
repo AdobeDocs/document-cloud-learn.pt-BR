@@ -8,28 +8,35 @@ topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
+TQID: 'https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Customer experience
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 2466
+source-wordcount: '2445'
 ht-degree: 0%
-
 ---
-
 # Automação de documentos com o Acrobat Sign para Microsoft Power Platform
 
 Saiba como ativar e usar os conectores do Acrobat Sign e do Adobe PDF Tools para Microsoft Power Apps. Crie fluxos de trabalho que automatizem os processos de aprovação e assinatura de negócios com rapidez e segurança, sem nenhum código. Há quatro partes neste tutorial prático destacadas nos links abaixo:
@@ -194,7 +201,7 @@ Na segunda parte, desenvolvemos a primeira parte com um fluxo mais robusto e tes
    ![Captura de tela da configuração Obter conteúdo do arquivo](assets/documentautomation/automation_15.png)
 
    **Endereço do Site:** o site da SharePoint.
-   **Identificador de arquivo:** procure “identificador” e escolha Identificador na etapa **Obter propriedades do arquivo**.
+   **Identificador de arquivos:** procure “identificador” e escolha Identificador na etapa **Obter propriedades do arquivo**.
 1. Pesquise “Adobe” e escolha **Acrobat Sign** para adicionar outra ação.
 
    ![Captura de tela do menu de pesquisa](assets/documentautomation/automation_16.png)
@@ -316,7 +323,7 @@ Essas pastas agora são referenciadas como parte do fluxo do Power Automate.
 1. Edite a ação **Criar arquivo** na parte inferior do fluxo:
 
    Altere o **Endereço do Site** para o endereço do site.
-Especifique o local da pasta Contratos Processados no Caminho da Pasta.
+   Especifique o local da pasta Contratos Processados no Caminho da Pasta.
 
 1. Clique em **Salvar** no canto superior direito.
 1. Clique em **Teste**.
@@ -397,7 +404,7 @@ Agora que o fluxo foi criado, faça o seguinte:
 1. Selecione o gatilho **Para um arquivo selecionado**.
 
    Adicione seu site do SharePoint ao Endereço do site.
-Adicione sua biblioteca à biblioteca.
+   Adicione sua biblioteca à biblioteca.
 
    ![Captura de tela do gatilho concluído](assets/documentautomation/automation_45.png)
 
@@ -422,7 +429,7 @@ Adicione sua biblioteca à biblioteca.
 1. Expanda a ação de escopo **Arquivo selecionado**.
 
    Altere o Endereço do Site e o Nome da Biblioteca para o site e a Biblioteca da SharePoint respectivamente em **Obter propriedades do arquivo**.
-Altere o Endereço do Site para o site da SharePoint em **Obter conteúdo do arquivo**.
+   Altere o Endereço do Site para o site da SharePoint em **Obter conteúdo do arquivo**.
 
    ![Captura de tela da ação de Arquivo Selecionado expandida](assets/documentautomation/automation_47.png)
 
