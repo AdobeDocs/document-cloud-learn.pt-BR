@@ -10,11 +10,9 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
-
 ---
-
 # Criar um formulário da Web para educação em um aplicativo de estágio
 
 Saiba como criar um formulário da Web de estágio para melhorar o acesso do aluno aos formulários necessários que podem ser enviados de qualquer dispositivo - e qualquer local. Neste exemplo, o fluxo de trabalho para cada aluno é único dependendo do curso de estudo, pois cada aluno precisa adicionar seu próprio supervisor de faculdade e chefe de departamento para aprovação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423379?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
