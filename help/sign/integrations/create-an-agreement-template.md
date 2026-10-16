@@ -1,5 +1,5 @@
 ---
-title: Document Builder para  [!DNL Salesforce]
+title: Document Builder para [!DNL Salesforce]
 description: Saiba como criar um modelo de documento reutilizável usando o Document Builder para Salesforce
 feature: Integrations
 role: User, Admin
@@ -13,11 +13,9 @@ source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # Document Builder para [!DNL Salesforce]
 
 Saiba como criar um modelo de documento reutilizável usando o Document Builder para Salesforce. Os modelos de documento reutilizáveis oferecem velocidade e consistência nas transações do Sign, além da capacidade de gerenciar revisões e alterações de documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416185?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
