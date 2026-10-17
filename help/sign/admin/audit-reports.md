@@ -10,11 +10,9 @@ source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Relatórios de auditoria
 
 Saiba como acessar, utilizar e configurar relatórios de auditoria para atender às necessidades da sua organização. Cada documento no Acrobat Sign passa por uma série de eventos em “etapas” que definem o progresso de uma transação. Essas etapas são documentadas detalhadamente em um relatório de auditoria para cada transação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448550?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3448550?captions=por_br&quality=12&learn=on&hidetitle=true)
