@@ -55,11 +55,11 @@ Artigos com informações valiosas e práticas recomendadas sobre a implantaçã
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/br/trust/document-cloud-security.html" target="_blank">
       <img alt="Central de Confiabilidade do Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Central de Confiabilidade do Adobe</strong></a>
+    <a href="https://www.adobe.com/br/trust/document-cloud-security.html" target="_blank"><strong>Central de Confiabilidade do Adobe</strong></a>
     </div>
     <em>Saiba mais sobre nossos esforços contínuos em segurança, legalidade e padrões para o Acrobat Sign</em>
     <br>

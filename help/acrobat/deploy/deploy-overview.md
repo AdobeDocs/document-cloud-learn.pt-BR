@@ -27,6 +27,6 @@ Artigos sobre implantação e práticas recomendadas com insight valioso e conhe
 
 * Saiba como [Implantar o Adobe Acrobat](https://helpx.adobe.com/br/enterprise/using/deploying-acrobat.html){target="_blank"} se você estiver usando o Adobe® Creative Cloud™ para equipes ou corporações.
 
-* Saiba mais sobre o [Enterprise Toolkit para Produtos da Acrobat](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} para implantar produtos personalizados em toda a sua organização, configurar instalações virtualizadas e criar fluxos de trabalho de PDF corporativos.
+* Saiba mais sobre o [Enterprise Toolkit para Produtos da Acrobat](https://www.adobe.com/br/devnet-docs/acrobatetk/index.html){target="_blank"} para implantar produtos personalizados em toda a sua organização, configurar instalações virtualizadas e criar fluxos de trabalho de PDF corporativos.
 
 * Saiba mais sobre as alterações importantes nos [direitos da Acrobat DC incluídos nas ofertas de ETLA](signentitlementchanges.md){target="_blank"} (Enterprise Term License Agreement) para começar em agosto de 2020 até 20 de novembro de 2020.
