@@ -43,7 +43,7 @@ O conteúdo do PDF deve ser exclusivo e estruturado da seguinte maneira:
 * Adicionar um sumário com hiperlink para documentos com mais de 25 páginas
 * Executar o [reconhecimento de texto](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) em todos os documentos digitalizados
 * Crie PDF compatíveis com dispositivos móveis
-Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
+Para verificar a experiência de visualização móvel do seu PDF, abra o arquivo no [aplicativo móvel Acrobat Reader](https://www.adobe.com/br/acrobat/mobile/acrobat-reader.html) e ative o Liquid Mode. Inclua subtítulos adicionais, se necessário, para melhorar a navegação.
 
   ![Captura de tela do Liquid Mode no aplicativo para dispositivos móveis do Acrobat Reader](../assets/optimizeseo1.png)
 

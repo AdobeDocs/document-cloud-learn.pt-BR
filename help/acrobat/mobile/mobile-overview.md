@@ -87,14 +87,14 @@ Crie, preencha e [assine PDF](https://www.adobe.com/br/acrobat/online/sign-pdf.h
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-Baixe o [aplicativo para dispositivos móveis do Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} como o padrão global gratuito para visualizar, anotar e assinar PDF com segurança.
+Baixe o [aplicativo para dispositivos móveis do Adobe Acrobat Reader](https://www.adobe.com/br/acrobat/mobile/acrobat-reader.html){target="_blank"} como o padrão global gratuito para visualizar, anotar e assinar PDF com segurança.
 
-Guia do [Acrobat Reader para iOS mobile](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
-[Guia do Acrobat Reader para Android para dispositivos móveis](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
+Guia do [Acrobat Reader para iOS mobile](https://www.adobe.com/br/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guia do Acrobat Reader para Android para dispositivos móveis](https://www.adobe.com/br/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Baixe o [aplicativo Adobe Scan para dispositivos móveis](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
+Baixe o [aplicativo Adobe Scan para dispositivos móveis](https://www.adobe.com/br/acrobat/mobile/scanner-app.html){target="_blank"} para capturar qualquer documento impresso e transformá-lo em um PDF de alta qualidade com texto que você pode pesquisar.
 
-Guia do [Adobe Scan para iOS mobile](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Guia do Adobe Scan para Android para dispositivos móveis](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+Guia do [Adobe Scan para iOS mobile](https://www.adobe.com/br/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guia do Adobe Scan para Android para dispositivos móveis](https://www.adobe.com/br/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Baixe o [aplicativo Adobe Fill &amp; Sign para dispositivos móveis](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando apenas o dedo ou uma caneta.
+Baixe o [aplicativo Adobe Fill &amp; Sign para dispositivos móveis](https://www.adobe.com/br/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para preencher, assinar e enviar qualquer formulário de qualquer lugar, em qualquer dispositivo, usando apenas o dedo ou uma caneta.
