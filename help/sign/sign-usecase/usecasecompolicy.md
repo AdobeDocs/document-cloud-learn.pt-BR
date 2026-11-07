@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Colete assinaturas de todos os seus funcionários com eficiência em Contratos de política, atualizações de política e muito mais. Saiba como criar um formulário da Web online que pode ser concluído **e** assinado sem impressão ou envio por email.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506310?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 Selecione para baixar ou abrir uma receita de PDF passo a passo para contratos de política.
 

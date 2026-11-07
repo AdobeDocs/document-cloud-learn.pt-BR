@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Simplifique seus fluxos de trabalho de assinatura e torne sua equipe ainda mais produtiva usando o Acrobat Sign para Workday. Neste tutorial em vídeo, saiba como configurar o Acrobat Sign para funcionar diretamente no Workday para gerenciar com facilidade toda a sua documentação de RH.
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506337?captions=por_br&quality=12&learn=on&hidetitle=true)
