@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Visão geral de introdução
@@ -37,6 +37,10 @@ Saiba como enviar, assinar e monitorar documentos com estes breves tutoriais pas
 
 >[!BEGINTABS]
 
+>[!TAB Editar documentos e modelos antes de enviar]
+
+Saiba como [editar texto, imagens e modelos antes de enviar](edit.md) diretamente para o Acrobat Sign.
+
 >[!TAB Quando usar Criar uma cópia]
 
 Saiba como usar o [Criar uma cópia](../sign-beginner-tutorials/create-a-copy.md) para duplicar qualquer contrato existente. Você pode ajustar o que precisa ser alterado e reenviá-lo em segundos. Não recriar do zero.
@@ -44,14 +48,6 @@ Saiba como usar o [Criar uma cópia](../sign-beginner-tutorials/create-a-copy.md
 >[!TAB Modificar um documento após enviar]
 
 Saiba como [modificar um documento](../sign-beginner-tutorials/manage-and-track.md) que já foi enviado para assinatura.
-
->[!TAB Gerenciar e monitorar contratos]
-
-Saiba como [gerenciar e rastrear contratos](../sign-beginner-tutorials/manage-and-track.md) enviados para assinatura.
-
->[!TAB Assinar um documento eletronicamente]
-
-Saiba como é fácil [assinar](../sign-beginner-tutorials/electronically-sign-a-document.md) um documento que é enviado para você com o Acrobat Sign.
 
 >[!ENDTABS]
 
@@ -183,6 +179,33 @@ Saiba como é fácil [assinar](../sign-beginner-tutorials/electronically-sign-a-
     Saiba como usar Criar uma cópia para duplicar qualquer contrato existente
     <br>
     </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="edit.md">
+      <img alt="Editar documentos e modelos antes de enviar" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Editar documentos e modelos antes de enviar</strong></a>
+    </div>
+    Saiba como editar texto, imagens e modelos antes de enviar
+    <br>
+    </td>
+     <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
