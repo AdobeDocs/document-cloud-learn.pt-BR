@@ -13,10 +13,10 @@ ht-degree: 0%
 
 As alterações de última hora fazem parte de todos os fluxos de trabalho. Neste tutorial, saiba como atualizar o conteúdo do documento, substituir imagens e fazer correções de modelo diretamente no Acrobat Sign.
 
-Detalhes e limitações completos dos recursos estão disponíveis [aqui](https://helpx.adobe.com/sign/web/authoring/edit-agreement/new.html).
+Detalhes e limitações completos dos recursos estão disponíveis [aqui](https://helpx.adobe.com/br/sign/web/authoring/edit-agreement/new.html).
 
 >[!NOTE]
 >
->A edição do documento deve ser habilitada pelo administrador. Mais detalhes disponíveis [aqui](https://helpx.adobe.com/sign/web/settings-configuration/send-settings/edit-agreement.html).
+>A edição do documento deve ser habilitada pelo administrador. Mais detalhes disponíveis [aqui](https://helpx.adobe.com/br/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
