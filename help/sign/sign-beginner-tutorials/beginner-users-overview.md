@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Visão geral de introdução
@@ -48,10 +48,6 @@ Saiba como usar o [Criar uma cópia](../sign-beginner-tutorials/create-a-copy.md
 >[!TAB Modificar um documento após enviar]
 
 Saiba como [modificar um documento](../sign-beginner-tutorials/manage-and-track.md) que já foi enviado para assinatura.
-
->[!TAB Gerenciar e monitorar contratos]
-
-Saiba como [gerenciar e rastrear contratos](../sign-beginner-tutorials/manage-and-track.md) enviados para assinatura.
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Saiba como [gerenciar e rastrear contratos](../sign-beginner-tutorials/manage-an
     Saiba como usar Criar uma cópia para duplicar qualquer contrato existente
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="Editar documentos e modelos antes de enviar" src="../assets/edit.png" />
