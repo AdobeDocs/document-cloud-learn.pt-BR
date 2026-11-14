@@ -17,4 +17,4 @@ As alterações de última hora fazem parte de todos os fluxos de trabalho. Nest
 >
 >A edição do documento deve ser habilitada pelo administrador. Mais detalhes disponíveis [aqui](https://helpx.adobe.com/br/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508111?captions=por_br&quality=12&learn=on&hidetitle=true)
